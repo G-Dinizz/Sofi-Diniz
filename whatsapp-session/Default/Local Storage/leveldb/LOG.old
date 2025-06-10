@@ -1,0 +1,23 @@
+2025/04/28-10:10:02.638 6114 Reusing MANIFEST C:\Users\workg\OneDrive\Área de Trabalho\Shooting five\whatsapp-session\Default\Local Storage\leveldb/MANIFEST-000001
+2025/04/28-10:10:02.643 6114 Recovering log #407
+2025/04/28-10:10:02.643 6114 Level-0 table #410: started
+2025/04/28-10:10:02.648 6114 Level-0 table #410: 17304 bytes OK
+2025/04/28-10:10:02.651 6114 Delete type=0 #407
+2025/04/28-10:31:04.337 5ffc Level-0 table #413: started
+2025/04/28-10:31:04.342 5ffc Level-0 table #413: 17088 bytes OK
+2025/04/28-10:31:04.343 5ffc Delete type=0 #411
+2025/04/28-10:50:03.328 5ffc Level-0 table #415: started
+2025/04/28-10:50:03.332 5ffc Level-0 table #415: 16195 bytes OK
+2025/04/28-10:50:03.334 5ffc Delete type=0 #412
+2025/04/28-10:50:03.335 5ffc Compacting 4@0 + 1@1 files
+2025/04/28-10:50:03.340 5ffc Generated table #416@0: 796 keys, 38871 bytes
+2025/04/28-10:50:03.340 5ffc Compacted 4@0 + 1@1 files => 38871 bytes
+2025/04/28-10:50:03.341 5ffc compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/04/28-10:50:03.342 5ffc Delete type=2 #406
+2025/04/28-10:50:03.342 5ffc Delete type=2 #408
+2025/04/28-10:50:03.342 5ffc Delete type=2 #410
+2025/04/28-10:50:03.342 5ffc Delete type=2 #413
+2025/04/28-10:50:03.342 5ffc Delete type=2 #415
+2025/04/28-11:09:37.037 5ffc Level-0 table #418: started
+2025/04/28-11:09:37.041 5ffc Level-0 table #418: 15506 bytes OK
+2025/04/28-11:09:37.043 5ffc Delete type=0 #414

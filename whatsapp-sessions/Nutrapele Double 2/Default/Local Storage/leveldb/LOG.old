@@ -1,0 +1,45 @@
+2025/05/23-13:23:43.719 11e4 Reusing MANIFEST C:\Users\workg\OneDrive\Área de Trabalho\Sofi Mensage\whatsapp-sessions\Nutrapele Double 2\Default\Local Storage\leveldb/MANIFEST-000001
+2025/05/23-13:23:43.727 11e4 Recovering log #27
+2025/05/23-13:23:43.732 11e4 Reusing old log C:\Users\workg\OneDrive\Área de Trabalho\Sofi Mensage\whatsapp-sessions\Nutrapele Double 2\Default\Local Storage\leveldb/000027.log 
+2025/05/23-13:47:44.835 7580 Level-0 table #31: started
+2025/05/23-13:47:44.839 7580 Level-0 table #31: 16308 bytes OK
+2025/05/23-13:47:44.841 7580 Delete type=0 #27
+2025/05/23-14:12:50.342 7580 Level-0 table #33: started
+2025/05/23-14:12:50.346 7580 Level-0 table #33: 11934 bytes OK
+2025/05/23-14:12:50.348 7580 Delete type=0 #30
+2025/05/23-14:35:31.878 7580 Level-0 table #35: started
+2025/05/23-14:35:31.887 7580 Level-0 table #35: 13635 bytes OK
+2025/05/23-14:35:31.888 7580 Delete type=0 #32
+2025/05/23-14:35:31.889 7580 Compacting 4@0 + 1@1 files
+2025/05/23-14:35:31.894 7580 Generated table #36@0: 1201 keys, 30554 bytes
+2025/05/23-14:35:31.894 7580 Compacted 4@0 + 1@1 files => 30554 bytes
+2025/05/23-14:35:31.895 7580 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/23-14:35:31.896 7580 Delete type=2 #26
+2025/05/23-14:35:31.896 7580 Delete type=2 #28
+2025/05/23-14:35:31.896 7580 Delete type=2 #31
+2025/05/23-14:35:31.896 7580 Delete type=2 #33
+2025/05/23-14:35:31.896 7580 Delete type=2 #35
+2025/05/23-15:00:30.299 7580 Level-0 table #38: started
+2025/05/23-15:00:30.306 7580 Level-0 table #38: 19066 bytes OK
+2025/05/23-15:00:30.308 7580 Delete type=0 #34
+2025/05/23-15:17:48.388 7580 Level-0 table #40: started
+2025/05/23-15:17:48.394 7580 Level-0 table #40: 17490 bytes OK
+2025/05/23-15:17:48.396 7580 Delete type=0 #37
+2025/05/23-16:14:11.619 7580 Level-0 table #42: started
+2025/05/23-16:14:11.624 7580 Level-0 table #42: 29587 bytes OK
+2025/05/23-16:14:11.626 7580 Delete type=0 #39
+2025/05/23-17:11:16.255 7580 Level-0 table #44: started
+2025/05/23-17:11:16.261 7580 Level-0 table #44: 28435 bytes OK
+2025/05/23-17:11:16.263 7580 Delete type=0 #41
+2025/05/23-17:11:16.263 7580 Compacting 4@0 + 1@1 files
+2025/05/23-17:11:16.269 7580 Generated table #45@0: 1636 keys, 62734 bytes
+2025/05/23-17:11:16.269 7580 Compacted 4@0 + 1@1 files => 62734 bytes
+2025/05/23-17:11:16.270 7580 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/23-17:11:16.271 7580 Delete type=2 #36
+2025/05/23-17:11:16.271 7580 Delete type=2 #38
+2025/05/23-17:11:16.271 7580 Delete type=2 #40
+2025/05/23-17:11:16.271 7580 Delete type=2 #42
+2025/05/23-17:11:16.271 7580 Delete type=2 #44
+2025/05/23-18:08:30.460 7580 Level-0 table #47: started
+2025/05/23-18:08:30.465 7580 Level-0 table #47: 29436 bytes OK
+2025/05/23-18:08:30.467 7580 Delete type=0 #43

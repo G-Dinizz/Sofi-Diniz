@@ -1,0 +1,2668 @@
+2025/05/25-08:54:32.026 cd9c Reusing MANIFEST C:\Users\workg\OneDrive\Área de Trabalho\Sofi Mensage\whatsapp-sessions\S PRETO\Default\Local Storage\leveldb/MANIFEST-000001
+2025/05/25-08:54:32.033 cd9c Recovering log #433
+2025/05/25-08:54:32.034 cd9c Level-0 table #436: started
+2025/05/25-08:54:32.042 cd9c Level-0 table #436: 90127 bytes OK
+2025/05/25-08:54:32.047 cd9c Delete type=0 #433
+2025/05/25-08:55:32.065 cda4 Level-0 table #439: started
+2025/05/25-08:55:32.070 cda4 Level-0 table #439: 13894 bytes OK
+2025/05/25-08:55:32.071 cda4 Delete type=0 #437
+2025/05/25-08:57:32.382 cda4 Level-0 table #441: started
+2025/05/25-08:57:32.392 cda4 Level-0 table #441: 14220 bytes OK
+2025/05/25-08:57:32.394 cda4 Delete type=0 #438
+2025/05/25-08:57:32.394 cda4 Compacting 4@0 + 1@1 files
+2025/05/25-08:57:32.416 cda4 Generated table #442@0: 42222 keys, 1000425 bytes
+2025/05/25-08:57:32.416 cda4 Compacted 4@0 + 1@1 files => 1000425 bytes
+2025/05/25-08:57:32.417 cda4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-08:57:32.418 cda4 Delete type=2 #432
+2025/05/25-08:57:32.418 cda4 Delete type=2 #434
+2025/05/25-08:57:32.418 cda4 Delete type=2 #436
+2025/05/25-08:57:32.418 cda4 Delete type=2 #439
+2025/05/25-08:57:32.418 cda4 Delete type=2 #441
+2025/05/25-09:02:46.802 cda4 Level-0 table #444: started
+2025/05/25-09:02:46.809 cda4 Level-0 table #444: 14300 bytes OK
+2025/05/25-09:02:46.811 cda4 Delete type=0 #440
+2025/05/25-09:10:36.522 cda4 Level-0 table #446: started
+2025/05/25-09:10:36.526 cda4 Level-0 table #446: 14495 bytes OK
+2025/05/25-09:10:36.528 cda4 Delete type=0 #443
+2025/05/25-09:11:35.581 cda4 Level-0 table #448: started
+2025/05/25-09:11:35.586 cda4 Level-0 table #448: 12102 bytes OK
+2025/05/25-09:11:35.587 cda4 Delete type=0 #445
+2025/05/25-09:13:32.383 cda4 Level-0 table #450: started
+2025/05/25-09:13:32.387 cda4 Level-0 table #450: 14308 bytes OK
+2025/05/25-09:13:32.389 cda4 Delete type=0 #447
+2025/05/25-09:13:32.390 cda4 Compacting 4@0 + 1@1 files
+2025/05/25-09:13:32.413 cda4 Generated table #451@0: 43386 keys, 1027628 bytes
+2025/05/25-09:13:32.413 cda4 Compacted 4@0 + 1@1 files => 1027628 bytes
+2025/05/25-09:13:32.414 cda4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-09:13:32.415 cda4 Delete type=2 #442
+2025/05/25-09:13:32.415 cda4 Delete type=2 #444
+2025/05/25-09:13:32.415 cda4 Delete type=2 #446
+2025/05/25-09:13:32.415 cda4 Delete type=2 #448
+2025/05/25-09:13:32.415 cda4 Delete type=2 #450
+2025/05/25-09:15:32.381 cda4 Level-0 table #453: started
+2025/05/25-09:15:32.386 cda4 Level-0 table #453: 16443 bytes OK
+2025/05/25-09:15:32.387 cda4 Delete type=0 #449
+2025/05/25-09:20:53.700 cda4 Level-0 table #455: started
+2025/05/25-09:20:53.707 cda4 Level-0 table #455: 14228 bytes OK
+2025/05/25-09:20:53.709 cda4 Delete type=0 #452
+2025/05/25-09:21:52.965 cda4 Level-0 table #457: started
+2025/05/25-09:21:52.971 cda4 Level-0 table #457: 12326 bytes OK
+2025/05/25-09:21:52.972 cda4 Delete type=0 #454
+2025/05/25-09:23:03.555 cda4 Level-0 table #459: started
+2025/05/25-09:23:03.560 cda4 Level-0 table #459: 14449 bytes OK
+2025/05/25-09:23:03.561 cda4 Delete type=0 #456
+2025/05/25-09:23:03.562 cda4 Compacting 4@0 + 1@1 files
+2025/05/25-09:23:03.584 cda4 Generated table #460@0: 44564 keys, 1056323 bytes
+2025/05/25-09:23:03.584 cda4 Compacted 4@0 + 1@1 files => 1056323 bytes
+2025/05/25-09:23:03.584 cda4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-09:23:03.585 cda4 Delete type=2 #451
+2025/05/25-09:23:03.585 cda4 Delete type=2 #453
+2025/05/25-09:23:03.585 cda4 Delete type=2 #455
+2025/05/25-09:23:03.585 cda4 Delete type=2 #457
+2025/05/25-09:23:03.585 cda4 Delete type=2 #459
+2025/05/25-09:25:32.379 cda4 Level-0 table #462: started
+2025/05/25-09:25:32.385 cda4 Level-0 table #462: 16588 bytes OK
+2025/05/25-09:25:32.386 cda4 Delete type=0 #458
+2025/05/25-09:31:10.210 cda4 Level-0 table #464: started
+2025/05/25-09:31:10.217 cda4 Level-0 table #464: 14409 bytes OK
+2025/05/25-09:31:10.219 cda4 Delete type=0 #461
+2025/05/25-09:32:09.300 cda4 Level-0 table #466: started
+2025/05/25-09:32:09.305 cda4 Level-0 table #466: 12418 bytes OK
+2025/05/25-09:32:09.307 cda4 Delete type=0 #463
+2025/05/25-09:33:19.878 cda4 Level-0 table #468: started
+2025/05/25-09:33:19.884 cda4 Level-0 table #468: 14520 bytes OK
+2025/05/25-09:33:19.885 cda4 Delete type=0 #465
+2025/05/25-09:33:19.886 cda4 Compacting 4@0 + 1@1 files
+2025/05/25-09:33:19.909 cda4 Generated table #469@0: 45758 keys, 1084068 bytes
+2025/05/25-09:33:19.909 cda4 Compacted 4@0 + 1@1 files => 1084068 bytes
+2025/05/25-09:33:19.910 cda4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-09:33:19.910 cda4 Delete type=2 #460
+2025/05/25-09:33:19.910 cda4 Delete type=2 #462
+2025/05/25-09:33:19.910 cda4 Delete type=2 #464
+2025/05/25-09:33:19.910 cda4 Delete type=2 #466
+2025/05/25-09:33:19.910 cda4 Delete type=2 #468
+2025/05/25-09:35:32.384 cda4 Level-0 table #471: started
+2025/05/25-09:35:32.390 cda4 Level-0 table #471: 16716 bytes OK
+2025/05/25-09:35:32.392 cda4 Delete type=0 #467
+2025/05/25-09:42:43.560 cda4 Level-0 table #473: started
+2025/05/25-09:42:43.568 cda4 Level-0 table #473: 14555 bytes OK
+2025/05/25-09:42:43.569 cda4 Delete type=0 #470
+2025/05/25-09:43:42.566 cda4 Level-0 table #475: started
+2025/05/25-09:43:42.571 cda4 Level-0 table #475: 12656 bytes OK
+2025/05/25-09:43:42.572 cda4 Delete type=0 #472
+2025/05/25-09:44:53.191 cda4 Level-0 table #477: started
+2025/05/25-09:44:53.197 cda4 Level-0 table #477: 14711 bytes OK
+2025/05/25-09:44:53.198 cda4 Delete type=0 #474
+2025/05/25-09:44:53.199 cda4 Compacting 4@0 + 1@1 files
+2025/05/25-09:44:53.223 cda4 Generated table #478@0: 46968 keys, 1112768 bytes
+2025/05/25-09:44:53.223 cda4 Compacted 4@0 + 1@1 files => 1112768 bytes
+2025/05/25-09:44:53.224 cda4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-09:44:53.225 cda4 Delete type=2 #469
+2025/05/25-09:44:53.225 cda4 Delete type=2 #471
+2025/05/25-09:44:53.225 cda4 Delete type=2 #473
+2025/05/25-09:44:53.225 cda4 Delete type=2 #475
+2025/05/25-09:44:53.225 cda4 Delete type=2 #477
+2025/05/25-09:46:05.288 cda4 Level-0 table #480: started
+2025/05/25-09:46:05.295 cda4 Level-0 table #480: 16880 bytes OK
+2025/05/25-09:46:05.297 cda4 Delete type=0 #476
+2025/05/25-09:52:06.951 cda4 Level-0 table #482: started
+2025/05/25-09:52:06.956 cda4 Level-0 table #482: 15014 bytes OK
+2025/05/25-09:52:06.958 cda4 Delete type=0 #479
+2025/05/25-09:59:38.602 cda4 Level-0 table #484: started
+2025/05/25-09:59:38.610 cda4 Level-0 table #484: 14938 bytes OK
+2025/05/25-09:59:38.612 cda4 Delete type=0 #481
+2025/05/25-10:00:37.692 cda4 Level-0 table #486: started
+2025/05/25-10:00:37.697 cda4 Level-0 table #486: 12769 bytes OK
+2025/05/25-10:00:37.698 cda4 Delete type=0 #483
+2025/05/25-10:00:37.699 cda4 Compacting 4@0 + 1@1 files
+2025/05/25-10:00:37.725 cda4 Generated table #487@0: 48196 keys, 1141962 bytes
+2025/05/25-10:00:37.725 cda4 Compacted 4@0 + 1@1 files => 1141962 bytes
+2025/05/25-10:00:37.726 cda4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-10:00:37.727 cda4 Delete type=2 #478
+2025/05/25-10:00:37.727 cda4 Delete type=2 #480
+2025/05/25-10:00:37.727 cda4 Delete type=2 #482
+2025/05/25-10:00:37.727 cda4 Delete type=2 #484
+2025/05/25-10:00:37.727 cda4 Delete type=2 #486
+2025/05/25-10:01:48.035 cda4 Level-0 table #489: started
+2025/05/25-10:01:48.040 cda4 Level-0 table #489: 14947 bytes OK
+2025/05/25-10:01:48.042 cda4 Delete type=0 #485
+2025/05/25-10:03:32.386 cda4 Level-0 table #491: started
+2025/05/25-10:03:32.394 cda4 Level-0 table #491: 17042 bytes OK
+2025/05/25-10:03:32.395 cda4 Delete type=0 #488
+2025/05/25-10:09:34.987 cda4 Level-0 table #493: started
+2025/05/25-10:09:35.001 cda4 Level-0 table #493: 15114 bytes OK
+2025/05/25-10:09:35.003 cda4 Delete type=0 #490
+2025/05/25-10:16:25.825 cda4 Level-0 table #495: started
+2025/05/25-10:16:25.833 cda4 Level-0 table #495: 15154 bytes OK
+2025/05/25-10:16:25.834 cda4 Delete type=0 #492
+2025/05/25-10:16:25.835 cda4 Compacting 4@0 + 1@1 files
+2025/05/25-10:16:25.862 cda4 Generated table #496@0: 49440 keys, 1171011 bytes
+2025/05/25-10:16:25.862 cda4 Compacted 4@0 + 1@1 files => 1171011 bytes
+2025/05/25-10:16:25.863 cda4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-10:16:25.863 cda4 Delete type=2 #487
+2025/05/25-10:16:25.863 cda4 Delete type=2 #489
+2025/05/25-10:16:25.864 cda4 Delete type=2 #491
+2025/05/25-10:16:25.864 cda4 Delete type=2 #493
+2025/05/25-10:16:25.864 cda4 Delete type=2 #495
+2025/05/25-10:17:24.891 cda4 Level-0 table #498: started
+2025/05/25-10:17:24.896 cda4 Level-0 table #498: 12967 bytes OK
+2025/05/25-10:17:24.898 cda4 Delete type=0 #494
+2025/05/25-10:18:35.521 cda4 Level-0 table #500: started
+2025/05/25-10:18:35.526 cda4 Level-0 table #500: 15194 bytes OK
+2025/05/25-10:18:35.527 cda4 Delete type=0 #497
+2025/05/25-10:20:32.390 cda4 Level-0 table #502: started
+2025/05/25-10:20:32.397 cda4 Level-0 table #502: 17324 bytes OK
+2025/05/25-10:20:32.398 cda4 Delete type=0 #499
+2025/05/25-10:27:43.529 cda4 Level-0 table #504: started
+2025/05/25-10:27:43.542 cda4 Level-0 table #504: 15114 bytes OK
+2025/05/25-10:27:43.544 cda4 Delete type=0 #501
+2025/05/25-10:27:43.544 cda4 Compacting 4@0 + 1@1 files
+2025/05/25-10:27:43.570 cda4 Generated table #505@0: 50698 keys, 1200810 bytes
+2025/05/25-10:27:43.570 cda4 Compacted 4@0 + 1@1 files => 1200810 bytes
+2025/05/25-10:27:43.571 cda4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-10:27:43.571 cda4 Delete type=2 #496
+2025/05/25-10:27:43.571 cda4 Delete type=2 #498
+2025/05/25-10:27:43.572 cda4 Delete type=2 #500
+2025/05/25-10:27:43.572 cda4 Delete type=2 #502
+2025/05/25-10:27:43.572 cda4 Delete type=2 #504
+2025/05/25-10:28:42.687 cda4 Level-0 table #507: started
+2025/05/25-10:28:42.692 cda4 Level-0 table #507: 13141 bytes OK
+2025/05/25-10:28:42.694 cda4 Delete type=0 #503
+2025/05/25-10:29:53.141 cda4 Level-0 table #509: started
+2025/05/25-10:29:53.146 cda4 Level-0 table #509: 15260 bytes OK
+2025/05/25-10:29:53.148 cda4 Delete type=0 #506
+2025/05/25-10:31:32.383 cda4 Level-0 table #511: started
+2025/05/25-10:31:32.391 cda4 Level-0 table #511: 17394 bytes OK
+2025/05/25-10:31:32.392 cda4 Delete type=0 #508
+2025/05/25-10:39:07.976 cda4 Level-0 table #513: started
+2025/05/25-10:39:07.984 cda4 Level-0 table #513: 15468 bytes OK
+2025/05/25-10:39:07.985 cda4 Delete type=0 #510
+2025/05/25-10:39:07.986 cda4 Compacting 4@0 + 1@1 files
+2025/05/25-10:39:08.012 cda4 Generated table #514@0: 51974 keys, 1230847 bytes
+2025/05/25-10:39:08.012 cda4 Compacted 4@0 + 1@1 files => 1230847 bytes
+2025/05/25-10:39:08.013 cda4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-10:39:08.014 cda4 Delete type=2 #505
+2025/05/25-10:39:08.014 cda4 Delete type=2 #507
+2025/05/25-10:39:08.014 cda4 Delete type=2 #509
+2025/05/25-10:39:08.014 cda4 Delete type=2 #511
+2025/05/25-10:39:08.014 cda4 Delete type=2 #513
+2025/05/25-10:45:40.965 cda4 Level-0 table #516: started
+2025/05/25-10:45:40.972 cda4 Level-0 table #516: 15668 bytes OK
+2025/05/25-10:45:40.974 cda4 Delete type=0 #512
+2025/05/25-10:46:41.338 cda4 Level-0 table #518: started
+2025/05/25-10:46:41.344 cda4 Level-0 table #518: 14533 bytes OK
+2025/05/25-10:46:41.345 cda4 Delete type=0 #515
+2025/05/25-10:47:50.466 cda4 Level-0 table #520: started
+2025/05/25-10:47:50.471 cda4 Level-0 table #520: 14381 bytes OK
+2025/05/25-10:47:50.473 cda4 Delete type=0 #517
+2025/05/25-10:49:02.528 cda4 Level-0 table #522: started
+2025/05/25-10:49:02.536 cda4 Level-0 table #522: 17119 bytes OK
+2025/05/25-10:49:02.538 cda4 Delete type=0 #519
+2025/05/25-10:49:02.538 cda4 Compacting 4@0 + 1@1 files
+2025/05/25-10:49:02.568 cda4 Generated table #523@0: 53264 keys, 1262109 bytes
+2025/05/25-10:49:02.568 cda4 Compacted 4@0 + 1@1 files => 1262109 bytes
+2025/05/25-10:49:02.569 cda4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-10:49:02.570 cda4 Delete type=2 #514
+2025/05/25-10:49:02.570 cda4 Delete type=2 #516
+2025/05/25-10:49:02.570 cda4 Delete type=2 #518
+2025/05/25-10:49:02.570 cda4 Delete type=2 #520
+2025/05/25-10:49:02.570 cda4 Delete type=2 #522
+2025/05/25-10:56:43.876 cda4 Level-0 table #525: started
+2025/05/25-10:56:43.883 cda4 Level-0 table #525: 15688 bytes OK
+2025/05/25-10:56:43.885 cda4 Delete type=0 #521
+2025/05/25-10:57:43.001 cda4 Level-0 table #527: started
+2025/05/25-10:57:43.006 cda4 Level-0 table #527: 13626 bytes OK
+2025/05/25-10:57:43.008 cda4 Delete type=0 #524
+2025/05/25-10:58:53.484 cda4 Level-0 table #529: started
+2025/05/25-10:58:53.489 cda4 Level-0 table #529: 15703 bytes OK
+2025/05/25-10:58:53.491 cda4 Delete type=0 #526
+2025/05/25-11:00:32.391 cda4 Level-0 table #531: started
+2025/05/25-11:00:32.402 cda4 Level-0 table #531: 17159 bytes OK
+2025/05/25-11:00:32.403 cda4 Delete type=0 #528
+2025/05/25-11:00:32.404 cda4 Compacting 4@0 + 1@1 files
+2025/05/25-11:00:32.432 cda4 Generated table #532@0: 54570 keys, 1292467 bytes
+2025/05/25-11:00:32.432 cda4 Compacted 4@0 + 1@1 files => 1292467 bytes
+2025/05/25-11:00:32.433 cda4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-11:00:32.434 cda4 Delete type=2 #523
+2025/05/25-11:00:32.434 cda4 Delete type=2 #525
+2025/05/25-11:00:32.434 cda4 Delete type=2 #527
+2025/05/25-11:00:32.434 cda4 Delete type=2 #529
+2025/05/25-11:00:32.434 cda4 Delete type=2 #531
+2025/05/25-11:07:50.938 cda4 Level-0 table #534: started
+2025/05/25-11:07:50.943 cda4 Level-0 table #534: 15715 bytes OK
+2025/05/25-11:07:50.944 cda4 Delete type=0 #530
+2025/05/25-11:08:50.012 cda4 Level-0 table #536: started
+2025/05/25-11:08:50.026 cda4 Level-0 table #536: 13785 bytes OK
+2025/05/25-11:08:50.027 cda4 Delete type=0 #533
+2025/05/25-11:10:00.602 cda4 Level-0 table #538: started
+2025/05/25-11:10:00.607 cda4 Level-0 table #538: 15854 bytes OK
+2025/05/25-11:10:00.608 cda4 Delete type=0 #535
+2025/05/25-11:11:32.386 cda4 Level-0 table #540: started
+2025/05/25-11:11:32.395 cda4 Level-0 table #540: 17289 bytes OK
+2025/05/25-11:11:32.397 cda4 Delete type=0 #537
+2025/05/25-11:11:32.397 cda4 Compacting 4@0 + 1@1 files
+2025/05/25-11:11:32.424 cda4 Generated table #541@0: 55892 keys, 1324259 bytes
+2025/05/25-11:11:32.424 cda4 Compacted 4@0 + 1@1 files => 1324259 bytes
+2025/05/25-11:11:32.425 cda4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-11:11:32.426 cda4 Delete type=2 #532
+2025/05/25-11:11:32.426 cda4 Delete type=2 #534
+2025/05/25-11:11:32.426 cda4 Delete type=2 #536
+2025/05/25-11:11:32.426 cda4 Delete type=2 #538
+2025/05/25-11:11:32.426 cda4 Delete type=2 #540
+2025/05/25-11:19:30.309 cda4 Level-0 table #543: started
+2025/05/25-11:19:30.317 cda4 Level-0 table #543: 16163 bytes OK
+2025/05/25-11:19:30.318 cda4 Delete type=0 #539
+2025/05/25-11:20:29.349 cda4 Level-0 table #545: started
+2025/05/25-11:20:29.355 cda4 Level-0 table #545: 13935 bytes OK
+2025/05/25-11:20:29.356 cda4 Delete type=0 #542
+2025/05/25-11:21:40.004 cda4 Level-0 table #547: started
+2025/05/25-11:21:40.009 cda4 Level-0 table #547: 15998 bytes OK
+2025/05/25-11:21:40.011 cda4 Delete type=0 #544
+2025/05/25-11:22:51.813 cda4 Level-0 table #549: started
+2025/05/25-11:22:51.820 cda4 Level-0 table #549: 17429 bytes OK
+2025/05/25-11:22:51.822 cda4 Delete type=0 #546
+2025/05/25-11:22:51.822 cda4 Compacting 4@0 + 1@1 files
+2025/05/25-11:22:51.850 cda4 Generated table #550@0: 57230 keys, 1355080 bytes
+2025/05/25-11:22:51.850 cda4 Compacted 4@0 + 1@1 files => 1355080 bytes
+2025/05/25-11:22:51.851 cda4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-11:22:51.851 cda4 Delete type=2 #541
+2025/05/25-11:22:51.852 cda4 Delete type=2 #543
+2025/05/25-11:22:51.852 cda4 Delete type=2 #545
+2025/05/25-11:22:51.852 cda4 Delete type=2 #547
+2025/05/25-11:22:51.852 cda4 Delete type=2 #549
+2025/05/25-11:28:56.461 cda4 Level-0 table #552: started
+2025/05/25-11:28:56.469 cda4 Level-0 table #552: 16282 bytes OK
+2025/05/25-11:28:56.471 cda4 Delete type=0 #548
+2025/05/25-11:35:19.823 cda4 Level-0 table #554: started
+2025/05/25-11:35:19.828 cda4 Level-0 table #554: 16314 bytes OK
+2025/05/25-11:35:19.829 cda4 Delete type=0 #551
+2025/05/25-11:43:32.380 cda4 Level-0 table #556: started
+2025/05/25-11:43:32.386 cda4 Level-0 table #556: 16982 bytes OK
+2025/05/25-11:43:32.387 cda4 Delete type=0 #553
+2025/05/25-11:44:32.386 cda4 Level-0 table #558: started
+2025/05/25-11:44:32.392 cda4 Level-0 table #558: 16514 bytes OK
+2025/05/25-11:44:32.394 cda4 Delete type=0 #555
+2025/05/25-11:44:32.394 cda4 Compacting 4@0 + 1@1 files
+2025/05/25-11:44:32.425 cda4 Generated table #559@0: 58590 keys, 1387047 bytes
+2025/05/25-11:44:32.426 cda4 Compacted 4@0 + 1@1 files => 1387047 bytes
+2025/05/25-11:44:32.426 cda4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-11:44:32.427 cda4 Delete type=2 #550
+2025/05/25-11:44:32.427 cda4 Delete type=2 #552
+2025/05/25-11:44:32.427 cda4 Delete type=2 #554
+2025/05/25-11:44:32.427 cda4 Delete type=2 #556
+2025/05/25-11:44:32.427 cda4 Delete type=2 #558
+2025/05/25-11:45:32.384 cda4 Level-0 table #561: started
+2025/05/25-11:45:32.389 cda4 Level-0 table #561: 15313 bytes OK
+2025/05/25-11:45:32.391 cda4 Delete type=0 #557
+2025/05/25-11:47:32.386 cda4 Level-0 table #563: started
+2025/05/25-11:47:32.394 cda4 Level-0 table #563: 18012 bytes OK
+2025/05/25-11:47:32.395 cda4 Delete type=0 #560
+2025/05/25-11:53:07.711 cda4 Level-0 table #565: started
+2025/05/25-11:53:07.718 cda4 Level-0 table #565: 16850 bytes OK
+2025/05/25-11:53:07.720 cda4 Delete type=0 #562
+2025/05/25-11:59:46.845 cda4 Level-0 table #567: started
+2025/05/25-11:59:46.853 cda4 Level-0 table #567: 17711 bytes OK
+2025/05/25-11:59:46.855 cda4 Delete type=0 #564
+2025/05/25-11:59:46.855 cda4 Compacting 4@0 + 1@1 files
+2025/05/25-11:59:46.886 cda4 Generated table #568@0: 59962 keys, 1420268 bytes
+2025/05/25-11:59:46.886 cda4 Compacted 4@0 + 1@1 files => 1420268 bytes
+2025/05/25-11:59:46.887 cda4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-11:59:46.888 cda4 Delete type=2 #559
+2025/05/25-11:59:46.888 cda4 Delete type=2 #561
+2025/05/25-11:59:46.888 cda4 Delete type=2 #563
+2025/05/25-11:59:46.888 cda4 Delete type=2 #565
+2025/05/25-11:59:46.888 cda4 Delete type=2 #567
+2025/05/25-12:00:45.870 cda4 Level-0 table #570: started
+2025/05/25-12:00:45.876 cda4 Level-0 table #570: 14395 bytes OK
+2025/05/25-12:00:45.877 cda4 Delete type=0 #566
+2025/05/25-12:02:32.391 cda4 Level-0 table #572: started
+2025/05/25-12:02:32.397 cda4 Level-0 table #572: 16403 bytes OK
+2025/05/25-12:02:32.398 cda4 Delete type=0 #569
+2025/05/25-12:04:32.383 cda4 Level-0 table #574: started
+2025/05/25-12:04:32.391 cda4 Level-0 table #574: 17837 bytes OK
+2025/05/25-12:04:32.393 cda4 Delete type=0 #571
+2025/05/25-12:09:51.296 cda4 Level-0 table #576: started
+2025/05/25-12:09:51.303 cda4 Level-0 table #576: 16608 bytes OK
+2025/05/25-12:09:51.304 cda4 Delete type=0 #573
+2025/05/25-12:09:51.305 cda4 Compacting 4@0 + 1@1 files
+2025/05/25-12:09:51.332 cda4 Generated table #577@0: 61350 keys, 1452886 bytes
+2025/05/25-12:09:51.332 cda4 Compacted 4@0 + 1@1 files => 1452886 bytes
+2025/05/25-12:09:51.333 cda4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-12:09:51.334 cda4 Delete type=2 #568
+2025/05/25-12:09:51.334 cda4 Delete type=2 #570
+2025/05/25-12:09:51.334 cda4 Delete type=2 #572
+2025/05/25-12:09:51.334 cda4 Delete type=2 #574
+2025/05/25-12:09:51.334 cda4 Delete type=2 #576
+2025/05/25-12:17:02.070 cda4 Level-0 table #579: started
+2025/05/25-12:17:02.081 cda4 Level-0 table #579: 16927 bytes OK
+2025/05/25-12:17:02.083 cda4 Delete type=0 #575
+2025/05/25-12:24:56.018 cda4 Level-0 table #581: started
+2025/05/25-12:24:56.025 cda4 Level-0 table #581: 16806 bytes OK
+2025/05/25-12:24:56.027 cda4 Delete type=0 #578
+2025/05/25-12:25:55.136 cda4 Level-0 table #583: started
+2025/05/25-12:25:55.142 cda4 Level-0 table #583: 14570 bytes OK
+2025/05/25-12:25:55.143 cda4 Delete type=0 #580
+2025/05/25-12:27:05.549 cda4 Level-0 table #585: started
+2025/05/25-12:27:05.554 cda4 Level-0 table #585: 16762 bytes OK
+2025/05/25-12:27:05.555 cda4 Delete type=0 #582
+2025/05/25-12:27:05.556 cda4 Compacting 4@0 + 1@1 files
+2025/05/25-12:27:05.586 cda4 Generated table #586@0: 62754 keys, 1486071 bytes
+2025/05/25-12:27:05.587 cda4 Compacted 4@0 + 1@1 files => 1486071 bytes
+2025/05/25-12:27:05.587 cda4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-12:27:05.588 cda4 Delete type=2 #577
+2025/05/25-12:27:05.588 cda4 Delete type=2 #579
+2025/05/25-12:27:05.588 cda4 Delete type=2 #581
+2025/05/25-12:27:05.588 cda4 Delete type=2 #583
+2025/05/25-12:27:05.588 cda4 Delete type=2 #585
+2025/05/25-12:28:18.366 cda4 Level-0 table #588: started
+2025/05/25-12:28:18.372 cda4 Level-0 table #588: 18830 bytes OK
+2025/05/25-12:28:18.374 cda4 Delete type=0 #584
+2025/05/25-12:35:18.181 cda4 Level-0 table #590: started
+2025/05/25-12:35:18.189 cda4 Level-0 table #590: 16980 bytes OK
+2025/05/25-12:35:18.190 cda4 Delete type=0 #587
+2025/05/25-12:42:46.734 cda4 Level-0 table #592: started
+2025/05/25-12:42:46.738 cda4 Level-0 table #592: 16915 bytes OK
+2025/05/25-12:42:46.740 cda4 Delete type=0 #589
+2025/05/25-12:43:45.825 cda4 Level-0 table #594: started
+2025/05/25-12:43:45.831 cda4 Level-0 table #594: 14738 bytes OK
+2025/05/25-12:43:45.832 cda4 Delete type=0 #591
+2025/05/25-12:43:45.833 cda4 Compacting 4@0 + 1@1 files
+2025/05/25-12:43:45.870 cda4 Generated table #595@0: 64174 keys, 1521184 bytes
+2025/05/25-12:43:45.871 cda4 Compacted 4@0 + 1@1 files => 1521184 bytes
+2025/05/25-12:43:45.871 cda4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-12:43:45.872 cda4 Delete type=2 #586
+2025/05/25-12:43:45.872 cda4 Delete type=2 #588
+2025/05/25-12:43:45.872 cda4 Delete type=2 #590
+2025/05/25-12:43:45.872 cda4 Delete type=2 #592
+2025/05/25-12:43:45.872 cda4 Delete type=2 #594
+2025/05/25-12:44:56.249 cda4 Level-0 table #597: started
+2025/05/25-12:44:56.254 cda4 Level-0 table #597: 16886 bytes OK
+2025/05/25-12:44:56.255 cda4 Delete type=0 #593
+2025/05/25-12:46:08.438 cda4 Level-0 table #599: started
+2025/05/25-12:46:08.446 cda4 Level-0 table #599: 19037 bytes OK
+2025/05/25-12:46:08.447 cda4 Delete type=0 #596
+2025/05/25-12:53:42.045 cda4 Level-0 table #601: started
+2025/05/25-12:53:42.053 cda4 Level-0 table #601: 17342 bytes OK
+2025/05/25-12:53:42.055 cda4 Delete type=0 #598
+2025/05/25-13:00:58.538 cda4 Level-0 table #603: started
+2025/05/25-13:00:58.545 cda4 Level-0 table #603: 17283 bytes OK
+2025/05/25-13:00:58.547 cda4 Delete type=0 #600
+2025/05/25-13:00:58.548 cda4 Compacting 4@0 + 1@1 files
+2025/05/25-13:00:58.580 cda4 Generated table #604@0: 65613 keys, 1554647 bytes
+2025/05/25-13:00:58.580 cda4 Compacted 4@0 + 1@1 files => 1554647 bytes
+2025/05/25-13:00:58.581 cda4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-13:00:58.581 cda4 Delete type=2 #595
+2025/05/25-13:00:58.581 cda4 Delete type=2 #597
+2025/05/25-13:00:58.581 cda4 Delete type=2 #599
+2025/05/25-13:00:58.581 cda4 Delete type=2 #601
+2025/05/25-13:00:58.581 cda4 Delete type=2 #603
+2025/05/25-13:07:47.404 cda4 Level-0 table #606: started
+2025/05/25-13:07:47.412 cda4 Level-0 table #606: 17105 bytes OK
+2025/05/25-13:07:47.414 cda4 Delete type=0 #602
+2025/05/25-13:08:46.547 cda4 Level-0 table #608: started
+2025/05/25-13:08:46.553 cda4 Level-0 table #608: 14959 bytes OK
+2025/05/25-13:08:46.554 cda4 Delete type=0 #605
+2025/05/25-13:09:57.059 cda4 Level-0 table #610: started
+2025/05/25-13:09:57.065 cda4 Level-0 table #610: 17168 bytes OK
+2025/05/25-13:09:57.066 cda4 Delete type=0 #607
+2025/05/25-13:11:09.055 cda4 Level-0 table #612: started
+2025/05/25-13:11:09.062 cda4 Level-0 table #612: 19282 bytes OK
+2025/05/25-13:11:09.064 cda4 Delete type=0 #609
+2025/05/25-13:11:09.064 cda4 Compacting 4@0 + 1@1 files
+2025/05/25-13:11:09.096 cda4 Generated table #613@0: 67063 keys, 1589898 bytes
+2025/05/25-13:11:09.096 cda4 Compacted 4@0 + 1@1 files => 1589898 bytes
+2025/05/25-13:11:09.097 cda4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-13:11:09.098 cda4 Delete type=2 #604
+2025/05/25-13:11:09.098 cda4 Delete type=2 #606
+2025/05/25-13:11:09.098 cda4 Delete type=2 #608
+2025/05/25-13:11:09.098 cda4 Delete type=2 #610
+2025/05/25-13:11:09.098 cda4 Delete type=2 #612
+2025/05/25-13:18:21.325 cda4 Level-0 table #615: started
+2025/05/25-13:18:21.331 cda4 Level-0 table #615: 17604 bytes OK
+2025/05/25-13:18:21.333 cda4 Delete type=0 #611
+2025/05/25-13:25:44.592 cda4 Level-0 table #617: started
+2025/05/25-13:25:44.598 cda4 Level-0 table #617: 17385 bytes OK
+2025/05/25-13:25:44.599 cda4 Delete type=0 #614
+2025/05/25-13:26:43.886 cda4 Level-0 table #619: started
+2025/05/25-13:26:43.892 cda4 Level-0 table #619: 15124 bytes OK
+2025/05/25-13:26:43.893 cda4 Delete type=0 #616
+2025/05/25-13:27:54.417 cda4 Level-0 table #621: started
+2025/05/25-13:27:54.422 cda4 Level-0 table #621: 17332 bytes OK
+2025/05/25-13:27:54.423 cda4 Delete type=0 #618
+2025/05/25-13:27:54.424 cda4 Compacting 4@0 + 1@1 files
+2025/05/25-13:27:54.459 cda4 Generated table #622@0: 68531 keys, 1623931 bytes
+2025/05/25-13:27:54.459 cda4 Compacted 4@0 + 1@1 files => 1623931 bytes
+2025/05/25-13:27:54.460 cda4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-13:27:54.461 cda4 Delete type=2 #613
+2025/05/25-13:27:54.461 cda4 Delete type=2 #615
+2025/05/25-13:27:54.461 cda4 Delete type=2 #617
+2025/05/25-13:27:54.461 cda4 Delete type=2 #619
+2025/05/25-13:27:54.461 cda4 Delete type=2 #621
+2025/05/25-13:29:06.366 cda4 Level-0 table #624: started
+2025/05/25-13:29:06.371 cda4 Level-0 table #624: 19548 bytes OK
+2025/05/25-13:29:06.372 cda4 Delete type=0 #620
+2025/05/25-13:36:57.218 cda4 Level-0 table #626: started
+2025/05/25-13:36:57.232 cda4 Level-0 table #626: 17372 bytes OK
+2025/05/25-13:36:57.234 cda4 Delete type=0 #623
+2025/05/25-13:37:56.798 cda4 Level-0 table #628: started
+2025/05/25-13:37:56.804 cda4 Level-0 table #628: 115845 bytes OK
+2025/05/25-13:37:56.806 cda4 Delete type=0 #625
+2025/05/25-13:38:04.148 cda4 Level-0 table #630: started
+2025/05/25-13:38:04.156 cda4 Level-0 table #630: 16877 bytes OK
+2025/05/25-13:38:04.157 cda4 Delete type=0 #627
+2025/05/25-13:38:04.158 cda4 Compacting 4@0 + 1@1 files
+2025/05/25-13:38:04.190 cda4 Generated table #631@0: 69641 keys, 1649952 bytes
+2025/05/25-13:38:04.190 cda4 Compacted 4@0 + 1@1 files => 1649952 bytes
+2025/05/25-13:38:04.191 cda4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-13:38:04.192 cda4 Delete type=2 #622
+2025/05/25-13:38:04.192 cda4 Delete type=2 #624
+2025/05/25-13:38:04.192 cda4 Delete type=2 #626
+2025/05/25-13:38:04.192 cda4 Delete type=2 #628
+2025/05/25-13:38:04.192 cda4 Delete type=2 #630
+2025/05/25-13:39:07.978 cda4 Level-0 table #633: started
+2025/05/25-13:39:07.983 cda4 Level-0 table #633: 116366 bytes OK
+2025/05/25-13:39:07.984 cda4 Delete type=0 #629
+2025/05/25-13:39:15.299 cda4 Level-0 table #635: started
+2025/05/25-13:39:15.307 cda4 Level-0 table #635: 16947 bytes OK
+2025/05/25-13:39:15.308 cda4 Delete type=0 #632
+2025/05/25-13:40:32.382 cda4 Level-0 table #637: started
+2025/05/25-13:40:32.387 cda4 Level-0 table #637: 17449 bytes OK
+2025/05/25-13:40:32.388 cda4 Delete type=0 #634
+2025/05/25-13:47:51.019 cda4 Level-0 table #639: started
+2025/05/25-13:47:51.024 cda4 Level-0 table #639: 18663 bytes OK
+2025/05/25-13:47:51.025 cda4 Delete type=0 #636
+2025/05/25-13:47:51.026 cda4 Compacting 4@0 + 1@1 files
+2025/05/25-13:47:51.061 cda4 Generated table #640@0: 70760 keys, 1676951 bytes
+2025/05/25-13:47:51.061 cda4 Compacted 4@0 + 1@1 files => 1676951 bytes
+2025/05/25-13:47:51.062 cda4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-13:47:51.062 cda4 Delete type=2 #631
+2025/05/25-13:47:51.062 cda4 Delete type=2 #633
+2025/05/25-13:47:51.063 cda4 Delete type=2 #635
+2025/05/25-13:47:51.063 cda4 Delete type=2 #637
+2025/05/25-13:47:51.063 cda4 Delete type=2 #639
+2025/05/25-13:48:50.199 cda4 Level-0 table #642: started
+2025/05/25-13:48:50.204 cda4 Level-0 table #642: 15446 bytes OK
+2025/05/25-13:48:50.206 cda4 Delete type=0 #638
+2025/05/25-13:50:00.661 cda4 Level-0 table #644: started
+2025/05/25-13:50:00.666 cda4 Level-0 table #644: 17714 bytes OK
+2025/05/25-13:50:00.668 cda4 Delete type=0 #641
+2025/05/25-13:52:32.392 cda4 Level-0 table #646: started
+2025/05/25-13:52:32.401 cda4 Level-0 table #646: 19700 bytes OK
+2025/05/25-13:52:32.402 cda4 Delete type=0 #643
+2025/05/25-13:57:20.560 cda4 Level-0 table #648: started
+2025/05/25-13:57:20.611 cda4 Level-0 table #648: 16692 bytes OK
+2025/05/25-13:57:20.613 cda4 Delete type=0 #645
+2025/05/25-13:57:20.614 cda4 Compacting 4@0 + 1@1 files
+2025/05/25-13:57:20.648 cda4 Generated table #649@0: 72268 keys, 1711956 bytes
+2025/05/25-13:57:20.648 cda4 Compacted 4@0 + 1@1 files => 1711956 bytes
+2025/05/25-13:57:20.648 cda4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-13:57:20.649 cda4 Delete type=2 #640
+2025/05/25-13:57:20.649 cda4 Delete type=2 #642
+2025/05/25-13:57:20.649 cda4 Delete type=2 #644
+2025/05/25-13:57:20.649 cda4 Delete type=2 #646
+2025/05/25-13:57:20.649 cda4 Delete type=2 #648
+2025/05/25-14:04:38.480 cda4 Level-0 table #651: started
+2025/05/25-14:04:38.489 cda4 Level-0 table #651: 18885 bytes OK
+2025/05/25-14:04:38.490 cda4 Delete type=0 #647
+2025/05/25-14:11:48.839 cda4 Level-0 table #653: started
+2025/05/25-14:11:48.847 cda4 Level-0 table #653: 17907 bytes OK
+2025/05/25-14:11:48.849 cda4 Delete type=0 #650
+2025/05/25-14:20:21.876 cda4 Level-0 table #655: started
+2025/05/25-14:20:21.881 cda4 Level-0 table #655: 18115 bytes OK
+2025/05/25-14:20:21.882 cda4 Delete type=0 #652
+2025/05/25-14:27:49.118 cda4 Level-0 table #657: started
+2025/05/25-14:27:49.126 cda4 Level-0 table #657: 18092 bytes OK
+2025/05/25-14:27:49.127 cda4 Delete type=0 #654
+2025/05/25-14:27:49.128 cda4 Compacting 4@0 + 1@1 files
+2025/05/25-14:27:49.163 cda4 Generated table #658@0: 73798 keys, 1748722 bytes
+2025/05/25-14:27:49.163 cda4 Compacted 4@0 + 1@1 files => 1748722 bytes
+2025/05/25-14:27:49.164 cda4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-14:27:49.165 cda4 Delete type=2 #649
+2025/05/25-14:27:49.165 cda4 Delete type=2 #651
+2025/05/25-14:27:49.165 cda4 Delete type=2 #653
+2025/05/25-14:27:49.165 cda4 Delete type=2 #655
+2025/05/25-14:27:49.165 cda4 Delete type=2 #657
+2025/05/25-14:35:39.517 cda4 Level-0 table #660: started
+2025/05/25-14:35:39.524 cda4 Level-0 table #660: 18137 bytes OK
+2025/05/25-14:35:39.526 cda4 Delete type=0 #656
+2025/05/25-14:41:55.909 cda4 Level-0 table #662: started
+2025/05/25-14:41:55.916 cda4 Level-0 table #662: 18081 bytes OK
+2025/05/25-14:41:55.918 cda4 Delete type=0 #659
+2025/05/25-14:50:04.000 cda4 Level-0 table #664: started
+2025/05/25-14:50:04.008 cda4 Level-0 table #664: 18175 bytes OK
+2025/05/25-14:50:04.010 cda4 Delete type=0 #661
+2025/05/25-14:56:42.394 cda4 Level-0 table #666: started
+2025/05/25-14:56:42.401 cda4 Level-0 table #666: 18078 bytes OK
+2025/05/25-14:56:42.402 cda4 Delete type=0 #663
+2025/05/25-14:56:42.403 cda4 Compacting 4@0 + 1@1 files
+2025/05/25-14:56:42.439 cda4 Generated table #667@0: 75342 keys, 1785182 bytes
+2025/05/25-14:56:42.440 cda4 Compacted 4@0 + 1@1 files => 1785182 bytes
+2025/05/25-14:56:42.440 cda4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-14:56:42.441 cda4 Delete type=2 #658
+2025/05/25-14:56:42.441 cda4 Delete type=2 #660
+2025/05/25-14:56:42.441 cda4 Delete type=2 #662
+2025/05/25-14:56:42.441 cda4 Delete type=2 #664
+2025/05/25-14:56:42.441 cda4 Delete type=2 #666
+2025/05/25-14:57:42.333 cda4 Level-0 table #669: started
+2025/05/25-14:57:42.338 cda4 Level-0 table #669: 15887 bytes OK
+2025/05/25-14:57:42.340 cda4 Delete type=0 #665
+2025/05/25-14:58:52.765 cda4 Level-0 table #671: started
+2025/05/25-14:58:52.780 cda4 Level-0 table #671: 18037 bytes OK
+2025/05/25-14:58:52.782 cda4 Delete type=0 #668
+2025/05/25-15:00:04.787 cda4 Level-0 table #673: started
+2025/05/25-15:00:04.795 cda4 Level-0 table #673: 20147 bytes OK
+2025/05/25-15:00:04.796 cda4 Delete type=0 #670
+2025/05/25-15:08:20.758 cda4 Level-0 table #675: started
+2025/05/25-15:08:20.763 cda4 Level-0 table #675: 18291 bytes OK
+2025/05/25-15:08:20.765 cda4 Delete type=0 #672
+2025/05/25-15:08:20.765 cda4 Compacting 4@0 + 1@1 files
+2025/05/25-15:08:20.798 cda4 Generated table #676@0: 76898 keys, 1822355 bytes
+2025/05/25-15:08:20.798 cda4 Compacted 4@0 + 1@1 files => 1822355 bytes
+2025/05/25-15:08:20.799 cda4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-15:08:20.800 cda4 Delete type=2 #667
+2025/05/25-15:08:20.800 cda4 Delete type=2 #669
+2025/05/25-15:08:20.800 cda4 Delete type=2 #671
+2025/05/25-15:08:20.800 cda4 Delete type=2 #673
+2025/05/25-15:08:20.800 cda4 Delete type=2 #675
+2025/05/25-15:15:27.308 cda4 Level-0 table #678: started
+2025/05/25-15:15:27.313 cda4 Level-0 table #678: 18669 bytes OK
+2025/05/25-15:15:27.314 cda4 Delete type=0 #674
+2025/05/25-15:21:52.175 cda4 Level-0 table #680: started
+2025/05/25-15:21:52.181 cda4 Level-0 table #680: 18574 bytes OK
+2025/05/25-15:21:52.183 cda4 Delete type=0 #677
+2025/05/25-15:28:55.115 cda4 Level-0 table #682: started
+2025/05/25-15:28:55.122 cda4 Level-0 table #682: 18565 bytes OK
+2025/05/25-15:28:55.124 cda4 Delete type=0 #679
+2025/05/25-15:35:54.500 cda4 Level-0 table #684: started
+2025/05/25-15:35:54.506 cda4 Level-0 table #684: 18455 bytes OK
+2025/05/25-15:35:54.508 cda4 Delete type=0 #681
+2025/05/25-15:35:54.508 cda4 Compacting 4@0 + 1@1 files
+2025/05/25-15:35:54.541 cda4 Generated table #685@0: 78474 keys, 1859596 bytes
+2025/05/25-15:35:54.541 cda4 Compacted 4@0 + 1@1 files => 1859596 bytes
+2025/05/25-15:35:54.542 cda4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-15:35:54.543 cda4 Delete type=2 #676
+2025/05/25-15:35:54.543 cda4 Delete type=2 #678
+2025/05/25-15:35:54.543 cda4 Delete type=2 #680
+2025/05/25-15:35:54.543 cda4 Delete type=2 #682
+2025/05/25-15:35:54.543 cda4 Delete type=2 #684
+2025/05/25-15:36:53.736 cda4 Level-0 table #687: started
+2025/05/25-15:36:53.742 cda4 Level-0 table #687: 16305 bytes OK
+2025/05/25-15:36:53.743 cda4 Delete type=0 #683
+2025/05/25-15:38:04.955 cda4 Level-0 table #689: started
+2025/05/25-15:38:04.959 cda4 Level-0 table #689: 18379 bytes OK
+2025/05/25-15:38:04.961 cda4 Delete type=0 #686
+2025/05/25-15:39:17.188 cda4 Level-0 table #691: started
+2025/05/25-15:39:17.192 cda4 Level-0 table #691: 19866 bytes OK
+2025/05/25-15:39:17.194 cda4 Delete type=0 #688
+2025/05/25-15:47:23.283 cda4 Level-0 table #693: started
+2025/05/25-15:47:23.289 cda4 Level-0 table #693: 18706 bytes OK
+2025/05/25-15:47:23.290 cda4 Delete type=0 #690
+2025/05/25-15:47:23.291 cda4 Compacting 4@0 + 1@1 files
+2025/05/25-15:47:23.331 cda4 Generated table #694@0: 80062 keys, 1897091 bytes
+2025/05/25-15:47:23.331 cda4 Compacted 4@0 + 1@1 files => 1897091 bytes
+2025/05/25-15:47:23.332 cda4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-15:47:23.333 cda4 Delete type=2 #685
+2025/05/25-15:47:23.333 cda4 Delete type=2 #687
+2025/05/25-15:47:23.333 cda4 Delete type=2 #689
+2025/05/25-15:47:23.333 cda4 Delete type=2 #691
+2025/05/25-15:47:23.333 cda4 Delete type=2 #693
+2025/05/25-15:54:09.938 cda4 Level-0 table #696: started
+2025/05/25-15:54:09.943 cda4 Level-0 table #696: 18863 bytes OK
+2025/05/25-15:54:09.944 cda4 Delete type=0 #692
+2025/05/25-16:02:22.386 cda4 Level-0 table #698: started
+2025/05/25-16:02:22.394 cda4 Level-0 table #698: 18634 bytes OK
+2025/05/25-16:02:22.395 cda4 Delete type=0 #695
+2025/05/25-16:03:21.443 cda4 Level-0 table #700: started
+2025/05/25-16:03:21.447 cda4 Level-0 table #700: 16559 bytes OK
+2025/05/25-16:03:21.452 cda4 Delete type=0 #697
+2025/05/25-16:04:32.523 cda4 Level-0 table #702: started
+2025/05/25-16:04:32.528 cda4 Level-0 table #702: 18690 bytes OK
+2025/05/25-16:04:32.530 cda4 Delete type=0 #699
+2025/05/25-16:04:32.531 cda4 Compacting 4@0 + 1@1 files
+2025/05/25-16:04:32.587 cda4 Generated table #703@0: 81666 keys, 1935487 bytes
+2025/05/25-16:04:32.587 cda4 Compacted 4@0 + 1@1 files => 1935487 bytes
+2025/05/25-16:04:32.588 cda4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-16:04:32.589 cda4 Delete type=2 #694
+2025/05/25-16:04:32.589 cda4 Delete type=2 #696
+2025/05/25-16:04:32.589 cda4 Delete type=2 #698
+2025/05/25-16:04:32.589 cda4 Delete type=2 #700
+2025/05/25-16:04:32.589 cda4 Delete type=2 #702
+2025/05/25-16:05:40.420 cda4 Level-0 table #705: started
+2025/05/25-16:05:40.424 cda4 Level-0 table #705: 19775 bytes OK
+2025/05/25-16:05:40.426 cda4 Delete type=0 #701
+2025/05/25-16:13:51.644 cda4 Level-0 table #707: started
+2025/05/25-16:13:51.651 cda4 Level-0 table #707: 19113 bytes OK
+2025/05/25-16:13:51.653 cda4 Delete type=0 #704
+2025/05/25-16:20:31.679 cda4 Level-0 table #709: started
+2025/05/25-16:20:31.687 cda4 Level-0 table #709: 18833 bytes OK
+2025/05/25-16:20:31.688 cda4 Delete type=0 #706
+2025/05/25-16:21:30.831 cda4 Level-0 table #711: started
+2025/05/25-16:21:30.836 cda4 Level-0 table #711: 16641 bytes OK
+2025/05/25-16:21:30.838 cda4 Delete type=0 #708
+2025/05/25-16:21:30.839 cda4 Compacting 4@0 + 1@1 files
+2025/05/25-16:21:30.877 cda4 Generated table #712@0: 83286 keys, 1973536 bytes
+2025/05/25-16:21:30.877 cda4 Compacted 4@0 + 1@1 files => 1973536 bytes
+2025/05/25-16:21:30.878 cda4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-16:21:30.879 cda4 Delete type=2 #703
+2025/05/25-16:21:30.879 cda4 Delete type=2 #705
+2025/05/25-16:21:30.879 cda4 Delete type=2 #707
+2025/05/25-16:21:30.879 cda4 Delete type=2 #709
+2025/05/25-16:21:30.879 cda4 Delete type=2 #711
+2025/05/25-16:22:41.239 cda4 Level-0 table #714: started
+2025/05/25-16:22:41.244 cda4 Level-0 table #714: 18853 bytes OK
+2025/05/25-16:22:41.245 cda4 Delete type=0 #710
+2025/05/25-16:23:53.381 cda4 Level-0 table #716: started
+2025/05/25-16:23:53.391 cda4 Level-0 table #716: 20200 bytes OK
+2025/05/25-16:23:53.393 cda4 Delete type=0 #713
+2025/05/25-16:30:16.296 cda4 Level-0 table #718: started
+2025/05/25-16:30:16.304 cda4 Level-0 table #718: 18789 bytes OK
+2025/05/25-16:30:16.306 cda4 Delete type=0 #715
+2025/05/25-16:31:16.302 cda4 Level-0 table #720: started
+2025/05/25-16:31:16.307 cda4 Level-0 table #720: 16870 bytes OK
+2025/05/25-16:31:16.308 cda4 Delete type=0 #717
+2025/05/25-16:31:16.309 cd9c Compacting 4@0 + 1@1 files
+2025/05/25-16:31:16.348 cd9c Generated table #721@0: 84920 keys, 2011764 bytes
+2025/05/25-16:31:16.348 cd9c Compacted 4@0 + 1@1 files => 2011764 bytes
+2025/05/25-16:31:16.350 cd9c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-16:31:16.350 cd9c Delete type=2 #712
+2025/05/25-16:31:16.350 cd9c Delete type=2 #714
+2025/05/25-16:31:16.351 cd9c Delete type=2 #716
+2025/05/25-16:31:16.351 cd9c Delete type=2 #718
+2025/05/25-16:31:16.351 cd9c Delete type=2 #720
+2025/05/25-16:32:26.830 cda4 Level-0 table #723: started
+2025/05/25-16:32:26.835 cda4 Level-0 table #723: 18984 bytes OK
+2025/05/25-16:32:26.836 cda4 Delete type=0 #719
+2025/05/25-16:33:38.971 cda4 Level-0 table #725: started
+2025/05/25-16:33:38.979 cda4 Level-0 table #725: 20321 bytes OK
+2025/05/25-16:33:38.981 cda4 Delete type=0 #722
+2025/05/25-16:40:42.541 cda4 Level-0 table #727: started
+2025/05/25-16:40:42.548 cda4 Level-0 table #727: 19171 bytes OK
+2025/05/25-16:40:42.550 cda4 Delete type=0 #724
+2025/05/25-16:47:36.257 cda4 Level-0 table #729: started
+2025/05/25-16:47:36.262 cda4 Level-0 table #729: 18300 bytes OK
+2025/05/25-16:47:36.264 cda4 Delete type=0 #726
+2025/05/25-16:47:36.265 cda4 Compacting 4@0 + 1@1 files
+2025/05/25-16:47:36.308 cda4 Generated table #730@0: 86572 keys, 2050865 bytes
+2025/05/25-16:47:36.308 cda4 Compacted 4@0 + 1@1 files => 2050865 bytes
+2025/05/25-16:47:36.309 cda4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-16:47:36.310 cda4 Delete type=2 #721
+2025/05/25-16:47:36.310 cda4 Delete type=2 #723
+2025/05/25-16:47:36.310 cda4 Delete type=2 #725
+2025/05/25-16:47:36.310 cda4 Delete type=2 #727
+2025/05/25-16:47:36.310 cda4 Delete type=2 #729
+2025/05/25-16:54:42.323 cda4 Level-0 table #732: started
+2025/05/25-16:54:42.330 cda4 Level-0 table #732: 20528 bytes OK
+2025/05/25-16:54:42.332 cda4 Delete type=0 #728
+2025/05/25-17:01:11.077 cda4 Level-0 table #734: started
+2025/05/25-17:01:11.084 cda4 Level-0 table #734: 19613 bytes OK
+2025/05/25-17:01:11.086 cda4 Delete type=0 #731
+2025/05/25-17:09:20.343 cda4 Level-0 table #736: started
+2025/05/25-17:09:20.349 cda4 Level-0 table #736: 19597 bytes OK
+2025/05/25-17:09:20.351 cda4 Delete type=0 #733
+2025/05/25-17:17:18.023 cda4 Level-0 table #738: started
+2025/05/25-17:17:18.031 cda4 Level-0 table #738: 19609 bytes OK
+2025/05/25-17:17:18.032 cda4 Delete type=0 #735
+2025/05/25-17:17:18.033 cda4 Compacting 4@0 + 1@1 files
+2025/05/25-17:17:18.076 cda4 Generated table #739@0: 88248 keys, 2090882 bytes
+2025/05/25-17:17:18.076 cda4 Compacted 4@0 + 1@1 files => 2090882 bytes
+2025/05/25-17:17:18.077 cda4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-17:17:18.077 cda4 Delete type=2 #730
+2025/05/25-17:17:18.077 cda4 Delete type=2 #732
+2025/05/25-17:17:18.078 cda4 Delete type=2 #734
+2025/05/25-17:17:18.078 cda4 Delete type=2 #736
+2025/05/25-17:17:18.078 cda4 Delete type=2 #738
+2025/05/25-17:25:47.867 cda4 Level-0 table #741: started
+2025/05/25-17:25:47.875 cda4 Level-0 table #741: 19484 bytes OK
+2025/05/25-17:25:47.876 cda4 Delete type=0 #737
+2025/05/25-17:26:47.175 cda4 Level-0 table #743: started
+2025/05/25-17:26:47.181 cda4 Level-0 table #743: 17264 bytes OK
+2025/05/25-17:26:47.182 cda4 Delete type=0 #740
+2025/05/25-17:27:58.376 cda4 Level-0 table #745: started
+2025/05/25-17:27:58.381 cda4 Level-0 table #745: 19436 bytes OK
+2025/05/25-17:27:58.382 cda4 Delete type=0 #742
+2025/05/25-17:29:10.364 cda4 Level-0 table #747: started
+2025/05/25-17:29:10.371 cda4 Level-0 table #747: 21503 bytes OK
+2025/05/25-17:29:10.373 cda4 Delete type=0 #744
+2025/05/25-17:29:10.373 cda4 Compacting 4@0 + 1@1 files
+2025/05/25-17:29:10.409 cda4 Generated table #748@0: 89330 keys, 2120980 bytes
+2025/05/25-17:29:10.416 cda4 Generated table #749@0: 600 keys, 8696 bytes
+2025/05/25-17:29:10.416 cda4 Compacted 4@0 + 1@1 files => 2129676 bytes
+2025/05/25-17:29:10.417 cda4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/25-17:29:10.417 cda4 Delete type=2 #739
+2025/05/25-17:29:10.418 cda4 Delete type=2 #741
+2025/05/25-17:29:10.418 cda4 Delete type=2 #743
+2025/05/25-17:29:10.418 cda4 Delete type=2 #745
+2025/05/25-17:29:10.418 cda4 Delete type=2 #747
+2025/05/25-17:35:57.386 cda4 Level-0 table #751: started
+2025/05/25-17:35:57.394 cda4 Level-0 table #751: 19432 bytes OK
+2025/05/25-17:35:57.395 cda4 Delete type=0 #746
+2025/05/25-17:36:56.963 cda4 Level-0 table #753: started
+2025/05/25-17:36:56.968 cda4 Level-0 table #753: 132871 bytes OK
+2025/05/25-17:36:56.970 cda4 Delete type=0 #750
+2025/05/25-17:37:04.318 cda4 Level-0 table #755: started
+2025/05/25-17:37:04.326 cda4 Level-0 table #755: 18902 bytes OK
+2025/05/25-17:37:04.327 cda4 Delete type=0 #752
+2025/05/25-17:38:09.161 cda4 Level-0 table #757: started
+2025/05/25-17:38:09.165 cda4 Level-0 table #757: 17393 bytes OK
+2025/05/25-17:38:09.166 cda4 Delete type=0 #754
+2025/05/25-17:38:09.167 cda4 Compacting 4@0 + 2@1 files
+2025/05/25-17:38:09.202 cda4 Generated table #758@0: 89014 keys, 2122421 bytes
+2025/05/25-17:38:09.208 cda4 Generated table #759@0: 2188 keys, 38294 bytes
+2025/05/25-17:38:09.208 cda4 Compacted 4@0 + 2@1 files => 2160715 bytes
+2025/05/25-17:38:09.209 cda4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/25-17:38:09.210 cda4 Delete type=2 #748
+2025/05/25-17:38:09.210 cda4 Delete type=2 #749
+2025/05/25-17:38:09.210 cda4 Delete type=2 #751
+2025/05/25-17:38:09.210 cda4 Delete type=2 #753
+2025/05/25-17:38:09.210 cda4 Delete type=2 #755
+2025/05/25-17:38:09.210 cda4 Delete type=2 #757
+2025/05/25-17:39:21.248 cda4 Level-0 table #761: started
+2025/05/25-17:39:21.253 cda4 Level-0 table #761: 21645 bytes OK
+2025/05/25-17:39:21.254 cda4 Delete type=0 #756
+2025/05/25-17:45:59.945 cda4 Level-0 table #763: started
+2025/05/25-17:45:59.950 cda4 Level-0 table #763: 19628 bytes OK
+2025/05/25-17:45:59.952 cda4 Delete type=0 #760
+2025/05/25-17:52:16.378 cda4 Level-0 table #765: started
+2025/05/25-17:52:16.383 cda4 Level-0 table #765: 19042 bytes OK
+2025/05/25-17:52:16.384 cda4 Delete type=0 #762
+2025/05/25-18:00:46.749 cda4 Level-0 table #767: started
+2025/05/25-18:00:46.754 cda4 Level-0 table #767: 20947 bytes OK
+2025/05/25-18:00:46.756 cda4 Delete type=0 #764
+2025/05/25-18:00:46.757 cda4 Compacting 4@0 + 2@1 files
+2025/05/25-18:00:46.804 cda4 Generated table #768@0: 88895 keys, 2119726 bytes
+2025/05/25-18:00:46.810 cda4 Generated table #769@0: 4023 keys, 81843 bytes
+2025/05/25-18:00:46.810 cda4 Compacted 4@0 + 2@1 files => 2201569 bytes
+2025/05/25-18:00:46.811 cda4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/25-18:00:46.812 cda4 Delete type=2 #758
+2025/05/25-18:00:46.812 cda4 Delete type=2 #759
+2025/05/25-18:00:46.812 cda4 Delete type=2 #761
+2025/05/25-18:00:46.812 cda4 Delete type=2 #763
+2025/05/25-18:00:46.812 cda4 Delete type=2 #765
+2025/05/25-18:00:46.812 cda4 Delete type=2 #767
+2025/05/25-18:09:12.087 cda4 Level-0 table #771: started
+2025/05/25-18:09:12.095 cda4 Level-0 table #771: 19822 bytes OK
+2025/05/25-18:09:12.097 cda4 Delete type=0 #766
+2025/05/25-18:10:11.210 cda4 Level-0 table #773: started
+2025/05/25-18:10:11.215 cda4 Level-0 table #773: 17643 bytes OK
+2025/05/25-18:10:11.216 cda4 Delete type=0 #770
+2025/05/25-18:11:21.791 cda4 Level-0 table #775: started
+2025/05/25-18:11:21.797 cda4 Level-0 table #775: 136990 bytes OK
+2025/05/25-18:11:21.798 cda4 Delete type=0 #772
+2025/05/25-18:11:29.975 cda4 Level-0 table #777: started
+2025/05/25-18:11:29.980 cda4 Level-0 table #777: 19241 bytes OK
+2025/05/25-18:11:29.982 cda4 Delete type=0 #774
+2025/05/25-18:11:29.983 cda4 Compacting 4@0 + 2@1 files
+2025/05/25-18:11:30.027 cda4 Generated table #778@0: 89037 keys, 2121534 bytes
+2025/05/25-18:11:30.034 cda4 Generated table #779@0: 5170 keys, 109078 bytes
+2025/05/25-18:11:30.034 cda4 Compacted 4@0 + 2@1 files => 2230612 bytes
+2025/05/25-18:11:30.035 cda4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/25-18:11:30.036 cda4 Delete type=2 #768
+2025/05/25-18:11:30.036 cda4 Delete type=2 #769
+2025/05/25-18:11:30.036 cda4 Delete type=2 #771
+2025/05/25-18:11:30.036 cda4 Delete type=2 #773
+2025/05/25-18:11:30.036 cda4 Delete type=2 #775
+2025/05/25-18:11:30.036 cda4 Delete type=2 #777
+2025/05/25-18:12:36.119 cda4 Level-0 table #781: started
+2025/05/25-18:12:36.124 cda4 Level-0 table #781: 19826 bytes OK
+2025/05/25-18:12:36.125 cda4 Delete type=0 #776
+2025/05/25-18:19:41.190 cda4 Level-0 table #783: started
+2025/05/25-18:19:41.199 cda4 Level-0 table #783: 20041 bytes OK
+2025/05/25-18:19:41.200 cda4 Delete type=0 #780
+2025/05/25-18:27:09.051 cda4 Level-0 table #785: started
+2025/05/25-18:27:09.056 cda4 Level-0 table #785: 19067 bytes OK
+2025/05/25-18:27:09.057 cda4 Delete type=0 #782
+2025/05/25-18:34:40.187 cda4 Level-0 table #787: started
+2025/05/25-18:34:40.192 cda4 Level-0 table #787: 21169 bytes OK
+2025/05/25-18:34:40.194 cda4 Delete type=0 #784
+2025/05/25-18:34:40.194 cda4 Compacting 4@0 + 2@1 files
+2025/05/25-18:34:40.236 cda4 Generated table #788@0: 88921 keys, 2120370 bytes
+2025/05/25-18:34:40.244 cda4 Generated table #789@0: 7026 keys, 153491 bytes
+2025/05/25-18:34:40.244 cda4 Compacted 4@0 + 2@1 files => 2273861 bytes
+2025/05/25-18:34:40.245 cda4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/25-18:34:40.246 cda4 Delete type=2 #778
+2025/05/25-18:34:40.246 cda4 Delete type=2 #779
+2025/05/25-18:34:40.246 cda4 Delete type=2 #781
+2025/05/25-18:34:40.246 cda4 Delete type=2 #783
+2025/05/25-18:34:40.246 cda4 Delete type=2 #785
+2025/05/25-18:34:40.246 cda4 Delete type=2 #787
+2025/05/25-18:42:15.966 cda4 Level-0 table #791: started
+2025/05/25-18:42:15.970 cda4 Level-0 table #791: 20240 bytes OK
+2025/05/25-18:42:15.971 cda4 Delete type=0 #786
+2025/05/25-18:50:16.897 cda4 Level-0 table #793: started
+2025/05/25-18:50:16.905 cda4 Level-0 table #793: 20257 bytes OK
+2025/05/25-18:50:16.907 cda4 Delete type=0 #790
+2025/05/25-18:57:30.789 cda4 Level-0 table #795: started
+2025/05/25-18:57:30.794 cda4 Level-0 table #795: 20277 bytes OK
+2025/05/25-18:57:30.795 cda4 Delete type=0 #792
+2025/05/25-19:04:13.131 cda4 Level-0 table #797: started
+2025/05/25-19:04:13.139 cda4 Level-0 table #797: 20383 bytes OK
+2025/05/25-19:04:13.141 cda4 Delete type=0 #794
+2025/05/25-19:04:13.142 cda4 Compacting 4@0 + 2@1 files
+2025/05/25-19:04:13.187 cda4 Generated table #798@0: 88952 keys, 2120516 bytes
+2025/05/25-19:04:13.196 cda4 Generated table #799@0: 8753 keys, 194532 bytes
+2025/05/25-19:04:13.196 cda4 Compacted 4@0 + 2@1 files => 2315048 bytes
+2025/05/25-19:04:13.197 cda4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/25-19:04:13.198 cda4 Delete type=2 #788
+2025/05/25-19:04:13.198 cda4 Delete type=2 #789
+2025/05/25-19:04:13.198 cda4 Delete type=2 #791
+2025/05/25-19:04:13.198 cda4 Delete type=2 #793
+2025/05/25-19:04:13.198 cda4 Delete type=2 #795
+2025/05/25-19:04:13.198 cda4 Delete type=2 #797
+2025/05/25-19:10:48.982 cda4 Level-0 table #801: started
+2025/05/25-19:10:48.990 cda4 Level-0 table #801: 20375 bytes OK
+2025/05/25-19:10:48.992 cda4 Delete type=0 #796
+2025/05/25-19:18:21.978 cda4 Level-0 table #803: started
+2025/05/25-19:18:21.986 cda4 Level-0 table #803: 20440 bytes OK
+2025/05/25-19:18:21.988 cda4 Delete type=0 #800
+2025/05/25-19:19:21.367 cda4 Level-0 table #805: started
+2025/05/25-19:19:21.372 cda4 Level-0 table #805: 127174 bytes OK
+2025/05/25-19:19:21.374 cda4 Delete type=0 #802
+2025/05/25-19:19:28.703 cda4 Level-0 table #807: started
+2025/05/25-19:19:28.711 cda4 Level-0 table #807: 17034 bytes OK
+2025/05/25-19:19:28.713 cda4 Delete type=0 #804
+2025/05/25-19:19:28.713 cda4 Compacting 4@0 + 2@1 files
+2025/05/25-19:19:28.754 cda4 Generated table #808@0: 88978 keys, 2120729 bytes
+2025/05/25-19:19:28.763 cda4 Generated table #809@0: 10052 keys, 225355 bytes
+2025/05/25-19:19:28.764 cda4 Compacted 4@0 + 2@1 files => 2346084 bytes
+2025/05/25-19:19:28.764 cda4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/25-19:19:28.765 cda4 Delete type=2 #798
+2025/05/25-19:19:28.765 cda4 Delete type=2 #799
+2025/05/25-19:19:28.765 cda4 Delete type=2 #801
+2025/05/25-19:19:28.765 cda4 Delete type=2 #803
+2025/05/25-19:19:28.765 cda4 Delete type=2 #805
+2025/05/25-19:19:28.765 cda4 Delete type=2 #807
+2025/05/25-19:20:32.666 cda4 Level-0 table #811: started
+2025/05/25-19:20:32.671 cda4 Level-0 table #811: 18052 bytes OK
+2025/05/25-19:20:32.673 cda4 Delete type=0 #806
+2025/05/25-19:21:44.523 cda4 Level-0 table #813: started
+2025/05/25-19:21:44.532 cda4 Level-0 table #813: 22346 bytes OK
+2025/05/25-19:21:44.533 cda4 Delete type=0 #810
+2025/05/25-19:29:51.306 cda4 Level-0 table #815: started
+2025/05/25-19:29:51.314 cda4 Level-0 table #815: 20306 bytes OK
+2025/05/25-19:29:51.316 cda4 Delete type=0 #812
+2025/05/25-19:30:50.569 cda4 Level-0 table #817: started
+2025/05/25-19:30:50.576 cda4 Level-0 table #817: 18175 bytes OK
+2025/05/25-19:30:50.577 cda4 Delete type=0 #814
+2025/05/25-19:30:50.578 cda4 Compacting 4@0 + 2@1 files
+2025/05/25-19:30:50.620 cda4 Generated table #818@0: 88983 keys, 2121937 bytes
+2025/05/25-19:30:50.629 cda4 Generated table #819@0: 11825 keys, 267655 bytes
+2025/05/25-19:30:50.630 cda4 Compacted 4@0 + 2@1 files => 2389592 bytes
+2025/05/25-19:30:50.630 cda4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/25-19:30:50.631 cda4 Delete type=2 #808
+2025/05/25-19:30:50.631 cda4 Delete type=2 #809
+2025/05/25-19:30:50.631 cda4 Delete type=2 #811
+2025/05/25-19:30:50.631 cda4 Delete type=2 #813
+2025/05/25-19:30:50.631 cda4 Delete type=2 #815
+2025/05/25-19:30:50.631 cda4 Delete type=2 #817
+2025/05/25-19:32:01.169 cda4 Level-0 table #821: started
+2025/05/25-19:32:01.174 cda4 Level-0 table #821: 20367 bytes OK
+2025/05/25-19:32:01.175 cda4 Delete type=0 #816
+2025/05/25-19:33:13.349 cda4 Level-0 table #823: started
+2025/05/25-19:33:13.362 cda4 Level-0 table #823: 22532 bytes OK
+2025/05/25-19:33:13.364 cda4 Delete type=0 #820
+2025/05/25-19:40:05.822 cda4 Level-0 table #825: started
+2025/05/25-19:40:05.837 cda4 Level-0 table #825: 20637 bytes OK
+2025/05/25-19:40:05.839 cda4 Delete type=0 #822
+2025/05/25-19:48:22.145 cda4 Level-0 table #827: started
+2025/05/25-19:48:22.153 cda4 Level-0 table #827: 20560 bytes OK
+2025/05/25-19:48:22.155 cda4 Delete type=0 #824
+2025/05/25-19:48:22.156 cda4 Compacting 4@0 + 2@1 files
+2025/05/25-19:48:22.198 cda4 Generated table #828@0: 89005 keys, 2121880 bytes
+2025/05/25-19:48:22.209 cda4 Generated table #829@0: 13594 keys, 309686 bytes
+2025/05/25-19:48:22.209 cda4 Compacted 4@0 + 2@1 files => 2431566 bytes
+2025/05/25-19:48:22.209 cda4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/25-19:48:22.210 cda4 Delete type=2 #818
+2025/05/25-19:48:22.210 cda4 Delete type=2 #819
+2025/05/25-19:48:22.210 cda4 Delete type=2 #821
+2025/05/25-19:48:22.210 cda4 Delete type=2 #823
+2025/05/25-19:48:22.210 cda4 Delete type=2 #825
+2025/05/25-19:48:22.210 cda4 Delete type=2 #827
+2025/05/25-19:49:21.420 cda4 Level-0 table #831: started
+2025/05/25-19:49:21.424 cda4 Level-0 table #831: 18339 bytes OK
+2025/05/25-19:49:21.426 cda4 Delete type=0 #826
+2025/05/25-19:50:32.780 cda4 Level-0 table #833: started
+2025/05/25-19:50:32.786 cda4 Level-0 table #833: 144805 bytes OK
+2025/05/25-19:50:32.787 cda4 Delete type=0 #830
+2025/05/25-19:50:40.909 cda4 Level-0 table #835: started
+2025/05/25-19:50:40.914 cda4 Level-0 table #835: 20028 bytes OK
+2025/05/25-19:50:40.916 cda4 Delete type=0 #832
+2025/05/25-19:51:47.054 cda4 Level-0 table #837: started
+2025/05/25-19:51:47.061 cda4 Level-0 table #837: 20488 bytes OK
+2025/05/25-19:51:47.062 cda4 Delete type=0 #834
+2025/05/25-19:51:47.063 cda4 Compacting 4@0 + 2@1 files
+2025/05/25-19:51:47.101 cda4 Generated table #838@0: 89004 keys, 2120957 bytes
+2025/05/25-19:51:47.112 cda4 Generated table #839@0: 14948 keys, 341865 bytes
+2025/05/25-19:51:47.112 cda4 Compacted 4@0 + 2@1 files => 2462822 bytes
+2025/05/25-19:51:47.113 cda4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/25-19:51:47.113 cda4 Delete type=2 #828
+2025/05/25-19:51:47.113 cda4 Delete type=2 #829
+2025/05/25-19:51:47.113 cda4 Delete type=2 #831
+2025/05/25-19:51:47.113 cda4 Delete type=2 #833
+2025/05/25-19:51:47.113 cda4 Delete type=2 #835
+2025/05/25-19:51:47.113 cda4 Delete type=2 #837
+2025/05/25-19:58:52.664 cda4 Level-0 table #841: started
+2025/05/25-19:58:52.670 cda4 Level-0 table #841: 20721 bytes OK
+2025/05/25-19:58:52.671 cda4 Delete type=0 #836
+2025/05/25-20:06:00.896 cda4 Level-0 table #843: started
+2025/05/25-20:06:00.904 cda4 Level-0 table #843: 20997 bytes OK
+2025/05/25-20:06:00.905 cda4 Delete type=0 #840
+2025/05/25-20:13:01.295 cda4 Level-0 table #845: started
+2025/05/25-20:13:01.303 cda4 Level-0 table #845: 20816 bytes OK
+2025/05/25-20:13:01.304 cda4 Delete type=0 #842
+2025/05/25-20:14:00.480 cda4 Level-0 table #847: started
+2025/05/25-20:14:00.485 cda4 Level-0 table #847: 18696 bytes OK
+2025/05/25-20:14:00.487 cda4 Delete type=0 #844
+2025/05/25-20:14:00.487 cda4 Compacting 4@0 + 2@1 files
+2025/05/25-20:14:00.530 cda4 Generated table #848@0: 89026 keys, 2121815 bytes
+2025/05/25-20:14:00.542 cda4 Generated table #849@0: 16748 keys, 384782 bytes
+2025/05/25-20:14:00.542 cda4 Compacted 4@0 + 2@1 files => 2506597 bytes
+2025/05/25-20:14:00.543 cda4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/25-20:14:00.544 cda4 Delete type=2 #838
+2025/05/25-20:14:00.544 cda4 Delete type=2 #839
+2025/05/25-20:14:00.544 cda4 Delete type=2 #841
+2025/05/25-20:14:00.544 cda4 Delete type=2 #843
+2025/05/25-20:14:00.544 cda4 Delete type=2 #845
+2025/05/25-20:14:00.544 cda4 Delete type=2 #847
+2025/05/25-20:15:12.976 cda4 Level-0 table #851: started
+2025/05/25-20:15:12.982 cda4 Level-0 table #851: 145275 bytes OK
+2025/05/25-20:15:12.983 cda4 Delete type=0 #846
+2025/05/25-20:15:21.134 cda4 Level-0 table #853: started
+2025/05/25-20:15:21.141 cda4 Level-0 table #853: 20262 bytes OK
+2025/05/25-20:15:21.143 cda4 Delete type=0 #850
+2025/05/25-20:16:27.526 cda4 Level-0 table #855: started
+2025/05/25-20:16:27.534 cda4 Level-0 table #855: 20744 bytes OK
+2025/05/25-20:16:27.535 cda4 Delete type=0 #852
+2025/05/25-20:24:43.969 cda4 Level-0 table #857: started
+2025/05/25-20:24:43.974 cda4 Level-0 table #857: 21144 bytes OK
+2025/05/25-20:24:43.976 cda4 Delete type=0 #854
+2025/05/25-20:24:43.977 cda4 Compacting 4@0 + 2@1 files
+2025/05/25-20:24:44.018 cda4 Generated table #858@0: 89039 keys, 2121733 bytes
+2025/05/25-20:24:44.029 cda4 Generated table #859@0: 18111 keys, 417107 bytes
+2025/05/25-20:24:44.029 cda4 Compacted 4@0 + 2@1 files => 2538840 bytes
+2025/05/25-20:24:44.030 cda4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/25-20:24:44.030 cda4 Delete type=2 #848
+2025/05/25-20:24:44.030 cda4 Delete type=2 #849
+2025/05/25-20:24:44.030 cda4 Delete type=2 #851
+2025/05/25-20:24:44.030 cda4 Delete type=2 #853
+2025/05/25-20:24:44.030 cda4 Delete type=2 #855
+2025/05/25-20:24:44.030 cda4 Delete type=2 #857
+2025/05/25-20:32:24.549 cd9c Level-0 table #861: started
+2025/05/25-20:32:24.553 cd9c Level-0 table #861: 21106 bytes OK
+2025/05/25-20:32:24.555 cd9c Delete type=0 #856
+2025/05/25-20:33:31.992 cda4 Level-0 table #863: started
+2025/05/25-20:33:31.996 cda4 Level-0 table #863: 19755 bytes OK
+2025/05/25-20:33:31.998 cda4 Delete type=0 #860
+2025/05/25-20:34:42.330 cda4 Level-0 table #865: started
+2025/05/25-20:34:42.334 cda4 Level-0 table #865: 20855 bytes OK
+2025/05/25-20:34:42.336 cda4 Delete type=0 #862
+2025/05/25-20:35:47.883 cda4 Level-0 table #867: started
+2025/05/25-20:35:47.889 cda4 Level-0 table #867: 20541 bytes OK
+2025/05/25-20:35:47.891 cda4 Delete type=0 #864
+2025/05/25-20:35:47.892 cda4 Compacting 4@0 + 2@1 files
+2025/05/25-20:35:47.936 cda4 Generated table #868@0: 89058 keys, 2121614 bytes
+2025/05/25-20:35:47.948 cda4 Generated table #869@0: 19938 keys, 460811 bytes
+2025/05/25-20:35:47.948 cda4 Compacted 4@0 + 2@1 files => 2582425 bytes
+2025/05/25-20:35:47.949 cda4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/25-20:35:47.950 cda4 Delete type=2 #858
+2025/05/25-20:35:47.950 cda4 Delete type=2 #859
+2025/05/25-20:35:47.950 cda4 Delete type=2 #861
+2025/05/25-20:35:47.950 cda4 Delete type=2 #863
+2025/05/25-20:35:47.950 cda4 Delete type=2 #865
+2025/05/25-20:35:47.950 cda4 Delete type=2 #867
+2025/05/25-20:44:08.763 cda4 Level-0 table #871: started
+2025/05/25-20:44:08.771 cda4 Level-0 table #871: 21357 bytes OK
+2025/05/25-20:44:08.773 cda4 Delete type=0 #866
+2025/05/25-20:45:07.983 cda4 Level-0 table #873: started
+2025/05/25-20:45:07.988 cda4 Level-0 table #873: 19003 bytes OK
+2025/05/25-20:45:07.990 cda4 Delete type=0 #870
+2025/05/25-20:46:18.530 cda4 Level-0 table #875: started
+2025/05/25-20:46:18.535 cda4 Level-0 table #875: 21173 bytes OK
+2025/05/25-20:46:18.537 cda4 Delete type=0 #872
+2025/05/25-20:47:30.660 cda4 Level-0 table #877: started
+2025/05/25-20:47:30.668 cda4 Level-0 table #877: 22576 bytes OK
+2025/05/25-20:47:30.669 cda4 Delete type=0 #874
+2025/05/25-20:47:30.670 cda4 Compacting 4@0 + 2@1 files
+2025/05/25-20:47:30.714 cda4 Generated table #878@0: 89076 keys, 2121373 bytes
+2025/05/25-20:47:30.728 cda4 Generated table #879@0: 21782 keys, 504306 bytes
+2025/05/25-20:47:30.728 cda4 Compacted 4@0 + 2@1 files => 2625679 bytes
+2025/05/25-20:47:30.729 cda4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/25-20:47:30.729 cda4 Delete type=2 #868
+2025/05/25-20:47:30.730 cda4 Delete type=2 #869
+2025/05/25-20:47:30.730 cda4 Delete type=2 #871
+2025/05/25-20:47:30.730 cda4 Delete type=2 #873
+2025/05/25-20:47:30.730 cda4 Delete type=2 #875
+2025/05/25-20:47:30.730 cda4 Delete type=2 #877
+2025/05/25-20:53:52.883 cda4 Level-0 table #881: started
+2025/05/25-20:53:52.890 cda4 Level-0 table #881: 21444 bytes OK
+2025/05/25-20:53:52.892 cda4 Delete type=0 #876
+2025/05/25-21:02:07.096 cda4 Level-0 table #883: started
+2025/05/25-21:02:07.101 cda4 Level-0 table #883: 21534 bytes OK
+2025/05/25-21:02:07.103 cda4 Delete type=0 #880
+2025/05/25-21:09:17.476 cda4 Level-0 table #885: started
+2025/05/25-21:09:17.487 cda4 Level-0 table #885: 21579 bytes OK
+2025/05/25-21:09:17.489 cda4 Delete type=0 #882
+2025/05/25-21:10:16.824 cda4 Level-0 table #887: started
+2025/05/25-21:10:16.829 cda4 Level-0 table #887: 19261 bytes OK
+2025/05/25-21:10:16.831 cda4 Delete type=0 #884
+2025/05/25-21:10:16.831 cda4 Compacting 4@0 + 2@1 files
+2025/05/25-21:10:16.875 cda4 Generated table #888@0: 89068 keys, 2121425 bytes
+2025/05/25-21:10:16.890 cda4 Generated table #889@0: 23672 keys, 549265 bytes
+2025/05/25-21:10:16.890 cda4 Compacted 4@0 + 2@1 files => 2670690 bytes
+2025/05/25-21:10:16.891 cda4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/25-21:10:16.892 cda4 Delete type=2 #878
+2025/05/25-21:10:16.892 cda4 Delete type=2 #879
+2025/05/25-21:10:16.892 cda4 Delete type=2 #881
+2025/05/25-21:10:16.892 cda4 Delete type=2 #883
+2025/05/25-21:10:16.892 cda4 Delete type=2 #885
+2025/05/25-21:10:16.892 cda4 Delete type=2 #887
+2025/05/25-21:11:27.465 cda4 Level-0 table #891: started
+2025/05/25-21:11:27.471 cda4 Level-0 table #891: 21469 bytes OK
+2025/05/25-21:11:27.472 cda4 Delete type=0 #886
+2025/05/25-21:12:39.564 cda4 Level-0 table #893: started
+2025/05/25-21:12:39.570 cda4 Level-0 table #893: 22789 bytes OK
+2025/05/25-21:12:39.572 cda4 Delete type=0 #890
+2025/05/25-21:20:16.123 cda4 Level-0 table #895: started
+2025/05/25-21:20:16.127 cda4 Level-0 table #895: 21527 bytes OK
+2025/05/25-21:20:16.129 cda4 Delete type=0 #892
+2025/05/25-21:27:35.372 cda4 Level-0 table #897: started
+2025/05/25-21:27:35.380 cda4 Level-0 table #897: 21824 bytes OK
+2025/05/25-21:27:35.381 cda4 Delete type=0 #894
+2025/05/25-21:27:35.382 cda4 Compacting 4@0 + 2@1 files
+2025/05/25-21:27:35.424 cda4 Generated table #898@0: 89094 keys, 2121740 bytes
+2025/05/25-21:27:35.441 cda4 Generated table #899@0: 25544 keys, 593956 bytes
+2025/05/25-21:27:35.441 cda4 Compacted 4@0 + 2@1 files => 2715696 bytes
+2025/05/25-21:27:35.443 cda4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/25-21:27:35.443 cda4 Delete type=2 #888
+2025/05/25-21:27:35.443 cda4 Delete type=2 #889
+2025/05/25-21:27:35.443 cda4 Delete type=2 #891
+2025/05/25-21:27:35.444 cda4 Delete type=2 #893
+2025/05/25-21:27:35.444 cda4 Delete type=2 #895
+2025/05/25-21:27:35.444 cda4 Delete type=2 #897
+2025/05/25-21:34:49.795 cda4 Level-0 table #901: started
+2025/05/25-21:34:49.803 cda4 Level-0 table #901: 21796 bytes OK
+2025/05/25-21:34:49.805 cda4 Delete type=0 #896
+2025/05/25-21:40:59.734 cda4 Level-0 table #903: started
+2025/05/25-21:40:59.741 cda4 Level-0 table #903: 20902 bytes OK
+2025/05/25-21:40:59.743 cda4 Delete type=0 #900
+2025/05/25-21:49:04.496 cda4 Level-0 table #905: started
+2025/05/25-21:49:04.501 cda4 Level-0 table #905: 22132 bytes OK
+2025/05/25-21:49:04.503 cda4 Delete type=0 #902
+2025/05/25-21:56:05.780 cda4 Level-0 table #907: started
+2025/05/25-21:56:05.786 cda4 Level-0 table #907: 21948 bytes OK
+2025/05/25-21:56:05.788 cda4 Delete type=0 #904
+2025/05/25-21:56:05.789 cda4 Compacting 4@0 + 2@1 files
+2025/05/25-21:56:05.853 cda4 Generated table #908@0: 89108 keys, 2121493 bytes
+2025/05/25-21:56:05.876 cda4 Generated table #909@0: 27442 keys, 638545 bytes
+2025/05/25-21:56:05.876 cda4 Compacted 4@0 + 2@1 files => 2760038 bytes
+2025/05/25-21:56:05.877 cda4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/25-21:56:05.877 cda4 Delete type=2 #898
+2025/05/25-21:56:05.878 cda4 Delete type=2 #899
+2025/05/25-21:56:05.878 cda4 Delete type=2 #901
+2025/05/25-21:56:05.878 cda4 Delete type=2 #903
+2025/05/25-21:56:05.878 cda4 Delete type=2 #905
+2025/05/25-21:56:05.878 cda4 Delete type=2 #907
+2025/05/25-21:57:13.791 cda4 Level-0 table #911: started
+2025/05/25-21:57:13.798 cda4 Level-0 table #911: 151984 bytes OK
+2025/05/25-21:57:13.800 cda4 Delete type=0 #906
+2025/05/25-21:57:22.735 cda4 Level-0 table #913: started
+2025/05/25-21:57:22.741 cda4 Level-0 table #913: 21163 bytes OK
+2025/05/25-21:57:22.743 cda4 Delete type=0 #910
+2025/05/25-21:58:27.954 cda4 Level-0 table #915: started
+2025/05/25-21:58:27.960 cda4 Level-0 table #915: 19595 bytes OK
+2025/05/25-21:58:27.961 cda4 Delete type=0 #912
+2025/05/25-21:59:36.041 cda4 Level-0 table #917: started
+2025/05/25-21:59:36.047 cda4 Level-0 table #917: 22960 bytes OK
+2025/05/25-21:59:36.048 cda4 Delete type=0 #914
+2025/05/25-21:59:36.049 cda4 Compacting 4@0 + 2@1 files
+2025/05/25-21:59:36.119 cda4 Generated table #918@0: 89138 keys, 2122089 bytes
+2025/05/25-21:59:36.144 cda4 Generated table #919@0: 28852 keys, 672494 bytes
+2025/05/25-21:59:36.144 cda4 Compacted 4@0 + 2@1 files => 2794583 bytes
+2025/05/25-21:59:36.146 cda4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/25-21:59:36.146 cda4 Delete type=2 #908
+2025/05/25-21:59:36.146 cda4 Delete type=2 #909
+2025/05/25-21:59:36.147 cda4 Delete type=2 #911
+2025/05/25-21:59:36.147 cda4 Delete type=2 #913
+2025/05/25-21:59:36.147 cda4 Delete type=2 #915
+2025/05/25-21:59:36.147 cda4 Delete type=2 #917
+2025/05/25-22:07:24.312 cda4 Level-0 table #921: started
+2025/05/25-22:07:24.319 cda4 Level-0 table #921: 21836 bytes OK
+2025/05/25-22:07:24.321 cda4 Delete type=0 #916
+2025/05/25-22:14:59.357 cda4 Level-0 table #923: started
+2025/05/25-22:14:59.362 cda4 Level-0 table #923: 22232 bytes OK
+2025/05/25-22:14:59.364 cda4 Delete type=0 #920
+2025/05/25-22:22:23.494 cda4 Level-0 table #925: started
+2025/05/25-22:22:23.505 cda4 Level-0 table #925: 22180 bytes OK
+2025/05/25-22:22:23.506 cda4 Delete type=0 #922
+2025/05/25-22:29:30.037 cda4 Level-0 table #927: started
+2025/05/25-22:29:30.042 cda4 Level-0 table #927: 22182 bytes OK
+2025/05/25-22:29:30.043 cda4 Delete type=0 #924
+2025/05/25-22:29:30.044 cda4 Compacting 4@0 + 2@1 files
+2025/05/25-22:29:30.110 cda4 Generated table #928@0: 89133 keys, 2120909 bytes
+2025/05/25-22:29:30.139 cda4 Generated table #929@0: 30797 keys, 718469 bytes
+2025/05/25-22:29:30.139 cda4 Compacted 4@0 + 2@1 files => 2839378 bytes
+2025/05/25-22:29:30.140 cda4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/25-22:29:30.141 cda4 Delete type=2 #918
+2025/05/25-22:29:30.141 cda4 Delete type=2 #919
+2025/05/25-22:29:30.141 cda4 Delete type=2 #921
+2025/05/25-22:29:30.141 cda4 Delete type=2 #923
+2025/05/25-22:29:30.141 cda4 Delete type=2 #925
+2025/05/25-22:29:30.141 cda4 Delete type=2 #927
+2025/05/25-22:38:00.329 cda4 Level-0 table #931: started
+2025/05/25-22:38:00.334 cda4 Level-0 table #931: 22274 bytes OK
+2025/05/25-22:38:00.336 cda4 Delete type=0 #926
+2025/05/25-22:46:11.023 cda4 Level-0 table #933: started
+2025/05/25-22:46:11.029 cda4 Level-0 table #933: 22310 bytes OK
+2025/05/25-22:46:11.030 cda4 Delete type=0 #930
+2025/05/25-22:52:40.834 cda4 Level-0 table #935: started
+2025/05/25-22:52:40.839 cda4 Level-0 table #935: 22403 bytes OK
+2025/05/25-22:52:40.841 cda4 Delete type=0 #932
+2025/05/25-22:59:01.997 cda4 Level-0 table #937: started
+2025/05/25-22:59:02.004 cda4 Level-0 table #937: 22266 bytes OK
+2025/05/25-22:59:02.006 cda4 Delete type=0 #934
+2025/05/25-22:59:02.006 cda4 Compacting 4@0 + 2@1 files
+2025/05/25-22:59:02.063 cda4 Generated table #938@0: 89166 keys, 2121904 bytes
+2025/05/25-22:59:02.089 cda4 Generated table #939@0: 32722 keys, 763838 bytes
+2025/05/25-22:59:02.089 cda4 Compacted 4@0 + 2@1 files => 2885742 bytes
+2025/05/25-22:59:02.090 cda4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/25-22:59:02.091 cda4 Delete type=2 #928
+2025/05/25-22:59:02.091 cda4 Delete type=2 #929
+2025/05/25-22:59:02.091 cda4 Delete type=2 #931
+2025/05/25-22:59:02.091 cda4 Delete type=2 #933
+2025/05/25-22:59:02.091 cda4 Delete type=2 #935
+2025/05/25-22:59:02.091 cda4 Delete type=2 #937
+2025/05/25-23:06:53.643 cda4 Level-0 table #941: started
+2025/05/25-23:06:53.650 cda4 Level-0 table #941: 156884 bytes OK
+2025/05/25-23:06:53.652 cda4 Delete type=0 #936
+2025/05/25-23:07:05.778 cda4 Level-0 table #943: started
+2025/05/25-23:07:05.786 cda4 Level-0 table #943: 21712 bytes OK
+2025/05/25-23:07:05.788 cda4 Delete type=0 #940
+2025/05/25-23:13:38.077 cda4 Level-0 table #945: started
+2025/05/25-23:13:38.082 cda4 Level-0 table #945: 21466 bytes OK
+2025/05/25-23:13:38.084 cda4 Delete type=0 #942
+2025/05/25-23:21:14.783 cda4 Level-0 table #947: started
+2025/05/25-23:21:14.788 cda4 Level-0 table #947: 22451 bytes OK
+2025/05/25-23:21:14.789 cda4 Delete type=0 #944
+2025/05/25-23:21:14.790 cda4 Compacting 4@0 + 2@1 files
+2025/05/25-23:21:14.850 cda4 Generated table #948@0: 89040 keys, 2119176 bytes
+2025/05/25-23:21:14.878 cda4 Generated table #949@0: 34327 keys, 802684 bytes
+2025/05/25-23:21:14.878 cda4 Compacted 4@0 + 2@1 files => 2921860 bytes
+2025/05/25-23:21:14.879 cda4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/25-23:21:14.880 cda4 Delete type=2 #938
+2025/05/25-23:21:14.880 cda4 Delete type=2 #939
+2025/05/25-23:21:14.880 cda4 Delete type=2 #941
+2025/05/25-23:21:14.880 cda4 Delete type=2 #943
+2025/05/25-23:21:14.880 cda4 Delete type=2 #945
+2025/05/25-23:21:14.880 cda4 Delete type=2 #947
+2025/05/25-23:29:06.577 cda4 Level-0 table #951: started
+2025/05/25-23:29:06.584 cda4 Level-0 table #951: 152016 bytes OK
+2025/05/25-23:29:06.585 cda4 Delete type=0 #946
+2025/05/25-23:29:18.714 cda4 Level-0 table #953: started
+2025/05/25-23:29:18.722 cda4 Level-0 table #953: 20071 bytes OK
+2025/05/25-23:29:18.725 cda4 Delete type=0 #950
+2025/05/25-23:36:41.245 cda4 Level-0 table #955: started
+2025/05/25-23:36:41.250 cda4 Level-0 table #955: 21323 bytes OK
+2025/05/25-23:36:41.251 cda4 Delete type=0 #952
+2025/05/25-23:44:12.219 cda4 Level-0 table #957: started
+2025/05/25-23:44:12.224 cda4 Level-0 table #957: 22487 bytes OK
+2025/05/25-23:44:12.226 cda4 Delete type=0 #954
+2025/05/25-23:44:12.227 cda4 Compacting 4@0 + 2@1 files
+2025/05/25-23:44:12.281 cda4 Generated table #958@0: 89061 keys, 2118985 bytes
+2025/05/25-23:44:12.306 cda4 Generated table #959@0: 35794 keys, 837084 bytes
+2025/05/25-23:44:12.306 cda4 Compacted 4@0 + 2@1 files => 2956069 bytes
+2025/05/25-23:44:12.307 cda4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/25-23:44:12.308 cda4 Delete type=2 #948
+2025/05/25-23:44:12.308 cda4 Delete type=2 #949
+2025/05/25-23:44:12.308 cda4 Delete type=2 #951
+2025/05/25-23:44:12.308 cda4 Delete type=2 #953
+2025/05/25-23:44:12.308 cda4 Delete type=2 #955
+2025/05/25-23:44:12.308 cda4 Delete type=2 #957
+2025/05/25-23:51:11.377 cda4 Level-0 table #961: started
+2025/05/25-23:51:11.382 cda4 Level-0 table #961: 22554 bytes OK
+2025/05/25-23:51:11.384 cda4 Delete type=0 #956
+2025/05/25-23:58:31.419 cda4 Level-0 table #963: started
+2025/05/25-23:58:31.425 cda4 Level-0 table #963: 22588 bytes OK
+2025/05/25-23:58:31.426 cda4 Delete type=0 #960
+2025/05/26-00:05:22.212 cda4 Level-0 table #965: started
+2025/05/26-00:05:22.217 cda4 Level-0 table #965: 22644 bytes OK
+2025/05/26-00:05:22.219 cda4 Delete type=0 #962
+2025/05/26-00:06:30.423 cda4 Level-0 table #967: started
+2025/05/26-00:06:30.428 cda4 Level-0 table #967: 21126 bytes OK
+2025/05/26-00:06:30.430 cda4 Delete type=0 #964
+2025/05/26-00:06:30.431 cda4 Compacting 4@0 + 2@1 files
+2025/05/26-00:06:30.491 cda4 Generated table #968@0: 89072 keys, 2120318 bytes
+2025/05/26-00:06:30.524 cda4 Generated table #969@0: 37779 keys, 884088 bytes
+2025/05/26-00:06:30.524 cda4 Compacted 4@0 + 2@1 files => 3004406 bytes
+2025/05/26-00:06:30.525 cda4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-00:06:30.526 cda4 Delete type=2 #958
+2025/05/26-00:06:30.526 cda4 Delete type=2 #959
+2025/05/26-00:06:30.526 cda4 Delete type=2 #961
+2025/05/26-00:06:30.526 cda4 Delete type=2 #963
+2025/05/26-00:06:30.526 cda4 Delete type=2 #965
+2025/05/26-00:06:30.526 cda4 Delete type=2 #967
+2025/05/26-00:07:41.130 cda4 Level-0 table #971: started
+2025/05/26-00:07:41.136 cda4 Level-0 table #971: 22403 bytes OK
+2025/05/26-00:07:41.138 cda4 Delete type=0 #966
+2025/05/26-00:08:48.970 cda4 Level-0 table #973: started
+2025/05/26-00:08:48.975 cda4 Level-0 table #973: 23629 bytes OK
+2025/05/26-00:08:48.977 cda4 Delete type=0 #970
+2025/05/26-00:14:49.914 cda4 Level-0 table #975: started
+2025/05/26-00:14:49.920 cda4 Level-0 table #975: 22544 bytes OK
+2025/05/26-00:14:49.921 cda4 Delete type=0 #972
+2025/05/26-00:21:58.190 cda4 Level-0 table #977: started
+2025/05/26-00:21:58.195 cda4 Level-0 table #977: 22696 bytes OK
+2025/05/26-00:21:58.197 cda4 Delete type=0 #974
+2025/05/26-00:21:58.198 cda4 Compacting 4@0 + 2@1 files
+2025/05/26-00:21:58.256 cda4 Generated table #978@0: 89081 keys, 2120662 bytes
+2025/05/26-00:21:58.283 cda4 Generated table #979@0: 39778 keys, 931773 bytes
+2025/05/26-00:21:58.284 cda4 Compacted 4@0 + 2@1 files => 3052435 bytes
+2025/05/26-00:21:58.285 cda4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-00:21:58.285 cda4 Delete type=2 #968
+2025/05/26-00:21:58.286 cda4 Delete type=2 #969
+2025/05/26-00:21:58.286 cda4 Delete type=2 #971
+2025/05/26-00:21:58.286 cda4 Delete type=2 #973
+2025/05/26-00:21:58.286 cda4 Delete type=2 #975
+2025/05/26-00:21:58.286 cda4 Delete type=2 #977
+2025/05/26-00:30:02.760 cda4 Level-0 table #981: started
+2025/05/26-00:30:02.766 cda4 Level-0 table #981: 22861 bytes OK
+2025/05/26-00:30:02.767 cda4 Delete type=0 #976
+2025/05/26-00:31:10.916 cda4 Level-0 table #983: started
+2025/05/26-00:31:10.921 cda4 Level-0 table #983: 21364 bytes OK
+2025/05/26-00:31:10.923 cda4 Delete type=0 #980
+2025/05/26-00:32:21.371 cda4 Level-0 table #985: started
+2025/05/26-00:32:21.376 cda4 Level-0 table #985: 22656 bytes OK
+2025/05/26-00:32:21.378 cda4 Delete type=0 #982
+2025/05/26-00:33:29.429 cda4 Level-0 table #987: started
+2025/05/26-00:33:29.434 cda4 Level-0 table #987: 23810 bytes OK
+2025/05/26-00:33:29.436 cda4 Delete type=0 #984
+2025/05/26-00:33:29.436 cda4 Compacting 4@0 + 2@1 files
+2025/05/26-00:33:29.494 cda4 Generated table #988@0: 89098 keys, 2121072 bytes
+2025/05/26-00:33:29.523 cda4 Generated table #989@0: 41785 keys, 979592 bytes
+2025/05/26-00:33:29.523 cda4 Compacted 4@0 + 2@1 files => 3100664 bytes
+2025/05/26-00:33:29.524 cda4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-00:33:29.524 cda4 Delete type=2 #978
+2025/05/26-00:33:29.525 cda4 Delete type=2 #979
+2025/05/26-00:33:29.525 cda4 Delete type=2 #981
+2025/05/26-00:33:29.525 cda4 Delete type=2 #983
+2025/05/26-00:33:29.525 cda4 Delete type=2 #985
+2025/05/26-00:33:29.525 cda4 Delete type=2 #987
+2025/05/26-00:39:26.240 cda4 Level-0 table #991: started
+2025/05/26-00:39:26.245 cda4 Level-0 table #991: 22665 bytes OK
+2025/05/26-00:39:26.247 cda4 Delete type=0 #986
+2025/05/26-00:40:34.419 cda4 Level-0 table #993: started
+2025/05/26-00:40:34.424 cda4 Level-0 table #993: 21530 bytes OK
+2025/05/26-00:40:34.427 cda4 Delete type=0 #990
+2025/05/26-00:41:45.356 cda4 Level-0 table #995: started
+2025/05/26-00:41:45.362 cda4 Level-0 table #995: 22827 bytes OK
+2025/05/26-00:41:45.363 cda4 Delete type=0 #992
+2025/05/26-00:42:52.884 cda4 Level-0 table #997: started
+2025/05/26-00:42:52.888 cda4 Level-0 table #997: 24024 bytes OK
+2025/05/26-00:42:52.890 cda4 Delete type=0 #994
+2025/05/26-00:42:52.890 cda4 Compacting 4@0 + 2@1 files
+2025/05/26-00:42:52.954 cda4 Generated table #998@0: 89114 keys, 2121481 bytes
+2025/05/26-00:42:52.984 cda4 Generated table #999@0: 43807 keys, 1027227 bytes
+2025/05/26-00:42:52.985 cda4 Compacted 4@0 + 2@1 files => 3148708 bytes
+2025/05/26-00:42:52.986 cda4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-00:42:52.987 cda4 Delete type=2 #988
+2025/05/26-00:42:52.987 cda4 Delete type=2 #989
+2025/05/26-00:42:52.987 cda4 Delete type=2 #991
+2025/05/26-00:42:52.987 cda4 Delete type=2 #993
+2025/05/26-00:42:52.987 cda4 Delete type=2 #995
+2025/05/26-00:42:52.987 cda4 Delete type=2 #997
+2025/05/26-00:49:40.864 cda4 Level-0 table #1001: started
+2025/05/26-00:49:40.869 cda4 Level-0 table #1001: 22833 bytes OK
+2025/05/26-00:49:40.871 cda4 Delete type=0 #996
+2025/05/26-00:50:49.120 cda4 Level-0 table #1003: started
+2025/05/26-00:50:49.126 cda4 Level-0 table #1003: 21660 bytes OK
+2025/05/26-00:50:49.127 cda4 Delete type=0 #1000
+2025/05/26-00:51:59.696 cda4 Level-0 table #1005: started
+2025/05/26-00:51:59.702 cda4 Level-0 table #1005: 22937 bytes OK
+2025/05/26-00:51:59.704 cda4 Delete type=0 #1002
+2025/05/26-00:53:08.097 cda4 Level-0 table #1007: started
+2025/05/26-00:53:08.103 cda4 Level-0 table #1007: 24129 bytes OK
+2025/05/26-00:53:08.105 cda4 Delete type=0 #1004
+2025/05/26-00:53:08.105 cda4 Compacting 4@0 + 2@1 files
+2025/05/26-00:53:08.163 cda4 Generated table #1008@0: 89111 keys, 2120562 bytes
+2025/05/26-00:53:08.193 cda4 Generated table #1009@0: 45864 keys, 1076128 bytes
+2025/05/26-00:53:08.193 cda4 Compacted 4@0 + 2@1 files => 3196690 bytes
+2025/05/26-00:53:08.194 cda4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-00:53:08.194 cda4 Delete type=2 #998
+2025/05/26-00:53:08.194 cda4 Delete type=2 #999
+2025/05/26-00:53:08.195 cda4 Delete type=2 #1001
+2025/05/26-00:53:08.195 cda4 Delete type=2 #1003
+2025/05/26-00:53:08.195 cda4 Delete type=2 #1005
+2025/05/26-00:53:08.195 cda4 Delete type=2 #1007
+2025/05/26-01:00:36.539 cda4 Level-0 table #1011: started
+2025/05/26-01:00:36.544 cda4 Level-0 table #1011: 23000 bytes OK
+2025/05/26-01:00:36.546 cda4 Delete type=0 #1006
+2025/05/26-01:08:04.698 cda4 Level-0 table #1013: started
+2025/05/26-01:08:04.704 cda4 Level-0 table #1013: 23345 bytes OK
+2025/05/26-01:08:04.706 cda4 Delete type=0 #1010
+2025/05/26-01:14:48.057 cda4 Level-0 table #1015: started
+2025/05/26-01:14:48.068 cda4 Level-0 table #1015: 23412 bytes OK
+2025/05/26-01:14:48.070 cda4 Delete type=0 #1012
+2025/05/26-01:22:07.602 cda4 Level-0 table #1017: started
+2025/05/26-01:22:07.607 cda4 Level-0 table #1017: 23486 bytes OK
+2025/05/26-01:22:07.609 cda4 Delete type=0 #1014
+2025/05/26-01:22:07.610 cda4 Compacting 4@0 + 2@1 files
+2025/05/26-01:22:07.671 cda4 Generated table #1018@0: 89128 keys, 2120826 bytes
+2025/05/26-01:22:07.705 cda4 Generated table #1019@0: 47923 keys, 1124253 bytes
+2025/05/26-01:22:07.705 cda4 Compacted 4@0 + 2@1 files => 3245079 bytes
+2025/05/26-01:22:07.706 cda4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-01:22:07.707 cda4 Delete type=2 #1008
+2025/05/26-01:22:07.707 cda4 Delete type=2 #1009
+2025/05/26-01:22:07.707 cda4 Delete type=2 #1011
+2025/05/26-01:22:07.707 cda4 Delete type=2 #1013
+2025/05/26-01:22:07.707 cda4 Delete type=2 #1015
+2025/05/26-01:22:07.707 cda4 Delete type=2 #1017
+2025/05/26-01:29:06.718 cda4 Level-0 table #1021: started
+2025/05/26-01:29:06.723 cda4 Level-0 table #1021: 23451 bytes OK
+2025/05/26-01:29:06.725 cda4 Delete type=0 #1016
+2025/05/26-01:35:34.892 cda4 Level-0 table #1023: started
+2025/05/26-01:35:34.909 cda4 Level-0 table #1023: 23504 bytes OK
+2025/05/26-01:35:34.911 cda4 Delete type=0 #1020
+2025/05/26-01:44:04.275 cda4 Level-0 table #1025: started
+2025/05/26-01:44:04.279 cda4 Level-0 table #1025: 23688 bytes OK
+2025/05/26-01:44:04.281 cda4 Delete type=0 #1022
+2025/05/26-01:45:12.502 cda4 Level-0 table #1027: started
+2025/05/26-01:45:12.508 cda4 Level-0 table #1027: 22072 bytes OK
+2025/05/26-01:45:12.510 cda4 Delete type=0 #1024
+2025/05/26-01:45:12.510 cda4 Compacting 4@0 + 2@1 files
+2025/05/26-01:45:12.566 cda4 Generated table #1028@0: 89128 keys, 2121297 bytes
+2025/05/26-01:45:12.599 cda4 Generated table #1029@0: 50015 keys, 1174567 bytes
+2025/05/26-01:45:12.599 cda4 Compacted 4@0 + 2@1 files => 3295864 bytes
+2025/05/26-01:45:12.600 cda4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-01:45:12.600 cda4 Delete type=2 #1018
+2025/05/26-01:45:12.600 cda4 Delete type=2 #1019
+2025/05/26-01:45:12.601 cda4 Delete type=2 #1021
+2025/05/26-01:45:12.601 cda4 Delete type=2 #1023
+2025/05/26-01:45:12.601 cda4 Delete type=2 #1025
+2025/05/26-01:45:12.601 cda4 Delete type=2 #1027
+2025/05/26-01:46:23.281 cda4 Level-0 table #1031: started
+2025/05/26-01:46:23.286 cda4 Level-0 table #1031: 23313 bytes OK
+2025/05/26-01:46:23.288 cda4 Delete type=0 #1026
+2025/05/26-01:47:31.426 cda4 Level-0 table #1033: started
+2025/05/26-01:47:31.431 cda4 Level-0 table #1033: 24525 bytes OK
+2025/05/26-01:47:31.433 cda4 Delete type=0 #1030
+2025/05/26-01:54:35.677 cda4 Level-0 table #1035: started
+2025/05/26-01:54:35.684 cda4 Level-0 table #1035: 23368 bytes OK
+2025/05/26-01:54:35.685 cda4 Delete type=0 #1032
+2025/05/26-02:01:41.570 cda4 Level-0 table #1037: started
+2025/05/26-02:01:41.575 cda4 Level-0 table #1037: 23821 bytes OK
+2025/05/26-02:01:41.577 cda4 Delete type=0 #1034
+2025/05/26-02:01:41.578 cda4 Compacting 4@0 + 2@1 files
+2025/05/26-02:01:41.643 cda4 Generated table #1038@0: 89141 keys, 2120700 bytes
+2025/05/26-02:01:41.679 cda4 Generated table #1039@0: 52106 keys, 1223975 bytes
+2025/05/26-02:01:41.679 cda4 Compacted 4@0 + 2@1 files => 3344675 bytes
+2025/05/26-02:01:41.680 cda4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-02:01:41.680 cda4 Delete type=2 #1028
+2025/05/26-02:01:41.681 cda4 Delete type=2 #1029
+2025/05/26-02:01:41.681 cda4 Delete type=2 #1031
+2025/05/26-02:01:41.681 cda4 Delete type=2 #1033
+2025/05/26-02:01:41.681 cda4 Delete type=2 #1035
+2025/05/26-02:01:41.681 cda4 Delete type=2 #1037
+2025/05/26-02:08:04.951 cda4 Level-0 table #1041: started
+2025/05/26-02:08:04.956 cda4 Level-0 table #1041: 23948 bytes OK
+2025/05/26-02:08:04.958 cda4 Delete type=0 #1036
+2025/05/26-02:09:13.087 cda4 Level-0 table #1043: started
+2025/05/26-02:09:13.093 cda4 Level-0 table #1043: 22404 bytes OK
+2025/05/26-02:09:13.095 cda4 Delete type=0 #1040
+2025/05/26-02:10:23.814 cda4 Level-0 table #1045: started
+2025/05/26-02:10:23.820 cda4 Level-0 table #1045: 23629 bytes OK
+2025/05/26-02:10:23.822 cda4 Delete type=0 #1042
+2025/05/26-02:11:31.569 cda4 Level-0 table #1047: started
+2025/05/26-02:11:31.575 cda4 Level-0 table #1047: 24820 bytes OK
+2025/05/26-02:11:31.577 cda4 Delete type=0 #1044
+2025/05/26-02:11:31.578 cda4 Compacting 4@0 + 2@1 files
+2025/05/26-02:11:31.636 cda4 Generated table #1048@0: 89151 keys, 2121508 bytes
+2025/05/26-02:11:31.673 cda4 Generated table #1049@0: 54216 keys, 1274162 bytes
+2025/05/26-02:11:31.673 cda4 Compacted 4@0 + 2@1 files => 3395670 bytes
+2025/05/26-02:11:31.674 cda4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-02:11:31.675 cda4 Delete type=2 #1038
+2025/05/26-02:11:31.675 cda4 Delete type=2 #1039
+2025/05/26-02:11:31.676 cda4 Delete type=2 #1041
+2025/05/26-02:11:31.676 cda4 Delete type=2 #1043
+2025/05/26-02:11:31.676 cda4 Delete type=2 #1045
+2025/05/26-02:11:31.676 cda4 Delete type=2 #1047
+2025/05/26-02:18:52.040 cda4 Level-0 table #1051: started
+2025/05/26-02:18:52.045 cda4 Level-0 table #1051: 23707 bytes OK
+2025/05/26-02:18:52.047 cda4 Delete type=0 #1046
+2025/05/26-02:26:54.605 cda4 Level-0 table #1053: started
+2025/05/26-02:26:54.611 cda4 Level-0 table #1053: 24043 bytes OK
+2025/05/26-02:26:54.612 cda4 Delete type=0 #1050
+2025/05/26-02:33:52.703 cda4 Level-0 table #1055: started
+2025/05/26-02:33:52.715 cda4 Level-0 table #1055: 24059 bytes OK
+2025/05/26-02:33:52.717 cda4 Delete type=0 #1052
+2025/05/26-02:41:59.804 cda4 Level-0 table #1057: started
+2025/05/26-02:41:59.809 cda4 Level-0 table #1057: 24155 bytes OK
+2025/05/26-02:41:59.811 cda4 Delete type=0 #1054
+2025/05/26-02:41:59.811 cda4 Compacting 4@0 + 2@1 files
+2025/05/26-02:41:59.874 cda4 Generated table #1058@0: 89174 keys, 2121115 bytes
+2025/05/26-02:41:59.915 cda4 Generated table #1059@0: 56333 keys, 1324216 bytes
+2025/05/26-02:41:59.915 cda4 Compacted 4@0 + 2@1 files => 3445331 bytes
+2025/05/26-02:41:59.916 cda4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-02:41:59.917 cda4 Delete type=2 #1048
+2025/05/26-02:41:59.917 cda4 Delete type=2 #1049
+2025/05/26-02:41:59.917 cda4 Delete type=2 #1051
+2025/05/26-02:41:59.917 cda4 Delete type=2 #1053
+2025/05/26-02:41:59.917 cda4 Delete type=2 #1055
+2025/05/26-02:41:59.917 cda4 Delete type=2 #1057
+2025/05/26-02:48:22.454 cda4 Level-0 table #1061: started
+2025/05/26-02:48:22.460 cda4 Level-0 table #1061: 24164 bytes OK
+2025/05/26-02:48:22.462 cda4 Delete type=0 #1056
+2025/05/26-02:56:41.962 cda4 Level-0 table #1063: started
+2025/05/26-02:56:41.968 cda4 Level-0 table #1063: 24180 bytes OK
+2025/05/26-02:56:41.970 cda4 Delete type=0 #1060
+2025/05/26-03:04:14.618 cda4 Level-0 table #1065: started
+2025/05/26-03:04:14.625 cda4 Level-0 table #1065: 24216 bytes OK
+2025/05/26-03:04:14.627 cda4 Delete type=0 #1062
+2025/05/26-03:11:08.144 cda4 Level-0 table #1067: started
+2025/05/26-03:11:08.150 cda4 Level-0 table #1067: 24278 bytes OK
+2025/05/26-03:11:08.153 cda4 Delete type=0 #1064
+2025/05/26-03:11:08.153 cda4 Compacting 4@0 + 2@1 files
+2025/05/26-03:11:08.223 cda4 Generated table #1068@0: 89193 keys, 2120376 bytes
+2025/05/26-03:11:08.270 cda4 Generated table #1069@0: 58472 keys, 1374773 bytes
+2025/05/26-03:11:08.270 cda4 Compacted 4@0 + 2@1 files => 3495149 bytes
+2025/05/26-03:11:08.271 cda4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-03:11:08.272 cda4 Delete type=2 #1058
+2025/05/26-03:11:08.272 cda4 Delete type=2 #1059
+2025/05/26-03:11:08.272 cda4 Delete type=2 #1061
+2025/05/26-03:11:08.272 cda4 Delete type=2 #1063
+2025/05/26-03:11:08.272 cda4 Delete type=2 #1065
+2025/05/26-03:11:08.272 cda4 Delete type=2 #1067
+2025/05/26-03:18:11.230 cda4 Level-0 table #1071: started
+2025/05/26-03:18:11.236 cda4 Level-0 table #1071: 24535 bytes OK
+2025/05/26-03:18:11.238 cda4 Delete type=0 #1066
+2025/05/26-03:19:19.199 cda4 Level-0 table #1073: started
+2025/05/26-03:19:19.205 cda4 Level-0 table #1073: 22805 bytes OK
+2025/05/26-03:19:19.207 cda4 Delete type=0 #1070
+2025/05/26-03:20:30.722 cda4 Level-0 table #1075: started
+2025/05/26-03:20:30.729 cda4 Level-0 table #1075: 174579 bytes OK
+2025/05/26-03:20:30.731 cda4 Delete type=0 #1072
+2025/05/26-03:20:38.275 cda4 Level-0 table #1077: started
+2025/05/26-03:20:38.283 cda4 Level-0 table #1077: 23556 bytes OK
+2025/05/26-03:20:38.285 cda4 Delete type=0 #1074
+2025/05/26-03:20:38.286 cda4 Compacting 4@0 + 2@1 files
+2025/05/26-03:20:38.350 cda4 Generated table #1078@0: 89207 keys, 2121247 bytes
+2025/05/26-03:20:38.391 cda4 Generated table #1079@0: 60083 keys, 1413210 bytes
+2025/05/26-03:20:38.392 cda4 Compacted 4@0 + 2@1 files => 3534457 bytes
+2025/05/26-03:20:38.392 cda4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-03:20:38.393 cda4 Delete type=2 #1068
+2025/05/26-03:20:38.393 cda4 Delete type=2 #1069
+2025/05/26-03:20:38.393 cda4 Delete type=2 #1071
+2025/05/26-03:20:38.394 cda4 Delete type=2 #1073
+2025/05/26-03:20:38.394 cda4 Delete type=2 #1075
+2025/05/26-03:20:38.394 cda4 Delete type=2 #1077
+2025/05/26-03:21:41.064 cda4 Level-0 table #1081: started
+2025/05/26-03:21:41.070 cda4 Level-0 table #1081: 23254 bytes OK
+2025/05/26-03:21:41.072 cda4 Delete type=0 #1076
+2025/05/26-03:28:18.679 cda4 Level-0 table #1083: started
+2025/05/26-03:28:18.684 cda4 Level-0 table #1083: 24199 bytes OK
+2025/05/26-03:28:18.686 cda4 Delete type=0 #1080
+2025/05/26-03:29:26.992 cda4 Level-0 table #1085: started
+2025/05/26-03:29:26.997 cda4 Level-0 table #1085: 23029 bytes OK
+2025/05/26-03:29:26.999 cda4 Delete type=0 #1082
+2025/05/26-03:30:37.360 cda4 Level-0 table #1087: started
+2025/05/26-03:30:37.364 cda4 Level-0 table #1087: 24273 bytes OK
+2025/05/26-03:30:37.366 cda4 Delete type=0 #1084
+2025/05/26-03:30:37.367 cda4 Compacting 4@0 + 2@1 files
+2025/05/26-03:30:37.426 cda4 Generated table #1088@0: 89213 keys, 2121427 bytes
+2025/05/26-03:30:37.468 cda4 Generated table #1089@0: 62255 keys, 1464364 bytes
+2025/05/26-03:30:37.468 cda4 Compacted 4@0 + 2@1 files => 3585791 bytes
+2025/05/26-03:30:37.469 cda4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-03:30:37.470 cda4 Delete type=2 #1078
+2025/05/26-03:30:37.470 cda4 Delete type=2 #1079
+2025/05/26-03:30:37.470 cda4 Delete type=2 #1081
+2025/05/26-03:30:37.470 cda4 Delete type=2 #1083
+2025/05/26-03:30:37.470 cda4 Delete type=2 #1085
+2025/05/26-03:30:37.470 cda4 Delete type=2 #1087
+2025/05/26-03:31:45.321 cda4 Level-0 table #1091: started
+2025/05/26-03:31:45.327 cda4 Level-0 table #1091: 25458 bytes OK
+2025/05/26-03:31:45.329 cda4 Delete type=0 #1086
+2025/05/26-03:39:23.595 cda4 Level-0 table #1093: started
+2025/05/26-03:39:23.600 cda4 Level-0 table #1093: 24257 bytes OK
+2025/05/26-03:39:23.602 cda4 Delete type=0 #1090
+2025/05/26-03:47:31.622 cda4 Level-0 table #1095: started
+2025/05/26-03:47:31.627 cda4 Level-0 table #1095: 24633 bytes OK
+2025/05/26-03:47:31.629 cda4 Delete type=0 #1092
+2025/05/26-03:55:49.723 cda4 Level-0 table #1097: started
+2025/05/26-03:55:49.729 cda4 Level-0 table #1097: 24675 bytes OK
+2025/05/26-03:55:49.730 cda4 Delete type=0 #1094
+2025/05/26-03:55:49.731 cda4 Compacting 4@0 + 2@1 files
+2025/05/26-03:55:49.793 cda4 Generated table #1098@0: 89243 keys, 2121857 bytes
+2025/05/26-03:55:49.837 cda4 Generated table #1099@0: 64423 keys, 1515721 bytes
+2025/05/26-03:55:49.837 cda4 Compacted 4@0 + 2@1 files => 3637578 bytes
+2025/05/26-03:55:49.838 cda4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-03:55:49.839 cda4 Delete type=2 #1088
+2025/05/26-03:55:49.839 cda4 Delete type=2 #1089
+2025/05/26-03:55:49.839 cda4 Delete type=2 #1091
+2025/05/26-03:55:49.839 cda4 Delete type=2 #1093
+2025/05/26-03:55:49.839 cda4 Delete type=2 #1095
+2025/05/26-03:55:49.839 cda4 Delete type=2 #1097
+2025/05/26-04:03:17.637 cda4 Level-0 table #1101: started
+2025/05/26-04:03:17.642 cda4 Level-0 table #1101: 24828 bytes OK
+2025/05/26-04:03:17.644 cda4 Delete type=0 #1096
+2025/05/26-04:11:48.892 cda4 Level-0 table #1103: started
+2025/05/26-04:11:48.898 cda4 Level-0 table #1103: 24832 bytes OK
+2025/05/26-04:11:48.899 cda4 Delete type=0 #1100
+2025/05/26-04:18:33.830 cda4 Level-0 table #1105: started
+2025/05/26-04:18:33.836 cda4 Level-0 table #1105: 24783 bytes OK
+2025/05/26-04:18:33.839 cda4 Delete type=0 #1102
+2025/05/26-04:25:28.423 cda4 Level-0 table #1107: started
+2025/05/26-04:25:28.427 cda4 Level-0 table #1107: 24931 bytes OK
+2025/05/26-04:25:28.429 cda4 Delete type=0 #1104
+2025/05/26-04:25:28.430 cda4 Compacting 4@0 + 2@1 files
+2025/05/26-04:25:28.487 cda4 Generated table #1108@0: 89248 keys, 2121539 bytes
+2025/05/26-04:25:28.534 cda4 Generated table #1109@0: 66636 keys, 1569026 bytes
+2025/05/26-04:25:28.534 cda4 Compacted 4@0 + 2@1 files => 3690565 bytes
+2025/05/26-04:25:28.535 cda4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-04:25:28.536 cda4 Delete type=2 #1098
+2025/05/26-04:25:28.536 cda4 Delete type=2 #1099
+2025/05/26-04:25:28.536 cda4 Delete type=2 #1101
+2025/05/26-04:25:28.536 cda4 Delete type=2 #1103
+2025/05/26-04:25:28.536 cda4 Delete type=2 #1105
+2025/05/26-04:25:28.536 cda4 Delete type=2 #1107
+2025/05/26-04:33:49.440 cda4 Level-0 table #1111: started
+2025/05/26-04:33:49.445 cda4 Level-0 table #1111: 24960 bytes OK
+2025/05/26-04:33:49.447 cda4 Delete type=0 #1106
+2025/05/26-04:34:57.531 cda4 Level-0 table #1113: started
+2025/05/26-04:34:57.536 cda4 Level-0 table #1113: 23505 bytes OK
+2025/05/26-04:34:57.540 cda4 Delete type=0 #1110
+2025/05/26-04:36:08.259 cda4 Level-0 table #1115: started
+2025/05/26-04:36:08.264 cda4 Level-0 table #1115: 24693 bytes OK
+2025/05/26-04:36:08.266 cda4 Delete type=0 #1112
+2025/05/26-04:37:15.943 cda4 Level-0 table #1117: started
+2025/05/26-04:37:15.948 cda4 Level-0 table #1117: 25928 bytes OK
+2025/05/26-04:37:15.950 cda4 Delete type=0 #1114
+2025/05/26-04:37:15.951 cda4 Compacting 4@0 + 2@1 files
+2025/05/26-04:37:16.012 cda4 Generated table #1118@0: 89146 keys, 2120200 bytes
+2025/05/26-04:37:16.061 cda4 Generated table #1119@0: 68966 keys, 1624353 bytes
+2025/05/26-04:37:16.061 cda4 Compacted 4@0 + 2@1 files => 3744553 bytes
+2025/05/26-04:37:16.062 cda4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-04:37:16.063 cda4 Delete type=2 #1108
+2025/05/26-04:37:16.063 cda4 Delete type=2 #1109
+2025/05/26-04:37:16.063 cda4 Delete type=2 #1111
+2025/05/26-04:37:16.063 cda4 Delete type=2 #1113
+2025/05/26-04:37:16.063 cda4 Delete type=2 #1115
+2025/05/26-04:37:16.063 cda4 Delete type=2 #1117
+2025/05/26-04:45:27.698 cda4 Level-0 table #1121: started
+2025/05/26-04:45:27.703 cda4 Level-0 table #1121: 24761 bytes OK
+2025/05/26-04:45:27.704 cda4 Delete type=0 #1116
+2025/05/26-04:46:35.841 cda4 Level-0 table #1123: started
+2025/05/26-04:46:35.846 cda4 Level-0 table #1123: 23634 bytes OK
+2025/05/26-04:46:35.848 cda4 Delete type=0 #1120
+2025/05/26-04:47:46.773 cda4 Level-0 table #1125: started
+2025/05/26-04:47:46.780 cda4 Level-0 table #1125: 180572 bytes OK
+2025/05/26-04:47:46.782 cda4 Delete type=0 #1122
+2025/05/26-04:47:54.313 cda4 Level-0 table #1127: started
+2025/05/26-04:47:54.321 cda4 Level-0 table #1127: 24235 bytes OK
+2025/05/26-04:47:54.322 cda4 Delete type=0 #1124
+2025/05/26-04:47:54.323 cda4 Compacting 4@0 + 2@1 files
+2025/05/26-04:47:54.384 cda4 Generated table #1128@0: 89142 keys, 2119781 bytes
+2025/05/26-04:47:54.430 cda4 Generated table #1129@0: 70650 keys, 1664095 bytes
+2025/05/26-04:47:54.431 cda4 Compacted 4@0 + 2@1 files => 3783876 bytes
+2025/05/26-04:47:54.433 cda4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-04:47:54.433 cda4 Delete type=2 #1118
+2025/05/26-04:47:54.434 cda4 Delete type=2 #1119
+2025/05/26-04:47:54.434 cda4 Delete type=2 #1121
+2025/05/26-04:47:54.434 cda4 Delete type=2 #1123
+2025/05/26-04:47:54.434 cda4 Delete type=2 #1125
+2025/05/26-04:47:54.434 cda4 Delete type=2 #1127
+2025/05/26-04:48:56.934 cda4 Level-0 table #1131: started
+2025/05/26-04:48:56.939 cda4 Level-0 table #1131: 23883 bytes OK
+2025/05/26-04:48:56.941 cda4 Delete type=0 #1126
+2025/05/26-04:56:59.618 cda4 Level-0 table #1133: started
+2025/05/26-04:56:59.623 cda4 Level-0 table #1133: 24968 bytes OK
+2025/05/26-04:56:59.625 cda4 Delete type=0 #1130
+2025/05/26-05:05:33.449 cda4 Level-0 table #1135: started
+2025/05/26-05:05:33.455 cda4 Level-0 table #1135: 25218 bytes OK
+2025/05/26-05:05:33.457 cda4 Delete type=0 #1132
+2025/05/26-05:12:22.055 cda4 Level-0 table #1137: started
+2025/05/26-05:12:22.060 cda4 Level-0 table #1137: 25275 bytes OK
+2025/05/26-05:12:22.062 cda4 Delete type=0 #1134
+2025/05/26-05:12:22.062 cda4 Compacting 4@0 + 2@1 files
+2025/05/26-05:12:22.121 cda4 Generated table #1138@0: 89159 keys, 2120351 bytes
+2025/05/26-05:12:22.171 cda4 Generated table #1139@0: 72891 keys, 1717696 bytes
+2025/05/26-05:12:22.171 cda4 Compacted 4@0 + 2@1 files => 3838047 bytes
+2025/05/26-05:12:22.172 cda4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-05:12:22.173 cda4 Delete type=2 #1128
+2025/05/26-05:12:22.173 cda4 Delete type=2 #1129
+2025/05/26-05:12:22.173 cda4 Delete type=2 #1131
+2025/05/26-05:12:22.173 cda4 Delete type=2 #1133
+2025/05/26-05:12:22.173 cda4 Delete type=2 #1135
+2025/05/26-05:12:22.173 cda4 Delete type=2 #1137
+2025/05/26-05:18:46.893 cda4 Level-0 table #1141: started
+2025/05/26-05:18:46.899 cda4 Level-0 table #1141: 25317 bytes OK
+2025/05/26-05:18:46.901 cda4 Delete type=0 #1136
+2025/05/26-05:25:21.071 cda4 Level-0 table #1143: started
+2025/05/26-05:25:21.145 cda4 Level-0 table #1143: 25433 bytes OK
+2025/05/26-05:25:21.147 cda4 Delete type=0 #1140
+2025/05/26-05:26:31.298 cda4 Level-0 table #1145: started
+2025/05/26-05:26:31.304 cda4 Level-0 table #1145: 24820 bytes OK
+2025/05/26-05:26:31.306 cda4 Delete type=0 #1142
+2025/05/26-05:27:42.608 cda4 Level-0 table #1147: started
+2025/05/26-05:27:42.613 cda4 Level-0 table #1147: 25123 bytes OK
+2025/05/26-05:27:42.615 cda4 Delete type=0 #1144
+2025/05/26-05:27:42.615 cda4 Compacting 4@0 + 2@1 files
+2025/05/26-05:27:42.673 cda4 Generated table #1148@0: 89168 keys, 2120895 bytes
+2025/05/26-05:27:42.722 cda4 Generated table #1149@0: 75156 keys, 1771287 bytes
+2025/05/26-05:27:42.722 cda4 Compacted 4@0 + 2@1 files => 3892182 bytes
+2025/05/26-05:27:42.723 cda4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-05:27:42.724 cda4 Delete type=2 #1138
+2025/05/26-05:27:42.724 cda4 Delete type=2 #1139
+2025/05/26-05:27:42.724 cda4 Delete type=2 #1141
+2025/05/26-05:27:42.724 cda4 Delete type=2 #1143
+2025/05/26-05:27:42.724 cda4 Delete type=2 #1145
+2025/05/26-05:27:42.724 cda4 Delete type=2 #1147
+2025/05/26-05:28:48.190 cda4 Level-0 table #1151: started
+2025/05/26-05:28:48.195 cda4 Level-0 table #1151: 24875 bytes OK
+2025/05/26-05:28:48.197 cda4 Delete type=0 #1146
+2025/05/26-05:35:48.191 cda4 Level-0 table #1153: started
+2025/05/26-05:35:48.197 cda4 Level-0 table #1153: 25208 bytes OK
+2025/05/26-05:35:48.199 cda4 Delete type=0 #1150
+2025/05/26-05:44:05.770 cda4 Level-0 table #1155: started
+2025/05/26-05:44:05.776 cda4 Level-0 table #1155: 25518 bytes OK
+2025/05/26-05:44:05.778 cda4 Delete type=0 #1152
+2025/05/26-05:52:03.682 cda4 Level-0 table #1157: started
+2025/05/26-05:52:03.687 cda4 Level-0 table #1157: 25537 bytes OK
+2025/05/26-05:52:03.689 cda4 Delete type=0 #1154
+2025/05/26-05:52:03.690 cda4 Compacting 4@0 + 2@1 files
+2025/05/26-05:52:03.746 cda4 Generated table #1158@0: 89183 keys, 2120606 bytes
+2025/05/26-05:52:03.797 cda4 Generated table #1159@0: 77431 keys, 1824042 bytes
+2025/05/26-05:52:03.797 cda4 Compacted 4@0 + 2@1 files => 3944648 bytes
+2025/05/26-05:52:03.798 cda4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-05:52:03.799 cda4 Delete type=2 #1148
+2025/05/26-05:52:03.799 cda4 Delete type=2 #1149
+2025/05/26-05:52:03.799 cda4 Delete type=2 #1151
+2025/05/26-05:52:03.799 cda4 Delete type=2 #1153
+2025/05/26-05:52:03.799 cda4 Delete type=2 #1155
+2025/05/26-05:52:03.799 cda4 Delete type=2 #1157
+2025/05/26-06:00:13.497 cda4 Level-0 table #1161: started
+2025/05/26-06:00:13.502 cda4 Level-0 table #1161: 25585 bytes OK
+2025/05/26-06:00:13.503 cda4 Delete type=0 #1156
+2025/05/26-06:07:47.917 cda4 Level-0 table #1163: started
+2025/05/26-06:07:47.923 cda4 Level-0 table #1163: 25628 bytes OK
+2025/05/26-06:07:47.925 cda4 Delete type=0 #1160
+2025/05/26-06:15:36.992 cda4 Level-0 table #1165: started
+2025/05/26-06:15:36.998 cda4 Level-0 table #1165: 25647 bytes OK
+2025/05/26-06:15:36.999 cda4 Delete type=0 #1162
+2025/05/26-06:22:03.140 cda4 Level-0 table #1167: started
+2025/05/26-06:22:03.144 cda4 Level-0 table #1167: 25661 bytes OK
+2025/05/26-06:22:03.146 cda4 Delete type=0 #1164
+2025/05/26-06:22:03.147 cda4 Compacting 4@0 + 2@1 files
+2025/05/26-06:22:03.200 cda4 Generated table #1168@0: 89181 keys, 2120206 bytes
+2025/05/26-06:22:03.254 cda4 Generated table #1169@0: 79743 keys, 1880135 bytes
+2025/05/26-06:22:03.255 cda4 Compacted 4@0 + 2@1 files => 4000341 bytes
+2025/05/26-06:22:03.255 cda4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-06:22:03.256 cda4 Delete type=2 #1158
+2025/05/26-06:22:03.257 cda4 Delete type=2 #1159
+2025/05/26-06:22:03.257 cda4 Delete type=2 #1161
+2025/05/26-06:22:03.257 cda4 Delete type=2 #1163
+2025/05/26-06:22:03.257 cda4 Delete type=2 #1165
+2025/05/26-06:22:03.257 cda4 Delete type=2 #1167
+2025/05/26-06:30:09.393 cda4 Level-0 table #1171: started
+2025/05/26-06:30:09.398 cda4 Level-0 table #1171: 25712 bytes OK
+2025/05/26-06:30:09.399 cda4 Delete type=0 #1166
+2025/05/26-06:37:46.918 cda4 Level-0 table #1173: started
+2025/05/26-06:37:46.923 cda4 Level-0 table #1173: 25738 bytes OK
+2025/05/26-06:37:46.925 cda4 Delete type=0 #1170
+2025/05/26-06:45:00.004 cda4 Level-0 table #1175: started
+2025/05/26-06:45:00.011 cda4 Level-0 table #1175: 25820 bytes OK
+2025/05/26-06:45:00.013 cda4 Delete type=0 #1172
+2025/05/26-06:52:58.177 cda4 Level-0 table #1177: started
+2025/05/26-06:52:58.182 cda4 Level-0 table #1177: 25823 bytes OK
+2025/05/26-06:52:58.184 cda4 Delete type=0 #1174
+2025/05/26-06:52:58.184 cda4 Compacting 4@0 + 2@1 files
+2025/05/26-06:52:58.247 cda4 Generated table #1178@0: 89204 keys, 2120938 bytes
+2025/05/26-06:52:58.301 cda4 Generated table #1179@0: 82046 keys, 1934363 bytes
+2025/05/26-06:52:58.301 cda4 Compacted 4@0 + 2@1 files => 4055301 bytes
+2025/05/26-06:52:58.302 cda4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-06:52:58.303 cda4 Delete type=2 #1168
+2025/05/26-06:52:58.303 cda4 Delete type=2 #1169
+2025/05/26-06:52:58.303 cda4 Delete type=2 #1171
+2025/05/26-06:52:58.303 cda4 Delete type=2 #1173
+2025/05/26-06:52:58.303 cda4 Delete type=2 #1175
+2025/05/26-06:52:58.303 cda4 Delete type=2 #1177
+2025/05/26-07:01:24.692 cda4 Level-0 table #1181: started
+2025/05/26-07:01:24.698 cda4 Level-0 table #1181: 25837 bytes OK
+2025/05/26-07:01:24.700 cda4 Delete type=0 #1176
+2025/05/26-07:09:38.988 cda4 Level-0 table #1183: started
+2025/05/26-07:09:38.994 cda4 Level-0 table #1183: 25904 bytes OK
+2025/05/26-07:09:38.996 cda4 Delete type=0 #1180
+2025/05/26-07:10:47.191 cda4 Level-0 table #1185: started
+2025/05/26-07:10:47.197 cda4 Level-0 table #1185: 24473 bytes OK
+2025/05/26-07:10:47.200 cda4 Delete type=0 #1182
+2025/05/26-07:11:57.736 cda4 Level-0 table #1187: started
+2025/05/26-07:11:57.741 cda4 Level-0 table #1187: 25740 bytes OK
+2025/05/26-07:11:57.742 cda4 Delete type=0 #1184
+2025/05/26-07:11:57.743 cda4 Compacting 4@0 + 2@1 files
+2025/05/26-07:11:57.806 cda4 Generated table #1188@0: 89237 keys, 2121592 bytes
+2025/05/26-07:11:57.867 cda4 Generated table #1189@0: 84351 keys, 1988854 bytes
+2025/05/26-07:11:57.867 cda4 Compacted 4@0 + 2@1 files => 4110446 bytes
+2025/05/26-07:11:57.868 cda4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-07:11:57.869 cda4 Delete type=2 #1178
+2025/05/26-07:11:57.869 cda4 Delete type=2 #1179
+2025/05/26-07:11:57.869 cda4 Delete type=2 #1181
+2025/05/26-07:11:57.869 cda4 Delete type=2 #1183
+2025/05/26-07:11:57.869 cda4 Delete type=2 #1185
+2025/05/26-07:11:57.869 cda4 Delete type=2 #1187
+2025/05/26-07:13:05.548 cda4 Level-0 table #1191: started
+2025/05/26-07:13:05.553 cda4 Level-0 table #1191: 27150 bytes OK
+2025/05/26-07:13:05.555 cda4 Delete type=0 #1186
+2025/05/26-07:20:05.334 cda4 Level-0 table #1193: started
+2025/05/26-07:20:05.341 cda4 Level-0 table #1193: 25792 bytes OK
+2025/05/26-07:20:05.343 cda4 Delete type=0 #1190
+2025/05/26-07:28:11.239 cda4 Level-0 table #1195: started
+2025/05/26-07:28:11.245 cda4 Level-0 table #1195: 26158 bytes OK
+2025/05/26-07:28:11.246 cda4 Delete type=0 #1192
+2025/05/26-07:34:51.864 cda4 Level-0 table #1197: started
+2025/05/26-07:34:51.870 cda4 Level-0 table #1197: 26133 bytes OK
+2025/05/26-07:34:51.872 cda4 Delete type=0 #1194
+2025/05/26-07:34:51.872 cda4 Compacting 4@0 + 2@1 files
+2025/05/26-07:34:51.934 cda4 Generated table #1198@0: 89237 keys, 2119898 bytes
+2025/05/26-07:34:51.988 cda4 Generated table #1199@0: 86705 keys, 2044790 bytes
+2025/05/26-07:34:51.988 cda4 Compacted 4@0 + 2@1 files => 4164688 bytes
+2025/05/26-07:34:51.989 cda4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-07:34:51.990 cda4 Delete type=2 #1188
+2025/05/26-07:34:51.990 cda4 Delete type=2 #1189
+2025/05/26-07:34:51.990 cda4 Delete type=2 #1191
+2025/05/26-07:34:51.990 cda4 Delete type=2 #1193
+2025/05/26-07:34:51.990 cda4 Delete type=2 #1195
+2025/05/26-07:34:51.991 cda4 Delete type=2 #1197
+2025/05/26-07:43:12.712 cda4 Level-0 table #1201: started
+2025/05/26-07:43:12.717 cda4 Level-0 table #1201: 26339 bytes OK
+2025/05/26-07:43:12.719 cda4 Delete type=0 #1196
+2025/05/26-07:51:33.342 cda4 Level-0 table #1203: started
+2025/05/26-07:51:33.348 cda4 Level-0 table #1203: 26329 bytes OK
+2025/05/26-07:51:33.350 cda4 Delete type=0 #1200
+2025/05/26-07:59:47.346 cda4 Level-0 table #1205: started
+2025/05/26-07:59:47.352 cda4 Level-0 table #1205: 26295 bytes OK
+2025/05/26-07:59:47.354 cda4 Delete type=0 #1202
+2025/05/26-08:07:30.217 cda4 Level-0 table #1207: started
+2025/05/26-08:07:30.222 cda4 Level-0 table #1207: 26367 bytes OK
+2025/05/26-08:07:30.224 cda4 Delete type=0 #1204
+2025/05/26-08:07:30.224 cda4 Compacting 4@0 + 2@1 files
+2025/05/26-08:07:30.288 cda4 Generated table #1208@0: 89257 keys, 2120588 bytes
+2025/05/26-08:07:30.345 cda4 Generated table #1209@0: 89059 keys, 2099905 bytes
+2025/05/26-08:07:30.345 cda4 Compacted 4@0 + 2@1 files => 4220493 bytes
+2025/05/26-08:07:30.346 cda4 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-08:07:30.347 cda4 Delete type=2 #1198
+2025/05/26-08:07:30.347 cda4 Delete type=2 #1199
+2025/05/26-08:07:30.347 cda4 Delete type=2 #1201
+2025/05/26-08:07:30.347 cda4 Delete type=2 #1203
+2025/05/26-08:07:30.347 cda4 Delete type=2 #1205
+2025/05/26-08:07:30.347 cda4 Delete type=2 #1207
+2025/05/26-08:14:21.682 cda4 Level-0 table #1211: started
+2025/05/26-08:14:21.688 cda4 Level-0 table #1211: 26387 bytes OK
+2025/05/26-08:14:21.689 cda4 Delete type=0 #1206
+2025/05/26-08:21:55.941 cda4 Level-0 table #1213: started
+2025/05/26-08:21:55.946 cda4 Level-0 table #1213: 26492 bytes OK
+2025/05/26-08:21:55.948 cda4 Delete type=0 #1210
+2025/05/26-08:30:03.066 cda4 Level-0 table #1215: started
+2025/05/26-08:30:03.070 cda4 Level-0 table #1215: 26513 bytes OK
+2025/05/26-08:30:03.072 cda4 Delete type=0 #1212
+2025/05/26-08:37:40.377 cda4 Level-0 table #1217: started
+2025/05/26-08:37:40.382 cda4 Level-0 table #1217: 26566 bytes OK
+2025/05/26-08:37:40.384 cda4 Delete type=0 #1214
+2025/05/26-08:37:40.385 cda4 Compacting 4@0 + 2@1 files
+2025/05/26-08:37:40.445 cda4 Generated table #1218@0: 89263 keys, 2120849 bytes
+2025/05/26-08:37:40.501 cda4 Generated table #1219@0: 89074 keys, 2120240 bytes
+2025/05/26-08:37:40.508 cda4 Generated table #1220@0: 2369 keys, 36592 bytes
+2025/05/26-08:37:40.508 cda4 Compacted 4@0 + 2@1 files => 4277681 bytes
+2025/05/26-08:37:40.508 cda4 compacted to: files[ 0 3 1 0 0 0 0 ]
+2025/05/26-08:37:40.509 cda4 Delete type=2 #1208
+2025/05/26-08:37:40.509 cda4 Delete type=2 #1209
+2025/05/26-08:37:40.509 cda4 Delete type=2 #1211
+2025/05/26-08:37:40.509 cda4 Delete type=2 #1213
+2025/05/26-08:37:40.509 cda4 Delete type=2 #1215
+2025/05/26-08:37:40.510 cda4 Delete type=2 #1217
+2025/05/26-08:45:56.497 cda4 Level-0 table #1222: started
+2025/05/26-08:45:56.504 cda4 Level-0 table #1222: 26587 bytes OK
+2025/05/26-08:45:56.506 cda4 Delete type=0 #1216
+2025/05/26-08:54:31.403 cda4 Level-0 table #1224: started
+2025/05/26-08:54:31.409 cda4 Level-0 table #1224: 26597 bytes OK
+2025/05/26-08:54:31.410 cda4 Delete type=0 #1221
+2025/05/26-09:01:21.937 cda4 Level-0 table #1226: started
+2025/05/26-09:01:21.942 cda4 Level-0 table #1226: 26602 bytes OK
+2025/05/26-09:01:21.944 cda4 Delete type=0 #1223
+2025/05/26-09:08:34.852 cda4 Level-0 table #1228: started
+2025/05/26-09:08:34.857 cda4 Level-0 table #1228: 26681 bytes OK
+2025/05/26-09:08:34.859 cda4 Delete type=0 #1225
+2025/05/26-09:08:34.860 cda4 Compacting 4@0 + 3@1 files
+2025/05/26-09:08:34.923 cda4 Generated table #1229@0: 89277 keys, 2121062 bytes
+2025/05/26-09:08:34.980 cda4 Generated table #1230@0: 89072 keys, 2119490 bytes
+2025/05/26-09:08:34.988 cda4 Generated table #1231@0: 4758 keys, 93103 bytes
+2025/05/26-09:08:34.988 cda4 Compacted 4@0 + 3@1 files => 4333655 bytes
+2025/05/26-09:08:34.989 cda4 compacted to: files[ 0 3 1 0 0 0 0 ]
+2025/05/26-09:08:34.990 cda4 Delete type=2 #1218
+2025/05/26-09:08:34.990 cda4 Delete type=2 #1219
+2025/05/26-09:08:34.990 cda4 Delete type=2 #1220
+2025/05/26-09:08:34.990 cda4 Delete type=2 #1222
+2025/05/26-09:08:34.990 cda4 Delete type=2 #1224
+2025/05/26-09:08:34.990 cda4 Delete type=2 #1226
+2025/05/26-09:08:34.990 cda4 Delete type=2 #1228
+2025/05/26-09:17:10.207 cda4 Level-0 table #1233: started
+2025/05/26-09:17:10.214 cda4 Level-0 table #1233: 26779 bytes OK
+2025/05/26-09:17:10.216 cda4 Delete type=0 #1227
+2025/05/26-09:23:43.780 cda4 Level-0 table #1235: started
+2025/05/26-09:23:43.786 cda4 Level-0 table #1235: 26671 bytes OK
+2025/05/26-09:23:43.787 cda4 Delete type=0 #1232
+2025/05/26-09:30:26.380 cda4 Level-0 table #1237: started
+2025/05/26-09:30:26.386 cda4 Level-0 table #1237: 26706 bytes OK
+2025/05/26-09:30:26.388 cda4 Delete type=0 #1234
+2025/05/26-09:31:34.577 cda4 Level-0 table #1239: started
+2025/05/26-09:31:34.583 cda4 Level-0 table #1239: 25369 bytes OK
+2025/05/26-09:31:34.585 cda4 Delete type=0 #1236
+2025/05/26-09:31:34.586 cda4 Compacting 4@0 + 3@1 files
+2025/05/26-09:31:34.658 cda4 Generated table #1240@0: 89276 keys, 2120460 bytes
+2025/05/26-09:31:34.728 cda4 Generated table #1241@0: 89102 keys, 2120195 bytes
+2025/05/26-09:31:34.739 cda4 Generated table #1242@0: 7145 keys, 149945 bytes
+2025/05/26-09:31:34.739 cda4 Compacted 4@0 + 3@1 files => 4390600 bytes
+2025/05/26-09:31:34.740 cda4 compacted to: files[ 0 3 1 0 0 0 0 ]
+2025/05/26-09:31:34.741 cda4 Delete type=2 #1229
+2025/05/26-09:31:34.741 cda4 Delete type=2 #1230
+2025/05/26-09:31:34.741 cda4 Delete type=2 #1231
+2025/05/26-09:31:34.741 cda4 Delete type=2 #1233
+2025/05/26-09:31:34.741 cda4 Delete type=2 #1235
+2025/05/26-09:31:34.741 cda4 Delete type=2 #1237
+2025/05/26-09:31:34.741 cda4 Delete type=2 #1239
+2025/05/26-09:32:45.081 cda4 Level-0 table #1244: started
+2025/05/26-09:32:45.087 cda4 Level-0 table #1244: 26606 bytes OK
+2025/05/26-09:32:45.089 cda4 Delete type=0 #1238
+2025/05/26-09:33:52.886 cda4 Level-0 table #1246: started
+2025/05/26-09:33:52.891 cda4 Level-0 table #1246: 27815 bytes OK
+2025/05/26-09:33:52.893 cda4 Delete type=0 #1243
+2025/05/26-09:41:01.494 cda4 Level-0 table #1248: started
+2025/05/26-09:41:01.501 cda4 Level-0 table #1248: 26723 bytes OK
+2025/05/26-09:41:01.503 cda4 Delete type=0 #1245
+2025/05/26-09:48:18.256 cda4 Level-0 table #1250: started
+2025/05/26-09:48:18.261 cda4 Level-0 table #1250: 27028 bytes OK
+2025/05/26-09:48:18.263 cda4 Delete type=0 #1247
+2025/05/26-09:48:18.263 cda4 Compacting 4@0 + 3@1 files
+2025/05/26-09:48:18.320 cda4 Generated table #1251@0: 89280 keys, 2120788 bytes
+2025/05/26-09:48:18.378 cda4 Generated table #1252@0: 89123 keys, 2120542 bytes
+2025/05/26-09:48:18.388 cda4 Generated table #1253@0: 9548 keys, 207092 bytes
+2025/05/26-09:48:18.388 cda4 Compacted 4@0 + 3@1 files => 4448422 bytes
+2025/05/26-09:48:18.389 cda4 compacted to: files[ 0 3 1 0 0 0 0 ]
+2025/05/26-09:48:18.390 cda4 Delete type=2 #1240
+2025/05/26-09:48:18.390 cda4 Delete type=2 #1241
+2025/05/26-09:48:18.390 cda4 Delete type=2 #1242
+2025/05/26-09:48:18.390 cda4 Delete type=2 #1244
+2025/05/26-09:48:18.390 cda4 Delete type=2 #1246
+2025/05/26-09:48:18.390 cda4 Delete type=2 #1248
+2025/05/26-09:48:18.390 cda4 Delete type=2 #1250
+2025/05/26-09:56:12.946 cda4 Level-0 table #1255: started
+2025/05/26-09:56:12.951 cda4 Level-0 table #1255: 27066 bytes OK
+2025/05/26-09:56:12.953 cda4 Delete type=0 #1249
+2025/05/26-10:03:07.747 cda4 Level-0 table #1257: started
+2025/05/26-10:03:07.753 cda4 Level-0 table #1257: 27075 bytes OK
+2025/05/26-10:03:07.755 cda4 Delete type=0 #1254
+2025/05/26-10:11:39.028 cda4 Level-0 table #1259: started
+2025/05/26-10:11:39.034 cda4 Level-0 table #1259: 27103 bytes OK
+2025/05/26-10:11:39.036 cda4 Delete type=0 #1256
+2025/05/26-10:18:41.960 cda4 Level-0 table #1261: started
+2025/05/26-10:18:41.965 cda4 Level-0 table #1261: 27176 bytes OK
+2025/05/26-10:18:41.968 cda4 Delete type=0 #1258
+2025/05/26-10:18:41.971 cda4 Compacting 4@0 + 3@1 files
+2025/05/26-10:18:42.036 cda4 Generated table #1262@0: 89294 keys, 2121775 bytes
+2025/05/26-10:18:42.095 cda4 Generated table #1263@0: 89137 keys, 2121014 bytes
+2025/05/26-10:18:42.108 cda4 Generated table #1264@0: 11970 keys, 264802 bytes
+2025/05/26-10:18:42.108 cda4 Compacted 4@0 + 3@1 files => 4507591 bytes
+2025/05/26-10:18:42.110 cda4 compacted to: files[ 0 3 1 0 0 0 0 ]
+2025/05/26-10:18:42.111 cda4 Delete type=2 #1251
+2025/05/26-10:18:42.111 cda4 Delete type=2 #1252
+2025/05/26-10:18:42.111 cda4 Delete type=2 #1253
+2025/05/26-10:18:42.111 cda4 Delete type=2 #1255
+2025/05/26-10:18:42.111 cda4 Delete type=2 #1257
+2025/05/26-10:18:42.111 cda4 Delete type=2 #1259
+2025/05/26-10:18:42.111 cda4 Delete type=2 #1261
+2025/05/26-10:25:10.064 cda4 Level-0 table #1266: started
+2025/05/26-10:25:10.070 cda4 Level-0 table #1266: 27232 bytes OK
+2025/05/26-10:25:10.071 cda4 Delete type=0 #1260
+2025/05/26-10:33:31.151 cda4 Level-0 table #1268: started
+2025/05/26-10:33:31.158 cda4 Level-0 table #1268: 27163 bytes OK
+2025/05/26-10:33:31.160 cda4 Delete type=0 #1265
+2025/05/26-10:40:18.986 cda4 Level-0 table #1270: started
+2025/05/26-10:40:18.992 cda4 Level-0 table #1270: 27131 bytes OK
+2025/05/26-10:40:18.994 cda4 Delete type=0 #1267
+2025/05/26-10:46:57.856 cda4 Level-0 table #1272: started
+2025/05/26-10:46:57.861 cda4 Level-0 table #1272: 27246 bytes OK
+2025/05/26-10:46:57.863 cda4 Delete type=0 #1269
+2025/05/26-10:46:57.863 cda4 Compacting 4@0 + 3@1 files
+2025/05/26-10:46:57.921 cda4 Generated table #1273@0: 89208 keys, 2119784 bytes
+2025/05/26-10:46:57.976 cda4 Generated table #1274@0: 89131 keys, 2121569 bytes
+2025/05/26-10:46:57.990 cda4 Generated table #1275@0: 14524 keys, 325234 bytes
+2025/05/26-10:46:57.990 cda4 Compacted 4@0 + 3@1 files => 4566587 bytes
+2025/05/26-10:46:57.991 cda4 compacted to: files[ 0 3 1 0 0 0 0 ]
+2025/05/26-10:46:57.992 cda4 Delete type=2 #1262
+2025/05/26-10:46:57.992 cda4 Delete type=2 #1263
+2025/05/26-10:46:57.992 cda4 Delete type=2 #1264
+2025/05/26-10:46:57.992 cda4 Delete type=2 #1266
+2025/05/26-10:46:57.992 cda4 Delete type=2 #1268
+2025/05/26-10:46:57.992 cda4 Delete type=2 #1270
+2025/05/26-10:46:57.992 cda4 Delete type=2 #1272
+2025/05/26-10:54:33.421 cda4 Level-0 table #1277: started
+2025/05/26-10:54:33.426 cda4 Level-0 table #1277: 27337 bytes OK
+2025/05/26-10:54:33.428 cda4 Delete type=0 #1271
+2025/05/26-11:01:30.117 cda4 Level-0 table #1279: started
+2025/05/26-11:01:30.125 cda4 Level-0 table #1279: 27401 bytes OK
+2025/05/26-11:01:30.126 cda4 Delete type=0 #1276
+2025/05/26-11:08:37.845 cda4 Level-0 table #1281: started
+2025/05/26-11:08:37.850 cda4 Level-0 table #1281: 27485 bytes OK
+2025/05/26-11:08:37.852 cda4 Delete type=0 #1278
+2025/05/26-11:09:45.688 cda4 Level-0 table #1283: started
+2025/05/26-11:09:45.694 cda4 Level-0 table #1283: 25886 bytes OK
+2025/05/26-11:09:45.696 cda4 Delete type=0 #1280
+2025/05/26-11:09:45.697 cda4 Compacting 4@0 + 3@1 files
+2025/05/26-11:09:45.756 cda4 Generated table #1284@0: 89215 keys, 2119484 bytes
+2025/05/26-11:09:45.819 cda4 Generated table #1285@0: 89136 keys, 2121602 bytes
+2025/05/26-11:09:45.834 cda4 Generated table #1286@0: 16992 keys, 383718 bytes
+2025/05/26-11:09:45.834 cda4 Compacted 4@0 + 3@1 files => 4624804 bytes
+2025/05/26-11:09:45.835 cda4 compacted to: files[ 0 3 1 0 0 0 0 ]
+2025/05/26-11:09:45.836 cda4 Delete type=2 #1273
+2025/05/26-11:09:45.836 cda4 Delete type=2 #1274
+2025/05/26-11:09:45.836 cda4 Delete type=2 #1275
+2025/05/26-11:09:45.836 cda4 Delete type=2 #1277
+2025/05/26-11:09:45.836 cda4 Delete type=2 #1279
+2025/05/26-11:09:45.836 cda4 Delete type=2 #1281
+2025/05/26-11:09:45.836 cda4 Delete type=2 #1283
+2025/05/26-11:10:56.329 cda4 Level-0 table #1288: started
+2025/05/26-11:10:56.335 cda4 Level-0 table #1288: 27091 bytes OK
+2025/05/26-11:10:56.337 cda4 Delete type=0 #1282
+2025/05/26-11:12:04.193 cda4 Level-0 table #1290: started
+2025/05/26-11:12:04.198 cda4 Level-0 table #1290: 28324 bytes OK
+2025/05/26-11:12:04.200 cda4 Delete type=0 #1287
+2025/05/26-11:20:11.932 cda4 Level-0 table #1292: started
+2025/05/26-11:20:11.938 cda4 Level-0 table #1292: 27381 bytes OK
+2025/05/26-11:20:11.940 cda4 Delete type=0 #1289
+2025/05/26-11:28:11.071 cda4 Level-0 table #1294: started
+2025/05/26-11:28:11.076 cda4 Level-0 table #1294: 27646 bytes OK
+2025/05/26-11:28:11.078 cda4 Delete type=0 #1291
+2025/05/26-11:28:11.079 cd9c Compacting 4@0 + 3@1 files
+2025/05/26-11:28:11.149 cd9c Generated table #1295@0: 89237 keys, 2119381 bytes
+2025/05/26-11:28:11.206 cd9c Generated table #1296@0: 89128 keys, 2120843 bytes
+2025/05/26-11:28:11.224 cd9c Generated table #1297@0: 19470 keys, 442989 bytes
+2025/05/26-11:28:11.224 cd9c Compacted 4@0 + 3@1 files => 4683213 bytes
+2025/05/26-11:28:11.225 cd9c compacted to: files[ 0 3 1 0 0 0 0 ]
+2025/05/26-11:28:11.226 cd9c Delete type=2 #1284
+2025/05/26-11:28:11.226 cd9c Delete type=2 #1285
+2025/05/26-11:28:11.226 cd9c Delete type=2 #1286
+2025/05/26-11:28:11.226 cd9c Delete type=2 #1288
+2025/05/26-11:28:11.226 cd9c Delete type=2 #1290
+2025/05/26-11:28:11.226 cd9c Delete type=2 #1292
+2025/05/26-11:28:11.227 cd9c Delete type=2 #1294
+2025/05/26-11:36:33.683 cda4 Level-0 table #1299: started
+2025/05/26-11:36:33.689 cda4 Level-0 table #1299: 27689 bytes OK
+2025/05/26-11:36:33.691 cda4 Delete type=0 #1293
+2025/05/26-11:44:14.704 cda4 Level-0 table #1301: started
+2025/05/26-11:44:14.709 cda4 Level-0 table #1301: 27814 bytes OK
+2025/05/26-11:44:14.711 cda4 Delete type=0 #1298
+2025/05/26-11:50:52.755 cda4 Level-0 table #1303: started
+2025/05/26-11:50:52.760 cda4 Level-0 table #1303: 28049 bytes OK
+2025/05/26-11:50:52.762 cda4 Delete type=0 #1300
+2025/05/26-11:52:01.360 cda4 Level-0 table #1305: started
+2025/05/26-11:52:01.365 cda4 Level-0 table #1305: 26653 bytes OK
+2025/05/26-11:52:01.367 cda4 Delete type=0 #1302
+2025/05/26-11:52:01.368 cda4 Compacting 4@0 + 3@1 files
+2025/05/26-11:52:01.429 cda4 Generated table #1306@0: 89243 keys, 2119757 bytes
+2025/05/26-11:52:01.488 cda4 Generated table #1307@0: 89163 keys, 2121337 bytes
+2025/05/26-11:52:01.508 cda4 Generated table #1308@0: 21941 keys, 501877 bytes
+2025/05/26-11:52:01.508 cda4 Compacted 4@0 + 3@1 files => 4742971 bytes
+2025/05/26-11:52:01.509 cda4 compacted to: files[ 0 3 1 0 0 0 0 ]
+2025/05/26-11:52:01.509 cda4 Delete type=2 #1295
+2025/05/26-11:52:01.509 cda4 Delete type=2 #1296
+2025/05/26-11:52:01.510 cda4 Delete type=2 #1297
+2025/05/26-11:52:01.510 cda4 Delete type=2 #1299
+2025/05/26-11:52:01.510 cda4 Delete type=2 #1301
+2025/05/26-11:52:01.510 cda4 Delete type=2 #1303
+2025/05/26-11:52:01.510 cda4 Delete type=2 #1305
+2025/05/26-11:53:11.125 cda4 Level-0 table #1310: started
+2025/05/26-11:53:11.130 cda4 Level-0 table #1310: 27858 bytes OK
+2025/05/26-11:53:11.132 cda4 Delete type=0 #1304
+2025/05/26-11:54:18.963 cda4 Level-0 table #1312: started
+2025/05/26-11:54:18.969 cda4 Level-0 table #1312: 29052 bytes OK
+2025/05/26-11:54:18.970 cda4 Delete type=0 #1309
+2025/05/26-12:01:30.517 cda4 Level-0 table #1314: started
+2025/05/26-12:01:30.523 cda4 Level-0 table #1314: 29152 bytes OK
+2025/05/26-12:01:30.524 cda4 Delete type=0 #1311
+2025/05/26-12:02:38.542 cda4 Level-0 table #1316: started
+2025/05/26-12:02:38.589 cda4 Level-0 table #1316: 26424 bytes OK
+2025/05/26-12:02:38.591 cda4 Delete type=0 #1313
+2025/05/26-12:02:38.592 cda4 Compacting 4@0 + 3@1 files
+2025/05/26-12:02:38.648 cda4 Generated table #1317@0: 89254 keys, 2119503 bytes
+2025/05/26-12:02:38.706 cda4 Generated table #1318@0: 89157 keys, 2121113 bytes
+2025/05/26-12:02:38.725 cda4 Generated table #1319@0: 24458 keys, 560999 bytes
+2025/05/26-12:02:38.725 cda4 Compacted 4@0 + 3@1 files => 4801615 bytes
+2025/05/26-12:02:38.726 cda4 compacted to: files[ 0 3 1 0 0 0 0 ]
+2025/05/26-12:02:38.727 cda4 Delete type=2 #1306
+2025/05/26-12:02:38.727 cda4 Delete type=2 #1307
+2025/05/26-12:02:38.727 cda4 Delete type=2 #1308
+2025/05/26-12:02:38.727 cda4 Delete type=2 #1310
+2025/05/26-12:02:38.727 cda4 Delete type=2 #1312
+2025/05/26-12:02:38.728 cda4 Delete type=2 #1314
+2025/05/26-12:02:38.728 cda4 Delete type=2 #1316
+2025/05/26-12:03:49.193 cda4 Level-0 table #1321: started
+2025/05/26-12:03:49.198 cda4 Level-0 table #1321: 27658 bytes OK
+2025/05/26-12:03:49.200 cda4 Delete type=0 #1315
+2025/05/26-12:04:57.038 cda4 Level-0 table #1323: started
+2025/05/26-12:04:57.043 cda4 Level-0 table #1323: 28886 bytes OK
+2025/05/26-12:04:57.044 cda4 Delete type=0 #1320
+2025/05/26-12:11:34.970 cda4 Level-0 table #1325: started
+2025/05/26-12:11:34.975 cda4 Level-0 table #1325: 27761 bytes OK
+2025/05/26-12:11:34.977 cda4 Delete type=0 #1322
+2025/05/26-12:20:05.459 cda4 Level-0 table #1327: started
+2025/05/26-12:20:05.464 cda4 Level-0 table #1327: 28069 bytes OK
+2025/05/26-12:20:05.466 cda4 Delete type=0 #1324
+2025/05/26-12:20:05.466 cda4 Compacting 4@0 + 3@1 files
+2025/05/26-12:20:05.521 cda4 Generated table #1328@0: 89383 keys, 2121417 bytes
+2025/05/26-12:20:05.583 cda4 Generated table #1329@0: 89164 keys, 2121259 bytes
+2025/05/26-12:20:05.603 cda4 Generated table #1330@0: 26862 keys, 617863 bytes
+2025/05/26-12:20:05.603 cda4 Compacted 4@0 + 3@1 files => 4860539 bytes
+2025/05/26-12:20:05.604 cda4 compacted to: files[ 0 3 1 0 0 0 0 ]
+2025/05/26-12:20:05.605 cda4 Delete type=2 #1317
+2025/05/26-12:20:05.605 cda4 Delete type=2 #1318
+2025/05/26-12:20:05.605 cda4 Delete type=2 #1319
+2025/05/26-12:20:05.605 cda4 Delete type=2 #1321
+2025/05/26-12:20:05.605 cda4 Delete type=2 #1323
+2025/05/26-12:20:05.605 cda4 Delete type=2 #1325
+2025/05/26-12:20:05.605 cda4 Delete type=2 #1327
+2025/05/26-12:27:08.388 cda4 Level-0 table #1332: started
+2025/05/26-12:27:08.394 cda4 Level-0 table #1332: 28137 bytes OK
+2025/05/26-12:27:08.396 cda4 Delete type=0 #1326
+2025/05/26-12:35:29.583 cda4 Level-0 table #1334: started
+2025/05/26-12:35:29.588 cda4 Level-0 table #1334: 28136 bytes OK
+2025/05/26-12:35:29.590 cda4 Delete type=0 #1331
+2025/05/26-12:42:30.901 cda4 Level-0 table #1336: started
+2025/05/26-12:42:30.906 cda4 Level-0 table #1336: 28166 bytes OK
+2025/05/26-12:42:30.908 cda4 Delete type=0 #1333
+2025/05/26-12:50:46.008 cda4 Level-0 table #1338: started
+2025/05/26-12:50:46.021 cda4 Level-0 table #1338: 51637 bytes OK
+2025/05/26-12:50:46.023 cda4 Delete type=0 #1335
+2025/05/26-12:50:46.024 cda4 Compacting 4@0 + 3@1 files
+2025/05/26-12:50:46.082 cda4 Generated table #1339@0: 88728 keys, 2120190 bytes
+2025/05/26-12:50:46.135 cda4 Generated table #1340@0: 88304 keys, 2120068 bytes
+2025/05/26-12:50:46.159 cda4 Generated table #1341@0: 30939 keys, 719145 bytes
+2025/05/26-12:50:46.159 cda4 Compacted 4@0 + 3@1 files => 4959403 bytes
+2025/05/26-12:50:46.160 cda4 compacted to: files[ 0 3 1 0 0 0 0 ]
+2025/05/26-12:50:46.160 cda4 Delete type=2 #1328
+2025/05/26-12:50:46.161 cda4 Delete type=2 #1329
+2025/05/26-12:50:46.161 cda4 Delete type=2 #1330
+2025/05/26-12:50:46.161 cda4 Delete type=2 #1332
+2025/05/26-12:50:46.161 cda4 Delete type=2 #1334
+2025/05/26-12:50:46.161 cda4 Delete type=2 #1336
+2025/05/26-12:50:46.161 cda4 Delete type=2 #1338
+2025/05/26-12:57:34.491 cda4 Level-0 table #1343: started
+2025/05/26-12:57:34.498 cda4 Level-0 table #1343: 43813 bytes OK
+2025/05/26-12:57:34.500 cda4 Delete type=0 #1337
+2025/05/26-13:04:58.249 cda4 Level-0 table #1345: started
+2025/05/26-13:04:58.255 cda4 Level-0 table #1345: 28248 bytes OK
+2025/05/26-13:04:58.257 cda4 Delete type=0 #1342
+2025/05/26-13:12:40.911 cda4 Level-0 table #1347: started
+2025/05/26-13:12:40.916 cda4 Level-0 table #1347: 28313 bytes OK
+2025/05/26-13:12:40.918 cda4 Delete type=0 #1344
+2025/05/26-13:21:15.840 cda4 Level-0 table #1349: started
+2025/05/26-13:21:15.846 cda4 Level-0 table #1349: 28395 bytes OK
+2025/05/26-13:21:15.848 cda4 Delete type=0 #1346
+2025/05/26-13:21:15.849 cda4 Compacting 4@0 + 3@1 files
+2025/05/26-13:21:15.906 cda4 Generated table #1350@0: 89279 keys, 2119059 bytes
+2025/05/26-13:21:15.961 cda4 Generated table #1351@0: 89169 keys, 2120509 bytes
+2025/05/26-13:21:15.984 cda4 Generated table #1352@0: 31984 keys, 739937 bytes
+2025/05/26-13:21:15.984 cda4 Compacted 4@0 + 3@1 files => 4979505 bytes
+2025/05/26-13:21:15.985 cda4 compacted to: files[ 0 3 1 0 0 0 0 ]
+2025/05/26-13:21:15.986 cda4 Delete type=2 #1339
+2025/05/26-13:21:15.986 cda4 Delete type=2 #1340
+2025/05/26-13:21:15.986 cda4 Delete type=2 #1341
+2025/05/26-13:21:15.986 cda4 Delete type=2 #1343
+2025/05/26-13:21:15.986 cda4 Delete type=2 #1345
+2025/05/26-13:21:15.986 cda4 Delete type=2 #1347
+2025/05/26-13:21:15.986 cda4 Delete type=2 #1349
+2025/05/26-13:28:02.551 cda4 Level-0 table #1354: started
+2025/05/26-13:28:02.556 cda4 Level-0 table #1354: 28424 bytes OK
+2025/05/26-13:28:02.558 cda4 Delete type=0 #1348
+2025/05/26-13:35:31.165 cda4 Level-0 table #1356: started
+2025/05/26-13:35:31.171 cda4 Level-0 table #1356: 28295 bytes OK
+2025/05/26-13:35:31.173 cda4 Delete type=0 #1353
+2025/05/26-13:43:14.946 cda4 Level-0 table #1358: started
+2025/05/26-13:43:14.952 cda4 Level-0 table #1358: 28376 bytes OK
+2025/05/26-13:43:14.953 cda4 Delete type=0 #1355
+2025/05/26-13:51:47.250 cda4 Level-0 table #1360: started
+2025/05/26-13:51:47.256 cda4 Level-0 table #1360: 28474 bytes OK
+2025/05/26-13:51:47.258 cda4 Delete type=0 #1357
+2025/05/26-13:51:47.258 cda4 Compacting 4@0 + 3@1 files
+2025/05/26-13:51:47.317 cda4 Generated table #1361@0: 89303 keys, 2119566 bytes
+2025/05/26-13:51:47.373 cda4 Generated table #1362@0: 89187 keys, 2121014 bytes
+2025/05/26-13:51:47.399 cda4 Generated table #1363@0: 34536 keys, 800182 bytes
+2025/05/26-13:51:47.399 cda4 Compacted 4@0 + 3@1 files => 5040762 bytes
+2025/05/26-13:51:47.400 cda4 compacted to: files[ 0 3 1 0 0 0 0 ]
+2025/05/26-13:51:47.400 cda4 Delete type=2 #1350
+2025/05/26-13:51:47.401 cda4 Delete type=2 #1351
+2025/05/26-13:51:47.401 cda4 Delete type=2 #1352
+2025/05/26-13:51:47.401 cda4 Delete type=2 #1354
+2025/05/26-13:51:47.401 cda4 Delete type=2 #1356
+2025/05/26-13:51:47.401 cda4 Delete type=2 #1358
+2025/05/26-13:51:47.401 cda4 Delete type=2 #1360
+2025/05/26-13:58:27.123 cda4 Level-0 table #1365: started
+2025/05/26-13:58:27.128 cda4 Level-0 table #1365: 28499 bytes OK
+2025/05/26-13:58:27.130 cda4 Delete type=0 #1359
+2025/05/26-14:06:02.388 cda4 Level-0 table #1367: started
+2025/05/26-14:06:02.394 cda4 Level-0 table #1367: 28591 bytes OK
+2025/05/26-14:06:02.395 cda4 Delete type=0 #1364
+2025/05/26-14:07:10.513 cda4 Level-0 table #1369: started
+2025/05/26-14:07:10.519 cda4 Level-0 table #1369: 27106 bytes OK
+2025/05/26-14:07:10.520 cda4 Delete type=0 #1366
+2025/05/26-14:08:21.144 cda4 Level-0 table #1371: started
+2025/05/26-14:08:21.150 cda4 Level-0 table #1371: 28363 bytes OK
+2025/05/26-14:08:21.152 cda4 Delete type=0 #1368
+2025/05/26-14:08:21.152 cda4 Compacting 4@0 + 3@1 files
+2025/05/26-14:08:21.213 cda4 Generated table #1372@0: 89307 keys, 2119525 bytes
+2025/05/26-14:08:21.269 cda4 Generated table #1373@0: 89198 keys, 2120300 bytes
+2025/05/26-14:08:21.295 cda4 Generated table #1374@0: 37127 keys, 861502 bytes
+2025/05/26-14:08:21.295 cda4 Compacted 4@0 + 3@1 files => 5101327 bytes
+2025/05/26-14:08:21.296 cda4 compacted to: files[ 0 3 1 0 0 0 0 ]
+2025/05/26-14:08:21.297 cda4 Delete type=2 #1361
+2025/05/26-14:08:21.297 cda4 Delete type=2 #1362
+2025/05/26-14:08:21.297 cda4 Delete type=2 #1363
+2025/05/26-14:08:21.297 cda4 Delete type=2 #1365
+2025/05/26-14:08:21.297 cda4 Delete type=2 #1367
+2025/05/26-14:08:21.297 cda4 Delete type=2 #1369
+2025/05/26-14:08:21.297 cda4 Delete type=2 #1371
+2025/05/26-14:09:29.103 cda4 Level-0 table #1376: started
+2025/05/26-14:09:29.108 cda4 Level-0 table #1376: 29531 bytes OK
+2025/05/26-14:09:29.110 cda4 Delete type=0 #1370
+2025/05/26-14:16:24.185 cda4 Level-0 table #1378: started
+2025/05/26-14:16:24.191 cda4 Level-0 table #1378: 28378 bytes OK
+2025/05/26-14:16:24.192 cda4 Delete type=0 #1375
+2025/05/26-14:24:02.621 cda4 Level-0 table #1380: started
+2025/05/26-14:24:02.628 cda4 Level-0 table #1380: 28739 bytes OK
+2025/05/26-14:24:02.630 cda4 Delete type=0 #1377
+2025/05/26-14:32:11.192 cda4 Level-0 table #1382: started
+2025/05/26-14:32:11.202 cda4 Level-0 table #1382: 29397 bytes OK
+2025/05/26-14:32:11.204 cda4 Delete type=0 #1379
+2025/05/26-14:32:11.204 cda4 Compacting 4@0 + 3@1 files
+2025/05/26-14:32:11.252 cda4 Generated table #1383@0: 89308 keys, 2119077 bytes
+2025/05/26-14:32:11.293 cda4 Generated table #1384@0: 89211 keys, 2121072 bytes
+2025/05/26-14:32:11.312 cda4 Generated table #1385@0: 39737 keys, 922733 bytes
+2025/05/26-14:32:11.312 cda4 Compacted 4@0 + 3@1 files => 5162882 bytes
+2025/05/26-14:32:11.313 cda4 compacted to: files[ 0 3 1 0 0 0 0 ]
+2025/05/26-14:32:11.314 cda4 Delete type=2 #1372
+2025/05/26-14:32:11.314 cda4 Delete type=2 #1373
+2025/05/26-14:32:11.314 cda4 Delete type=2 #1374
+2025/05/26-14:32:11.314 cda4 Delete type=2 #1376
+2025/05/26-14:32:11.314 cda4 Delete type=2 #1378
+2025/05/26-14:32:11.314 cda4 Delete type=2 #1380
+2025/05/26-14:32:11.314 cda4 Delete type=2 #1382
+2025/05/26-14:39:25.688 cda4 Level-0 table #1387: started
+2025/05/26-14:39:25.693 cda4 Level-0 table #1387: 28901 bytes OK
+2025/05/26-14:39:25.695 cda4 Delete type=0 #1381
+2025/05/26-14:45:53.564 cda4 Level-0 table #1389: started
+2025/05/26-14:45:53.573 cda4 Level-0 table #1389: 28846 bytes OK
+2025/05/26-14:45:53.575 cda4 Delete type=0 #1386
+2025/05/26-14:53:01.790 cda4 Level-0 table #1391: started
+2025/05/26-14:53:01.803 cda4 Level-0 table #1391: 28710 bytes OK
+2025/05/26-14:53:01.804 cda4 Delete type=0 #1388
+2025/05/26-14:54:00.862 cda4 Level-0 table #1393: started
+2025/05/26-14:54:00.866 cda4 Level-0 table #1393: 26433 bytes OK
+2025/05/26-14:54:00.867 cda4 Delete type=0 #1390
+2025/05/26-14:54:00.868 cda4 Compacting 4@0 + 3@1 files
+2025/05/26-14:54:00.904 cda4 Generated table #1394@0: 89450 keys, 2121561 bytes
+2025/05/26-14:54:00.942 cda4 Generated table #1395@0: 89221 keys, 2121187 bytes
+2025/05/26-14:54:00.962 cda4 Generated table #1396@0: 42223 keys, 981589 bytes
+2025/05/26-14:54:00.962 cda4 Compacted 4@0 + 3@1 files => 5224337 bytes
+2025/05/26-14:54:00.963 cda4 compacted to: files[ 0 3 1 0 0 0 0 ]
+2025/05/26-14:54:00.963 cda4 Delete type=2 #1383
+2025/05/26-14:54:00.964 cda4 Delete type=2 #1384
+2025/05/26-14:54:00.964 cda4 Delete type=2 #1385
+2025/05/26-14:54:00.964 cda4 Delete type=2 #1387
+2025/05/26-14:54:00.964 cda4 Delete type=2 #1389
+2025/05/26-14:54:00.964 cda4 Delete type=2 #1391
+2025/05/26-14:54:00.964 cda4 Delete type=2 #1393
+2025/05/26-14:55:11.378 cda4 Level-0 table #1398: started
+2025/05/26-14:55:11.382 cda4 Level-0 table #1398: 28617 bytes OK
+2025/05/26-14:55:11.384 cda4 Delete type=0 #1392
+2025/05/26-14:56:23.339 cda4 Level-0 table #1400: started
+2025/05/26-14:56:23.345 cda4 Level-0 table #1400: 30780 bytes OK
+2025/05/26-14:56:23.347 cda4 Delete type=0 #1397
+2025/05/26-15:04:34.995 cda4 Level-0 table #1402: started
+2025/05/26-15:04:35.002 cda4 Level-0 table #1402: 28902 bytes OK
+2025/05/26-15:04:35.004 cda4 Delete type=0 #1399
+2025/05/26-15:11:07.392 cda4 Level-0 table #1404: started
+2025/05/26-15:11:07.397 cda4 Level-0 table #1404: 29064 bytes OK
+2025/05/26-15:11:07.398 cda4 Delete type=0 #1401
+2025/05/26-15:11:07.399 cda4 Compacting 4@0 + 3@1 files
+2025/05/26-15:11:07.440 cda4 Generated table #1405@0: 89345 keys, 2120985 bytes
+2025/05/26-15:11:07.484 cda4 Generated table #1406@0: 89212 keys, 2121023 bytes
+2025/05/26-15:11:07.510 cda4 Generated table #1407@0: 44987 keys, 1047635 bytes
+2025/05/26-15:11:07.510 cda4 Compacted 4@0 + 3@1 files => 5289643 bytes
+2025/05/26-15:11:07.511 cda4 compacted to: files[ 0 3 1 0 0 0 0 ]
+2025/05/26-15:11:07.512 cda4 Delete type=2 #1394
+2025/05/26-15:11:07.512 cda4 Delete type=2 #1395
+2025/05/26-15:11:07.512 cda4 Delete type=2 #1396
+2025/05/26-15:11:07.512 cda4 Delete type=2 #1398
+2025/05/26-15:11:07.512 cda4 Delete type=2 #1400
+2025/05/26-15:11:07.512 cda4 Delete type=2 #1402
+2025/05/26-15:11:07.512 cda4 Delete type=2 #1404
+2025/05/26-15:17:54.539 cda4 Level-0 table #1409: started
+2025/05/26-15:17:54.544 cda4 Level-0 table #1409: 29131 bytes OK
+2025/05/26-15:17:54.546 cda4 Delete type=0 #1403
+2025/05/26-15:18:54.845 cda4 Level-0 table #1411: started
+2025/05/26-15:18:54.851 cda4 Level-0 table #1411: 27951 bytes OK
+2025/05/26-15:18:54.852 cda4 Delete type=0 #1408
+2025/05/26-15:20:03.960 cda4 Level-0 table #1413: started
+2025/05/26-15:20:03.965 cda4 Level-0 table #1413: 27801 bytes OK
+2025/05/26-15:20:03.966 cda4 Delete type=0 #1410
+2025/05/26-15:21:16.231 cda4 Level-0 table #1415: started
+2025/05/26-15:21:16.238 cda4 Level-0 table #1415: 30321 bytes OK
+2025/05/26-15:21:16.240 cda4 Delete type=0 #1412
+2025/05/26-15:21:16.240 cda4 Compacting 4@0 + 3@1 files
+2025/05/26-15:21:16.280 cda4 Generated table #1416@0: 89366 keys, 2121434 bytes
+2025/05/26-15:21:16.321 cda4 Generated table #1417@0: 89220 keys, 2122221 bytes
+2025/05/26-15:21:16.344 cda4 Generated table #1418@0: 47620 keys, 1110441 bytes
+2025/05/26-15:21:16.344 cda4 Compacted 4@0 + 3@1 files => 5354096 bytes
+2025/05/26-15:21:16.345 cda4 compacted to: files[ 0 3 1 0 0 0 0 ]
+2025/05/26-15:21:16.346 cda4 Delete type=2 #1405
+2025/05/26-15:21:16.346 cda4 Delete type=2 #1406
+2025/05/26-15:21:16.346 cda4 Delete type=2 #1407
+2025/05/26-15:21:16.346 cda4 Delete type=2 #1409
+2025/05/26-15:21:16.346 cda4 Delete type=2 #1411
+2025/05/26-15:21:16.346 cda4 Delete type=2 #1413
+2025/05/26-15:21:16.346 cda4 Delete type=2 #1415
+2025/05/26-15:29:03.841 cda4 Level-0 table #1420: started
+2025/05/26-15:29:03.849 cda4 Level-0 table #1420: 29044 bytes OK
+2025/05/26-15:29:03.851 cda4 Delete type=0 #1414
+2025/05/26-15:36:13.791 cda4 Level-0 table #1422: started
+2025/05/26-15:36:13.797 cda4 Level-0 table #1422: 29373 bytes OK
+2025/05/26-15:36:13.798 cda4 Delete type=0 #1419
+2025/05/26-15:44:06.144 cda4 Level-0 table #1424: started
+2025/05/26-15:44:06.151 cda4 Level-0 table #1424: 29420 bytes OK
+2025/05/26-15:44:06.153 cda4 Delete type=0 #1421
+2025/05/26-15:50:53.808 cda4 Level-0 table #1426: started
+2025/05/26-15:50:53.816 cda4 Level-0 table #1426: 29243 bytes OK
+2025/05/26-15:50:53.817 cda4 Delete type=0 #1423
+2025/05/26-15:50:53.818 cda4 Compacting 4@0 + 3@1 files
+2025/05/26-15:50:53.860 cda4 Generated table #1427@0: 89365 keys, 2120916 bytes
+2025/05/26-15:50:53.901 cda4 Generated table #1428@0: 89223 keys, 2121532 bytes
+2025/05/26-15:50:53.926 cda4 Generated table #1429@0: 50302 keys, 1174665 bytes
+2025/05/26-15:50:53.926 cda4 Compacted 4@0 + 3@1 files => 5417113 bytes
+2025/05/26-15:50:53.927 cda4 compacted to: files[ 0 3 1 0 0 0 0 ]
+2025/05/26-15:50:53.928 cda4 Delete type=2 #1416
+2025/05/26-15:50:53.928 cda4 Delete type=2 #1417
+2025/05/26-15:50:53.928 cda4 Delete type=2 #1418
+2025/05/26-15:50:53.928 cda4 Delete type=2 #1420
+2025/05/26-15:50:53.928 cda4 Delete type=2 #1422
+2025/05/26-15:50:53.928 cda4 Delete type=2 #1424
+2025/05/26-15:50:53.928 cda4 Delete type=2 #1426
+2025/05/26-15:51:53.125 cda4 Level-0 table #1431: started
+2025/05/26-15:51:53.130 cda4 Level-0 table #1431: 27058 bytes OK
+2025/05/26-15:51:53.131 cda4 Delete type=0 #1425
+2025/05/26-15:53:04.753 cda4 Level-0 table #1433: started
+2025/05/26-15:53:04.759 cda4 Level-0 table #1433: 30389 bytes OK
+2025/05/26-15:53:04.760 cda4 Delete type=0 #1430
+2025/05/26-15:54:15.387 cda4 Level-0 table #1435: started
+2025/05/26-15:54:15.392 cda4 Level-0 table #1435: 29411 bytes OK
+2025/05/26-15:54:15.394 cda4 Delete type=0 #1432
+2025/05/26-16:01:25.176 cda4 Level-0 table #1437: started
+2025/05/26-16:01:25.241 cda4 Level-0 table #1437: 29483 bytes OK
+2025/05/26-16:01:25.243 cda4 Delete type=0 #1434
+2025/05/26-16:01:25.243 cda4 Compacting 4@0 + 3@1 files
+2025/05/26-16:01:25.283 cda4 Generated table #1438@0: 89374 keys, 2120342 bytes
+2025/05/26-16:01:25.321 cda4 Generated table #1439@0: 89104 keys, 2119777 bytes
+2025/05/26-16:01:25.345 cda4 Generated table #1440@0: 53108 keys, 1239961 bytes
+2025/05/26-16:01:25.345 cda4 Compacted 4@0 + 3@1 files => 5480080 bytes
+2025/05/26-16:01:25.346 cda4 compacted to: files[ 0 3 1 0 0 0 0 ]
+2025/05/26-16:01:25.347 cda4 Delete type=2 #1427
+2025/05/26-16:01:25.347 cda4 Delete type=2 #1428
+2025/05/26-16:01:25.347 cda4 Delete type=2 #1429
+2025/05/26-16:01:25.347 cda4 Delete type=2 #1431
+2025/05/26-16:01:25.347 cda4 Delete type=2 #1433
+2025/05/26-16:01:25.347 cda4 Delete type=2 #1435
+2025/05/26-16:01:25.347 cda4 Delete type=2 #1437
+2025/05/26-16:08:27.824 cda4 Level-0 table #1442: started
+2025/05/26-16:08:27.829 cda4 Level-0 table #1442: 29427 bytes OK
+2025/05/26-16:08:27.830 cda4 Delete type=0 #1436
+2025/05/26-16:16:07.112 cda4 Level-0 table #1444: started
+2025/05/26-16:16:07.117 cda4 Level-0 table #1444: 30889 bytes OK
+2025/05/26-16:16:07.118 cda4 Delete type=0 #1441
+2025/05/26-16:24:17.221 cda4 Level-0 table #1446: started
+2025/05/26-16:24:17.229 cda4 Level-0 table #1446: 29634 bytes OK
+2025/05/26-16:24:17.230 cda4 Delete type=0 #1443
+2025/05/26-16:30:47.434 cda4 Level-0 table #1448: started
+2025/05/26-16:30:47.441 cda4 Level-0 table #1448: 29643 bytes OK
+2025/05/26-16:30:47.443 cda4 Delete type=0 #1445
+2025/05/26-16:30:47.443 cda4 Compacting 4@0 + 3@1 files
+2025/05/26-16:30:47.485 cda4 Generated table #1449@0: 89386 keys, 2120613 bytes
+2025/05/26-16:30:47.521 cda4 Generated table #1450@0: 89252 keys, 2122034 bytes
+2025/05/26-16:30:47.550 cda4 Generated table #1451@0: 55666 keys, 1301038 bytes
+2025/05/26-16:30:47.551 cda4 Compacted 4@0 + 3@1 files => 5543685 bytes
+2025/05/26-16:30:47.552 cda4 compacted to: files[ 0 3 1 0 0 0 0 ]
+2025/05/26-16:30:47.552 cda4 Delete type=2 #1438
+2025/05/26-16:30:47.552 cda4 Delete type=2 #1439
+2025/05/26-16:30:47.552 cda4 Delete type=2 #1440
+2025/05/26-16:30:47.552 cda4 Delete type=2 #1442
+2025/05/26-16:30:47.553 cda4 Delete type=2 #1444
+2025/05/26-16:30:47.553 cda4 Delete type=2 #1446
+2025/05/26-16:30:47.553 cda4 Delete type=2 #1448
+2025/05/26-16:37:07.017 cda4 Level-0 table #1453: started
+2025/05/26-16:37:07.023 cda4 Level-0 table #1453: 29743 bytes OK
+2025/05/26-16:37:07.025 cda4 Delete type=0 #1447
+2025/05/26-16:43:45.800 cda4 Level-0 table #1455: started
+2025/05/26-16:43:45.805 cda4 Level-0 table #1455: 29742 bytes OK
+2025/05/26-16:43:45.806 cda4 Delete type=0 #1452
+2025/05/26-16:50:33.684 cda4 Level-0 table #1457: started
+2025/05/26-16:50:33.692 cda4 Level-0 table #1457: 29797 bytes OK
+2025/05/26-16:50:33.694 cda4 Delete type=0 #1454
+2025/05/26-16:57:03.751 cda4 Level-0 table #1459: started
+2025/05/26-16:57:03.763 cda4 Level-0 table #1459: 29793 bytes OK
+2025/05/26-16:57:03.765 cda4 Delete type=0 #1456
+2025/05/26-16:57:03.766 cda4 Compacting 4@0 + 3@1 files
+2025/05/26-16:57:03.804 cda4 Generated table #1460@0: 89401 keys, 2120639 bytes
+2025/05/26-16:57:03.841 cda4 Generated table #1461@0: 89256 keys, 2121860 bytes
+2025/05/26-16:57:03.865 cda4 Generated table #1462@0: 58381 keys, 1365692 bytes
+2025/05/26-16:57:03.865 cda4 Compacted 4@0 + 3@1 files => 5608191 bytes
+2025/05/26-16:57:03.866 cda4 compacted to: files[ 0 3 1 0 0 0 0 ]
+2025/05/26-16:57:03.867 cda4 Delete type=2 #1449
+2025/05/26-16:57:03.867 cda4 Delete type=2 #1450
+2025/05/26-16:57:03.867 cda4 Delete type=2 #1451
+2025/05/26-16:57:03.867 cda4 Delete type=2 #1453
+2025/05/26-16:57:03.867 cda4 Delete type=2 #1455
+2025/05/26-16:57:03.867 cda4 Delete type=2 #1457
+2025/05/26-16:57:03.867 cda4 Delete type=2 #1459
+2025/05/26-17:05:31.709 cda4 Level-0 table #1464: started
+2025/05/26-17:05:31.718 cda4 Level-0 table #1464: 29875 bytes OK
+2025/05/26-17:05:31.720 cda4 Delete type=0 #1458
+2025/05/26-17:13:32.833 cda4 Level-0 table #1466: started
+2025/05/26-17:13:32.841 cda4 Level-0 table #1466: 29768 bytes OK
+2025/05/26-17:13:32.843 cda4 Delete type=0 #1463
+2025/05/26-17:22:01.218 cda4 Level-0 table #1468: started
+2025/05/26-17:22:01.226 cda4 Level-0 table #1468: 29905 bytes OK
+2025/05/26-17:22:01.228 cda4 Delete type=0 #1465
+2025/05/26-17:28:36.122 cda4 Level-0 table #1470: started
+2025/05/26-17:28:36.128 cda4 Level-0 table #1470: 29974 bytes OK
+2025/05/26-17:28:36.129 cda4 Delete type=0 #1467
+2025/05/26-17:28:36.130 cda4 Compacting 4@0 + 3@1 files
+2025/05/26-17:28:36.178 cda4 Generated table #1471@0: 89406 keys, 2121644 bytes
+2025/05/26-17:28:36.226 cda4 Generated table #1472@0: 89265 keys, 2121539 bytes
+2025/05/26-17:28:36.257 cda4 Generated table #1473@0: 61117 keys, 1429927 bytes
+2025/05/26-17:28:36.257 cda4 Compacted 4@0 + 3@1 files => 5673110 bytes
+2025/05/26-17:28:36.258 cda4 compacted to: files[ 0 3 1 0 0 0 0 ]
+2025/05/26-17:28:36.259 cda4 Delete type=2 #1460
+2025/05/26-17:28:36.259 cda4 Delete type=2 #1461
+2025/05/26-17:28:36.259 cda4 Delete type=2 #1462
+2025/05/26-17:28:36.259 cda4 Delete type=2 #1464
+2025/05/26-17:28:36.259 cda4 Delete type=2 #1466
+2025/05/26-17:28:36.259 cda4 Delete type=2 #1468
+2025/05/26-17:28:36.259 cda4 Delete type=2 #1470
+2025/05/26-17:36:59.296 cda4 Level-0 table #1475: started
+2025/05/26-17:36:59.304 cda4 Level-0 table #1475: 30071 bytes OK
+2025/05/26-17:36:59.306 cda4 Delete type=0 #1469
+2025/05/26-17:45:32.201 cda4 Level-0 table #1477: started
+2025/05/26-17:45:32.209 cda4 Level-0 table #1477: 31060 bytes OK
+2025/05/26-17:45:32.211 cda4 Delete type=0 #1474
+2025/05/26-17:46:31.363 cda4 Level-0 table #1479: started
+2025/05/26-17:46:31.368 cda4 Level-0 table #1479: 27665 bytes OK
+2025/05/26-17:46:31.370 cda4 Delete type=0 #1476
+2025/05/26-17:47:41.678 cda4 Level-0 table #1481: started
+2025/05/26-17:47:41.684 cda4 Level-0 table #1481: 29766 bytes OK
+2025/05/26-17:47:41.686 cda4 Delete type=0 #1478
+2025/05/26-17:47:41.686 cda4 Compacting 4@0 + 3@1 files
+2025/05/26-17:47:41.723 cda4 Generated table #1482@0: 89405 keys, 2120873 bytes
+2025/05/26-17:47:41.759 cda4 Generated table #1483@0: 89272 keys, 2121671 bytes
+2025/05/26-17:47:41.786 cda4 Generated table #1484@0: 63871 keys, 1495776 bytes
+2025/05/26-17:47:41.786 cda4 Compacted 4@0 + 3@1 files => 5738320 bytes
+2025/05/26-17:47:41.787 cda4 compacted to: files[ 0 3 1 0 0 0 0 ]
+2025/05/26-17:47:41.787 cda4 Delete type=2 #1471
+2025/05/26-17:47:41.787 cda4 Delete type=2 #1472
+2025/05/26-17:47:41.787 cda4 Delete type=2 #1473
+2025/05/26-17:47:41.787 cda4 Delete type=2 #1475
+2025/05/26-17:47:41.788 cda4 Delete type=2 #1477
+2025/05/26-17:47:41.788 cda4 Delete type=2 #1479
+2025/05/26-17:47:41.788 cda4 Delete type=2 #1481
+2025/05/26-17:48:54.715 cda4 Level-0 table #1486: started
+2025/05/26-17:48:54.722 cda4 Level-0 table #1486: 31231 bytes OK
+2025/05/26-17:48:54.724 cda4 Delete type=0 #1480
+2025/05/26-17:56:12.858 cda4 Level-0 table #1488: started
+2025/05/26-17:56:12.866 cda4 Level-0 table #1488: 29970 bytes OK
+2025/05/26-17:56:12.867 cda4 Delete type=0 #1485
+2025/05/26-17:57:11.965 cda4 Level-0 table #1490: started
+2025/05/26-17:57:11.970 cda4 Level-0 table #1490: 27840 bytes OK
+2025/05/26-17:57:11.972 cda4 Delete type=0 #1487
+2025/05/26-17:58:22.487 cda4 Level-0 table #1492: started
+2025/05/26-17:58:22.492 cda4 Level-0 table #1492: 29995 bytes OK
+2025/05/26-17:58:22.494 cda4 Delete type=0 #1489
+2025/05/26-17:58:22.494 cda4 Compacting 4@0 + 3@1 files
+2025/05/26-17:58:22.539 cda4 Generated table #1493@0: 89421 keys, 2121498 bytes
+2025/05/26-17:58:22.587 cda4 Generated table #1494@0: 89271 keys, 2120974 bytes
+2025/05/26-17:58:22.623 cda4 Generated table #1495@0: 66630 keys, 1560257 bytes
+2025/05/26-17:58:22.624 cda4 Compacted 4@0 + 3@1 files => 5802729 bytes
+2025/05/26-17:58:22.624 cda4 compacted to: files[ 0 3 1 0 0 0 0 ]
+2025/05/26-17:58:22.625 cda4 Delete type=2 #1482
+2025/05/26-17:58:22.625 cda4 Delete type=2 #1483
+2025/05/26-17:58:22.625 cda4 Delete type=2 #1484
+2025/05/26-17:58:22.625 cda4 Delete type=2 #1486
+2025/05/26-17:58:22.625 cda4 Delete type=2 #1488
+2025/05/26-17:58:22.625 cda4 Delete type=2 #1490
+2025/05/26-17:58:22.625 cda4 Delete type=2 #1492
+2025/05/26-17:59:34.363 cda4 Level-0 table #1497: started
+2025/05/26-17:59:34.371 cda4 Level-0 table #1497: 32170 bytes OK
+2025/05/26-17:59:34.373 cda4 Delete type=0 #1491
+2025/05/26-18:07:41.143 cda4 Level-0 table #1499: started
+2025/05/26-18:07:41.149 cda4 Level-0 table #1499: 29547 bytes OK
+2025/05/26-18:07:41.151 cda4 Delete type=0 #1496
+2025/05/26-18:15:13.975 cda4 Level-0 table #1501: started
+2025/05/26-18:15:13.981 cda4 Level-0 table #1501: 32896 bytes OK
+2025/05/26-18:15:13.983 cda4 Delete type=0 #1498
+2025/05/26-18:22:19.715 cda4 Level-0 table #1503: started
+2025/05/26-18:22:19.722 cda4 Level-0 table #1503: 30466 bytes OK
+2025/05/26-18:22:19.724 cda4 Delete type=0 #1500
+2025/05/26-18:22:19.724 cda4 Compacting 4@0 + 3@1 files
+2025/05/26-18:22:19.761 cda4 Generated table #1504@0: 89427 keys, 2121523 bytes
+2025/05/26-18:22:19.798 cda4 Generated table #1505@0: 89279 keys, 2121124 bytes
+2025/05/26-18:22:19.831 cda4 Generated table #1506@0: 69412 keys, 1626377 bytes
+2025/05/26-18:22:19.831 cda4 Compacted 4@0 + 3@1 files => 5869024 bytes
+2025/05/26-18:22:19.832 cda4 compacted to: files[ 0 3 1 0 0 0 0 ]
+2025/05/26-18:22:19.833 cda4 Delete type=2 #1493
+2025/05/26-18:22:19.833 cda4 Delete type=2 #1494
+2025/05/26-18:22:19.833 cda4 Delete type=2 #1495
+2025/05/26-18:22:19.833 cda4 Delete type=2 #1497
+2025/05/26-18:22:19.833 cda4 Delete type=2 #1499
+2025/05/26-18:22:19.833 cda4 Delete type=2 #1501
+2025/05/26-18:22:19.833 cda4 Delete type=2 #1503
+2025/05/26-18:30:13.054 cda4 Level-0 table #1508: started
+2025/05/26-18:30:13.062 cda4 Level-0 table #1508: 30488 bytes OK
+2025/05/26-18:30:13.064 cda4 Delete type=0 #1502
+2025/05/26-18:36:35.642 cda4 Level-0 table #1510: started
+2025/05/26-18:36:35.647 cda4 Level-0 table #1510: 30522 bytes OK
+2025/05/26-18:36:35.649 cda4 Delete type=0 #1507
+2025/05/26-18:44:10.944 cda4 Level-0 table #1512: started
+2025/05/26-18:44:10.950 cda4 Level-0 table #1512: 30527 bytes OK
+2025/05/26-18:44:10.952 cda4 Delete type=0 #1509
+2025/05/26-18:51:57.004 cda4 Level-0 table #1514: started
+2025/05/26-18:51:57.009 cda4 Level-0 table #1514: 30548 bytes OK
+2025/05/26-18:51:57.011 cda4 Delete type=0 #1511
+2025/05/26-18:51:57.011 cda4 Compacting 4@0 + 3@1 files
+2025/05/26-18:51:57.054 cda4 Generated table #1515@0: 89436 keys, 2120775 bytes
+2025/05/26-18:51:57.096 cda4 Generated table #1516@0: 89294 keys, 2122130 bytes
+2025/05/26-18:51:57.135 cda4 Generated table #1517@0: 72202 keys, 1692430 bytes
+2025/05/26-18:51:57.135 cda4 Compacted 4@0 + 3@1 files => 5935335 bytes
+2025/05/26-18:51:57.136 cda4 compacted to: files[ 0 3 1 0 0 0 0 ]
+2025/05/26-18:51:57.137 cda4 Delete type=2 #1504
+2025/05/26-18:51:57.137 cda4 Delete type=2 #1505
+2025/05/26-18:51:57.137 cda4 Delete type=2 #1506
+2025/05/26-18:51:57.137 cda4 Delete type=2 #1508
+2025/05/26-18:51:57.137 cda4 Delete type=2 #1510
+2025/05/26-18:51:57.138 cda4 Delete type=2 #1512
+2025/05/26-18:51:57.138 cda4 Delete type=2 #1514
+2025/05/26-18:59:08.284 cda4 Level-0 table #1519: started
+2025/05/26-18:59:08.292 cda4 Level-0 table #1519: 30635 bytes OK
+2025/05/26-18:59:08.293 cda4 Delete type=0 #1513
+2025/05/26-19:05:22.020 cda4 Level-0 table #1521: started
+2025/05/26-19:05:22.026 cda4 Level-0 table #1521: 30513 bytes OK
+2025/05/26-19:05:22.028 cda4 Delete type=0 #1518
+2025/05/26-19:12:56.662 cda4 Level-0 table #1523: started
+2025/05/26-19:12:56.667 cda4 Level-0 table #1523: 30979 bytes OK
+2025/05/26-19:12:56.669 cda4 Delete type=0 #1520
+2025/05/26-19:19:24.569 cda4 Level-0 table #1525: started
+2025/05/26-19:19:24.574 cda4 Level-0 table #1525: 28373 bytes OK
+2025/05/26-19:19:24.575 cda4 Delete type=0 #1522
+2025/05/26-19:19:24.576 cda4 Compacting 4@0 + 3@1 files
+2025/05/26-19:19:24.618 cda4 Generated table #1526@0: 89451 keys, 2120091 bytes
+2025/05/26-19:19:24.664 cda4 Generated table #1527@0: 89300 keys, 2120619 bytes
+2025/05/26-19:19:24.699 cda4 Generated table #1528@0: 75009 keys, 1758435 bytes
+2025/05/26-19:19:24.699 cda4 Compacted 4@0 + 3@1 files => 5999145 bytes
+2025/05/26-19:19:24.700 cda4 compacted to: files[ 0 3 1 0 0 0 0 ]
+2025/05/26-19:19:24.701 cda4 Delete type=2 #1515
+2025/05/26-19:19:24.701 cda4 Delete type=2 #1516
+2025/05/26-19:19:24.701 cda4 Delete type=2 #1517
+2025/05/26-19:19:24.701 cda4 Delete type=2 #1519
+2025/05/26-19:19:24.701 cda4 Delete type=2 #1521
+2025/05/26-19:19:24.701 cda4 Delete type=2 #1523
+2025/05/26-19:19:24.701 cda4 Delete type=2 #1525
+2025/05/26-19:26:52.892 cda4 Level-0 table #1530: started
+2025/05/26-19:26:52.901 cda4 Level-0 table #1530: 33100 bytes OK
+2025/05/26-19:26:52.902 cda4 Delete type=0 #1524
+2025/05/26-19:34:45.490 cda4 Level-0 table #1532: started
+2025/05/26-19:34:45.495 cda4 Level-0 table #1532: 30737 bytes OK
+2025/05/26-19:34:45.496 cda4 Delete type=0 #1529
+2025/05/26-19:42:13.156 cda4 Level-0 table #1534: started
+2025/05/26-19:42:13.164 cda4 Level-0 table #1534: 30804 bytes OK
+2025/05/26-19:42:13.165 cda4 Delete type=0 #1531
+2025/05/26-19:49:39.985 cda4 Level-0 table #1536: started
+2025/05/26-19:49:39.990 cda4 Level-0 table #1536: 30816 bytes OK
+2025/05/26-19:49:39.992 cda4 Delete type=0 #1533
+2025/05/26-19:49:39.992 cda4 Compacting 4@0 + 3@1 files
+2025/05/26-19:49:40.035 cda4 Generated table #1537@0: 89339 keys, 2119011 bytes
+2025/05/26-19:49:40.073 cda4 Generated table #1538@0: 89293 keys, 2122149 bytes
+2025/05/26-19:49:40.105 cda4 Generated table #1539@0: 77976 keys, 1829121 bytes
+2025/05/26-19:49:40.105 cda4 Compacted 4@0 + 3@1 files => 6070281 bytes
+2025/05/26-19:49:40.106 cda4 compacted to: files[ 0 3 1 0 0 0 0 ]
+2025/05/26-19:49:40.107 cda4 Delete type=2 #1526
+2025/05/26-19:49:40.107 cda4 Delete type=2 #1527
+2025/05/26-19:49:40.107 cda4 Delete type=2 #1528
+2025/05/26-19:49:40.107 cda4 Delete type=2 #1530
+2025/05/26-19:49:40.107 cda4 Delete type=2 #1532
+2025/05/26-19:49:40.107 cda4 Delete type=2 #1534
+2025/05/26-19:49:40.107 cda4 Delete type=2 #1536
+2025/05/26-19:57:27.105 cda4 Level-0 table #1541: started
+2025/05/26-19:57:27.110 cda4 Level-0 table #1541: 30864 bytes OK
+2025/05/26-19:57:27.111 cda4 Delete type=0 #1535
+2025/05/26-20:04:13.852 cda4 Level-0 table #1543: started
+2025/05/26-20:04:13.857 cda4 Level-0 table #1543: 30800 bytes OK
+2025/05/26-20:04:13.858 cda4 Delete type=0 #1540
+2025/05/26-20:10:51.434 cda4 Level-0 table #1545: started
+2025/05/26-20:10:51.439 cda4 Level-0 table #1545: 30989 bytes OK
+2025/05/26-20:10:51.441 cda4 Delete type=0 #1542
+2025/05/26-20:19:14.698 cda4 Level-0 table #1547: started
+2025/05/26-20:19:14.706 cda4 Level-0 table #1547: 30965 bytes OK
+2025/05/26-20:19:14.708 cda4 Delete type=0 #1544
+2025/05/26-20:19:14.708 cda4 Compacting 4@0 + 3@1 files
+2025/05/26-20:19:14.749 cda4 Generated table #1548@0: 89351 keys, 2119757 bytes
+2025/05/26-20:19:14.792 cda4 Generated table #1549@0: 89171 keys, 2120220 bytes
+2025/05/26-20:19:14.832 cda4 Generated table #1550@0: 80948 keys, 1899657 bytes
+2025/05/26-20:19:14.832 cda4 Compacted 4@0 + 3@1 files => 6139634 bytes
+2025/05/26-20:19:14.832 cda4 compacted to: files[ 0 3 1 0 0 0 0 ]
+2025/05/26-20:19:14.833 cda4 Delete type=2 #1537
+2025/05/26-20:19:14.833 cda4 Delete type=2 #1538
+2025/05/26-20:19:14.833 cda4 Delete type=2 #1539
+2025/05/26-20:19:14.833 cda4 Delete type=2 #1541
+2025/05/26-20:19:14.833 cda4 Delete type=2 #1543
+2025/05/26-20:19:14.833 cda4 Delete type=2 #1545
+2025/05/26-20:19:14.834 cda4 Delete type=2 #1547
+2025/05/26-20:26:36.992 cda4 Level-0 table #1552: started
+2025/05/26-20:26:37.000 cda4 Level-0 table #1552: 30994 bytes OK
+2025/05/26-20:26:37.002 cda4 Delete type=0 #1546
+2025/05/26-20:33:24.480 cda4 Level-0 table #1554: started
+2025/05/26-20:33:24.487 cda4 Level-0 table #1554: 30977 bytes OK
+2025/05/26-20:33:24.489 cda4 Delete type=0 #1551
+2025/05/26-20:41:49.398 cda4 Level-0 table #1556: started
+2025/05/26-20:41:49.407 cda4 Level-0 table #1556: 30938 bytes OK
+2025/05/26-20:41:49.408 cda4 Delete type=0 #1553
+2025/05/26-20:42:48.521 cda4 Level-0 table #1558: started
+2025/05/26-20:42:48.527 cda4 Level-0 table #1558: 28719 bytes OK
+2025/05/26-20:42:48.528 cda4 Delete type=0 #1555
+2025/05/26-20:42:48.529 cda4 Compacting 4@0 + 3@1 files
+2025/05/26-20:42:48.570 cda4 Generated table #1559@0: 89360 keys, 2119539 bytes
+2025/05/26-20:42:48.610 cda4 Generated table #1560@0: 89195 keys, 2119853 bytes
+2025/05/26-20:42:48.650 cda4 Generated table #1561@0: 83789 keys, 1966741 bytes
+2025/05/26-20:42:48.650 cda4 Compacted 4@0 + 3@1 files => 6206133 bytes
+2025/05/26-20:42:48.651 cda4 compacted to: files[ 0 3 1 0 0 0 0 ]
+2025/05/26-20:42:48.652 cda4 Delete type=2 #1548
+2025/05/26-20:42:48.652 cda4 Delete type=2 #1549
+2025/05/26-20:42:48.652 cda4 Delete type=2 #1550
+2025/05/26-20:42:48.652 cda4 Delete type=2 #1552
+2025/05/26-20:42:48.652 cda4 Delete type=2 #1554
+2025/05/26-20:42:48.652 cda4 Delete type=2 #1556
+2025/05/26-20:42:48.652 cda4 Delete type=2 #1558
+2025/05/26-20:43:59.126 cda4 Level-0 table #1563: started
+2025/05/26-20:43:59.131 cda4 Level-0 table #1563: 30867 bytes OK
+2025/05/26-20:43:59.133 cda4 Delete type=0 #1557
+2025/05/26-20:45:11.868 cda4 Level-0 table #1565: started
+2025/05/26-20:45:11.876 cda4 Level-0 table #1565: 33023 bytes OK
+2025/05/26-20:45:11.878 cda4 Delete type=0 #1562
+2025/05/26-20:53:02.276 cda4 Level-0 table #1567: started
+2025/05/26-20:53:02.284 cda4 Level-0 table #1567: 31153 bytes OK
+2025/05/26-20:53:02.286 cda4 Delete type=0 #1564
+2025/05/26-21:01:15.793 cda4 Level-0 table #1569: started
+2025/05/26-21:01:15.799 cda4 Level-0 table #1569: 31236 bytes OK
+2025/05/26-21:01:15.801 cda4 Delete type=0 #1566
+2025/05/26-21:01:15.802 cda4 Compacting 4@0 + 3@1 files
+2025/05/26-21:01:15.843 cda4 Generated table #1570@0: 89359 keys, 2119690 bytes
+2025/05/26-21:01:15.888 cda4 Generated table #1571@0: 89205 keys, 2119648 bytes
+2025/05/26-21:01:15.923 cda4 Generated table #1572@0: 86670 keys, 2035878 bytes
+2025/05/26-21:01:15.923 cda4 Compacted 4@0 + 3@1 files => 6275216 bytes
+2025/05/26-21:01:15.924 cda4 compacted to: files[ 0 3 1 0 0 0 0 ]
+2025/05/26-21:01:15.925 cda4 Delete type=2 #1559
+2025/05/26-21:01:15.925 cda4 Delete type=2 #1560
+2025/05/26-21:01:15.925 cda4 Delete type=2 #1561
+2025/05/26-21:01:15.925 cda4 Delete type=2 #1563
+2025/05/26-21:01:15.925 cda4 Delete type=2 #1565
+2025/05/26-21:01:15.925 cda4 Delete type=2 #1567
+2025/05/26-21:01:15.925 cda4 Delete type=2 #1569
+2025/05/26-21:07:49.773 cda4 Level-0 table #1574: started
+2025/05/26-21:07:49.781 cda4 Level-0 table #1574: 31686 bytes OK
+2025/05/26-21:07:49.782 cda4 Delete type=0 #1568
+2025/05/26-21:15:33.138 cda4 Level-0 table #1576: started
+2025/05/26-21:15:33.144 cda4 Level-0 table #1576: 31174 bytes OK
+2025/05/26-21:15:33.145 cda4 Delete type=0 #1573
+2025/05/26-21:16:32.208 cda4 Level-0 table #1578: started
+2025/05/26-21:16:32.212 cda4 Level-0 table #1578: 28951 bytes OK
+2025/05/26-21:16:32.214 cda4 Delete type=0 #1575
+2025/05/26-21:17:43.231 cda4 Level-0 table #1580: started
+2025/05/26-21:17:43.236 cda4 Level-0 table #1580: 31129 bytes OK
+2025/05/26-21:17:43.238 cda4 Delete type=0 #1577
+2025/05/26-21:17:43.238 cda4 Compacting 4@0 + 3@1 files
+2025/05/26-21:17:43.281 cda4 Generated table #1581@0: 89348 keys, 2119526 bytes
+2025/05/26-21:17:43.322 cda4 Generated table #1582@0: 89206 keys, 2120470 bytes
+2025/05/26-21:17:43.368 cda4 Generated table #1583@0: 89584 keys, 2104110 bytes
+2025/05/26-21:17:43.368 cda4 Compacted 4@0 + 3@1 files => 6344106 bytes
+2025/05/26-21:17:43.368 cda4 compacted to: files[ 0 3 1 0 0 0 0 ]
+2025/05/26-21:17:43.369 cda4 Delete type=2 #1570
+2025/05/26-21:17:43.369 cda4 Delete type=2 #1571
+2025/05/26-21:17:43.369 cda4 Delete type=2 #1572
+2025/05/26-21:17:43.369 cda4 Delete type=2 #1574
+2025/05/26-21:17:43.369 cda4 Delete type=2 #1576
+2025/05/26-21:17:43.370 cda4 Delete type=2 #1578
+2025/05/26-21:17:43.370 cda4 Delete type=2 #1580
+2025/05/26-21:18:55.368 cda4 Level-0 table #1585: started
+2025/05/26-21:18:55.373 cda4 Level-0 table #1585: 33280 bytes OK
+2025/05/26-21:18:55.375 cda4 Delete type=0 #1579
+2025/05/26-21:27:10.625 cda4 Level-0 table #1587: started
+2025/05/26-21:27:10.633 cda4 Level-0 table #1587: 31329 bytes OK
+2025/05/26-21:27:10.635 cda4 Delete type=0 #1584
+2025/05/26-21:33:41.872 cda4 Level-0 table #1589: started
+2025/05/26-21:33:41.888 cda4 Level-0 table #1589: 31609 bytes OK
+2025/05/26-21:33:41.890 cda4 Delete type=0 #1586
+2025/05/26-21:40:59.597 cda4 Level-0 table #1591: started
+2025/05/26-21:40:59.603 cda4 Level-0 table #1591: 30632 bytes OK
+2025/05/26-21:40:59.604 cda4 Delete type=0 #1588
+2025/05/26-21:40:59.605 cda4 Compacting 4@0 + 3@1 files
+2025/05/26-21:40:59.647 cda4 Generated table #1592@0: 89382 keys, 2120499 bytes
+2025/05/26-21:40:59.685 cda4 Generated table #1593@0: 89210 keys, 2119342 bytes
+2025/05/26-21:40:59.724 cda4 Generated table #1594@0: 89220 keys, 2119038 bytes
+2025/05/26-21:40:59.731 cda4 Generated table #1595@0: 3248 keys, 53016 bytes
+2025/05/26-21:40:59.731 cda4 Compacted 4@0 + 3@1 files => 6411895 bytes
+2025/05/26-21:40:59.732 cda4 compacted to: files[ 0 4 1 0 0 0 0 ]
+2025/05/26-21:40:59.732 cda4 Delete type=2 #1581
+2025/05/26-21:40:59.732 cda4 Delete type=2 #1582
+2025/05/26-21:40:59.732 cda4 Delete type=2 #1583
+2025/05/26-21:40:59.732 cda4 Delete type=2 #1585
+2025/05/26-21:40:59.733 cda4 Delete type=2 #1587
+2025/05/26-21:40:59.733 cda4 Delete type=2 #1589
+2025/05/26-21:40:59.733 cda4 Delete type=2 #1591

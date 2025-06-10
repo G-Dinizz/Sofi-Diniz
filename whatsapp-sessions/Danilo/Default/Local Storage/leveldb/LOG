@@ -1,0 +1,72 @@
+2025/06/06-13:22:18.187 124e0 Reusing MANIFEST C:\Users\workg\OneDrive\Área de Trabalho\Sofi Mensage\whatsapp-sessions\Danilo\Default\Local Storage\leveldb/MANIFEST-000001
+2025/06/06-13:22:18.210 124e0 Recovering log #3
+2025/06/06-13:22:18.214 124e0 Reusing old log C:\Users\workg\OneDrive\Área de Trabalho\Sofi Mensage\whatsapp-sessions\Danilo\Default\Local Storage\leveldb/000003.log 
+2025/06/06-13:36:19.322 124e8 Level-0 table #5: started
+2025/06/06-13:36:19.332 124e8 Level-0 table #5: 17100 bytes OK
+2025/06/06-13:36:19.335 124e8 Delete type=0 #3
+2025/06/06-14:06:19.328 124e8 Level-0 table #7: started
+2025/06/06-14:06:19.343 124e8 Level-0 table #7: 11368 bytes OK
+2025/06/06-14:06:19.345 124e8 Delete type=0 #4
+2025/06/06-14:30:16.104 124e0 Level-0 table #9: started
+2025/06/06-14:30:16.109 124e0 Level-0 table #9: 11171 bytes OK
+2025/06/06-14:30:16.112 124e0 Delete type=0 #6
+2025/06/06-14:58:36.837 124e8 Level-0 table #11: started
+2025/06/06-14:58:36.842 124e8 Level-0 table #11: 11722 bytes OK
+2025/06/06-14:58:36.845 124e8 Delete type=0 #8
+2025/06/06-15:26:08.310 124e0 Level-0 table #13: started
+2025/06/06-15:26:08.315 124e0 Level-0 table #13: 11030 bytes OK
+2025/06/06-15:26:08.318 124e0 Delete type=0 #10
+2025/06/06-15:48:32.359 124e8 Level-0 table #15: started
+2025/06/06-15:48:32.364 124e8 Level-0 table #15: 10325 bytes OK
+2025/06/06-15:48:32.366 124e8 Delete type=0 #12
+2025/06/06-15:48:32.367 124e8 Compacting 4@0 + 1@1 files
+2025/06/06-15:48:32.372 124e8 Generated table #16@0: 647 keys, 16536 bytes
+2025/06/06-15:48:32.372 124e8 Compacted 4@0 + 1@1 files => 16536 bytes
+2025/06/06-15:48:32.373 124e8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/06/06-15:48:32.374 124e8 Delete type=2 #7
+2025/06/06-15:48:32.374 124e8 Delete type=2 #9
+2025/06/06-15:48:32.374 124e8 Delete type=2 #11
+2025/06/06-15:48:32.374 124e8 Delete type=2 #13
+2025/06/06-15:48:32.374 124e8 Delete type=2 #15
+2025/06/06-16:06:52.695 124e8 Level-0 table #18: started
+2025/06/06-16:06:52.701 124e8 Level-0 table #18: 9713 bytes OK
+2025/06/06-16:06:52.704 124e8 Delete type=0 #14
+2025/06/06-16:16:19.328 124e8 Level-0 table #20: started
+2025/06/06-16:16:19.336 124e8 Level-0 table #20: 9753 bytes OK
+2025/06/06-16:16:19.337 124e8 Delete type=0 #17
+2025/06/06-16:37:04.625 124e8 Level-0 table #22: started
+2025/06/06-16:37:04.633 124e8 Level-0 table #22: 11550 bytes OK
+2025/06/06-16:37:04.635 124e8 Delete type=0 #19
+2025/06/06-16:54:12.400 124e8 Level-0 table #24: started
+2025/06/06-16:54:12.405 124e8 Level-0 table #24: 10599 bytes OK
+2025/06/06-16:54:12.407 124e8 Delete type=0 #21
+2025/06/06-16:54:12.408 124e8 Compacting 4@0 + 1@1 files
+2025/06/06-16:54:12.415 124e8 Generated table #25@0: 1262 keys, 30618 bytes
+2025/06/06-16:54:12.415 124e8 Compacted 4@0 + 1@1 files => 30618 bytes
+2025/06/06-16:54:12.416 124e8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/06/06-16:54:12.417 124e8 Delete type=2 #16
+2025/06/06-16:54:12.417 124e8 Delete type=2 #18
+2025/06/06-16:54:12.417 124e8 Delete type=2 #20
+2025/06/06-16:54:12.417 124e8 Delete type=2 #22
+2025/06/06-16:54:12.417 124e8 Delete type=2 #24
+2025/06/06-17:11:42.031 124e8 Level-0 table #27: started
+2025/06/06-17:11:42.036 124e8 Level-0 table #27: 10700 bytes OK
+2025/06/06-17:11:42.038 124e8 Delete type=0 #23
+2025/06/06-17:16:19.328 124e8 Level-0 table #29: started
+2025/06/06-17:16:19.336 124e8 Level-0 table #29: 9219 bytes OK
+2025/06/06-17:16:19.337 124e8 Delete type=0 #26
+2025/06/06-17:32:14.644 124e8 Level-0 table #31: started
+2025/06/06-17:32:14.652 124e8 Level-0 table #31: 10101 bytes OK
+2025/06/06-17:32:14.654 124e8 Delete type=0 #28
+2025/06/06-17:49:19.630 124e8 Level-0 table #33: started
+2025/06/06-17:49:19.638 124e8 Level-0 table #33: 10570 bytes OK
+2025/06/06-17:49:19.639 124e8 Delete type=0 #30
+2025/06/06-17:49:19.640 124e8 Compacting 4@0 + 1@1 files
+2025/06/06-17:49:19.646 124e8 Generated table #34@0: 1944 keys, 46554 bytes
+2025/06/06-17:49:19.646 124e8 Compacted 4@0 + 1@1 files => 46554 bytes
+2025/06/06-17:49:19.647 124e8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/06/06-17:49:19.647 124e8 Delete type=2 #25
+2025/06/06-17:49:19.647 124e8 Delete type=2 #27
+2025/06/06-17:49:19.647 124e8 Delete type=2 #29
+2025/06/06-17:49:19.647 124e8 Delete type=2 #31
+2025/06/06-17:49:19.647 124e8 Delete type=2 #33

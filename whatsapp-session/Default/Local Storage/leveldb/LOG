@@ -1,0 +1,51 @@
+2025/04/28-11:12:43.926 7148 Reusing MANIFEST C:\Users\workg\OneDrive\Área de Trabalho\Shooting five\whatsapp-session\Default\Local Storage\leveldb/MANIFEST-000001
+2025/04/28-11:12:43.930 7148 Recovering log #417
+2025/04/28-11:12:43.932 7148 Reusing old log C:\Users\workg\OneDrive\Área de Trabalho\Shooting five\whatsapp-session\Default\Local Storage\leveldb/000417.log 
+2025/04/28-11:20:58.760 42d8 Level-0 table #421: started
+2025/04/28-11:20:58.765 42d8 Level-0 table #421: 16094 bytes OK
+2025/04/28-11:20:58.767 42d8 Delete type=0 #417
+2025/04/28-11:52:00.466 42d8 Level-0 table #423: started
+2025/04/28-11:52:00.471 42d8 Level-0 table #423: 18120 bytes OK
+2025/04/28-11:52:00.473 42d8 Delete type=0 #420
+2025/04/28-12:30:59.579 42d8 Level-0 table #425: started
+2025/04/28-12:30:59.586 42d8 Level-0 table #425: 15057 bytes OK
+2025/04/28-12:30:59.588 42d8 Delete type=0 #422
+2025/04/28-12:30:59.589 42d8 Compacting 4@0 + 1@1 files
+2025/04/28-12:30:59.595 42d8 Generated table #426@0: 833 keys, 45897 bytes
+2025/04/28-12:30:59.595 42d8 Compacted 4@0 + 1@1 files => 45897 bytes
+2025/04/28-12:30:59.596 42d8 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/04/28-12:30:59.596 42d8 Delete type=2 #416
+2025/04/28-12:30:59.596 42d8 Delete type=2 #418
+2025/04/28-12:30:59.596 42d8 Delete type=2 #421
+2025/04/28-12:30:59.596 42d8 Delete type=2 #423
+2025/04/28-12:30:59.597 42d8 Delete type=2 #425
+2025/04/28-12:52:18.652 42d8 Level-0 table #428: started
+2025/04/28-12:52:18.657 42d8 Level-0 table #428: 16458 bytes OK
+2025/04/28-12:52:18.658 42d8 Delete type=0 #424
+2025/04/28-13:04:21.541 42d8 Level-0 table #430: started
+2025/04/28-13:04:21.547 42d8 Level-0 table #430: 18991 bytes OK
+2025/04/28-13:04:21.549 42d8 Delete type=0 #427
+2025/04/28-13:17:48.356 42d8 Level-0 table #432: started
+2025/04/28-13:17:48.360 42d8 Level-0 table #432: 13013 bytes OK
+2025/04/28-13:17:48.361 42d8 Delete type=0 #429
+2025/04/28-13:30:01.050 42d8 Level-0 table #434: started
+2025/04/28-13:30:01.058 42d8 Level-0 table #434: 14121 bytes OK
+2025/04/28-13:30:01.060 42d8 Delete type=0 #431
+2025/04/28-13:30:01.060 42d8 Compacting 4@0 + 1@1 files
+2025/04/28-13:30:01.066 42d8 Generated table #435@0: 814 keys, 36573 bytes
+2025/04/28-13:30:01.066 42d8 Compacted 4@0 + 1@1 files => 36573 bytes
+2025/04/28-13:30:01.067 42d8 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/04/28-13:30:01.067 42d8 Delete type=2 #426
+2025/04/28-13:30:01.067 42d8 Delete type=2 #428
+2025/04/28-13:30:01.067 42d8 Delete type=2 #430
+2025/04/28-13:30:01.068 42d8 Delete type=2 #432
+2025/04/28-13:30:01.068 42d8 Delete type=2 #434
+2025/04/28-13:46:53.510 42d8 Level-0 table #437: started
+2025/04/28-13:46:53.514 42d8 Level-0 table #437: 12637 bytes OK
+2025/04/28-13:46:53.515 42d8 Delete type=0 #433
+2025/04/28-13:47:53.115 42d8 Level-0 table #439: started
+2025/04/28-13:47:53.119 42d8 Level-0 table #439: 17677 bytes OK
+2025/04/28-13:47:53.121 42d8 Delete type=0 #436
+2025/04/28-14:05:49.610 42d8 Level-0 table #441: started
+2025/04/28-14:05:49.615 42d8 Level-0 table #441: 13017 bytes OK
+2025/04/28-14:05:49.616 42d8 Delete type=0 #438

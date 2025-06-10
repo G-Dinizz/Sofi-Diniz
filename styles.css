@@ -1,0 +1,222 @@
+/* Importando fonte moderna */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+/* Reset básico */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Corpo da página */
+body {
+    background: linear-gradient(135deg, #0d0d0d, #1a1a2e);
+    color: #fff;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    height: 100vh;
+    padding: 20px;
+    overflow: auto; /* <- Liberado scroll */
+}
+
+
+/* Tela de introdução */
+.intro {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #0d0d0d;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: opacity 1s ease-in-out;
+}
+
+/* Texto "Welcome" */
+.welcome {
+    font-size: 3rem;
+    font-weight: 600;
+    color: #8a2be2;
+    text-shadow: 0 0 20px rgba(138, 43, 226, 0.8);
+    animation: fadeIn 2s ease-in-out;
+}
+
+/* Animação de entrada */
+@keyframes fadeIn {
+    0% { opacity: 0; transform: scale(0.8); }
+    100% { opacity: 1; transform: scale(1); }
+}
+
+/* Esconder a intro após o tempo */
+.intro.hide {
+    opacity: 0;
+    pointer-events: none;
+}
+
+/* Container principal (escondido inicialmente) */
+.container {
+    width: 90%;
+    max-width: 500px;
+    background: rgba(25, 25, 25, 0.9);
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(138, 43, 226, 0.3);
+    text-align: center;
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 1s ease-in-out, transform 1s ease-in-out;
+}
+
+/* Mostrar container após a introdução */
+.container.show {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+/* Título principal */
+h1 {
+    font-size: 2rem;
+    font-weight: 600;
+    color: #8a2be2;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    text-shadow: 0 0 10px rgba(138, 43, 226, 0.8);
+    animation: interacaoTitulo 5s infinite alternate ease-in-out;
+    display: inline-block;
+    cursor: pointer;
+}
+
+/* Animação do título */
+@keyframes interacaoTitulo {
+    0% { transform: translateX(-5px); }
+    50% { transform: translateX(5px) rotate(2deg); }
+    100% { transform: translateX(-5px) rotate(-2deg); }
+}
+
+/* Seções */
+.section {
+    margin-bottom: 15px;
+}
+
+/* Campos de entrada */
+textarea, input {
+    width: 100%;
+    max-width: 450px;
+    padding: 10px;
+    margin: 8px 0;
+    border: 1px solid #8a2be2;
+    background: #222;
+    color: #fff;
+    border-radius: 5px;
+    font-size: 0.9rem;
+    transition: all 0.3s ease-in-out;
+}
+
+/* Efeito ao focar nos inputs */
+textarea:focus, input:focus {
+    border-color: #c56cf0;
+    box-shadow: 0 0 10px rgba(138, 43, 226, 0.8);
+}
+
+/* Botão estilizado */
+button {
+    width: 100%;
+    max-width: 450px;
+    background: linear-gradient(90deg, #8a2be2, #6a0dad);
+    color: white;
+    border: none;
+    padding: 12px;
+    border-radius: 5px;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    box-shadow: 0 4px 10px rgba(138, 43, 226, 0.5);
+}
+
+/* Efeito hover no botão */
+button:hover {
+    transform: scale(1.05);
+    box-shadow: 0 6px 15px rgba(138, 43, 226, 0.8);
+}
+
+/* Rodapé */
+.footer {
+    margin-top: 15px;
+    font-size: 0.9rem;
+    color: #aaa;
+}
+
+/* Copyright Diniz - Fixo no centro inferior */
+.copyright {
+    position: absolute;
+    bottom: 15px;
+    text-align: center;
+    font-size: 0.8rem;
+    color: #bbb;
+    opacity: 0.8;
+}
+
+/* Versão Minimalista no Canto Inferior Direito */
+.minimal-box {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background: rgba(0, 0, 0, 0.8);
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(138, 43, 226, 0.5);
+    font-size: 0.8rem;
+    color: #fff;
+    text-align: center;
+    max-width: 200px;
+    animation: slideUp 1s ease-in-out;
+}
+
+/* Animação de entrada da versão minimalista */
+@keyframes slideUp {
+    from { transform: translateY(20px); opacity: 0; }
+    to { transform: translateY(0); opacity: 1; }
+}
+
+/* Responsividade */
+@media (max-width: 600px) {
+    .container {
+        width: 100%;
+        margin: 10px;
+    }
+
+    .minimal-box {
+        bottom: 10px;
+        right: 10px;
+        max-width: 150px;
+        font-size: 0.7rem;
+    }
+    
+}
+
+.usuario-box {
+    background-color: #1a1a2e;
+    border: 1px solid #8a2be2;
+    margin-bottom: 15px;
+    padding: 10px;
+    border-radius: 8px;
+    text-align: left;
+}
+
+.usuario-box h3 {
+    cursor: pointer;
+    color: #c56cf0;
+    margin: 0;
+}
+
+.usuario-conteudo {
+    display: block;
+}
+

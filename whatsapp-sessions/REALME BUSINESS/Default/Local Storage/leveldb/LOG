@@ -1,0 +1,1300 @@
+2025/05/25-08:54:31.936 cd60 Reusing MANIFEST C:\Users\workg\OneDrive\Área de Trabalho\Sofi Mensage\whatsapp-sessions\REALME BUSINESS\Default\Local Storage\leveldb/MANIFEST-000001
+2025/05/25-08:54:31.943 cd60 Recovering log #189
+2025/05/25-08:54:31.947 cd60 Reusing old log C:\Users\workg\OneDrive\Área de Trabalho\Sofi Mensage\whatsapp-sessions\REALME BUSINESS\Default\Local Storage\leveldb/000189.log 
+2025/05/25-09:41:00.218 cd70 Level-0 table #193: started
+2025/05/25-09:41:00.226 cd70 Level-0 table #193: 15255 bytes OK
+2025/05/25-09:41:00.227 cd70 Delete type=0 #189
+2025/05/25-10:13:52.887 cd70 Level-0 table #195: started
+2025/05/25-10:13:52.892 cd70 Level-0 table #195: 14530 bytes OK
+2025/05/25-10:13:52.893 cd70 Delete type=0 #192
+2025/05/25-10:49:25.792 cd60 Level-0 table #197: started
+2025/05/25-10:49:25.800 cd60 Level-0 table #197: 11902 bytes OK
+2025/05/25-10:49:25.802 cd60 Delete type=0 #194
+2025/05/25-10:49:25.802 cd60 Compacting 4@0 + 1@1 files
+2025/05/25-10:49:25.815 cd60 Generated table #198@0: 18881 keys, 447494 bytes
+2025/05/25-10:49:25.815 cd60 Compacted 4@0 + 1@1 files => 447494 bytes
+2025/05/25-10:49:25.816 cd60 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-10:49:25.817 cd60 Delete type=2 #188
+2025/05/25-10:49:25.817 cd60 Delete type=2 #190
+2025/05/25-10:49:25.817 cd60 Delete type=2 #193
+2025/05/25-10:49:25.817 cd60 Delete type=2 #195
+2025/05/25-10:49:25.817 cd60 Delete type=2 #197
+2025/05/25-11:23:35.550 cd70 Level-0 table #200: started
+2025/05/25-11:23:35.558 cd70 Level-0 table #200: 13105 bytes OK
+2025/05/25-11:23:35.560 cd70 Delete type=0 #196
+2025/05/25-11:37:37.250 cd70 Level-0 table #202: started
+2025/05/25-11:37:37.258 cd70 Level-0 table #202: 17628 bytes OK
+2025/05/25-11:37:37.259 cd70 Delete type=0 #199
+2025/05/25-11:55:46.523 cd70 Level-0 table #204: started
+2025/05/25-11:55:46.539 cd70 Level-0 table #204: 12857 bytes OK
+2025/05/25-11:55:46.540 cd70 Delete type=0 #201
+2025/05/25-12:06:54.046 cd70 Level-0 table #206: started
+2025/05/25-12:06:54.051 cd70 Level-0 table #206: 11311 bytes OK
+2025/05/25-12:06:54.053 cd70 Delete type=0 #203
+2025/05/25-12:06:54.053 cd70 Compacting 4@0 + 1@1 files
+2025/05/25-12:06:54.064 cd70 Generated table #207@0: 19404 keys, 460256 bytes
+2025/05/25-12:06:54.064 cd70 Compacted 4@0 + 1@1 files => 460256 bytes
+2025/05/25-12:06:54.065 cd70 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-12:06:54.065 cd70 Delete type=2 #198
+2025/05/25-12:06:54.066 cd70 Delete type=2 #200
+2025/05/25-12:06:54.066 cd70 Delete type=2 #202
+2025/05/25-12:06:54.066 cd70 Delete type=2 #204
+2025/05/25-12:06:54.066 cd70 Delete type=2 #206
+2025/05/25-12:36:59.634 cd70 Level-0 table #209: started
+2025/05/25-12:36:59.642 cd70 Level-0 table #209: 12652 bytes OK
+2025/05/25-12:36:59.644 cd70 Delete type=0 #205
+2025/05/25-13:08:11.274 cd60 Level-0 table #211: started
+2025/05/25-13:08:11.338 cd60 Level-0 table #211: 13421 bytes OK
+2025/05/25-13:08:11.340 cd60 Delete type=0 #208
+2025/05/25-13:28:43.612 cd70 Level-0 table #213: started
+2025/05/25-13:28:43.620 cd70 Level-0 table #213: 10625 bytes OK
+2025/05/25-13:28:43.622 cd70 Delete type=0 #210
+2025/05/25-13:44:53.155 cd70 Level-0 table #215: started
+2025/05/25-13:44:53.160 cd70 Level-0 table #215: 10631 bytes OK
+2025/05/25-13:44:53.164 cd70 Delete type=0 #212
+2025/05/25-13:44:53.164 cd70 Compacting 4@0 + 1@1 files
+2025/05/25-13:44:53.178 cd70 Generated table #216@0: 20080 keys, 476150 bytes
+2025/05/25-13:44:53.178 cd70 Compacted 4@0 + 1@1 files => 476150 bytes
+2025/05/25-13:44:53.179 cd70 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-13:44:53.180 cd70 Delete type=2 #207
+2025/05/25-13:44:53.180 cd70 Delete type=2 #209
+2025/05/25-13:44:53.180 cd70 Delete type=2 #211
+2025/05/25-13:44:53.180 cd70 Delete type=2 #213
+2025/05/25-13:44:53.180 cd70 Delete type=2 #215
+2025/05/25-13:53:27.550 cd70 Level-0 table #218: started
+2025/05/25-13:53:27.557 cd70 Level-0 table #218: 10597 bytes OK
+2025/05/25-13:53:27.559 cd70 Delete type=0 #214
+2025/05/25-14:03:43.563 cd70 Level-0 table #220: started
+2025/05/25-14:03:43.574 cd70 Level-0 table #220: 9870 bytes OK
+2025/05/25-14:03:43.576 cd70 Delete type=0 #217
+2025/05/25-14:20:10.322 cd70 Level-0 table #222: started
+2025/05/25-14:20:10.330 cd70 Level-0 table #222: 12505 bytes OK
+2025/05/25-14:20:10.332 cd70 Delete type=0 #219
+2025/05/25-14:23:31.913 cd70 Level-0 table #224: started
+2025/05/25-14:23:31.921 cd70 Level-0 table #224: 11566 bytes OK
+2025/05/25-14:23:31.923 cd70 Delete type=0 #221
+2025/05/25-14:23:31.923 cd70 Compacting 4@0 + 1@1 files
+2025/05/25-14:23:31.936 cd70 Generated table #225@0: 20798 keys, 492703 bytes
+2025/05/25-14:23:31.937 cd70 Compacted 4@0 + 1@1 files => 492703 bytes
+2025/05/25-14:23:31.937 cd70 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-14:23:31.938 cd70 Delete type=2 #216
+2025/05/25-14:23:31.938 cd70 Delete type=2 #218
+2025/05/25-14:23:31.938 cd70 Delete type=2 #220
+2025/05/25-14:23:31.938 cd70 Delete type=2 #222
+2025/05/25-14:23:31.938 cd70 Delete type=2 #224
+2025/05/25-14:33:58.433 cd70 Level-0 table #227: started
+2025/05/25-14:33:58.439 cd70 Level-0 table #227: 10576 bytes OK
+2025/05/25-14:33:58.440 cd70 Delete type=0 #223
+2025/05/25-14:50:36.053 cd70 Level-0 table #229: started
+2025/05/25-14:50:36.058 cd70 Level-0 table #229: 13565 bytes OK
+2025/05/25-14:50:36.060 cd70 Delete type=0 #226
+2025/05/25-15:14:15.100 cd70 Level-0 table #231: started
+2025/05/25-15:14:15.105 cd70 Level-0 table #231: 13161 bytes OK
+2025/05/25-15:14:15.107 cd70 Delete type=0 #228
+2025/05/25-15:39:22.519 cd70 Level-0 table #233: started
+2025/05/25-15:39:22.523 cd70 Level-0 table #233: 13142 bytes OK
+2025/05/25-15:39:22.525 cd70 Delete type=0 #230
+2025/05/25-15:39:22.526 cd70 Compacting 4@0 + 1@1 files
+2025/05/25-15:39:22.538 cd70 Generated table #234@0: 21670 keys, 513704 bytes
+2025/05/25-15:39:22.538 cd70 Compacted 4@0 + 1@1 files => 513704 bytes
+2025/05/25-15:39:22.539 cd70 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-15:39:22.540 cd70 Delete type=2 #225
+2025/05/25-15:39:22.540 cd70 Delete type=2 #227
+2025/05/25-15:39:22.540 cd70 Delete type=2 #229
+2025/05/25-15:39:22.540 cd70 Delete type=2 #231
+2025/05/25-15:39:22.540 cd70 Delete type=2 #233
+2025/05/25-15:42:45.137 cd70 Level-0 table #236: started
+2025/05/25-15:42:45.144 cd70 Level-0 table #236: 12842 bytes OK
+2025/05/25-15:42:45.146 cd70 Delete type=0 #232
+2025/05/25-15:57:21.370 cd70 Level-0 table #238: started
+2025/05/25-15:57:21.378 cd70 Level-0 table #238: 9854 bytes OK
+2025/05/25-15:57:21.380 cd70 Delete type=0 #235
+2025/05/25-16:13:24.697 cd70 Level-0 table #240: started
+2025/05/25-16:13:24.702 cd70 Level-0 table #240: 10486 bytes OK
+2025/05/25-16:13:24.704 cd70 Delete type=0 #237
+2025/05/25-16:29:20.334 cd70 Level-0 table #242: started
+2025/05/25-16:29:20.342 cd70 Level-0 table #242: 9995 bytes OK
+2025/05/25-16:29:20.344 cd70 Delete type=0 #239
+2025/05/25-16:29:20.344 cd70 Compacting 4@0 + 1@1 files
+2025/05/25-16:29:20.360 cd70 Generated table #243@0: 22418 keys, 530921 bytes
+2025/05/25-16:29:20.360 cd70 Compacted 4@0 + 1@1 files => 530921 bytes
+2025/05/25-16:29:20.361 cd70 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-16:29:20.362 cd70 Delete type=2 #234
+2025/05/25-16:29:20.362 cd70 Delete type=2 #236
+2025/05/25-16:29:20.362 cd70 Delete type=2 #238
+2025/05/25-16:29:20.362 cd70 Delete type=2 #240
+2025/05/25-16:29:20.362 cd70 Delete type=2 #242
+2025/05/25-16:45:43.034 cd70 Level-0 table #245: started
+2025/05/25-16:45:43.038 cd70 Level-0 table #245: 10343 bytes OK
+2025/05/25-16:45:43.040 cd70 Delete type=0 #241
+2025/05/25-16:59:29.066 cd70 Level-0 table #247: started
+2025/05/25-16:59:29.071 cd70 Level-0 table #247: 10396 bytes OK
+2025/05/25-16:59:29.080 cd70 Delete type=0 #244
+2025/05/25-17:15:08.640 cd70 Level-0 table #249: started
+2025/05/25-17:15:08.648 cd70 Level-0 table #249: 10583 bytes OK
+2025/05/25-17:15:08.649 cd70 Delete type=0 #246
+2025/05/25-17:30:33.105 cd70 Level-0 table #251: started
+2025/05/25-17:30:33.110 cd70 Level-0 table #251: 10794 bytes OK
+2025/05/25-17:30:33.111 cd70 Delete type=0 #248
+2025/05/25-17:30:33.112 cd70 Compacting 4@0 + 1@1 files
+2025/05/25-17:30:33.126 cd70 Generated table #252@0: 23160 keys, 548866 bytes
+2025/05/25-17:30:33.126 cd70 Compacted 4@0 + 1@1 files => 548866 bytes
+2025/05/25-17:30:33.127 cd70 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-17:30:33.128 cd70 Delete type=2 #243
+2025/05/25-17:30:33.128 cd70 Delete type=2 #245
+2025/05/25-17:30:33.128 cd70 Delete type=2 #247
+2025/05/25-17:30:33.128 cd70 Delete type=2 #249
+2025/05/25-17:30:33.128 cd70 Delete type=2 #251
+2025/05/25-17:45:41.569 cd70 Level-0 table #254: started
+2025/05/25-17:45:41.577 cd70 Level-0 table #254: 10990 bytes OK
+2025/05/25-17:45:41.579 cd70 Delete type=0 #250
+2025/05/25-18:01:51.782 cd70 Level-0 table #256: started
+2025/05/25-18:01:51.789 cd70 Level-0 table #256: 10855 bytes OK
+2025/05/25-18:01:51.791 cd70 Delete type=0 #253
+2025/05/25-18:16:04.693 cd70 Level-0 table #258: started
+2025/05/25-18:16:04.701 cd70 Level-0 table #258: 11015 bytes OK
+2025/05/25-18:16:04.702 cd70 Delete type=0 #255
+2025/05/25-18:18:14.271 cd70 Level-0 table #260: started
+2025/05/25-18:18:14.276 cd70 Level-0 table #260: 9598 bytes OK
+2025/05/25-18:18:14.278 cd70 Delete type=0 #257
+2025/05/25-18:18:14.278 cd70 Compacting 4@0 + 1@1 files
+2025/05/25-18:18:14.292 cd70 Generated table #261@0: 23958 keys, 567525 bytes
+2025/05/25-18:18:14.292 cd70 Compacted 4@0 + 1@1 files => 567525 bytes
+2025/05/25-18:18:14.293 cd70 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-18:18:14.294 cd70 Delete type=2 #252
+2025/05/25-18:18:14.294 cd70 Delete type=2 #254
+2025/05/25-18:18:14.294 cd70 Delete type=2 #256
+2025/05/25-18:18:14.294 cd70 Delete type=2 #258
+2025/05/25-18:18:14.294 cd70 Delete type=2 #260
+2025/05/25-18:27:24.412 cd70 Level-0 table #263: started
+2025/05/25-18:27:24.417 cd70 Level-0 table #263: 12178 bytes OK
+2025/05/25-18:27:24.418 cd70 Delete type=0 #259
+2025/05/25-18:43:25.768 cd60 Level-0 table #265: started
+2025/05/25-18:43:25.776 cd60 Level-0 table #265: 11482 bytes OK
+2025/05/25-18:43:25.777 cd60 Delete type=0 #262
+2025/05/25-18:59:00.901 cd70 Level-0 table #267: started
+2025/05/25-18:59:00.910 cd70 Level-0 table #267: 11635 bytes OK
+2025/05/25-18:59:00.912 cd70 Delete type=0 #264
+2025/05/25-19:13:25.974 cd70 Level-0 table #269: started
+2025/05/25-19:13:25.980 cd70 Level-0 table #269: 11909 bytes OK
+2025/05/25-19:13:25.981 cd70 Delete type=0 #266
+2025/05/25-19:13:25.982 cd70 Compacting 4@0 + 1@1 files
+2025/05/25-19:13:25.996 cd70 Generated table #270@0: 24822 keys, 587875 bytes
+2025/05/25-19:13:25.996 cd70 Compacted 4@0 + 1@1 files => 587875 bytes
+2025/05/25-19:13:25.997 cd70 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-19:13:25.998 cd70 Delete type=2 #261
+2025/05/25-19:13:25.998 cd70 Delete type=2 #263
+2025/05/25-19:13:25.998 cd70 Delete type=2 #265
+2025/05/25-19:13:25.998 cd70 Delete type=2 #267
+2025/05/25-19:13:25.998 cd70 Delete type=2 #269
+2025/05/25-19:15:35.723 cd70 Level-0 table #272: started
+2025/05/25-19:15:35.728 cd70 Level-0 table #272: 10220 bytes OK
+2025/05/25-19:15:35.729 cd70 Delete type=0 #268
+2025/05/25-19:23:47.981 cd70 Level-0 table #274: started
+2025/05/25-19:23:47.986 cd70 Level-0 table #274: 12855 bytes OK
+2025/05/25-19:23:47.988 cd70 Delete type=0 #271
+2025/05/25-19:37:39.728 cd70 Level-0 table #276: started
+2025/05/25-19:37:39.735 cd70 Level-0 table #276: 12106 bytes OK
+2025/05/25-19:37:39.737 cd70 Delete type=0 #273
+2025/05/25-19:52:55.310 cd70 Level-0 table #278: started
+2025/05/25-19:52:55.318 cd70 Level-0 table #278: 12188 bytes OK
+2025/05/25-19:52:55.320 cd70 Delete type=0 #275
+2025/05/25-19:52:55.320 cd70 Compacting 4@0 + 1@1 files
+2025/05/25-19:52:55.335 cd70 Generated table #279@0: 25746 keys, 610105 bytes
+2025/05/25-19:52:55.335 cd70 Compacted 4@0 + 1@1 files => 610105 bytes
+2025/05/25-19:52:55.336 cd70 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-19:52:55.337 cd70 Delete type=2 #270
+2025/05/25-19:52:55.337 cd70 Delete type=2 #272
+2025/05/25-19:52:55.337 cd70 Delete type=2 #274
+2025/05/25-19:52:55.337 cd70 Delete type=2 #276
+2025/05/25-19:52:55.337 cd70 Delete type=2 #278
+2025/05/25-19:55:04.888 cd70 Level-0 table #281: started
+2025/05/25-19:55:04.892 cd70 Level-0 table #281: 10583 bytes OK
+2025/05/25-19:55:04.894 cd70 Delete type=0 #277
+2025/05/25-20:04:03.538 cd70 Level-0 table #283: started
+2025/05/25-20:04:03.546 cd70 Level-0 table #283: 13360 bytes OK
+2025/05/25-20:04:03.547 cd70 Delete type=0 #280
+2025/05/25-20:11:45.703 cd70 Level-0 table #285: started
+2025/05/25-20:11:45.707 cd70 Level-0 table #285: 10992 bytes OK
+2025/05/25-20:11:45.709 cd70 Delete type=0 #282
+2025/05/25-20:14:08.060 cd70 Level-0 table #287: started
+2025/05/25-20:14:08.067 cd70 Level-0 table #287: 13441 bytes OK
+2025/05/25-20:14:08.069 cd70 Delete type=0 #284
+2025/05/25-20:14:08.070 cd70 Compacting 4@0 + 1@1 files
+2025/05/25-20:14:08.085 cd70 Generated table #288@0: 26728 keys, 633338 bytes
+2025/05/25-20:14:08.086 cd70 Compacted 4@0 + 1@1 files => 633338 bytes
+2025/05/25-20:14:08.086 cd70 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-20:14:08.087 cd70 Delete type=2 #279
+2025/05/25-20:14:08.087 cd70 Delete type=2 #281
+2025/05/25-20:14:08.087 cd70 Delete type=2 #283
+2025/05/25-20:14:08.087 cd70 Delete type=2 #285
+2025/05/25-20:14:08.087 cd70 Delete type=2 #287
+2025/05/25-20:28:05.268 cd70 Level-0 table #290: started
+2025/05/25-20:28:05.276 cd70 Level-0 table #290: 12789 bytes OK
+2025/05/25-20:28:05.278 cd70 Delete type=0 #286
+2025/05/25-20:42:50.524 cd70 Level-0 table #292: started
+2025/05/25-20:42:50.531 cd70 Level-0 table #292: 13221 bytes OK
+2025/05/25-20:42:50.533 cd70 Delete type=0 #289
+2025/05/25-20:57:33.654 cd70 Level-0 table #294: started
+2025/05/25-20:57:33.659 cd70 Level-0 table #294: 13273 bytes OK
+2025/05/25-20:57:33.661 cd70 Delete type=0 #291
+2025/05/25-21:00:50.871 cd70 Level-0 table #296: started
+2025/05/25-21:00:50.878 cd70 Level-0 table #296: 20695 bytes OK
+2025/05/25-21:00:50.880 cd70 Delete type=0 #293
+2025/05/25-21:00:50.881 cd70 Compacting 4@0 + 1@1 files
+2025/05/25-21:00:50.897 cd70 Generated table #297@0: 27714 keys, 654565 bytes
+2025/05/25-21:00:50.897 cd70 Compacted 4@0 + 1@1 files => 654565 bytes
+2025/05/25-21:00:50.898 cd70 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-21:00:50.898 cd70 Delete type=2 #288
+2025/05/25-21:00:50.899 cd70 Delete type=2 #290
+2025/05/25-21:00:50.899 cd70 Delete type=2 #292
+2025/05/25-21:00:50.899 cd70 Delete type=2 #294
+2025/05/25-21:00:50.899 cd70 Delete type=2 #296
+2025/05/25-21:06:28.688 cd70 Level-0 table #299: started
+2025/05/25-21:06:28.693 cd70 Level-0 table #299: 11437 bytes OK
+2025/05/25-21:06:28.695 cd70 Delete type=0 #295
+2025/05/25-21:11:07.222 cd70 Level-0 table #301: started
+2025/05/25-21:11:07.229 cd70 Level-0 table #301: 11314 bytes OK
+2025/05/25-21:11:07.231 cd70 Delete type=0 #298
+2025/05/25-21:16:00.432 cd70 Level-0 table #303: started
+2025/05/25-21:16:00.436 cd70 Level-0 table #303: 11569 bytes OK
+2025/05/25-21:16:00.437 cd70 Delete type=0 #300
+2025/05/25-21:16:05.501 cd70 Level-0 table #305: started
+2025/05/25-21:16:05.505 cd70 Level-0 table #305: 42434 bytes OK
+2025/05/25-21:16:05.507 cd70 Delete type=0 #302
+2025/05/25-21:16:05.508 cd70 Compacting 4@0 + 1@1 files
+2025/05/25-21:16:05.525 cd70 Generated table #306@0: 28670 keys, 744294 bytes
+2025/05/25-21:16:05.525 cd70 Compacted 4@0 + 1@1 files => 744294 bytes
+2025/05/25-21:16:05.525 cd70 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-21:16:05.526 cd70 Delete type=2 #297
+2025/05/25-21:16:05.526 cd70 Delete type=2 #299
+2025/05/25-21:16:05.526 cd70 Delete type=2 #301
+2025/05/25-21:16:05.526 cd70 Delete type=2 #303
+2025/05/25-21:16:05.526 cd70 Delete type=2 #305
+2025/05/25-21:20:43.409 cd70 Level-0 table #308: started
+2025/05/25-21:20:43.424 cd70 Level-0 table #308: 11566 bytes OK
+2025/05/25-21:20:43.425 cd70 Delete type=0 #304
+2025/05/25-21:25:59.284 cd70 Level-0 table #310: started
+2025/05/25-21:25:59.289 cd70 Level-0 table #310: 11703 bytes OK
+2025/05/25-21:25:59.290 cd70 Delete type=0 #307
+2025/05/25-21:30:37.992 cd70 Level-0 table #312: started
+2025/05/25-21:30:38.000 cd70 Level-0 table #312: 11869 bytes OK
+2025/05/25-21:30:38.001 cd70 Delete type=0 #309
+2025/05/25-21:35:44.303 cd70 Level-0 table #314: started
+2025/05/25-21:35:44.308 cd70 Level-0 table #314: 12009 bytes OK
+2025/05/25-21:35:44.310 cd70 Delete type=0 #311
+2025/05/25-21:35:44.310 cd70 Compacting 4@0 + 1@1 files
+2025/05/25-21:35:44.327 cd70 Generated table #315@0: 29681 keys, 700791 bytes
+2025/05/25-21:35:44.328 cd70 Compacted 4@0 + 1@1 files => 700791 bytes
+2025/05/25-21:35:44.328 cd70 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-21:35:44.329 cd70 Delete type=2 #306
+2025/05/25-21:35:44.329 cd70 Delete type=2 #308
+2025/05/25-21:35:44.329 cd70 Delete type=2 #310
+2025/05/25-21:35:44.329 cd70 Delete type=2 #312
+2025/05/25-21:35:44.329 cd70 Delete type=2 #314
+2025/05/25-21:40:22.834 cd70 Level-0 table #317: started
+2025/05/25-21:40:22.842 cd70 Level-0 table #317: 12099 bytes OK
+2025/05/25-21:40:22.843 cd70 Delete type=0 #313
+2025/05/25-21:44:19.770 cd70 Level-0 table #319: started
+2025/05/25-21:44:19.775 cd70 Level-0 table #319: 45435 bytes OK
+2025/05/25-21:44:19.777 cd70 Delete type=0 #316
+2025/05/25-22:44:38.332 cd70 Level-0 table #321: started
+2025/05/25-22:44:38.340 cd70 Level-0 table #321: 29466 bytes OK
+2025/05/25-22:44:38.342 cd70 Delete type=0 #318
+2025/05/25-23:44:12.139 cd70 Level-0 table #323: started
+2025/05/25-23:44:12.144 cd70 Level-0 table #323: 28955 bytes OK
+2025/05/25-23:44:12.146 cd70 Delete type=0 #320
+2025/05/25-23:44:12.147 cd70 Compacting 4@0 + 1@1 files
+2025/05/25-23:44:12.162 cd70 Generated table #324@0: 30219 keys, 803470 bytes
+2025/05/25-23:44:12.163 cd70 Compacted 4@0 + 1@1 files => 803470 bytes
+2025/05/25-23:44:12.163 cd70 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-23:44:12.164 cd70 Delete type=2 #315
+2025/05/25-23:44:12.164 cd70 Delete type=2 #317
+2025/05/25-23:44:12.164 cd70 Delete type=2 #319
+2025/05/25-23:44:12.164 cd70 Delete type=2 #321
+2025/05/25-23:44:12.164 cd70 Delete type=2 #323
+2025/05/26-00:46:38.685 cd70 Level-0 table #326: started
+2025/05/26-00:46:38.690 cd70 Level-0 table #326: 29556 bytes OK
+2025/05/26-00:46:38.692 cd70 Delete type=0 #322
+2025/05/26-01:48:07.321 cd70 Level-0 table #328: started
+2025/05/26-01:48:07.326 cd70 Level-0 table #328: 29000 bytes OK
+2025/05/26-01:48:07.328 cd70 Delete type=0 #325
+2025/05/26-02:52:45.198 cd70 Level-0 table #330: started
+2025/05/26-02:52:45.203 cd70 Level-0 table #330: 29497 bytes OK
+2025/05/26-02:52:45.205 cd70 Delete type=0 #327
+2025/05/26-03:54:54.688 cd70 Level-0 table #332: started
+2025/05/26-03:54:54.693 cd70 Level-0 table #332: 28788 bytes OK
+2025/05/26-03:54:54.695 cd70 Delete type=0 #329
+2025/05/26-03:54:54.695 cd70 Compacting 4@0 + 1@1 files
+2025/05/26-03:54:54.714 cd70 Generated table #333@0: 30407 keys, 842404 bytes
+2025/05/26-03:54:54.714 cd70 Compacted 4@0 + 1@1 files => 842404 bytes
+2025/05/26-03:54:54.715 cd70 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/26-03:54:54.716 cd70 Delete type=2 #324
+2025/05/26-03:54:54.716 cd70 Delete type=2 #326
+2025/05/26-03:54:54.716 cd70 Delete type=2 #328
+2025/05/26-03:54:54.716 cd70 Delete type=2 #330
+2025/05/26-03:54:54.716 cd70 Delete type=2 #332
+2025/05/26-04:58:52.274 cd70 Level-0 table #335: started
+2025/05/26-04:58:52.279 cd70 Level-0 table #335: 29121 bytes OK
+2025/05/26-04:58:52.281 cd70 Delete type=0 #331
+2025/05/26-06:01:53.848 cd70 Level-0 table #337: started
+2025/05/26-06:01:53.853 cd70 Level-0 table #337: 29469 bytes OK
+2025/05/26-06:01:53.855 cd70 Delete type=0 #334
+2025/05/26-07:06:41.754 cd70 Level-0 table #339: started
+2025/05/26-07:06:41.759 cd70 Level-0 table #339: 29052 bytes OK
+2025/05/26-07:06:41.761 cd70 Delete type=0 #336
+2025/05/26-08:07:58.305 cd70 Level-0 table #341: started
+2025/05/26-08:07:58.312 cd70 Level-0 table #341: 29335 bytes OK
+2025/05/26-08:07:58.313 cd70 Delete type=0 #338
+2025/05/26-08:07:58.314 cd70 Compacting 4@0 + 1@1 files
+2025/05/26-08:07:58.330 cd70 Generated table #342@0: 30597 keys, 879343 bytes
+2025/05/26-08:07:58.330 cd70 Compacted 4@0 + 1@1 files => 879343 bytes
+2025/05/26-08:07:58.331 cd70 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/26-08:07:58.332 cd70 Delete type=2 #333
+2025/05/26-08:07:58.332 cd70 Delete type=2 #335
+2025/05/26-08:07:58.332 cd70 Delete type=2 #337
+2025/05/26-08:07:58.332 cd70 Delete type=2 #339
+2025/05/26-08:07:58.332 cd70 Delete type=2 #341
+2025/05/26-09:12:54.205 cd70 Level-0 table #344: started
+2025/05/26-09:12:54.210 cd70 Level-0 table #344: 29677 bytes OK
+2025/05/26-09:12:54.212 cd70 Delete type=0 #340
+2025/05/26-10:14:30.160 cd70 Level-0 table #346: started
+2025/05/26-10:14:30.166 cd70 Level-0 table #346: 29705 bytes OK
+2025/05/26-10:14:30.168 cd70 Delete type=0 #343
+2025/05/26-11:10:09.798 cd70 Level-0 table #348: started
+2025/05/26-11:10:09.803 cd70 Level-0 table #348: 28929 bytes OK
+2025/05/26-11:10:09.805 cd70 Delete type=0 #345
+2025/05/26-12:09:42.510 cd70 Level-0 table #350: started
+2025/05/26-12:09:42.515 cd70 Level-0 table #350: 29602 bytes OK
+2025/05/26-12:09:42.517 cd70 Delete type=0 #347
+2025/05/26-12:09:42.517 cd70 Compacting 4@0 + 1@1 files
+2025/05/26-12:09:42.535 cd70 Generated table #351@0: 30785 keys, 912100 bytes
+2025/05/26-12:09:42.535 cd70 Compacted 4@0 + 1@1 files => 912100 bytes
+2025/05/26-12:09:42.536 cd70 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/26-12:09:42.537 cd70 Delete type=2 #342
+2025/05/26-12:09:42.537 cd70 Delete type=2 #344
+2025/05/26-12:09:42.537 cd70 Delete type=2 #346
+2025/05/26-12:09:42.537 cd70 Delete type=2 #348
+2025/05/26-12:09:42.537 cd70 Delete type=2 #350
+2025/05/26-13:11:12.222 cd70 Level-0 table #353: started
+2025/05/26-13:11:12.228 cd70 Level-0 table #353: 28541 bytes OK
+2025/05/26-13:11:12.230 cd70 Delete type=0 #349
+2025/05/26-14:17:07.232 cd70 Level-0 table #355: started
+2025/05/26-14:17:07.237 cd70 Level-0 table #355: 29048 bytes OK
+2025/05/26-14:17:07.240 cd70 Delete type=0 #352
+2025/05/26-14:25:18.392 cd70 Level-0 table #357: started
+2025/05/26-14:25:18.397 cd70 Level-0 table #357: 24134 bytes OK
+2025/05/26-14:25:18.399 cd70 Delete type=0 #354
+2025/05/26-14:26:28.937 cd70 Level-0 table #359: started
+2025/05/26-14:26:28.943 cd70 Level-0 table #359: 21503 bytes OK
+2025/05/26-14:26:28.944 cd70 Delete type=0 #356
+2025/05/26-14:26:28.945 cd70 Compacting 4@0 + 1@1 files
+2025/05/26-14:26:28.966 cd70 Generated table #360@0: 31781 keys, 745274 bytes
+2025/05/26-14:26:28.966 cd70 Compacted 4@0 + 1@1 files => 745274 bytes
+2025/05/26-14:26:28.967 cd70 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/26-14:26:28.967 cd70 Delete type=2 #351
+2025/05/26-14:26:28.967 cd70 Delete type=2 #353
+2025/05/26-14:26:28.968 cd70 Delete type=2 #355
+2025/05/26-14:26:28.968 cd70 Delete type=2 #357
+2025/05/26-14:26:28.968 cd70 Delete type=2 #359
+2025/05/26-14:27:39.354 cd70 Level-0 table #362: started
+2025/05/26-14:27:39.359 cd70 Level-0 table #362: 21644 bytes OK
+2025/05/26-14:27:39.361 cd70 Delete type=0 #358
+2025/05/26-14:28:44.767 cd70 Level-0 table #364: started
+2025/05/26-14:28:44.772 cd70 Level-0 table #364: 21656 bytes OK
+2025/05/26-14:28:44.774 cd70 Delete type=0 #361
+2025/05/26-14:32:17.926 cd70 Level-0 table #366: started
+2025/05/26-14:32:17.931 cd70 Level-0 table #366: 21620 bytes OK
+2025/05/26-14:32:17.933 cd70 Delete type=0 #363
+2025/05/26-14:37:07.019 cd70 Level-0 table #368: started
+2025/05/26-14:37:07.024 cd70 Level-0 table #368: 21804 bytes OK
+2025/05/26-14:37:07.026 cd70 Delete type=0 #365
+2025/05/26-14:37:07.026 cd70 Compacting 4@0 + 1@1 files
+2025/05/26-14:37:07.045 cd70 Generated table #369@0: 33883 keys, 796047 bytes
+2025/05/26-14:37:07.045 cd70 Compacted 4@0 + 1@1 files => 796047 bytes
+2025/05/26-14:37:07.046 cd70 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/26-14:37:07.046 cd70 Delete type=2 #360
+2025/05/26-14:37:07.047 cd70 Delete type=2 #362
+2025/05/26-14:37:07.047 cd70 Delete type=2 #364
+2025/05/26-14:37:07.047 cd70 Delete type=2 #366
+2025/05/26-14:37:07.047 cd70 Delete type=2 #368
+2025/05/26-14:38:17.449 cd70 Level-0 table #371: started
+2025/05/26-14:38:17.453 cd70 Level-0 table #371: 21783 bytes OK
+2025/05/26-14:38:17.455 cd70 Delete type=0 #367
+2025/05/26-14:39:22.882 cd70 Level-0 table #373: started
+2025/05/26-14:39:22.888 cd70 Level-0 table #373: 21829 bytes OK
+2025/05/26-14:39:22.889 cd70 Delete type=0 #370
+2025/05/26-14:42:56.497 cd70 Level-0 table #375: started
+2025/05/26-14:42:56.504 cd70 Level-0 table #375: 21825 bytes OK
+2025/05/26-14:42:56.506 cd70 Delete type=0 #372
+2025/05/26-14:48:47.519 cd70 Level-0 table #377: started
+2025/05/26-14:48:47.524 cd70 Level-0 table #377: 21921 bytes OK
+2025/05/26-14:48:47.526 cd70 Delete type=0 #374
+2025/05/26-14:48:47.526 cd70 Compacting 4@0 + 1@1 files
+2025/05/26-14:48:47.550 cd70 Generated table #378@0: 36001 keys, 846921 bytes
+2025/05/26-14:48:47.550 cd70 Compacted 4@0 + 1@1 files => 846921 bytes
+2025/05/26-14:48:47.550 cd70 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/26-14:48:47.551 cd70 Delete type=2 #369
+2025/05/26-14:48:47.551 cd70 Delete type=2 #371
+2025/05/26-14:48:47.552 cd70 Delete type=2 #373
+2025/05/26-14:48:47.552 cd70 Delete type=2 #375
+2025/05/26-14:48:47.552 cd70 Delete type=2 #377
+2025/05/26-14:49:58.186 cd70 Level-0 table #380: started
+2025/05/26-14:49:58.190 cd70 Level-0 table #380: 21973 bytes OK
+2025/05/26-14:49:58.192 cd70 Delete type=0 #376
+2025/05/26-14:51:03.711 cd70 Level-0 table #382: started
+2025/05/26-14:51:03.716 cd70 Level-0 table #382: 21977 bytes OK
+2025/05/26-14:51:03.718 cd70 Delete type=0 #379
+2025/05/26-14:54:36.718 cd70 Level-0 table #384: started
+2025/05/26-14:54:36.726 cd70 Level-0 table #384: 22023 bytes OK
+2025/05/26-14:54:36.727 cd70 Delete type=0 #381
+2025/05/26-14:59:56.317 cd70 Level-0 table #386: started
+2025/05/26-14:59:56.322 cd70 Level-0 table #386: 22195 bytes OK
+2025/05/26-14:59:56.324 cd70 Delete type=0 #383
+2025/05/26-14:59:56.324 cd70 Compacting 4@0 + 1@1 files
+2025/05/26-14:59:56.345 cd70 Generated table #387@0: 38135 keys, 897298 bytes
+2025/05/26-14:59:56.345 cd70 Compacted 4@0 + 1@1 files => 897298 bytes
+2025/05/26-14:59:56.346 cd70 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/26-14:59:56.346 cd70 Delete type=2 #378
+2025/05/26-14:59:56.346 cd70 Delete type=2 #380
+2025/05/26-14:59:56.347 cd70 Delete type=2 #382
+2025/05/26-14:59:56.347 cd70 Delete type=2 #384
+2025/05/26-14:59:56.347 cd70 Delete type=2 #386
+2025/05/26-15:01:06.706 cd70 Level-0 table #389: started
+2025/05/26-15:01:06.712 cd70 Level-0 table #389: 22098 bytes OK
+2025/05/26-15:01:06.713 cd70 Delete type=0 #385
+2025/05/26-15:02:12.098 cd70 Level-0 table #391: started
+2025/05/26-15:02:12.103 cd70 Level-0 table #391: 22163 bytes OK
+2025/05/26-15:02:12.105 cd70 Delete type=0 #388
+2025/05/26-15:05:45.499 cd70 Level-0 table #393: started
+2025/05/26-15:05:45.535 cd70 Level-0 table #393: 22157 bytes OK
+2025/05/26-15:05:45.537 cd70 Delete type=0 #390
+2025/05/26-15:10:37.830 cd70 Level-0 table #395: started
+2025/05/26-15:10:37.834 cd70 Level-0 table #395: 22558 bytes OK
+2025/05/26-15:10:37.836 cd70 Delete type=0 #392
+2025/05/26-15:10:37.836 cd70 Compacting 4@0 + 1@1 files
+2025/05/26-15:10:37.855 cd70 Generated table #396@0: 40285 keys, 949138 bytes
+2025/05/26-15:10:37.856 cd70 Compacted 4@0 + 1@1 files => 949138 bytes
+2025/05/26-15:10:37.856 cd70 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/26-15:10:37.857 cd70 Delete type=2 #387
+2025/05/26-15:10:37.857 cd70 Delete type=2 #389
+2025/05/26-15:10:37.857 cd70 Delete type=2 #391
+2025/05/26-15:10:37.857 cd70 Delete type=2 #393
+2025/05/26-15:10:37.857 cd70 Delete type=2 #395
+2025/05/26-15:11:48.250 cd70 Level-0 table #398: started
+2025/05/26-15:11:48.255 cd70 Level-0 table #398: 22286 bytes OK
+2025/05/26-15:11:48.257 cd70 Delete type=0 #394
+2025/05/26-15:12:53.727 cd70 Level-0 table #400: started
+2025/05/26-15:12:53.732 cd70 Level-0 table #400: 22269 bytes OK
+2025/05/26-15:12:53.733 cd70 Delete type=0 #397
+2025/05/26-15:16:27.434 cd70 Level-0 table #402: started
+2025/05/26-15:16:27.439 cd70 Level-0 table #402: 22282 bytes OK
+2025/05/26-15:16:27.440 cd70 Delete type=0 #399
+2025/05/26-15:22:07.280 cd70 Level-0 table #404: started
+2025/05/26-15:22:07.285 cd70 Level-0 table #404: 22492 bytes OK
+2025/05/26-15:22:07.287 cd70 Delete type=0 #401
+2025/05/26-15:22:07.287 cd70 Compacting 4@0 + 1@1 files
+2025/05/26-15:22:07.310 cd70 Generated table #405@0: 42451 keys, 1001173 bytes
+2025/05/26-15:22:07.311 cd70 Compacted 4@0 + 1@1 files => 1001173 bytes
+2025/05/26-15:22:07.311 cd70 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/26-15:22:07.312 cd70 Delete type=2 #396
+2025/05/26-15:22:07.312 cd70 Delete type=2 #398
+2025/05/26-15:22:07.312 cd70 Delete type=2 #400
+2025/05/26-15:22:07.312 cd70 Delete type=2 #402
+2025/05/26-15:22:07.313 cd70 Delete type=2 #404
+2025/05/26-15:23:17.731 cd70 Level-0 table #407: started
+2025/05/26-15:23:17.736 cd70 Level-0 table #407: 22366 bytes OK
+2025/05/26-15:23:17.738 cd70 Delete type=0 #403
+2025/05/26-15:24:23.430 cd70 Level-0 table #409: started
+2025/05/26-15:24:23.435 cd70 Level-0 table #409: 22502 bytes OK
+2025/05/26-15:24:23.437 cd70 Delete type=0 #406
+2025/05/26-15:27:56.776 cd70 Level-0 table #411: started
+2025/05/26-15:27:56.784 cd70 Level-0 table #411: 22496 bytes OK
+2025/05/26-15:27:56.786 cd70 Delete type=0 #408
+2025/05/26-15:32:47.313 cd70 Level-0 table #413: started
+2025/05/26-15:32:47.318 cd70 Level-0 table #413: 22630 bytes OK
+2025/05/26-15:32:47.320 cd70 Delete type=0 #410
+2025/05/26-15:32:47.320 cd70 Compacting 4@0 + 1@1 files
+2025/05/26-15:32:47.345 cd70 Generated table #414@0: 44633 keys, 1053265 bytes
+2025/05/26-15:32:47.345 cd70 Compacted 4@0 + 1@1 files => 1053265 bytes
+2025/05/26-15:32:47.346 cd70 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/26-15:32:47.347 cd70 Delete type=2 #405
+2025/05/26-15:32:47.347 cd70 Delete type=2 #407
+2025/05/26-15:32:47.347 cd70 Delete type=2 #409
+2025/05/26-15:32:47.347 cd70 Delete type=2 #411
+2025/05/26-15:32:47.347 cd70 Delete type=2 #413
+2025/05/26-15:33:57.770 cd70 Level-0 table #416: started
+2025/05/26-15:33:57.775 cd70 Level-0 table #416: 22555 bytes OK
+2025/05/26-15:33:57.777 cd70 Delete type=0 #412
+2025/05/26-15:35:05.163 cd70 Level-0 table #418: started
+2025/05/26-15:35:05.168 cd70 Level-0 table #418: 22564 bytes OK
+2025/05/26-15:35:05.170 cd70 Delete type=0 #415
+2025/05/26-15:38:38.668 cd70 Level-0 table #420: started
+2025/05/26-15:38:38.680 cd70 Level-0 table #420: 22615 bytes OK
+2025/05/26-15:38:38.683 cd70 Delete type=0 #417
+2025/05/26-15:42:47.382 cd70 Level-0 table #422: started
+2025/05/26-15:42:47.387 cd70 Level-0 table #422: 22662 bytes OK
+2025/05/26-15:42:47.389 cd70 Delete type=0 #419
+2025/05/26-15:42:47.390 cd70 Compacting 4@0 + 1@1 files
+2025/05/26-15:42:47.415 cd70 Generated table #423@0: 46831 keys, 1106050 bytes
+2025/05/26-15:42:47.415 cd70 Compacted 4@0 + 1@1 files => 1106050 bytes
+2025/05/26-15:42:47.416 cd70 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/26-15:42:47.417 cd70 Delete type=2 #414
+2025/05/26-15:42:47.417 cd70 Delete type=2 #416
+2025/05/26-15:42:47.417 cd70 Delete type=2 #418
+2025/05/26-15:42:47.417 cd70 Delete type=2 #420
+2025/05/26-15:42:47.417 cd70 Delete type=2 #422
+2025/05/26-15:43:58.579 cd70 Level-0 table #425: started
+2025/05/26-15:43:58.584 cd70 Level-0 table #425: 22700 bytes OK
+2025/05/26-15:43:58.586 cd70 Delete type=0 #421
+2025/05/26-15:45:04.234 cd70 Level-0 table #427: started
+2025/05/26-15:45:04.239 cd70 Level-0 table #427: 22737 bytes OK
+2025/05/26-15:45:04.241 cd70 Delete type=0 #424
+2025/05/26-15:48:37.629 cd70 Level-0 table #429: started
+2025/05/26-15:48:37.637 cd70 Level-0 table #429: 22761 bytes OK
+2025/05/26-15:48:37.639 cd70 Delete type=0 #426
+2025/05/26-15:53:20.820 cd70 Level-0 table #431: started
+2025/05/26-15:53:20.825 cd70 Level-0 table #431: 22811 bytes OK
+2025/05/26-15:53:20.827 cd70 Delete type=0 #428
+2025/05/26-15:53:20.827 cd70 Compacting 4@0 + 1@1 files
+2025/05/26-15:53:20.855 cd70 Generated table #432@0: 49045 keys, 1158982 bytes
+2025/05/26-15:53:20.856 cd70 Compacted 4@0 + 1@1 files => 1158982 bytes
+2025/05/26-15:53:20.856 cd70 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/26-15:53:20.857 cd70 Delete type=2 #423
+2025/05/26-15:53:20.857 cd70 Delete type=2 #425
+2025/05/26-15:53:20.857 cd70 Delete type=2 #427
+2025/05/26-15:53:20.858 cd70 Delete type=2 #429
+2025/05/26-15:53:20.858 cd70 Delete type=2 #431
+2025/05/26-15:54:31.267 cd70 Level-0 table #434: started
+2025/05/26-15:54:31.272 cd70 Level-0 table #434: 22858 bytes OK
+2025/05/26-15:54:31.275 cd70 Delete type=0 #430
+2025/05/26-15:55:36.861 cd70 Level-0 table #436: started
+2025/05/26-15:55:36.866 cd70 Level-0 table #436: 22878 bytes OK
+2025/05/26-15:55:36.867 cd70 Delete type=0 #433
+2025/05/26-15:59:10.859 cd70 Level-0 table #438: started
+2025/05/26-15:59:10.874 cd70 Level-0 table #438: 22909 bytes OK
+2025/05/26-15:59:10.876 cd70 Delete type=0 #435
+2025/05/26-16:04:02.758 cd70 Level-0 table #440: started
+2025/05/26-16:04:02.764 cd70 Level-0 table #440: 23029 bytes OK
+2025/05/26-16:04:02.766 cd70 Delete type=0 #437
+2025/05/26-16:04:02.766 cd70 Compacting 4@0 + 1@1 files
+2025/05/26-16:04:02.793 cd70 Generated table #441@0: 51275 keys, 1212256 bytes
+2025/05/26-16:04:02.793 cd70 Compacted 4@0 + 1@1 files => 1212256 bytes
+2025/05/26-16:04:02.794 cd70 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/26-16:04:02.794 cd70 Delete type=2 #432
+2025/05/26-16:04:02.794 cd70 Delete type=2 #434
+2025/05/26-16:04:02.794 cd70 Delete type=2 #436
+2025/05/26-16:04:02.795 cd70 Delete type=2 #438
+2025/05/26-16:04:02.795 cd70 Delete type=2 #440
+2025/05/26-16:05:13.162 cd70 Level-0 table #443: started
+2025/05/26-16:05:13.167 cd70 Level-0 table #443: 22973 bytes OK
+2025/05/26-16:05:13.169 cd70 Delete type=0 #439
+2025/05/26-16:06:18.778 cd70 Level-0 table #445: started
+2025/05/26-16:06:18.783 cd70 Level-0 table #445: 23138 bytes OK
+2025/05/26-16:06:18.785 cd70 Delete type=0 #442
+2025/05/26-16:09:52.102 cd70 Level-0 table #447: started
+2025/05/26-16:09:52.106 cd70 Level-0 table #447: 23148 bytes OK
+2025/05/26-16:09:52.108 cd70 Delete type=0 #444
+2025/05/26-16:13:51.230 cd70 Level-0 table #449: started
+2025/05/26-16:13:51.236 cd70 Level-0 table #449: 23141 bytes OK
+2025/05/26-16:13:51.237 cd70 Delete type=0 #446
+2025/05/26-16:13:51.238 cd70 Compacting 4@0 + 1@1 files
+2025/05/26-16:13:51.263 cd70 Generated table #450@0: 53520 keys, 1265181 bytes
+2025/05/26-16:13:51.263 cd70 Compacted 4@0 + 1@1 files => 1265181 bytes
+2025/05/26-16:13:51.264 cd70 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/26-16:13:51.265 cd70 Delete type=2 #441
+2025/05/26-16:13:51.265 cd70 Delete type=2 #443
+2025/05/26-16:13:51.265 cd70 Delete type=2 #445
+2025/05/26-16:13:51.265 cd70 Delete type=2 #447
+2025/05/26-16:13:51.265 cd70 Delete type=2 #449
+2025/05/26-16:15:01.594 cd70 Level-0 table #452: started
+2025/05/26-16:15:01.599 cd70 Level-0 table #452: 23131 bytes OK
+2025/05/26-16:15:01.601 cd70 Delete type=0 #448
+2025/05/26-16:16:07.016 cd70 Level-0 table #454: started
+2025/05/26-16:16:07.021 cd70 Level-0 table #454: 23198 bytes OK
+2025/05/26-16:16:07.023 cd70 Delete type=0 #451
+2025/05/26-16:19:40.360 cd70 Level-0 table #456: started
+2025/05/26-16:19:40.368 cd70 Level-0 table #456: 23156 bytes OK
+2025/05/26-16:19:40.370 cd70 Delete type=0 #453
+2025/05/26-16:24:28.592 cd70 Level-0 table #458: started
+2025/05/26-16:24:28.597 cd70 Level-0 table #458: 23382 bytes OK
+2025/05/26-16:24:28.599 cd70 Delete type=0 #455
+2025/05/26-16:24:28.599 cd70 Compacting 4@0 + 1@1 files
+2025/05/26-16:24:28.627 cd70 Generated table #459@0: 55778 keys, 1319756 bytes
+2025/05/26-16:24:28.628 cd70 Compacted 4@0 + 1@1 files => 1319756 bytes
+2025/05/26-16:24:28.629 cd70 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/26-16:24:28.629 cd70 Delete type=2 #450
+2025/05/26-16:24:28.630 cd70 Delete type=2 #452
+2025/05/26-16:24:28.630 cd70 Delete type=2 #454
+2025/05/26-16:24:28.630 cd70 Delete type=2 #456
+2025/05/26-16:24:28.630 cd70 Delete type=2 #458
+2025/05/26-16:25:39.006 cd70 Level-0 table #461: started
+2025/05/26-16:25:39.012 cd70 Level-0 table #461: 23188 bytes OK
+2025/05/26-16:25:39.013 cd70 Delete type=0 #457
+2025/05/26-16:26:44.380 cd70 Level-0 table #463: started
+2025/05/26-16:26:44.385 cd70 Level-0 table #463: 23233 bytes OK
+2025/05/26-16:26:44.387 cd70 Delete type=0 #460
+2025/05/26-16:30:17.687 cd70 Level-0 table #465: started
+2025/05/26-16:30:17.692 cd70 Level-0 table #465: 23343 bytes OK
+2025/05/26-16:30:17.693 cd70 Delete type=0 #462
+2025/05/26-16:34:53.409 cd70 Level-0 table #467: started
+2025/05/26-16:34:53.414 cd70 Level-0 table #467: 23443 bytes OK
+2025/05/26-16:34:53.416 cd70 Delete type=0 #464
+2025/05/26-16:34:53.416 cd70 Compacting 4@0 + 1@1 files
+2025/05/26-16:34:53.447 cd70 Generated table #468@0: 58052 keys, 1374362 bytes
+2025/05/26-16:34:53.447 cd70 Compacted 4@0 + 1@1 files => 1374362 bytes
+2025/05/26-16:34:53.448 cd70 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/26-16:34:53.449 cd70 Delete type=2 #459
+2025/05/26-16:34:53.449 cd70 Delete type=2 #461
+2025/05/26-16:34:53.449 cd70 Delete type=2 #463
+2025/05/26-16:34:53.449 cd70 Delete type=2 #465
+2025/05/26-16:34:53.449 cd70 Delete type=2 #467
+2025/05/26-16:36:03.834 cd70 Level-0 table #470: started
+2025/05/26-16:36:03.840 cd70 Level-0 table #470: 23384 bytes OK
+2025/05/26-16:36:03.841 cd70 Delete type=0 #466
+2025/05/26-16:37:09.239 cd70 Level-0 table #472: started
+2025/05/26-16:37:09.244 cd70 Level-0 table #472: 23387 bytes OK
+2025/05/26-16:37:09.246 cd70 Delete type=0 #469
+2025/05/26-16:40:43.019 cd70 Level-0 table #474: started
+2025/05/26-16:40:43.024 cd70 Level-0 table #474: 23405 bytes OK
+2025/05/26-16:40:43.026 cd70 Delete type=0 #471
+2025/05/26-16:45:03.542 cd70 Level-0 table #476: started
+2025/05/26-16:45:03.546 cd70 Level-0 table #476: 23509 bytes OK
+2025/05/26-16:45:03.548 cd70 Delete type=0 #473
+2025/05/26-16:45:03.548 cd70 Compacting 4@0 + 1@1 files
+2025/05/26-16:45:03.582 cd70 Generated table #477@0: 60342 keys, 1429096 bytes
+2025/05/26-16:45:03.582 cd70 Compacted 4@0 + 1@1 files => 1429096 bytes
+2025/05/26-16:45:03.583 cd70 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/26-16:45:03.584 cd70 Delete type=2 #468
+2025/05/26-16:45:03.585 cd70 Delete type=2 #470
+2025/05/26-16:45:03.585 cd70 Delete type=2 #472
+2025/05/26-16:45:03.585 cd70 Delete type=2 #474
+2025/05/26-16:45:03.585 cd70 Delete type=2 #476
+2025/05/26-16:46:13.907 cd70 Level-0 table #479: started
+2025/05/26-16:46:13.912 cd70 Level-0 table #479: 23474 bytes OK
+2025/05/26-16:46:13.914 cd70 Delete type=0 #475
+2025/05/26-16:47:19.366 cd70 Level-0 table #481: started
+2025/05/26-16:47:19.372 cd70 Level-0 table #481: 23626 bytes OK
+2025/05/26-16:47:19.374 cd70 Delete type=0 #478
+2025/05/26-16:50:53.407 cd70 Level-0 table #483: started
+2025/05/26-16:50:53.415 cd70 Level-0 table #483: 23517 bytes OK
+2025/05/26-16:50:53.417 cd70 Delete type=0 #480
+2025/05/26-16:54:57.214 cd70 Level-0 table #485: started
+2025/05/26-16:54:57.218 cd70 Level-0 table #485: 23660 bytes OK
+2025/05/26-16:54:57.220 cd70 Delete type=0 #482
+2025/05/26-16:54:57.221 cd70 Compacting 4@0 + 1@1 files
+2025/05/26-16:54:57.252 cd70 Generated table #486@0: 62648 keys, 1485970 bytes
+2025/05/26-16:54:57.252 cd70 Compacted 4@0 + 1@1 files => 1485970 bytes
+2025/05/26-16:54:57.253 cd70 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/26-16:54:57.254 cd70 Delete type=2 #477
+2025/05/26-16:54:57.254 cd70 Delete type=2 #479
+2025/05/26-16:54:57.254 cd70 Delete type=2 #481
+2025/05/26-16:54:57.254 cd70 Delete type=2 #483
+2025/05/26-16:54:57.254 cd70 Delete type=2 #485
+2025/05/26-16:56:07.693 cd70 Level-0 table #488: started
+2025/05/26-16:56:07.698 cd70 Level-0 table #488: 23622 bytes OK
+2025/05/26-16:56:07.699 cd70 Delete type=0 #484
+2025/05/26-16:57:13.079 cd70 Level-0 table #490: started
+2025/05/26-16:57:13.084 cd70 Level-0 table #490: 23625 bytes OK
+2025/05/26-16:57:13.085 cd70 Delete type=0 #487
+2025/05/26-17:00:46.844 cd70 Level-0 table #492: started
+2025/05/26-17:00:46.849 cd70 Level-0 table #492: 23707 bytes OK
+2025/05/26-17:00:46.851 cd70 Delete type=0 #489
+2025/05/26-17:06:17.440 cd70 Level-0 table #494: started
+2025/05/26-17:06:17.445 cd70 Level-0 table #494: 23849 bytes OK
+2025/05/26-17:06:17.447 cd70 Delete type=0 #491
+2025/05/26-17:06:17.447 cd70 Compacting 4@0 + 1@1 files
+2025/05/26-17:06:17.476 cd70 Generated table #495@0: 64970 keys, 1541265 bytes
+2025/05/26-17:06:17.476 cd70 Compacted 4@0 + 1@1 files => 1541265 bytes
+2025/05/26-17:06:17.477 cd70 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/26-17:06:17.478 cd70 Delete type=2 #486
+2025/05/26-17:06:17.478 cd70 Delete type=2 #488
+2025/05/26-17:06:17.478 cd70 Delete type=2 #490
+2025/05/26-17:06:17.478 cd70 Delete type=2 #492
+2025/05/26-17:06:17.478 cd70 Delete type=2 #494
+2025/05/26-17:07:27.933 cd70 Level-0 table #497: started
+2025/05/26-17:07:27.937 cd70 Level-0 table #497: 23765 bytes OK
+2025/05/26-17:07:27.939 cd70 Delete type=0 #493
+2025/05/26-17:08:33.344 cd70 Level-0 table #499: started
+2025/05/26-17:08:33.349 cd70 Level-0 table #499: 23813 bytes OK
+2025/05/26-17:08:33.351 cd70 Delete type=0 #496
+2025/05/26-17:12:07.167 cd70 Level-0 table #501: started
+2025/05/26-17:12:07.181 cd70 Level-0 table #501: 23846 bytes OK
+2025/05/26-17:12:07.183 cd70 Delete type=0 #498
+2025/05/26-17:17:38.972 cd70 Level-0 table #503: started
+2025/05/26-17:17:38.978 cd70 Level-0 table #503: 23978 bytes OK
+2025/05/26-17:17:38.980 cd70 Delete type=0 #500
+2025/05/26-17:17:38.980 cd70 Compacting 4@0 + 1@1 files
+2025/05/26-17:17:39.018 cd70 Generated table #504@0: 67308 keys, 1597716 bytes
+2025/05/26-17:17:39.018 cd70 Compacted 4@0 + 1@1 files => 1597716 bytes
+2025/05/26-17:17:39.019 cd70 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/26-17:17:39.020 cd70 Delete type=2 #495
+2025/05/26-17:17:39.020 cd70 Delete type=2 #497
+2025/05/26-17:17:39.020 cd70 Delete type=2 #499
+2025/05/26-17:17:39.020 cd70 Delete type=2 #501
+2025/05/26-17:17:39.020 cd70 Delete type=2 #503
+2025/05/26-17:18:49.465 cd70 Level-0 table #506: started
+2025/05/26-17:18:49.470 cd70 Level-0 table #506: 23892 bytes OK
+2025/05/26-17:18:49.472 cd70 Delete type=0 #502
+2025/05/26-17:19:54.853 cd70 Level-0 table #508: started
+2025/05/26-17:19:54.859 cd70 Level-0 table #508: 23916 bytes OK
+2025/05/26-17:19:54.860 cd70 Delete type=0 #505
+2025/05/26-17:23:28.502 cd70 Level-0 table #510: started
+2025/05/26-17:23:28.508 cd70 Level-0 table #510: 23980 bytes OK
+2025/05/26-17:23:28.509 cd70 Delete type=0 #507
+2025/05/26-17:27:07.694 cd70 Level-0 table #512: started
+2025/05/26-17:27:07.700 cd70 Level-0 table #512: 24272 bytes OK
+2025/05/26-17:27:07.701 cd70 Delete type=0 #509
+2025/05/26-17:27:07.702 cd70 Compacting 4@0 + 1@1 files
+2025/05/26-17:27:07.739 cd70 Generated table #513@0: 69662 keys, 1654124 bytes
+2025/05/26-17:27:07.739 cd70 Compacted 4@0 + 1@1 files => 1654124 bytes
+2025/05/26-17:27:07.740 cd70 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/26-17:27:07.741 cd70 Delete type=2 #504
+2025/05/26-17:27:07.741 cd70 Delete type=2 #506
+2025/05/26-17:27:07.741 cd70 Delete type=2 #508
+2025/05/26-17:27:07.741 cd70 Delete type=2 #510
+2025/05/26-17:27:07.741 cd70 Delete type=2 #512
+2025/05/26-17:28:18.220 cd70 Level-0 table #515: started
+2025/05/26-17:28:18.224 cd70 Level-0 table #515: 24188 bytes OK
+2025/05/26-17:28:18.225 cd70 Delete type=0 #511
+2025/05/26-17:29:23.745 cd70 Level-0 table #517: started
+2025/05/26-17:29:23.750 cd70 Level-0 table #517: 24236 bytes OK
+2025/05/26-17:29:23.752 cd70 Delete type=0 #514
+2025/05/26-17:32:57.475 cd70 Level-0 table #519: started
+2025/05/26-17:32:57.480 cd70 Level-0 table #519: 24281 bytes OK
+2025/05/26-17:32:57.481 cd70 Delete type=0 #516
+2025/05/26-17:37:40.247 cd70 Level-0 table #521: started
+2025/05/26-17:37:40.252 cd70 Level-0 table #521: 24420 bytes OK
+2025/05/26-17:37:40.254 cd70 Delete type=0 #518
+2025/05/26-17:37:40.255 cd70 Compacting 4@0 + 1@1 files
+2025/05/26-17:37:40.286 cd70 Generated table #522@0: 72032 keys, 1710361 bytes
+2025/05/26-17:37:40.286 cd70 Compacted 4@0 + 1@1 files => 1710361 bytes
+2025/05/26-17:37:40.287 cd70 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/26-17:37:40.288 cd70 Delete type=2 #513
+2025/05/26-17:37:40.288 cd70 Delete type=2 #515
+2025/05/26-17:37:40.288 cd70 Delete type=2 #517
+2025/05/26-17:37:40.288 cd70 Delete type=2 #519
+2025/05/26-17:37:40.288 cd70 Delete type=2 #521
+2025/05/26-17:38:50.761 cd70 Level-0 table #524: started
+2025/05/26-17:38:50.765 cd70 Level-0 table #524: 24377 bytes OK
+2025/05/26-17:38:50.767 cd70 Delete type=0 #520
+2025/05/26-17:39:56.185 cd70 Level-0 table #526: started
+2025/05/26-17:39:56.190 cd70 Level-0 table #526: 24385 bytes OK
+2025/05/26-17:39:56.192 cd70 Delete type=0 #523
+2025/05/26-17:43:29.515 cd70 Level-0 table #528: started
+2025/05/26-17:43:29.528 cd70 Level-0 table #528: 24498 bytes OK
+2025/05/26-17:43:29.530 cd70 Delete type=0 #525
+2025/05/26-17:48:45.761 cd70 Level-0 table #530: started
+2025/05/26-17:48:45.766 cd70 Level-0 table #530: 24645 bytes OK
+2025/05/26-17:48:45.767 cd70 Delete type=0 #527
+2025/05/26-17:48:45.768 cd70 Compacting 4@0 + 1@1 files
+2025/05/26-17:48:45.800 cd70 Generated table #531@0: 74418 keys, 1766985 bytes
+2025/05/26-17:48:45.800 cd70 Compacted 4@0 + 1@1 files => 1766985 bytes
+2025/05/26-17:48:45.801 cd70 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/26-17:48:45.802 cd70 Delete type=2 #522
+2025/05/26-17:48:45.802 cd70 Delete type=2 #524
+2025/05/26-17:48:45.802 cd70 Delete type=2 #526
+2025/05/26-17:48:45.802 cd70 Delete type=2 #528
+2025/05/26-17:48:45.802 cd70 Delete type=2 #530
+2025/05/26-17:49:56.480 cd70 Level-0 table #533: started
+2025/05/26-17:49:56.485 cd70 Level-0 table #533: 24493 bytes OK
+2025/05/26-17:49:56.487 cd70 Delete type=0 #529
+2025/05/26-17:51:01.945 cd70 Level-0 table #535: started
+2025/05/26-17:51:01.951 cd70 Level-0 table #535: 24515 bytes OK
+2025/05/26-17:51:01.952 cd70 Delete type=0 #532
+2025/05/26-17:54:35.988 cd70 Level-0 table #537: started
+2025/05/26-17:54:35.997 cd70 Level-0 table #537: 24592 bytes OK
+2025/05/26-17:54:35.999 cd70 Delete type=0 #534
+2025/05/26-17:58:22.646 cd70 Level-0 table #539: started
+2025/05/26-17:58:22.652 cd70 Level-0 table #539: 24734 bytes OK
+2025/05/26-17:58:22.654 cd70 Delete type=0 #536
+2025/05/26-17:58:22.654 cd70 Compacting 4@0 + 1@1 files
+2025/05/26-17:58:22.690 cd70 Generated table #540@0: 76820 keys, 1824417 bytes
+2025/05/26-17:58:22.690 cd70 Compacted 4@0 + 1@1 files => 1824417 bytes
+2025/05/26-17:58:22.691 cd70 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/26-17:58:22.692 cd70 Delete type=2 #531
+2025/05/26-17:58:22.692 cd70 Delete type=2 #533
+2025/05/26-17:58:22.692 cd70 Delete type=2 #535
+2025/05/26-17:58:22.692 cd70 Delete type=2 #537
+2025/05/26-17:58:22.692 cd70 Delete type=2 #539
+2025/05/26-17:59:33.461 cd70 Level-0 table #542: started
+2025/05/26-17:59:33.466 cd70 Level-0 table #542: 24736 bytes OK
+2025/05/26-17:59:33.468 cd70 Delete type=0 #538
+2025/05/26-18:00:38.877 cd70 Level-0 table #544: started
+2025/05/26-18:00:38.887 cd70 Level-0 table #544: 24680 bytes OK
+2025/05/26-18:00:38.889 cd70 Delete type=0 #541
+2025/05/26-18:04:12.370 cd70 Level-0 table #546: started
+2025/05/26-18:04:12.376 cd70 Level-0 table #546: 24799 bytes OK
+2025/05/26-18:04:12.377 cd70 Delete type=0 #543
+2025/05/26-18:08:04.924 cd70 Level-0 table #548: started
+2025/05/26-18:08:04.929 cd70 Level-0 table #548: 24886 bytes OK
+2025/05/26-18:08:04.931 cd70 Delete type=0 #545
+2025/05/26-18:08:04.931 cd70 Compacting 4@0 + 1@1 files
+2025/05/26-18:08:04.985 cd70 Generated table #549@0: 79238 keys, 1881873 bytes
+2025/05/26-18:08:04.985 cd70 Compacted 4@0 + 1@1 files => 1881873 bytes
+2025/05/26-18:08:04.986 cd70 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/26-18:08:04.987 cd70 Delete type=2 #540
+2025/05/26-18:08:04.989 cd70 Delete type=2 #542
+2025/05/26-18:08:04.989 cd70 Delete type=2 #544
+2025/05/26-18:08:04.989 cd70 Delete type=2 #546
+2025/05/26-18:08:04.989 cd70 Delete type=2 #548
+2025/05/26-18:09:15.474 cd70 Level-0 table #551: started
+2025/05/26-18:09:15.479 cd70 Level-0 table #551: 24850 bytes OK
+2025/05/26-18:09:15.481 cd70 Delete type=0 #547
+2025/05/26-18:10:21.844 cd70 Level-0 table #553: started
+2025/05/26-18:10:21.850 cd70 Level-0 table #553: 24918 bytes OK
+2025/05/26-18:10:21.853 cd70 Delete type=0 #550
+2025/05/26-18:13:54.976 cd70 Level-0 table #555: started
+2025/05/26-18:13:54.984 cd70 Level-0 table #555: 24937 bytes OK
+2025/05/26-18:13:54.986 cd70 Delete type=0 #552
+2025/05/26-18:17:28.092 cd70 Level-0 table #557: started
+2025/05/26-18:17:28.103 cd70 Level-0 table #557: 25013 bytes OK
+2025/05/26-18:17:28.105 cd70 Delete type=0 #554
+2025/05/26-18:17:28.105 cd70 Compacting 4@0 + 1@1 files
+2025/05/26-18:17:28.143 cd70 Generated table #558@0: 81672 keys, 1939783 bytes
+2025/05/26-18:17:28.143 cd70 Compacted 4@0 + 1@1 files => 1939783 bytes
+2025/05/26-18:17:28.144 cd70 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/26-18:17:28.145 cd70 Delete type=2 #549
+2025/05/26-18:17:28.145 cd70 Delete type=2 #551
+2025/05/26-18:17:28.145 cd70 Delete type=2 #553
+2025/05/26-18:17:28.145 cd70 Delete type=2 #555
+2025/05/26-18:17:28.145 cd70 Delete type=2 #557
+2025/05/26-18:18:38.633 cd70 Level-0 table #560: started
+2025/05/26-18:18:38.639 cd70 Level-0 table #560: 25020 bytes OK
+2025/05/26-18:18:38.640 cd70 Delete type=0 #556
+2025/05/26-18:19:44.001 cd70 Level-0 table #562: started
+2025/05/26-18:19:44.006 cd70 Level-0 table #562: 24991 bytes OK
+2025/05/26-18:19:44.008 cd70 Delete type=0 #559
+2025/05/26-18:23:17.626 cd70 Level-0 table #564: started
+2025/05/26-18:23:17.633 cd70 Level-0 table #564: 25087 bytes OK
+2025/05/26-18:23:17.635 cd70 Delete type=0 #561
+2025/05/26-18:28:10.108 cd70 Level-0 table #566: started
+2025/05/26-18:28:10.113 cd70 Level-0 table #566: 25300 bytes OK
+2025/05/26-18:28:10.115 cd70 Delete type=0 #563
+2025/05/26-18:28:10.115 cd70 Compacting 4@0 + 1@1 files
+2025/05/26-18:28:10.158 cd70 Generated table #567@0: 84122 keys, 1999046 bytes
+2025/05/26-18:28:10.158 cd70 Compacted 4@0 + 1@1 files => 1999046 bytes
+2025/05/26-18:28:10.159 cd70 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/26-18:28:10.160 cd70 Delete type=2 #558
+2025/05/26-18:28:10.160 cd70 Delete type=2 #560
+2025/05/26-18:28:10.160 cd70 Delete type=2 #562
+2025/05/26-18:28:10.160 cd70 Delete type=2 #564
+2025/05/26-18:28:10.160 cd70 Delete type=2 #566
+2025/05/26-18:29:20.499 cd70 Level-0 table #569: started
+2025/05/26-18:29:20.504 cd70 Level-0 table #569: 25207 bytes OK
+2025/05/26-18:29:20.505 cd70 Delete type=0 #565
+2025/05/26-18:30:25.922 cd70 Level-0 table #571: started
+2025/05/26-18:30:25.927 cd70 Level-0 table #571: 25240 bytes OK
+2025/05/26-18:30:25.929 cd70 Delete type=0 #568
+2025/05/26-18:33:59.490 cd70 Level-0 table #573: started
+2025/05/26-18:33:59.498 cd70 Level-0 table #573: 25314 bytes OK
+2025/05/26-18:33:59.499 cd70 Delete type=0 #570
+2025/05/26-18:38:11.961 cd70 Level-0 table #575: started
+2025/05/26-18:38:11.966 cd70 Level-0 table #575: 25565 bytes OK
+2025/05/26-18:38:11.967 cd70 Delete type=0 #572
+2025/05/26-18:38:11.968 cd70 Compacting 4@0 + 1@1 files
+2025/05/26-18:38:12.010 cd70 Generated table #576@0: 86588 keys, 2056867 bytes
+2025/05/26-18:38:12.010 cd70 Compacted 4@0 + 1@1 files => 2056867 bytes
+2025/05/26-18:38:12.011 cd70 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/26-18:38:12.012 cd70 Delete type=2 #567
+2025/05/26-18:38:12.012 cd70 Delete type=2 #569
+2025/05/26-18:38:12.012 cd70 Delete type=2 #571
+2025/05/26-18:38:12.012 cd70 Delete type=2 #573
+2025/05/26-18:38:12.012 cd70 Delete type=2 #575
+2025/05/26-18:39:22.615 cd70 Level-0 table #578: started
+2025/05/26-18:39:22.621 cd70 Level-0 table #578: 25335 bytes OK
+2025/05/26-18:39:22.622 cd70 Delete type=0 #574
+2025/05/26-18:40:27.994 cd70 Level-0 table #580: started
+2025/05/26-18:40:28.000 cd70 Level-0 table #580: 25395 bytes OK
+2025/05/26-18:40:28.002 cd70 Delete type=0 #577
+2025/05/26-18:44:01.441 cd70 Level-0 table #582: started
+2025/05/26-18:44:01.446 cd70 Level-0 table #582: 25487 bytes OK
+2025/05/26-18:44:01.448 cd70 Delete type=0 #579
+2025/05/26-18:49:46.423 cd70 Level-0 table #584: started
+2025/05/26-18:49:46.428 cd70 Level-0 table #584: 25620 bytes OK
+2025/05/26-18:49:46.429 cd70 Delete type=0 #581
+2025/05/26-18:49:46.430 cd70 Compacting 4@0 + 1@1 files
+2025/05/26-18:49:46.471 cd70 Generated table #585@0: 89070 keys, 2116461 bytes
+2025/05/26-18:49:46.471 cd70 Compacted 4@0 + 1@1 files => 2116461 bytes
+2025/05/26-18:49:46.472 cd70 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/26-18:49:46.472 cd70 Delete type=2 #576
+2025/05/26-18:49:46.472 cd70 Delete type=2 #578
+2025/05/26-18:49:46.472 cd70 Delete type=2 #580
+2025/05/26-18:49:46.472 cd70 Delete type=2 #582
+2025/05/26-18:49:46.472 cd70 Delete type=2 #584
+2025/05/26-18:50:56.778 cd70 Level-0 table #587: started
+2025/05/26-18:50:56.783 cd70 Level-0 table #587: 25544 bytes OK
+2025/05/26-18:50:56.784 cd70 Delete type=0 #583
+2025/05/26-18:52:02.493 cd70 Level-0 table #589: started
+2025/05/26-18:52:02.498 cd70 Level-0 table #589: 25514 bytes OK
+2025/05/26-18:52:02.500 cd70 Delete type=0 #586
+2025/05/26-18:55:35.950 cd70 Level-0 table #591: started
+2025/05/26-18:55:35.959 cd70 Level-0 table #591: 25600 bytes OK
+2025/05/26-18:55:35.961 cd70 Delete type=0 #588
+2025/05/26-19:01:12.755 cd70 Level-0 table #593: started
+2025/05/26-19:01:12.760 cd70 Level-0 table #593: 25730 bytes OK
+2025/05/26-19:01:12.762 cd70 Delete type=0 #590
+2025/05/26-19:01:12.762 cd70 Compacting 4@0 + 1@1 files
+2025/05/26-19:01:12.807 cd70 Generated table #594@0: 88411 keys, 2120283 bytes
+2025/05/26-19:01:12.813 cd70 Generated table #595@0: 3157 keys, 55630 bytes
+2025/05/26-19:01:12.813 cd70 Compacted 4@0 + 1@1 files => 2175913 bytes
+2025/05/26-19:01:12.814 cd70 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-19:01:12.814 cd70 Delete type=2 #585
+2025/05/26-19:01:12.815 cd70 Delete type=2 #587
+2025/05/26-19:01:12.815 cd70 Delete type=2 #589
+2025/05/26-19:01:12.815 cd70 Delete type=2 #591
+2025/05/26-19:01:12.815 cd70 Delete type=2 #593
+2025/05/26-19:02:23.344 cd70 Level-0 table #597: started
+2025/05/26-19:02:23.349 cd70 Level-0 table #597: 25654 bytes OK
+2025/05/26-19:02:23.351 cd70 Delete type=0 #592
+2025/05/26-19:03:28.839 cd70 Level-0 table #599: started
+2025/05/26-19:03:28.844 cd70 Level-0 table #599: 25673 bytes OK
+2025/05/26-19:03:28.846 cd70 Delete type=0 #596
+2025/05/26-19:07:02.144 cd70 Level-0 table #601: started
+2025/05/26-19:07:02.149 cd70 Level-0 table #601: 25706 bytes OK
+2025/05/26-19:07:02.151 cd70 Delete type=0 #598
+2025/05/26-19:10:38.943 cd70 Level-0 table #603: started
+2025/05/26-19:10:38.947 cd70 Level-0 table #603: 25798 bytes OK
+2025/05/26-19:10:38.949 cd70 Delete type=0 #600
+2025/05/26-19:10:38.949 cd70 Compacting 4@0 + 2@1 files
+2025/05/26-19:10:38.992 cd70 Generated table #604@0: 88442 keys, 2121426 bytes
+2025/05/26-19:10:39.000 cd70 Generated table #605@0: 5640 keys, 115293 bytes
+2025/05/26-19:10:39.000 cd70 Compacted 4@0 + 2@1 files => 2236719 bytes
+2025/05/26-19:10:39.001 cd70 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-19:10:39.002 cd70 Delete type=2 #594
+2025/05/26-19:10:39.002 cd70 Delete type=2 #595
+2025/05/26-19:10:39.002 cd70 Delete type=2 #597
+2025/05/26-19:10:39.002 cd70 Delete type=2 #599
+2025/05/26-19:10:39.002 cd70 Delete type=2 #601
+2025/05/26-19:10:39.002 cd70 Delete type=2 #603
+2025/05/26-19:11:49.573 cd70 Level-0 table #607: started
+2025/05/26-19:11:49.578 cd70 Level-0 table #607: 25786 bytes OK
+2025/05/26-19:11:49.580 cd70 Delete type=0 #602
+2025/05/26-19:12:54.951 cd70 Level-0 table #609: started
+2025/05/26-19:12:54.956 cd70 Level-0 table #609: 25826 bytes OK
+2025/05/26-19:12:54.958 cd70 Delete type=0 #606
+2025/05/26-19:16:27.868 cd70 Level-0 table #611: started
+2025/05/26-19:16:27.873 cd70 Level-0 table #611: 25862 bytes OK
+2025/05/26-19:16:27.875 cd70 Delete type=0 #608
+2025/05/26-19:20:02.807 cd70 Level-0 table #613: started
+2025/05/26-19:20:02.813 cd70 Level-0 table #613: 26016 bytes OK
+2025/05/26-19:20:02.814 cd70 Delete type=0 #610
+2025/05/26-19:20:02.815 cd70 Compacting 4@0 + 2@1 files
+2025/05/26-19:20:02.858 cd70 Generated table #614@0: 88450 keys, 2121171 bytes
+2025/05/26-19:20:02.866 cd70 Generated table #615@0: 8162 keys, 175772 bytes
+2025/05/26-19:20:02.866 cd70 Compacted 4@0 + 2@1 files => 2296943 bytes
+2025/05/26-19:20:02.867 cd70 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-19:20:02.868 cd70 Delete type=2 #604
+2025/05/26-19:20:02.868 cd70 Delete type=2 #605
+2025/05/26-19:20:02.868 cd70 Delete type=2 #607
+2025/05/26-19:20:02.868 cd70 Delete type=2 #609
+2025/05/26-19:20:02.868 cd70 Delete type=2 #611
+2025/05/26-19:20:02.868 cd70 Delete type=2 #613
+2025/05/26-19:21:13.251 cd70 Level-0 table #617: started
+2025/05/26-19:21:13.257 cd70 Level-0 table #617: 25960 bytes OK
+2025/05/26-19:21:13.258 cd70 Delete type=0 #612
+2025/05/26-19:22:18.721 cd70 Level-0 table #619: started
+2025/05/26-19:22:18.726 cd70 Level-0 table #619: 25981 bytes OK
+2025/05/26-19:22:18.728 cd70 Delete type=0 #616
+2025/05/26-19:25:52.103 cd70 Level-0 table #621: started
+2025/05/26-19:25:52.112 cd70 Level-0 table #621: 26043 bytes OK
+2025/05/26-19:25:52.113 cd70 Delete type=0 #618
+2025/05/26-19:31:36.978 cd70 Level-0 table #623: started
+2025/05/26-19:31:36.983 cd70 Level-0 table #623: 26167 bytes OK
+2025/05/26-19:31:36.985 cd70 Delete type=0 #620
+2025/05/26-19:31:36.986 cd70 Compacting 4@0 + 2@1 files
+2025/05/26-19:31:37.028 cd70 Generated table #624@0: 88469 keys, 2121210 bytes
+2025/05/26-19:31:37.037 cd70 Generated table #625@0: 10689 keys, 236411 bytes
+2025/05/26-19:31:37.037 cd70 Compacted 4@0 + 2@1 files => 2357621 bytes
+2025/05/26-19:31:37.039 cd70 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-19:31:37.040 cd70 Delete type=2 #614
+2025/05/26-19:31:37.040 cd70 Delete type=2 #615
+2025/05/26-19:31:37.040 cd70 Delete type=2 #617
+2025/05/26-19:31:37.040 cd70 Delete type=2 #619
+2025/05/26-19:31:37.040 cd70 Delete type=2 #621
+2025/05/26-19:31:37.040 cd70 Delete type=2 #623
+2025/05/26-19:32:47.633 cd70 Level-0 table #627: started
+2025/05/26-19:32:47.638 cd70 Level-0 table #627: 26119 bytes OK
+2025/05/26-19:32:47.640 cd70 Delete type=0 #622
+2025/05/26-19:33:53.172 cd70 Level-0 table #629: started
+2025/05/26-19:33:53.177 cd70 Level-0 table #629: 26116 bytes OK
+2025/05/26-19:33:53.179 cd70 Delete type=0 #626
+2025/05/26-19:37:26.453 cd70 Level-0 table #631: started
+2025/05/26-19:37:26.462 cd70 Level-0 table #631: 26189 bytes OK
+2025/05/26-19:37:26.463 cd70 Delete type=0 #628
+2025/05/26-19:42:59.050 cd70 Level-0 table #633: started
+2025/05/26-19:42:59.056 cd70 Level-0 table #633: 26366 bytes OK
+2025/05/26-19:42:59.057 cd70 Delete type=0 #630
+2025/05/26-19:42:59.058 cd70 Compacting 4@0 + 2@1 files
+2025/05/26-19:42:59.099 cd70 Generated table #634@0: 88500 keys, 2122223 bytes
+2025/05/26-19:42:59.109 cd70 Generated table #635@0: 13220 keys, 297065 bytes
+2025/05/26-19:42:59.109 cd70 Compacted 4@0 + 2@1 files => 2419288 bytes
+2025/05/26-19:42:59.110 cd70 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-19:42:59.111 cd70 Delete type=2 #624
+2025/05/26-19:42:59.111 cd70 Delete type=2 #625
+2025/05/26-19:42:59.111 cd70 Delete type=2 #627
+2025/05/26-19:42:59.111 cd70 Delete type=2 #629
+2025/05/26-19:42:59.111 cd70 Delete type=2 #631
+2025/05/26-19:42:59.111 cd70 Delete type=2 #633
+2025/05/26-19:44:09.453 cd70 Level-0 table #637: started
+2025/05/26-19:44:09.458 cd70 Level-0 table #637: 26224 bytes OK
+2025/05/26-19:44:09.460 cd70 Delete type=0 #632
+2025/05/26-19:45:14.998 cd70 Level-0 table #639: started
+2025/05/26-19:45:15.003 cd70 Level-0 table #639: 26258 bytes OK
+2025/05/26-19:45:15.005 cd70 Delete type=0 #636
+2025/05/26-19:48:47.856 cd70 Level-0 table #641: started
+2025/05/26-19:48:47.865 cd70 Level-0 table #641: 26271 bytes OK
+2025/05/26-19:48:47.866 cd70 Delete type=0 #638
+2025/05/26-19:53:05.177 cd70 Level-0 table #643: started
+2025/05/26-19:53:05.183 cd70 Level-0 table #643: 26383 bytes OK
+2025/05/26-19:53:05.185 cd70 Delete type=0 #640
+2025/05/26-19:53:05.185 cd70 Compacting 4@0 + 2@1 files
+2025/05/26-19:53:05.225 cd70 Generated table #644@0: 88530 keys, 2121236 bytes
+2025/05/26-19:53:05.236 cd70 Generated table #645@0: 15768 keys, 358068 bytes
+2025/05/26-19:53:05.236 cd70 Compacted 4@0 + 2@1 files => 2479304 bytes
+2025/05/26-19:53:05.237 cd70 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-19:53:05.238 cd70 Delete type=2 #634
+2025/05/26-19:53:05.238 cd70 Delete type=2 #635
+2025/05/26-19:53:05.238 cd70 Delete type=2 #637
+2025/05/26-19:53:05.238 cd70 Delete type=2 #639
+2025/05/26-19:53:05.238 cd70 Delete type=2 #641
+2025/05/26-19:53:05.238 cd70 Delete type=2 #643
+2025/05/26-19:54:15.576 cd70 Level-0 table #647: started
+2025/05/26-19:54:15.582 cd70 Level-0 table #647: 26291 bytes OK
+2025/05/26-19:54:15.584 cd70 Delete type=0 #642
+2025/05/26-19:55:20.982 cd70 Level-0 table #649: started
+2025/05/26-19:55:20.987 cd70 Level-0 table #649: 26357 bytes OK
+2025/05/26-19:55:20.990 cd70 Delete type=0 #646
+2025/05/26-19:58:54.429 cd70 Level-0 table #651: started
+2025/05/26-19:58:54.437 cd70 Level-0 table #651: 26323 bytes OK
+2025/05/26-19:58:54.439 cd70 Delete type=0 #648
+2025/05/26-20:04:11.104 cd70 Level-0 table #653: started
+2025/05/26-20:04:11.109 cd70 Level-0 table #653: 26641 bytes OK
+2025/05/26-20:04:11.111 cd70 Delete type=0 #650
+2025/05/26-20:04:11.112 cd70 Compacting 4@0 + 2@1 files
+2025/05/26-20:04:11.151 cd70 Generated table #654@0: 88561 keys, 2122667 bytes
+2025/05/26-20:04:11.162 cd70 Generated table #655@0: 18331 keys, 419435 bytes
+2025/05/26-20:04:11.163 cd70 Compacted 4@0 + 2@1 files => 2542102 bytes
+2025/05/26-20:04:11.163 cd70 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-20:04:11.164 cd70 Delete type=2 #644
+2025/05/26-20:04:11.164 cd70 Delete type=2 #645
+2025/05/26-20:04:11.164 cd70 Delete type=2 #647
+2025/05/26-20:04:11.165 cd70 Delete type=2 #649
+2025/05/26-20:04:11.165 cd70 Delete type=2 #651
+2025/05/26-20:04:11.165 cd70 Delete type=2 #653
+2025/05/26-20:05:21.492 cd70 Level-0 table #657: started
+2025/05/26-20:05:21.496 cd70 Level-0 table #657: 26439 bytes OK
+2025/05/26-20:05:21.498 cd70 Delete type=0 #652
+2025/05/26-20:06:26.889 cd70 Level-0 table #659: started
+2025/05/26-20:06:26.894 cd70 Level-0 table #659: 26440 bytes OK
+2025/05/26-20:06:26.895 cd70 Delete type=0 #656
+2025/05/26-20:10:00.537 cd70 Level-0 table #661: started
+2025/05/26-20:10:00.542 cd70 Level-0 table #661: 26557 bytes OK
+2025/05/26-20:10:00.544 cd70 Delete type=0 #658
+2025/05/26-20:14:33.991 cd70 Level-0 table #663: started
+2025/05/26-20:14:33.996 cd70 Level-0 table #663: 26698 bytes OK
+2025/05/26-20:14:33.997 cd70 Delete type=0 #660
+2025/05/26-20:14:33.998 cd70 Compacting 4@0 + 2@1 files
+2025/05/26-20:14:34.042 cd70 Generated table #664@0: 88496 keys, 2120294 bytes
+2025/05/26-20:14:34.058 cd70 Generated table #665@0: 21006 keys, 483149 bytes
+2025/05/26-20:14:34.058 cd70 Compacted 4@0 + 2@1 files => 2603443 bytes
+2025/05/26-20:14:34.059 cd70 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-20:14:34.060 cd70 Delete type=2 #654
+2025/05/26-20:14:34.060 cd70 Delete type=2 #655
+2025/05/26-20:14:34.060 cd70 Delete type=2 #657
+2025/05/26-20:14:34.060 cd70 Delete type=2 #659
+2025/05/26-20:14:34.060 cd70 Delete type=2 #661
+2025/05/26-20:14:34.060 cd70 Delete type=2 #663
+2025/05/26-20:15:44.418 cd70 Level-0 table #667: started
+2025/05/26-20:15:44.423 cd70 Level-0 table #667: 26641 bytes OK
+2025/05/26-20:15:44.424 cd70 Delete type=0 #662
+2025/05/26-20:16:49.940 cd70 Level-0 table #669: started
+2025/05/26-20:16:49.945 cd70 Level-0 table #669: 26544 bytes OK
+2025/05/26-20:16:49.947 cd70 Delete type=0 #666
+2025/05/26-20:20:23.233 cd70 Level-0 table #671: started
+2025/05/26-20:20:23.241 cd70 Level-0 table #671: 26615 bytes OK
+2025/05/26-20:20:23.243 cd70 Delete type=0 #668
+2025/05/26-20:26:00.110 cd70 Level-0 table #673: started
+2025/05/26-20:26:00.116 cd70 Level-0 table #673: 27066 bytes OK
+2025/05/26-20:26:00.117 cd70 Delete type=0 #670
+2025/05/26-20:26:00.118 cd70 Compacting 4@0 + 2@1 files
+2025/05/26-20:26:00.159 cd70 Generated table #674@0: 88512 keys, 2120328 bytes
+2025/05/26-20:26:00.174 cd70 Generated table #675@0: 23616 keys, 545686 bytes
+2025/05/26-20:26:00.174 cd70 Compacted 4@0 + 2@1 files => 2666014 bytes
+2025/05/26-20:26:00.175 cd70 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-20:26:00.175 cd70 Delete type=2 #664
+2025/05/26-20:26:00.175 cd70 Delete type=2 #665
+2025/05/26-20:26:00.175 cd70 Delete type=2 #667
+2025/05/26-20:26:00.175 cd70 Delete type=2 #669
+2025/05/26-20:26:00.175 cd70 Delete type=2 #671
+2025/05/26-20:26:00.175 cd70 Delete type=2 #673
+2025/05/26-20:27:10.445 cd70 Level-0 table #677: started
+2025/05/26-20:27:10.450 cd70 Level-0 table #677: 26801 bytes OK
+2025/05/26-20:27:10.451 cd70 Delete type=0 #672
+2025/05/26-20:28:15.797 cd70 Level-0 table #679: started
+2025/05/26-20:28:15.803 cd70 Level-0 table #679: 27020 bytes OK
+2025/05/26-20:28:15.805 cd70 Delete type=0 #676
+2025/05/26-20:31:49.126 cd70 Level-0 table #681: started
+2025/05/26-20:31:49.133 cd70 Level-0 table #681: 27062 bytes OK
+2025/05/26-20:31:49.135 cd70 Delete type=0 #678
+2025/05/26-20:35:50.934 cd70 Level-0 table #683: started
+2025/05/26-20:35:50.940 cd70 Level-0 table #683: 27186 bytes OK
+2025/05/26-20:35:50.941 cd70 Delete type=0 #680
+2025/05/26-20:35:50.942 cd70 Compacting 4@0 + 2@1 files
+2025/05/26-20:35:50.984 cd70 Generated table #684@0: 88572 keys, 2120826 bytes
+2025/05/26-20:35:50.997 cd70 Generated table #685@0: 26198 keys, 607768 bytes
+2025/05/26-20:35:50.997 cd70 Compacted 4@0 + 2@1 files => 2728594 bytes
+2025/05/26-20:35:50.998 cd70 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-20:35:50.999 cd70 Delete type=2 #674
+2025/05/26-20:35:50.999 cd70 Delete type=2 #675
+2025/05/26-20:35:50.999 cd70 Delete type=2 #677
+2025/05/26-20:35:50.999 cd70 Delete type=2 #679
+2025/05/26-20:35:50.999 cd70 Delete type=2 #681
+2025/05/26-20:35:50.999 cd70 Delete type=2 #683
+2025/05/26-20:37:01.315 cd70 Level-0 table #687: started
+2025/05/26-20:37:01.320 cd70 Level-0 table #687: 27156 bytes OK
+2025/05/26-20:37:01.322 cd70 Delete type=0 #682
+2025/05/26-20:38:06.739 cd70 Level-0 table #689: started
+2025/05/26-20:38:06.743 cd70 Level-0 table #689: 27144 bytes OK
+2025/05/26-20:38:06.745 cd70 Delete type=0 #686
+2025/05/26-20:41:39.826 cd70 Level-0 table #691: started
+2025/05/26-20:41:39.832 cd70 Level-0 table #691: 27155 bytes OK
+2025/05/26-20:41:39.834 cd70 Delete type=0 #688
+2025/05/26-20:45:23.830 cd70 Level-0 table #693: started
+2025/05/26-20:45:23.835 cd70 Level-0 table #693: 27297 bytes OK
+2025/05/26-20:45:23.837 cd70 Delete type=0 #690
+2025/05/26-20:45:23.837 cd70 Compacting 4@0 + 2@1 files
+2025/05/26-20:45:23.878 cd70 Generated table #694@0: 88601 keys, 2120482 bytes
+2025/05/26-20:45:23.895 cd70 Generated table #695@0: 28827 keys, 670109 bytes
+2025/05/26-20:45:23.895 cd70 Compacted 4@0 + 2@1 files => 2790591 bytes
+2025/05/26-20:45:23.896 cd70 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-20:45:23.897 cd70 Delete type=2 #684
+2025/05/26-20:45:23.897 cd70 Delete type=2 #685
+2025/05/26-20:45:23.897 cd70 Delete type=2 #687
+2025/05/26-20:45:23.897 cd70 Delete type=2 #689
+2025/05/26-20:45:23.897 cd70 Delete type=2 #691
+2025/05/26-20:45:23.897 cd70 Delete type=2 #693
+2025/05/26-20:46:34.393 cd70 Level-0 table #697: started
+2025/05/26-20:46:34.398 cd70 Level-0 table #697: 27196 bytes OK
+2025/05/26-20:46:34.400 cd70 Delete type=0 #692
+2025/05/26-20:47:39.956 cd70 Level-0 table #699: started
+2025/05/26-20:47:39.961 cd70 Level-0 table #699: 27271 bytes OK
+2025/05/26-20:47:39.963 cd70 Delete type=0 #696
+2025/05/26-20:51:12.926 cd70 Level-0 table #701: started
+2025/05/26-20:51:12.931 cd70 Level-0 table #701: 27263 bytes OK
+2025/05/26-20:51:12.933 cd70 Delete type=0 #698
+2025/05/26-20:53:51.392 cd70 Level-0 table #703: started
+2025/05/26-20:53:51.400 cd70 Level-0 table #703: 26929 bytes OK
+2025/05/26-20:53:51.402 cd70 Delete type=0 #700
+2025/05/26-20:53:51.402 cd70 Compacting 4@0 + 2@1 files
+2025/05/26-20:53:51.444 cd70 Generated table #704@0: 88621 keys, 2120579 bytes
+2025/05/26-20:53:51.462 cd70 Generated table #705@0: 31481 keys, 733679 bytes
+2025/05/26-20:53:51.462 cd70 Compacted 4@0 + 2@1 files => 2854258 bytes
+2025/05/26-20:53:51.463 cd70 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-20:53:51.464 cd70 Delete type=2 #694
+2025/05/26-20:53:51.464 cd70 Delete type=2 #695
+2025/05/26-20:53:51.464 cd70 Delete type=2 #697
+2025/05/26-20:53:51.464 cd70 Delete type=2 #699
+2025/05/26-20:53:51.464 cd70 Delete type=2 #701
+2025/05/26-20:53:51.464 cd70 Delete type=2 #703
+2025/05/26-20:56:10.792 cd70 Level-0 table #707: started
+2025/05/26-20:56:10.797 cd70 Level-0 table #707: 27739 bytes OK
+2025/05/26-20:56:10.799 cd70 Delete type=0 #702
+2025/05/26-20:57:16.486 cd70 Level-0 table #709: started
+2025/05/26-20:57:16.491 cd70 Level-0 table #709: 27452 bytes OK
+2025/05/26-20:57:16.493 cd70 Delete type=0 #706
+2025/05/26-21:00:49.988 cd70 Level-0 table #711: started
+2025/05/26-21:00:49.996 cd70 Level-0 table #711: 27455 bytes OK
+2025/05/26-21:00:49.997 cd70 Delete type=0 #708
+2025/05/26-21:05:08.447 cd70 Level-0 table #713: started
+2025/05/26-21:05:08.452 cd70 Level-0 table #713: 27641 bytes OK
+2025/05/26-21:05:08.454 cd70 Delete type=0 #710
+2025/05/26-21:05:08.454 cd70 Compacting 4@0 + 2@1 files
+2025/05/26-21:05:08.499 cd70 Generated table #714@0: 88650 keys, 2121044 bytes
+2025/05/26-21:05:08.518 cd70 Generated table #715@0: 34142 keys, 796832 bytes
+2025/05/26-21:05:08.518 cd70 Compacted 4@0 + 2@1 files => 2917876 bytes
+2025/05/26-21:05:08.519 cd70 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-21:05:08.520 cd70 Delete type=2 #704
+2025/05/26-21:05:08.520 cd70 Delete type=2 #705
+2025/05/26-21:05:08.520 cd70 Delete type=2 #707
+2025/05/26-21:05:08.520 cd70 Delete type=2 #709
+2025/05/26-21:05:08.520 cd70 Delete type=2 #711
+2025/05/26-21:05:08.520 cd70 Delete type=2 #713
+2025/05/26-21:06:18.804 cd70 Level-0 table #717: started
+2025/05/26-21:06:18.809 cd70 Level-0 table #717: 27577 bytes OK
+2025/05/26-21:06:18.811 cd70 Delete type=0 #712
+2025/05/26-21:07:24.278 cd70 Level-0 table #719: started
+2025/05/26-21:07:24.283 cd70 Level-0 table #719: 27531 bytes OK
+2025/05/26-21:07:24.285 cd70 Delete type=0 #716
+2025/05/26-21:10:57.584 cd70 Level-0 table #721: started
+2025/05/26-21:10:57.593 cd70 Level-0 table #721: 27673 bytes OK
+2025/05/26-21:10:57.594 cd70 Delete type=0 #718
+2025/05/26-21:15:27.940 cd70 Level-0 table #723: started
+2025/05/26-21:15:27.945 cd70 Level-0 table #723: 27717 bytes OK
+2025/05/26-21:15:27.947 cd70 Delete type=0 #720
+2025/05/26-21:15:27.947 cd70 Compacting 4@0 + 2@1 files
+2025/05/26-21:15:27.988 cd70 Generated table #724@0: 88677 keys, 2122012 bytes
+2025/05/26-21:15:28.007 cd70 Generated table #725@0: 36821 keys, 860832 bytes
+2025/05/26-21:15:28.008 cd70 Compacted 4@0 + 2@1 files => 2982844 bytes
+2025/05/26-21:15:28.008 cd70 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-21:15:28.009 cd70 Delete type=2 #714
+2025/05/26-21:15:28.009 cd70 Delete type=2 #715
+2025/05/26-21:15:28.009 cd70 Delete type=2 #717
+2025/05/26-21:15:28.009 cd70 Delete type=2 #719
+2025/05/26-21:15:28.009 cd70 Delete type=2 #721
+2025/05/26-21:15:28.009 cd70 Delete type=2 #723
+2025/05/26-21:16:38.374 cd70 Level-0 table #727: started
+2025/05/26-21:16:38.379 cd70 Level-0 table #727: 27673 bytes OK
+2025/05/26-21:16:38.381 cd70 Delete type=0 #722
+2025/05/26-21:17:43.853 cd70 Level-0 table #729: started
+2025/05/26-21:17:43.858 cd70 Level-0 table #729: 27674 bytes OK
+2025/05/26-21:17:43.860 cd70 Delete type=0 #726
+2025/05/26-21:21:17.044 cd70 Level-0 table #731: started
+2025/05/26-21:21:17.049 cd70 Level-0 table #731: 27767 bytes OK
+2025/05/26-21:21:17.051 cd70 Delete type=0 #728
+2025/05/26-21:26:45.666 cd70 Level-0 table #733: started
+2025/05/26-21:26:45.671 cd70 Level-0 table #733: 27887 bytes OK
+2025/05/26-21:26:45.672 cd70 Delete type=0 #730
+2025/05/26-21:26:45.673 cd70 Compacting 4@0 + 2@1 files
+2025/05/26-21:26:45.714 cd70 Generated table #734@0: 88680 keys, 2120933 bytes
+2025/05/26-21:26:45.735 cd70 Generated table #735@0: 39540 keys, 926588 bytes
+2025/05/26-21:26:45.735 cd70 Compacted 4@0 + 2@1 files => 3047521 bytes
+2025/05/26-21:26:45.736 cd70 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-21:26:45.737 cd70 Delete type=2 #724
+2025/05/26-21:26:45.737 cd70 Delete type=2 #725
+2025/05/26-21:26:45.737 cd70 Delete type=2 #727
+2025/05/26-21:26:45.737 cd70 Delete type=2 #729
+2025/05/26-21:26:45.737 cd70 Delete type=2 #731
+2025/05/26-21:26:45.737 cd70 Delete type=2 #733
+2025/05/26-21:27:56.035 cd70 Level-0 table #737: started
+2025/05/26-21:27:56.040 cd70 Level-0 table #737: 27823 bytes OK
+2025/05/26-21:27:56.041 cd70 Delete type=0 #732
+2025/05/26-21:29:01.461 cd70 Level-0 table #739: started
+2025/05/26-21:29:01.467 cd70 Level-0 table #739: 27827 bytes OK
+2025/05/26-21:29:01.468 cd70 Delete type=0 #736
+2025/05/26-21:32:34.643 cd70 Level-0 table #741: started
+2025/05/26-21:32:34.651 cd70 Level-0 table #741: 27817 bytes OK
+2025/05/26-21:32:34.653 cd70 Delete type=0 #738
+2025/05/26-21:37:39.684 cd70 Level-0 table #743: started
+2025/05/26-21:37:39.689 cd70 Level-0 table #743: 28175 bytes OK
+2025/05/26-21:37:39.691 cd70 Delete type=0 #740
+2025/05/26-21:37:39.691 cd70 Compacting 4@0 + 2@1 files
+2025/05/26-21:37:39.733 cd70 Generated table #744@0: 88718 keys, 2120986 bytes
+2025/05/26-21:37:39.755 cd70 Generated table #745@0: 42240 keys, 990844 bytes
+2025/05/26-21:37:39.755 cd70 Compacted 4@0 + 2@1 files => 3111830 bytes
+2025/05/26-21:37:39.755 cd70 compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-21:37:39.756 cd70 Delete type=2 #734
+2025/05/26-21:37:39.756 cd70 Delete type=2 #735
+2025/05/26-21:37:39.756 cd70 Delete type=2 #737
+2025/05/26-21:37:39.756 cd70 Delete type=2 #739
+2025/05/26-21:37:39.756 cd70 Delete type=2 #741
+2025/05/26-21:37:39.756 cd70 Delete type=2 #743
+2025/05/26-21:38:50.177 cd70 Level-0 table #747: started
+2025/05/26-21:38:50.182 cd70 Level-0 table #747: 27973 bytes OK
+2025/05/26-21:38:50.184 cd70 Delete type=0 #742
+2025/05/26-21:39:55.588 cd70 Level-0 table #749: started
+2025/05/26-21:39:55.593 cd70 Level-0 table #749: 28100 bytes OK
+2025/05/26-21:39:55.594 cd70 Delete type=0 #746
+2025/05/26-21:43:29.328 cd70 Level-0 table #751: started
+2025/05/26-21:43:29.336 cd70 Level-0 table #751: 28070 bytes OK
+2025/05/26-21:43:29.337 cd70 Delete type=0 #748

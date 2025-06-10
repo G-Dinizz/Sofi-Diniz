@@ -1,0 +1,27 @@
+2025/05/23-13:23:43.815 798c Reusing MANIFEST C:\Users\workg\OneDrive\Área de Trabalho\Sofi Mensage\whatsapp-sessions\Nutrapele Double 1\Default\Local Storage\leveldb/MANIFEST-000001
+2025/05/23-13:23:43.821 798c Recovering log #27
+2025/05/23-13:23:43.825 798c Reusing old log C:\Users\workg\OneDrive\Área de Trabalho\Sofi Mensage\whatsapp-sessions\Nutrapele Double 1\Default\Local Storage\leveldb/000027.log 
+2025/05/23-13:47:44.774 72f4 Level-0 table #31: started
+2025/05/23-13:47:44.780 72f4 Level-0 table #31: 13794 bytes OK
+2025/05/23-13:47:44.781 72f4 Delete type=0 #27
+2025/05/23-14:22:06.175 72f4 Level-0 table #33: started
+2025/05/23-14:22:06.183 72f4 Level-0 table #33: 12506 bytes OK
+2025/05/23-14:22:06.185 72f4 Delete type=0 #30
+2025/05/23-14:53:44.772 72f4 Level-0 table #35: started
+2025/05/23-14:53:44.777 72f4 Level-0 table #35: 10755 bytes OK
+2025/05/23-14:53:44.780 72f4 Delete type=0 #32
+2025/05/23-14:53:44.780 72f4 Compacting 4@0 + 1@1 files
+2025/05/23-14:53:44.787 72f4 Generated table #36@0: 1545 keys, 38946 bytes
+2025/05/23-14:53:44.787 72f4 Compacted 4@0 + 1@1 files => 38946 bytes
+2025/05/23-14:53:44.788 72f4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/23-14:53:44.789 72f4 Delete type=2 #26
+2025/05/23-14:53:44.789 72f4 Delete type=2 #28
+2025/05/23-14:53:44.789 72f4 Delete type=2 #31
+2025/05/23-14:53:44.789 72f4 Delete type=2 #33
+2025/05/23-14:53:44.789 72f4 Delete type=2 #35
+2025/05/23-15:23:45.347 72f4 Level-0 table #38: started
+2025/05/23-15:23:45.356 72f4 Level-0 table #38: 10463 bytes OK
+2025/05/23-15:23:45.357 72f4 Delete type=0 #34
+2025/05/23-15:50:44.775 72f4 Level-0 table #40: started
+2025/05/23-15:50:44.784 72f4 Level-0 table #40: 10607 bytes OK
+2025/05/23-15:50:44.785 72f4 Delete type=0 #37

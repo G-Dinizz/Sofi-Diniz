@@ -1,0 +1,143 @@
+<!-- index.html ATUALIZADO PARA SUPORTAR BOTÕES DE CONTROLE -->
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FIVE</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        select#monitorSelecionado {
+            padding: 10px;
+            border-radius: 8px;
+            border: 1px solid #8a2be2;
+            background-color: #1a1a2e;
+            color: white;
+            font-size: 1rem;
+            margin-top: 8px;
+        }
+        .section + .section {
+            margin-top: 25px;
+        }
+        .usuario-box h3 {
+            font-size: 1rem;
+            background: #8a2be2;
+            color: white;
+            padding: 10px;
+            border-radius: 6px;
+            margin-bottom: 10px;
+            cursor: pointer;
+            box-shadow: 0 2px 6px rgba(138, 43, 226, 0.3);
+        }
+        .usuario-conteudo {
+            margin-top: 10px;
+            padding: 10px;
+            background-color: #111;
+            border: 1px solid #333;
+            border-radius: 8px;
+        }
+        .nav-buttons {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+            margin-bottom: 30px;
+        }
+        .nav-buttons button {
+            padding: 12px;
+            font-size: 1rem;
+            border: none;
+            border-radius: 8px;
+            background: linear-gradient(90deg, #8a2be2, #6a0dad);
+            color: white;
+            box-shadow: 0 4px 10px rgba(138, 43, 226, 0.5);
+            cursor: pointer;
+            transition: 0.3s;
+        }
+        .nav-buttons button:hover {
+            transform: scale(1.05);
+            box-shadow: 0 6px 15px rgba(138, 43, 226, 0.8);
+        }
+        .status-buttons button {
+            margin: 5px 4px;
+            padding: 6px 12px;
+            font-size: 0.9rem;
+            border-radius: 6px;
+        }
+    </style>
+</head>
+<body>
+    <div class="intro">
+        <h1 class="welcome">Welcome 👾</h1>
+    </div>
+
+    <div class="container" id="main-content">
+        <h1>Sofi 💜</h1>
+
+        <div class="nav-buttons">
+            <button onclick="mostrarSecao('envio')">✉️ Disparo</button>
+            <button onclick="mostrarSecao('status')">📊 Status</button>
+        </div>
+
+        <div id="secao-envio">
+            <div id="usuariosContainer"></div>
+
+            <div class="section">
+                <label for="novoUsuario">Novo WhatsApp (ex: A, B, C...):</label>
+                <input type="text" id="novoUsuario" placeholder="Nome identificador...">
+                <button onclick="adicionarUsuario()">Adicionar WhatsApp</button>
+            </div>
+
+            <div class="section">
+                <label for="intervaloMin">Tempo mínimo entre envios (segundos):</label>
+                <input type="number" id="intervaloMin" placeholder="Ex: 5">
+            </div>
+
+            <div class="section">
+                <label for="intervaloMax">Tempo máximo entre envios (segundos):</label>
+                <input type="number" id="intervaloMax" placeholder="Ex: 10">
+            </div>
+
+            <button onclick="enviarMensagens()">Disparar Mensagens</button>
+        </div>
+
+        <div id="secao-status" style="display:none;">
+            <div class="section">
+                <label for="monitorSelecionado">Selecione WhatsApp para monitorar:</label>
+                <br>
+                <select id="monitorSelecionado" onchange="iniciarMonitoramento()">
+                    <option value="">-- Escolha --</option>
+                </select>
+            </div>
+
+            <div id="statusContainer" class="section"></div>
+
+            <div id="progresso" class="section">
+                <div style="background:#333; width:100%; height:20px; border-radius:10px;">
+                    <div id="barraProgresso" style="background:#8a2be2; height:20px; width:0%; border-radius:10px;"></div>
+                </div>
+            </div>
+
+            <div class="section">
+                <h3>Histórico:</h3>
+                <ul id="historicoEnvios" style="text-align:left;"></ul>
+                <button onclick="limparHistorico()" style="background-color:#444; margin-top:10px;">🧹 Limpar Histórico</button>
+            </div>
+        </div>
+
+        <p class="copyright">© 2025 Diniz Todos os direitos reservados.</p>
+    </div>
+
+    <div class="minimal-box">
+        <p>vs 5.1</p>
+    </div>
+
+    <script>
+        setTimeout(() => {
+            document.querySelector('.intro').classList.add('hide');
+            document.querySelector('#main-content').classList.add('show');
+        }, 3000);
+    </script>
+
+    <script src="app.js"></script>
+</body>
+</html>

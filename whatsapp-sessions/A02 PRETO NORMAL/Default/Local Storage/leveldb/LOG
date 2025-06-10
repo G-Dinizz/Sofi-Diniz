@@ -1,0 +1,1923 @@
+2025/05/25-08:54:31.913 cd2c Reusing MANIFEST C:\Users\workg\OneDrive\Área de Trabalho\Sofi Mensage\whatsapp-sessions\A02 PRETO NORMAL\Default\Local Storage\leveldb/MANIFEST-000001
+2025/05/25-08:54:31.920 cd2c Recovering log #238
+2025/05/25-08:54:31.925 cd2c Reusing old log C:\Users\workg\OneDrive\Área de Trabalho\Sofi Mensage\whatsapp-sessions\A02 PRETO NORMAL\Default\Local Storage\leveldb/000238.log 
+2025/05/25-09:30:06.927 cd3c Level-0 table #242: started
+2025/05/25-09:30:06.932 cd3c Level-0 table #242: 17718 bytes OK
+2025/05/25-09:30:06.934 cd3c Delete type=0 #238
+2025/05/25-09:30:06.934 cd3c Compacting 4@0 + 1@1 files
+2025/05/25-09:30:06.948 cd3c Generated table #243@0: 24118 keys, 569569 bytes
+2025/05/25-09:30:06.948 cd3c Compacted 4@0 + 1@1 files => 569569 bytes
+2025/05/25-09:30:06.949 cd3c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-09:30:06.950 cd3c Delete type=2 #233
+2025/05/25-09:30:06.950 cd3c Delete type=2 #235
+2025/05/25-09:30:06.950 cd3c Delete type=2 #237
+2025/05/25-09:30:06.950 cd3c Delete type=2 #239
+2025/05/25-09:30:06.950 cd3c Delete type=2 #242
+2025/05/25-09:51:02.833 cd3c Level-0 table #245: started
+2025/05/25-09:51:02.838 cd3c Level-0 table #245: 11644 bytes OK
+2025/05/25-09:51:02.840 cd3c Delete type=0 #241
+2025/05/25-10:09:47.273 cd3c Level-0 table #247: started
+2025/05/25-10:09:47.278 cd3c Level-0 table #247: 12431 bytes OK
+2025/05/25-10:09:47.280 cd3c Delete type=0 #244
+2025/05/25-10:23:22.107 cd3c Level-0 table #249: started
+2025/05/25-10:23:22.114 cd3c Level-0 table #249: 12926 bytes OK
+2025/05/25-10:23:22.116 cd3c Delete type=0 #246
+2025/05/25-10:38:32.239 cd3c Level-0 table #251: started
+2025/05/25-10:38:32.247 cd3c Level-0 table #251: 10678 bytes OK
+2025/05/25-10:38:32.249 cd3c Delete type=0 #248
+2025/05/25-10:38:32.249 cd3c Compacting 4@0 + 1@1 files
+2025/05/25-10:38:32.264 cd3c Generated table #252@0: 24937 keys, 588211 bytes
+2025/05/25-10:38:32.264 cd3c Compacted 4@0 + 1@1 files => 588211 bytes
+2025/05/25-10:38:32.265 cd3c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-10:38:32.266 cd3c Delete type=2 #243
+2025/05/25-10:38:32.266 cd3c Delete type=2 #245
+2025/05/25-10:38:32.266 cd3c Delete type=2 #247
+2025/05/25-10:38:32.266 cd3c Delete type=2 #249
+2025/05/25-10:38:32.266 cd3c Delete type=2 #251
+2025/05/25-10:53:50.644 cd3c Level-0 table #254: started
+2025/05/25-10:53:50.649 cd3c Level-0 table #254: 11852 bytes OK
+2025/05/25-10:53:50.650 cd3c Delete type=0 #250
+2025/05/25-11:04:34.162 cd3c Level-0 table #256: started
+2025/05/25-11:04:34.167 cd3c Level-0 table #256: 9952 bytes OK
+2025/05/25-11:04:34.169 cd3c Delete type=0 #253
+2025/05/25-11:16:02.987 cd3c Level-0 table #258: started
+2025/05/25-11:16:02.992 cd3c Level-0 table #258: 10526 bytes OK
+2025/05/25-11:16:02.994 cd3c Delete type=0 #255
+2025/05/25-11:26:09.777 cd3c Level-0 table #260: started
+2025/05/25-11:26:09.783 cd3c Level-0 table #260: 11081 bytes OK
+2025/05/25-11:26:09.784 cd3c Delete type=0 #257
+2025/05/25-11:26:09.785 cd3c Compacting 4@0 + 1@1 files
+2025/05/25-11:26:09.800 cd3c Generated table #261@0: 25838 keys, 609212 bytes
+2025/05/25-11:26:09.800 cd3c Compacted 4@0 + 1@1 files => 609212 bytes
+2025/05/25-11:26:09.801 cd3c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-11:26:09.802 cd3c Delete type=2 #252
+2025/05/25-11:26:09.802 cd3c Delete type=2 #254
+2025/05/25-11:26:09.802 cd3c Delete type=2 #256
+2025/05/25-11:26:09.802 cd3c Delete type=2 #258
+2025/05/25-11:26:09.802 cd3c Delete type=2 #260
+2025/05/25-11:37:38.254 cd3c Level-0 table #263: started
+2025/05/25-11:37:38.259 cd3c Level-0 table #263: 11567 bytes OK
+2025/05/25-11:37:38.261 cd3c Delete type=0 #259
+2025/05/25-11:43:27.217 cd3c Level-0 table #265: started
+2025/05/25-11:43:27.225 cd3c Level-0 table #265: 9341 bytes OK
+2025/05/25-11:43:27.226 cd3c Delete type=0 #262
+2025/05/25-11:51:19.514 cd3c Level-0 table #267: started
+2025/05/25-11:51:19.519 cd3c Level-0 table #267: 9536 bytes OK
+2025/05/25-11:51:19.521 cd3c Delete type=0 #264
+2025/05/25-12:00:29.456 cd3c Level-0 table #269: started
+2025/05/25-12:00:29.461 cd3c Level-0 table #269: 9765 bytes OK
+2025/05/25-12:00:29.463 cd3c Delete type=0 #266
+2025/05/25-12:00:29.463 cd3c Compacting 4@0 + 1@1 files
+2025/05/25-12:00:29.481 cd3c Generated table #270@0: 26722 keys, 629561 bytes
+2025/05/25-12:00:29.481 cd3c Compacted 4@0 + 1@1 files => 629561 bytes
+2025/05/25-12:00:29.481 cd3c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-12:00:29.482 cd3c Delete type=2 #261
+2025/05/25-12:00:29.482 cd3c Delete type=2 #263
+2025/05/25-12:00:29.482 cd3c Delete type=2 #265
+2025/05/25-12:00:29.482 cd3c Delete type=2 #267
+2025/05/25-12:00:29.482 cd3c Delete type=2 #269
+2025/05/25-12:10:29.360 cd3c Level-0 table #272: started
+2025/05/25-12:10:29.365 cd3c Level-0 table #272: 10217 bytes OK
+2025/05/25-12:10:29.366 cd3c Delete type=0 #268
+2025/05/25-12:16:18.147 cd3c Level-0 table #274: started
+2025/05/25-12:16:18.155 cd3c Level-0 table #274: 10429 bytes OK
+2025/05/25-12:16:18.157 cd3c Delete type=0 #271
+2025/05/25-12:22:37.618 cd3c Level-0 table #276: started
+2025/05/25-12:22:37.622 cd3c Level-0 table #276: 10790 bytes OK
+2025/05/25-12:22:37.624 cd3c Delete type=0 #273
+2025/05/25-12:31:09.658 cd3c Level-0 table #278: started
+2025/05/25-12:31:09.663 cd3c Level-0 table #278: 11208 bytes OK
+2025/05/25-12:31:09.665 cd3c Delete type=0 #275
+2025/05/25-12:31:09.665 cd3c Compacting 4@0 + 1@1 files
+2025/05/25-12:31:09.681 cd3c Generated table #279@0: 27688 keys, 652647 bytes
+2025/05/25-12:31:09.681 cd3c Compacted 4@0 + 1@1 files => 652647 bytes
+2025/05/25-12:31:09.682 cd3c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-12:31:09.683 cd3c Delete type=2 #270
+2025/05/25-12:31:09.683 cd3c Delete type=2 #272
+2025/05/25-12:31:09.683 cd3c Delete type=2 #274
+2025/05/25-12:31:09.683 cd3c Delete type=2 #276
+2025/05/25-12:31:09.683 cd3c Delete type=2 #278
+2025/05/25-12:40:51.834 cd3c Level-0 table #281: started
+2025/05/25-12:40:51.839 cd3c Level-0 table #281: 11545 bytes OK
+2025/05/25-12:40:51.840 cd3c Delete type=0 #277
+2025/05/25-12:46:41.335 cd3c Level-0 table #283: started
+2025/05/25-12:46:41.339 cd3c Level-0 table #283: 11474 bytes OK
+2025/05/25-12:46:41.340 cd3c Delete type=0 #280
+2025/05/25-12:53:37.423 cd3c Level-0 table #285: started
+2025/05/25-12:53:37.427 cd3c Level-0 table #285: 11888 bytes OK
+2025/05/25-12:53:37.429 cd3c Delete type=0 #282
+2025/05/25-13:03:43.730 cd3c Level-0 table #287: started
+2025/05/25-13:03:43.735 cd3c Level-0 table #287: 12360 bytes OK
+2025/05/25-13:03:43.736 cd3c Delete type=0 #284
+2025/05/25-13:03:43.737 cd3c Compacting 4@0 + 1@1 files
+2025/05/25-13:03:43.756 cd3c Generated table #288@0: 28798 keys, 678177 bytes
+2025/05/25-13:03:43.756 cd3c Compacted 4@0 + 1@1 files => 678177 bytes
+2025/05/25-13:03:43.757 cd3c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-13:03:43.758 cd3c Delete type=2 #279
+2025/05/25-13:03:43.758 cd3c Delete type=2 #281
+2025/05/25-13:03:43.758 cd3c Delete type=2 #283
+2025/05/25-13:03:43.758 cd3c Delete type=2 #285
+2025/05/25-13:03:43.758 cd3c Delete type=2 #287
+2025/05/25-13:08:22.449 cd3c Level-0 table #290: started
+2025/05/25-13:08:22.456 cd3c Level-0 table #290: 8826 bytes OK
+2025/05/25-13:08:22.457 cd3c Delete type=0 #286
+2025/05/25-13:11:58.534 cd3c Level-0 table #292: started
+2025/05/25-13:11:58.539 cd3c Level-0 table #292: 28561 bytes OK
+2025/05/25-13:11:58.540 cd3c Delete type=0 #289
+2025/05/25-13:14:19.107 cd3c Level-0 table #294: started
+2025/05/25-13:14:19.112 cd3c Level-0 table #294: 8948 bytes OK
+2025/05/25-13:14:19.114 cd3c Delete type=0 #291
+2025/05/25-13:18:57.876 cd3c Level-0 table #296: started
+2025/05/25-13:18:57.883 cd3c Level-0 table #296: 9123 bytes OK
+2025/05/25-13:18:57.885 cd3c Delete type=0 #293
+2025/05/25-13:18:57.886 cd3c Compacting 4@0 + 1@1 files
+2025/05/25-13:18:57.904 cd3c Generated table #297@0: 29407 keys, 692544 bytes
+2025/05/25-13:18:57.904 cd3c Compacted 4@0 + 1@1 files => 692544 bytes
+2025/05/25-13:18:57.905 cd3c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-13:18:57.905 cd3c Delete type=2 #288
+2025/05/25-13:18:57.906 cd3c Delete type=2 #290
+2025/05/25-13:18:57.906 cd3c Delete type=2 #292
+2025/05/25-13:18:57.906 cd3c Delete type=2 #294
+2025/05/25-13:18:57.906 cd3c Delete type=2 #296
+2025/05/25-13:24:16.966 cd3c Level-0 table #299: started
+2025/05/25-13:24:16.971 cd3c Level-0 table #299: 9228 bytes OK
+2025/05/25-13:24:16.974 cd3c Delete type=0 #295
+2025/05/25-13:28:55.665 cd3c Level-0 table #301: started
+2025/05/25-13:28:55.670 cd3c Level-0 table #301: 9258 bytes OK
+2025/05/25-13:28:55.671 cd3c Delete type=0 #298
+2025/05/25-13:35:17.133 cd3c Level-0 table #303: started
+2025/05/25-13:35:17.139 cd3c Level-0 table #303: 9735 bytes OK
+2025/05/25-13:35:17.140 cd3c Delete type=0 #300
+2025/05/25-13:39:55.634 cd3c Level-0 table #305: started
+2025/05/25-13:39:55.641 cd3c Level-0 table #305: 9578 bytes OK
+2025/05/25-13:39:55.643 cd3c Delete type=0 #302
+2025/05/25-13:39:55.643 cd3c Compacting 4@0 + 1@1 files
+2025/05/25-13:39:55.661 cd3c Generated table #306@0: 30275 keys, 713274 bytes
+2025/05/25-13:39:55.661 cd3c Compacted 4@0 + 1@1 files => 713274 bytes
+2025/05/25-13:39:55.661 cd3c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-13:39:55.662 cd3c Delete type=2 #297
+2025/05/25-13:39:55.662 cd3c Delete type=2 #299
+2025/05/25-13:39:55.662 cd3c Delete type=2 #301
+2025/05/25-13:39:55.662 cd3c Delete type=2 #303
+2025/05/25-13:39:55.662 cd3c Delete type=2 #305
+2025/05/25-13:46:33.418 cd3c Level-0 table #308: started
+2025/05/25-13:46:33.423 cd3c Level-0 table #308: 9789 bytes OK
+2025/05/25-13:46:33.425 cd3c Delete type=0 #304
+2025/05/25-13:51:12.247 cd3c Level-0 table #310: started
+2025/05/25-13:51:12.254 cd3c Level-0 table #310: 9871 bytes OK
+2025/05/25-13:51:12.256 cd3c Delete type=0 #307
+2025/05/25-13:56:22.644 cd3c Level-0 table #312: started
+2025/05/25-13:56:22.651 cd3c Level-0 table #312: 10021 bytes OK
+2025/05/25-13:56:22.653 cd3c Delete type=0 #309
+2025/05/25-14:01:02.255 cd3c Level-0 table #314: started
+2025/05/25-14:01:02.263 cd3c Level-0 table #314: 10058 bytes OK
+2025/05/25-14:01:02.265 cd3c Delete type=0 #311
+2025/05/25-14:01:02.266 cd3c Compacting 4@0 + 1@1 files
+2025/05/25-14:01:02.287 cd3c Generated table #315@0: 31207 keys, 735716 bytes
+2025/05/25-14:01:02.287 cd3c Compacted 4@0 + 1@1 files => 735716 bytes
+2025/05/25-14:01:02.288 cd3c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-14:01:02.288 cd3c Delete type=2 #306
+2025/05/25-14:01:02.288 cd3c Delete type=2 #308
+2025/05/25-14:01:02.289 cd3c Delete type=2 #310
+2025/05/25-14:01:02.289 cd3c Delete type=2 #312
+2025/05/25-14:01:02.289 cd3c Delete type=2 #314
+2025/05/25-14:07:22.242 cd3c Level-0 table #317: started
+2025/05/25-14:07:22.246 cd3c Level-0 table #317: 10314 bytes OK
+2025/05/25-14:07:22.248 cd3c Delete type=0 #313
+2025/05/25-14:12:04.374 cd3c Level-0 table #319: started
+2025/05/25-14:12:04.379 cd3c Level-0 table #319: 10373 bytes OK
+2025/05/25-14:12:04.380 cd3c Delete type=0 #316
+2025/05/25-14:17:19.144 cd3c Level-0 table #321: started
+2025/05/25-14:17:19.150 cd3c Level-0 table #321: 10524 bytes OK
+2025/05/25-14:17:19.151 cd3c Delete type=0 #318
+2025/05/25-14:21:57.587 cd3c Level-0 table #323: started
+2025/05/25-14:21:57.595 cd3c Level-0 table #323: 10596 bytes OK
+2025/05/25-14:21:57.596 cd3c Delete type=0 #320
+2025/05/25-14:21:57.597 cd3c Compacting 4@0 + 1@1 files
+2025/05/25-14:21:57.614 cd3c Generated table #324@0: 32203 keys, 759552 bytes
+2025/05/25-14:21:57.614 cd3c Compacted 4@0 + 1@1 files => 759552 bytes
+2025/05/25-14:21:57.615 cd3c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-14:21:57.616 cd3c Delete type=2 #315
+2025/05/25-14:21:57.616 cd3c Delete type=2 #317
+2025/05/25-14:21:57.616 cd3c Delete type=2 #319
+2025/05/25-14:21:57.616 cd3c Delete type=2 #321
+2025/05/25-14:21:57.616 cd3c Delete type=2 #323
+2025/05/25-14:27:58.322 cd3c Level-0 table #326: started
+2025/05/25-14:27:58.326 cd3c Level-0 table #326: 11082 bytes OK
+2025/05/25-14:27:58.327 cd3c Delete type=0 #322
+2025/05/25-14:32:37.043 cd3c Level-0 table #328: started
+2025/05/25-14:32:37.056 cd3c Level-0 table #328: 11026 bytes OK
+2025/05/25-14:32:37.058 cd3c Delete type=0 #325
+2025/05/25-14:38:24.538 cd3c Level-0 table #330: started
+2025/05/25-14:38:24.543 cd3c Level-0 table #330: 11124 bytes OK
+2025/05/25-14:38:24.545 cd3c Delete type=0 #327
+2025/05/25-14:43:03.209 cd3c Level-0 table #332: started
+2025/05/25-14:43:03.214 cd3c Level-0 table #332: 11184 bytes OK
+2025/05/25-14:43:03.216 cd3c Delete type=0 #329
+2025/05/25-14:43:03.216 cd3c Compacting 4@0 + 1@1 files
+2025/05/25-14:43:03.233 cd3c Generated table #333@0: 33263 keys, 784622 bytes
+2025/05/25-14:43:03.234 cd3c Compacted 4@0 + 1@1 files => 784622 bytes
+2025/05/25-14:43:03.234 cd3c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-14:43:03.235 cd3c Delete type=2 #324
+2025/05/25-14:43:03.235 cd3c Delete type=2 #326
+2025/05/25-14:43:03.235 cd3c Delete type=2 #328
+2025/05/25-14:43:03.235 cd3c Delete type=2 #330
+2025/05/25-14:43:03.235 cd3c Delete type=2 #332
+2025/05/25-14:48:08.632 cd3c Level-0 table #335: started
+2025/05/25-14:48:08.638 cd3c Level-0 table #335: 11477 bytes OK
+2025/05/25-14:48:08.641 cd3c Delete type=0 #331
+2025/05/25-14:52:47.145 cd3c Level-0 table #337: started
+2025/05/25-14:52:47.150 cd3c Level-0 table #337: 11601 bytes OK
+2025/05/25-14:52:47.152 cd3c Delete type=0 #334
+2025/05/25-14:57:52.102 cd3c Level-0 table #339: started
+2025/05/25-14:57:52.107 cd3c Level-0 table #339: 11726 bytes OK
+2025/05/25-14:57:52.109 cd3c Delete type=0 #336
+2025/05/25-15:02:30.820 cd3c Level-0 table #341: started
+2025/05/25-15:02:30.828 cd3c Level-0 table #341: 11814 bytes OK
+2025/05/25-15:02:30.830 cd3c Delete type=0 #338
+2025/05/25-15:02:30.830 cd3c Compacting 4@0 + 1@1 files
+2025/05/25-15:02:30.849 cd3c Generated table #342@0: 34387 keys, 811281 bytes
+2025/05/25-15:02:30.849 cd3c Compacted 4@0 + 1@1 files => 811281 bytes
+2025/05/25-15:02:30.850 cd3c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-15:02:30.851 cd3c Delete type=2 #333
+2025/05/25-15:02:30.851 cd3c Delete type=2 #335
+2025/05/25-15:02:30.851 cd3c Delete type=2 #337
+2025/05/25-15:02:30.851 cd3c Delete type=2 #339
+2025/05/25-15:02:30.851 cd3c Delete type=2 #341
+2025/05/25-15:09:23.197 cd3c Level-0 table #344: started
+2025/05/25-15:09:23.202 cd3c Level-0 table #344: 11984 bytes OK
+2025/05/25-15:09:23.204 cd3c Delete type=0 #340
+2025/05/25-15:14:01.838 cd3c Level-0 table #346: started
+2025/05/25-15:14:01.846 cd3c Level-0 table #346: 12012 bytes OK
+2025/05/25-15:14:01.847 cd3c Delete type=0 #343
+2025/05/25-15:18:47.073 cd3c Level-0 table #348: started
+2025/05/25-15:18:47.077 cd3c Level-0 table #348: 12224 bytes OK
+2025/05/25-15:18:47.078 cd3c Delete type=0 #345
+2025/05/25-15:23:26.153 cd3c Level-0 table #350: started
+2025/05/25-15:23:26.161 cd3c Level-0 table #350: 12290 bytes OK
+2025/05/25-15:23:26.162 cd3c Delete type=0 #347
+2025/05/25-15:23:26.163 cd3c Compacting 4@0 + 1@1 files
+2025/05/25-15:23:26.182 cd3c Generated table #351@0: 35575 keys, 839378 bytes
+2025/05/25-15:23:26.182 cd3c Compacted 4@0 + 1@1 files => 839378 bytes
+2025/05/25-15:23:26.183 cd3c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-15:23:26.184 cd3c Delete type=2 #342
+2025/05/25-15:23:26.184 cd3c Delete type=2 #344
+2025/05/25-15:23:26.184 cd3c Delete type=2 #346
+2025/05/25-15:23:26.184 cd3c Delete type=2 #348
+2025/05/25-15:23:26.184 cd3c Delete type=2 #350
+2025/05/25-15:29:58.978 cd3c Level-0 table #353: started
+2025/05/25-15:29:58.984 cd3c Level-0 table #353: 12573 bytes OK
+2025/05/25-15:29:58.986 cd3c Delete type=0 #349
+2025/05/25-15:34:37.489 cd3c Level-0 table #355: started
+2025/05/25-15:34:37.497 cd3c Level-0 table #355: 12592 bytes OK
+2025/05/25-15:34:37.498 cd3c Delete type=0 #352
+2025/05/25-15:39:26.074 cd3c Level-0 table #357: started
+2025/05/25-15:39:26.079 cd3c Level-0 table #357: 12773 bytes OK
+2025/05/25-15:39:26.080 cd3c Delete type=0 #354
+2025/05/25-15:44:04.906 cd3c Level-0 table #359: started
+2025/05/25-15:44:04.913 cd3c Level-0 table #359: 12872 bytes OK
+2025/05/25-15:44:04.914 cd3c Delete type=0 #356
+2025/05/25-15:44:04.915 cd3c Compacting 4@0 + 1@1 files
+2025/05/25-15:44:04.935 cd3c Generated table #360@0: 36827 keys, 869198 bytes
+2025/05/25-15:44:04.935 cd3c Compacted 4@0 + 1@1 files => 869198 bytes
+2025/05/25-15:44:04.936 cd3c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-15:44:04.936 cd3c Delete type=2 #351
+2025/05/25-15:44:04.937 cd3c Delete type=2 #353
+2025/05/25-15:44:04.937 cd3c Delete type=2 #355
+2025/05/25-15:44:04.937 cd3c Delete type=2 #357
+2025/05/25-15:44:04.937 cd3c Delete type=2 #359
+2025/05/25-15:49:38.972 cd3c Level-0 table #362: started
+2025/05/25-15:49:38.977 cd3c Level-0 table #362: 13010 bytes OK
+2025/05/25-15:49:38.979 cd3c Delete type=0 #358
+2025/05/25-15:54:17.616 cd3c Level-0 table #364: started
+2025/05/25-15:54:17.624 cd3c Level-0 table #364: 13037 bytes OK
+2025/05/25-15:54:17.626 cd3c Delete type=0 #361
+2025/05/25-15:59:20.243 cd3c Level-0 table #366: started
+2025/05/25-15:59:20.247 cd3c Level-0 table #366: 13486 bytes OK
+2025/05/25-15:59:20.249 cd3c Delete type=0 #363
+2025/05/25-16:03:58.754 cd3c Level-0 table #368: started
+2025/05/25-16:03:58.761 cd3c Level-0 table #368: 13586 bytes OK
+2025/05/25-16:03:58.762 cd3c Delete type=0 #365
+2025/05/25-16:03:58.763 cd3c Compacting 4@0 + 1@1 files
+2025/05/25-16:03:58.781 cd3c Generated table #369@0: 38143 keys, 900454 bytes
+2025/05/25-16:03:58.781 cd3c Compacted 4@0 + 1@1 files => 900454 bytes
+2025/05/25-16:03:58.782 cd3c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-16:03:58.783 cd3c Delete type=2 #360
+2025/05/25-16:03:58.783 cd3c Delete type=2 #362
+2025/05/25-16:03:58.783 cd3c Delete type=2 #364
+2025/05/25-16:03:58.783 cd3c Delete type=2 #366
+2025/05/25-16:03:58.783 cd3c Delete type=2 #368
+2025/05/25-16:08:48.283 cd3c Level-0 table #371: started
+2025/05/25-16:08:48.288 cd3c Level-0 table #371: 13699 bytes OK
+2025/05/25-16:08:48.289 cd3c Delete type=0 #367
+2025/05/25-16:13:26.800 cd3c Level-0 table #373: started
+2025/05/25-16:13:26.807 cd3c Level-0 table #373: 13790 bytes OK
+2025/05/25-16:13:26.808 cd3c Delete type=0 #370
+2025/05/25-16:19:36.849 cd3c Level-0 table #375: started
+2025/05/25-16:19:36.853 cd3c Level-0 table #375: 14072 bytes OK
+2025/05/25-16:19:36.855 cd3c Delete type=0 #372
+2025/05/25-16:24:15.880 cd3c Level-0 table #377: started
+2025/05/25-16:24:15.888 cd3c Level-0 table #377: 14064 bytes OK
+2025/05/25-16:24:15.889 cd3c Delete type=0 #374
+2025/05/25-16:24:15.890 cd3c Compacting 4@0 + 1@1 files
+2025/05/25-16:24:15.909 cd3c Generated table #378@0: 39523 keys, 933320 bytes
+2025/05/25-16:24:15.909 cd3c Compacted 4@0 + 1@1 files => 933320 bytes
+2025/05/25-16:24:15.910 cd3c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-16:24:15.910 cd3c Delete type=2 #369
+2025/05/25-16:24:15.910 cd3c Delete type=2 #371
+2025/05/25-16:24:15.910 cd3c Delete type=2 #373
+2025/05/25-16:24:15.910 cd3c Delete type=2 #375
+2025/05/25-16:24:15.911 cd3c Delete type=2 #377
+2025/05/25-16:30:35.277 cd3c Level-0 table #380: started
+2025/05/25-16:30:35.281 cd3c Level-0 table #380: 14286 bytes OK
+2025/05/25-16:30:35.283 cd3c Delete type=0 #376
+2025/05/25-16:35:14.043 cd3c Level-0 table #382: started
+2025/05/25-16:35:14.051 cd3c Level-0 table #382: 14287 bytes OK
+2025/05/25-16:35:14.053 cd3c Delete type=0 #379
+2025/05/25-16:40:42.746 cd3c Level-0 table #384: started
+2025/05/25-16:40:42.751 cd3c Level-0 table #384: 14445 bytes OK
+2025/05/25-16:40:42.753 cd3c Delete type=0 #381
+2025/05/25-16:45:21.577 cd3c Level-0 table #386: started
+2025/05/25-16:45:21.586 cd3c Level-0 table #386: 14449 bytes OK
+2025/05/25-16:45:21.588 cd3c Delete type=0 #383
+2025/05/25-16:45:21.588 cd3c Compacting 4@0 + 1@1 files
+2025/05/25-16:45:21.612 cd3c Generated table #387@0: 40967 keys, 967679 bytes
+2025/05/25-16:45:21.612 cd3c Compacted 4@0 + 1@1 files => 967679 bytes
+2025/05/25-16:45:21.612 cd3c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-16:45:21.613 cd3c Delete type=2 #378
+2025/05/25-16:45:21.613 cd3c Delete type=2 #380
+2025/05/25-16:45:21.613 cd3c Delete type=2 #382
+2025/05/25-16:45:21.613 cd3c Delete type=2 #384
+2025/05/25-16:45:21.613 cd3c Delete type=2 #386
+2025/05/25-16:50:12.929 cd3c Level-0 table #389: started
+2025/05/25-16:50:12.933 cd3c Level-0 table #389: 14859 bytes OK
+2025/05/25-16:50:12.935 cd3c Delete type=0 #385
+2025/05/25-16:54:51.907 cd3c Level-0 table #391: started
+2025/05/25-16:54:51.914 cd3c Level-0 table #391: 14780 bytes OK
+2025/05/25-16:54:51.916 cd3c Delete type=0 #388
+2025/05/25-17:01:49.055 cd3c Level-0 table #393: started
+2025/05/25-17:01:49.061 cd3c Level-0 table #393: 15134 bytes OK
+2025/05/25-17:01:49.063 cd3c Delete type=0 #390
+2025/05/25-17:06:27.939 cd3c Level-0 table #395: started
+2025/05/25-17:06:27.947 cd3c Level-0 table #395: 14989 bytes OK
+2025/05/25-17:06:27.949 cd3c Delete type=0 #392
+2025/05/25-17:06:27.949 cd3c Compacting 4@0 + 1@1 files
+2025/05/25-17:06:27.972 cd3c Generated table #396@0: 42475 keys, 1003349 bytes
+2025/05/25-17:06:27.972 cd3c Compacted 4@0 + 1@1 files => 1003349 bytes
+2025/05/25-17:06:27.973 cd3c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-17:06:27.974 cd3c Delete type=2 #387
+2025/05/25-17:06:27.974 cd3c Delete type=2 #389
+2025/05/25-17:06:27.974 cd3c Delete type=2 #391
+2025/05/25-17:06:27.974 cd3c Delete type=2 #393
+2025/05/25-17:06:27.974 cd3c Delete type=2 #395
+2025/05/25-17:11:36.122 cd3c Level-0 table #398: started
+2025/05/25-17:11:36.127 cd3c Level-0 table #398: 15179 bytes OK
+2025/05/25-17:11:36.128 cd3c Delete type=0 #394
+2025/05/25-17:16:15.395 cd3c Level-0 table #400: started
+2025/05/25-17:16:15.402 cd3c Level-0 table #400: 15298 bytes OK
+2025/05/25-17:16:15.403 cd3c Delete type=0 #397
+2025/05/25-17:21:05.316 cd3c Level-0 table #402: started
+2025/05/25-17:21:05.322 cd3c Level-0 table #402: 15497 bytes OK
+2025/05/25-17:21:05.323 cd3c Delete type=0 #399
+2025/05/25-17:22:10.711 cd3c Level-0 table #404: started
+2025/05/25-17:22:10.716 cd3c Level-0 table #404: 8920 bytes OK
+2025/05/25-17:22:10.718 cd3c Delete type=0 #401
+2025/05/25-17:22:10.718 cd3c Compacting 4@0 + 1@1 files
+2025/05/25-17:22:10.745 cd3c Generated table #405@0: 43847 keys, 1036351 bytes
+2025/05/25-17:22:10.745 cd3c Compacted 4@0 + 1@1 files => 1036351 bytes
+2025/05/25-17:22:10.746 cd3c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-17:22:10.747 cd3c Delete type=2 #396
+2025/05/25-17:22:10.747 cd3c Delete type=2 #398
+2025/05/25-17:22:10.748 cd3c Delete type=2 #400
+2025/05/25-17:22:10.748 cd3c Delete type=2 #402
+2025/05/25-17:22:10.748 cd3c Delete type=2 #404
+2025/05/25-17:25:43.852 cd3c Level-0 table #407: started
+2025/05/25-17:25:43.860 cd3c Level-0 table #407: 8930 bytes OK
+2025/05/25-17:25:43.862 cd3c Delete type=0 #403
+2025/05/25-17:29:22.515 cd3c Level-0 table #409: started
+2025/05/25-17:29:22.521 cd3c Level-0 table #409: 9000 bytes OK
+2025/05/25-17:29:22.522 cd3c Delete type=0 #406
+2025/05/25-17:30:32.995 cd3c Level-0 table #411: started
+2025/05/25-17:30:33.000 cd3c Level-0 table #411: 9023 bytes OK
+2025/05/25-17:30:33.002 cd3c Delete type=0 #408
+2025/05/25-17:31:38.454 cd3c Level-0 table #413: started
+2025/05/25-17:31:38.459 cd3c Level-0 table #413: 9039 bytes OK
+2025/05/25-17:31:38.461 cd3c Delete type=0 #410
+2025/05/25-17:31:38.461 cd3c Compacting 4@0 + 1@1 files
+2025/05/25-17:31:38.489 cd3c Generated table #414@0: 44653 keys, 1054698 bytes
+2025/05/25-17:31:38.489 cd3c Compacted 4@0 + 1@1 files => 1054698 bytes
+2025/05/25-17:31:38.490 cd3c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-17:31:38.490 cd3c Delete type=2 #405
+2025/05/25-17:31:38.491 cd3c Delete type=2 #407
+2025/05/25-17:31:38.491 cd3c Delete type=2 #409
+2025/05/25-17:31:38.491 cd3c Delete type=2 #411
+2025/05/25-17:31:38.491 cd3c Delete type=2 #413
+2025/05/25-17:35:11.655 cd3c Level-0 table #416: started
+2025/05/25-17:35:11.663 cd3c Level-0 table #416: 9039 bytes OK
+2025/05/25-17:35:11.665 cd3c Delete type=0 #412
+2025/05/25-17:39:05.116 cd3c Level-0 table #418: started
+2025/05/25-17:39:05.121 cd3c Level-0 table #418: 9283 bytes OK
+2025/05/25-17:39:05.124 cd3c Delete type=0 #415
+2025/05/25-17:40:15.769 cd3c Level-0 table #420: started
+2025/05/25-17:40:15.773 cd3c Level-0 table #420: 9268 bytes OK
+2025/05/25-17:40:15.775 cd3c Delete type=0 #417
+2025/05/25-17:41:21.212 cd3c Level-0 table #422: started
+2025/05/25-17:41:21.217 cd3c Level-0 table #422: 9219 bytes OK
+2025/05/25-17:41:21.219 cd3c Delete type=0 #419
+2025/05/25-17:41:21.219 cd3c Compacting 4@0 + 1@1 files
+2025/05/25-17:41:21.248 cd3c Generated table #423@0: 45475 keys, 1075162 bytes
+2025/05/25-17:41:21.248 cd3c Compacted 4@0 + 1@1 files => 1075162 bytes
+2025/05/25-17:41:21.249 cd3c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-17:41:21.250 cd3c Delete type=2 #414
+2025/05/25-17:41:21.250 cd3c Delete type=2 #416
+2025/05/25-17:41:21.250 cd3c Delete type=2 #418
+2025/05/25-17:41:21.250 cd3c Delete type=2 #420
+2025/05/25-17:41:21.250 cd3c Delete type=2 #422
+2025/05/25-17:44:54.280 cd3c Level-0 table #425: started
+2025/05/25-17:44:54.288 cd3c Level-0 table #425: 9235 bytes OK
+2025/05/25-17:44:54.290 cd3c Delete type=0 #421
+2025/05/25-17:49:55.832 cd3c Level-0 table #427: started
+2025/05/25-17:49:55.837 cd3c Level-0 table #427: 9440 bytes OK
+2025/05/25-17:49:55.839 cd3c Delete type=0 #424
+2025/05/25-17:51:06.218 cd3c Level-0 table #429: started
+2025/05/25-17:51:06.223 cd3c Level-0 table #429: 9294 bytes OK
+2025/05/25-17:51:06.224 cd3c Delete type=0 #426
+2025/05/25-17:52:11.616 cd3c Level-0 table #431: started
+2025/05/25-17:52:11.620 cd3c Level-0 table #431: 9422 bytes OK
+2025/05/25-17:52:11.622 cd3c Delete type=0 #428
+2025/05/25-17:52:11.622 cd3c Compacting 4@0 + 1@1 files
+2025/05/25-17:52:11.645 cd3c Generated table #432@0: 46313 keys, 1093808 bytes
+2025/05/25-17:52:11.645 cd3c Compacted 4@0 + 1@1 files => 1093808 bytes
+2025/05/25-17:52:11.645 cd3c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-17:52:11.647 cd3c Delete type=2 #423
+2025/05/25-17:52:11.647 cd3c Delete type=2 #425
+2025/05/25-17:52:11.647 cd3c Delete type=2 #427
+2025/05/25-17:52:11.647 cd3c Delete type=2 #429
+2025/05/25-17:52:11.647 cd3c Delete type=2 #431
+2025/05/25-17:55:45.392 cd3c Level-0 table #434: started
+2025/05/25-17:55:45.400 cd3c Level-0 table #434: 9364 bytes OK
+2025/05/25-17:55:45.402 cd3c Delete type=0 #430
+2025/05/25-18:00:50.710 cd3c Level-0 table #436: started
+2025/05/25-18:00:50.714 cd3c Level-0 table #436: 9532 bytes OK
+2025/05/25-18:00:50.716 cd3c Delete type=0 #433
+2025/05/25-18:02:03.322 cd3c Level-0 table #438: started
+2025/05/25-18:02:03.326 cd3c Level-0 table #438: 9462 bytes OK
+2025/05/25-18:02:03.327 cd3c Delete type=0 #435
+2025/05/25-18:03:08.770 cd3c Level-0 table #440: started
+2025/05/25-18:03:08.775 cd3c Level-0 table #440: 9495 bytes OK
+2025/05/25-18:03:08.777 cd3c Delete type=0 #437
+2025/05/25-18:03:08.777 cd3c Compacting 4@0 + 1@1 files
+2025/05/25-18:03:08.801 cd3c Generated table #441@0: 47167 keys, 1114609 bytes
+2025/05/25-18:03:08.801 cd3c Compacted 4@0 + 1@1 files => 1114609 bytes
+2025/05/25-18:03:08.802 cd3c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-18:03:08.803 cd3c Delete type=2 #432
+2025/05/25-18:03:08.803 cd3c Delete type=2 #434
+2025/05/25-18:03:08.803 cd3c Delete type=2 #436
+2025/05/25-18:03:08.803 cd3c Delete type=2 #438
+2025/05/25-18:03:08.803 cd3c Delete type=2 #440
+2025/05/25-18:06:41.981 cd3c Level-0 table #443: started
+2025/05/25-18:06:41.985 cd3c Level-0 table #443: 9510 bytes OK
+2025/05/25-18:06:41.987 cd3c Delete type=0 #439
+2025/05/25-18:12:06.203 cd3c Level-0 table #445: started
+2025/05/25-18:12:06.208 cd3c Level-0 table #445: 9697 bytes OK
+2025/05/25-18:12:06.211 cd3c Delete type=0 #442
+2025/05/25-18:13:16.748 cd3c Level-0 table #447: started
+2025/05/25-18:13:16.752 cd3c Level-0 table #447: 9585 bytes OK
+2025/05/25-18:13:16.754 cd3c Delete type=0 #444
+2025/05/25-18:14:22.297 cd3c Level-0 table #449: started
+2025/05/25-18:14:22.303 cd3c Level-0 table #449: 9642 bytes OK
+2025/05/25-18:14:22.305 cd3c Delete type=0 #446
+2025/05/25-18:14:22.305 cd3c Compacting 4@0 + 1@1 files
+2025/05/25-18:14:22.333 cd3c Generated table #450@0: 48037 keys, 1135428 bytes
+2025/05/25-18:14:22.333 cd3c Compacted 4@0 + 1@1 files => 1135428 bytes
+2025/05/25-18:14:22.334 cd3c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-18:14:22.334 cd3c Delete type=2 #441
+2025/05/25-18:14:22.335 cd3c Delete type=2 #443
+2025/05/25-18:14:22.335 cd3c Delete type=2 #445
+2025/05/25-18:14:22.335 cd3c Delete type=2 #447
+2025/05/25-18:14:22.335 cd3c Delete type=2 #449
+2025/05/25-18:17:55.738 cd3c Level-0 table #452: started
+2025/05/25-18:17:55.745 cd3c Level-0 table #452: 9701 bytes OK
+2025/05/25-18:17:55.747 cd3c Delete type=0 #448
+2025/05/25-18:23:26.930 cd3c Level-0 table #454: started
+2025/05/25-18:23:26.935 cd3c Level-0 table #454: 9821 bytes OK
+2025/05/25-18:23:26.937 cd3c Delete type=0 #451
+2025/05/25-18:24:37.526 cd3c Level-0 table #456: started
+2025/05/25-18:24:37.532 cd3c Level-0 table #456: 9738 bytes OK
+2025/05/25-18:24:37.534 cd3c Delete type=0 #453
+2025/05/25-18:25:42.878 cd3c Level-0 table #458: started
+2025/05/25-18:25:42.883 cd3c Level-0 table #458: 9801 bytes OK
+2025/05/25-18:25:42.885 cd3c Delete type=0 #455
+2025/05/25-18:25:42.885 cd3c Compacting 4@0 + 1@1 files
+2025/05/25-18:25:42.911 cd3c Generated table #459@0: 48923 keys, 1155943 bytes
+2025/05/25-18:25:42.911 cd3c Compacted 4@0 + 1@1 files => 1155943 bytes
+2025/05/25-18:25:42.911 cd3c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-18:25:42.912 cd3c Delete type=2 #450
+2025/05/25-18:25:42.912 cd3c Delete type=2 #452
+2025/05/25-18:25:42.912 cd3c Delete type=2 #454
+2025/05/25-18:25:42.912 cd3c Delete type=2 #456
+2025/05/25-18:25:42.912 cd3c Delete type=2 #458
+2025/05/25-18:29:16.118 cd3c Level-0 table #461: started
+2025/05/25-18:29:16.126 cd3c Level-0 table #461: 9807 bytes OK
+2025/05/25-18:29:16.127 cd3c Delete type=0 #457
+2025/05/25-18:35:00.451 cd3c Level-0 table #463: started
+2025/05/25-18:35:00.456 cd3c Level-0 table #463: 9950 bytes OK
+2025/05/25-18:35:00.458 cd3c Delete type=0 #460
+2025/05/25-18:36:10.873 cd3c Level-0 table #465: started
+2025/05/25-18:36:10.878 cd3c Level-0 table #465: 9896 bytes OK
+2025/05/25-18:36:10.880 cd3c Delete type=0 #462
+2025/05/25-18:37:16.404 cd3c Level-0 table #467: started
+2025/05/25-18:37:16.409 cd3c Level-0 table #467: 9865 bytes OK
+2025/05/25-18:37:16.411 cd3c Delete type=0 #464
+2025/05/25-18:37:16.412 cd3c Compacting 4@0 + 1@1 files
+2025/05/25-18:37:16.438 cd3c Generated table #468@0: 49825 keys, 1176999 bytes
+2025/05/25-18:37:16.438 cd3c Compacted 4@0 + 1@1 files => 1176999 bytes
+2025/05/25-18:37:16.439 cd3c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-18:37:16.440 cd3c Delete type=2 #459
+2025/05/25-18:37:16.440 cd3c Delete type=2 #461
+2025/05/25-18:37:16.440 cd3c Delete type=2 #463
+2025/05/25-18:37:16.440 cd3c Delete type=2 #465
+2025/05/25-18:37:16.440 cd3c Delete type=2 #467
+2025/05/25-18:40:49.429 cd3c Level-0 table #470: started
+2025/05/25-18:40:49.444 cd3c Level-0 table #470: 9931 bytes OK
+2025/05/25-18:40:49.445 cd3c Delete type=0 #466
+2025/05/25-18:44:48.404 cd3c Level-0 table #472: started
+2025/05/25-18:44:48.409 cd3c Level-0 table #472: 10029 bytes OK
+2025/05/25-18:44:48.411 cd3c Delete type=0 #469
+2025/05/25-18:45:59.112 cd3c Level-0 table #474: started
+2025/05/25-18:45:59.117 cd3c Level-0 table #474: 9994 bytes OK
+2025/05/25-18:45:59.119 cd3c Delete type=0 #471
+2025/05/25-18:47:04.513 cd3c Level-0 table #476: started
+2025/05/25-18:47:04.519 cd3c Level-0 table #476: 10006 bytes OK
+2025/05/25-18:47:04.520 cd3c Delete type=0 #473
+2025/05/25-18:47:04.521 cd3c Compacting 4@0 + 1@1 files
+2025/05/25-18:47:04.548 cd3c Generated table #477@0: 50743 keys, 1199086 bytes
+2025/05/25-18:47:04.548 cd3c Compacted 4@0 + 1@1 files => 1199086 bytes
+2025/05/25-18:47:04.549 cd3c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-18:47:04.549 cd3c Delete type=2 #468
+2025/05/25-18:47:04.549 cd3c Delete type=2 #470
+2025/05/25-18:47:04.549 cd3c Delete type=2 #472
+2025/05/25-18:47:04.550 cd3c Delete type=2 #474
+2025/05/25-18:47:04.550 cd3c Delete type=2 #476
+2025/05/25-18:50:37.786 cd3c Level-0 table #479: started
+2025/05/25-18:50:37.793 cd3c Level-0 table #479: 10068 bytes OK
+2025/05/25-18:50:37.794 cd3c Delete type=0 #475
+2025/05/25-18:55:00.576 cd3c Level-0 table #481: started
+2025/05/25-18:55:00.581 cd3c Level-0 table #481: 10206 bytes OK
+2025/05/25-18:55:00.584 cd3c Delete type=0 #478
+2025/05/25-18:56:11.052 cd3c Level-0 table #483: started
+2025/05/25-18:56:11.058 cd3c Level-0 table #483: 10116 bytes OK
+2025/05/25-18:56:11.059 cd3c Delete type=0 #480
+2025/05/25-18:57:16.531 cd3c Level-0 table #485: started
+2025/05/25-18:57:16.538 cd3c Level-0 table #485: 10178 bytes OK
+2025/05/25-18:57:16.540 cd3c Delete type=0 #482
+2025/05/25-18:57:16.541 cd3c Compacting 4@0 + 1@1 files
+2025/05/25-18:57:16.568 cd3c Generated table #486@0: 51677 keys, 1221468 bytes
+2025/05/25-18:57:16.568 cd3c Compacted 4@0 + 1@1 files => 1221468 bytes
+2025/05/25-18:57:16.569 cd3c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-18:57:16.570 cd3c Delete type=2 #477
+2025/05/25-18:57:16.570 cd3c Delete type=2 #479
+2025/05/25-18:57:16.570 cd3c Delete type=2 #481
+2025/05/25-18:57:16.570 cd3c Delete type=2 #483
+2025/05/25-18:57:16.570 cd3c Delete type=2 #485
+2025/05/25-19:00:49.868 cd3c Level-0 table #488: started
+2025/05/25-19:00:49.876 cd3c Level-0 table #488: 10198 bytes OK
+2025/05/25-19:00:49.878 cd3c Delete type=0 #484
+2025/05/25-19:06:29.147 cd3c Level-0 table #490: started
+2025/05/25-19:06:29.152 cd3c Level-0 table #490: 10391 bytes OK
+2025/05/25-19:06:29.154 cd3c Delete type=0 #487
+2025/05/25-19:07:39.529 cd3c Level-0 table #492: started
+2025/05/25-19:07:39.534 cd3c Level-0 table #492: 10272 bytes OK
+2025/05/25-19:07:39.536 cd3c Delete type=0 #489
+2025/05/25-19:08:46.057 cd3c Level-0 table #494: started
+2025/05/25-19:08:46.062 cd3c Level-0 table #494: 10456 bytes OK
+2025/05/25-19:08:46.064 cd3c Delete type=0 #491
+2025/05/25-19:08:46.064 cd3c Compacting 4@0 + 1@1 files
+2025/05/25-19:08:46.091 cd3c Generated table #495@0: 52627 keys, 1243817 bytes
+2025/05/25-19:08:46.091 cd3c Compacted 4@0 + 1@1 files => 1243817 bytes
+2025/05/25-19:08:46.092 cd3c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-19:08:46.093 cd3c Delete type=2 #486
+2025/05/25-19:08:46.093 cd3c Delete type=2 #488
+2025/05/25-19:08:46.093 cd3c Delete type=2 #490
+2025/05/25-19:08:46.093 cd3c Delete type=2 #492
+2025/05/25-19:08:46.093 cd3c Delete type=2 #494
+2025/05/25-19:12:19.165 cd3c Level-0 table #497: started
+2025/05/25-19:12:19.173 cd3c Level-0 table #497: 10404 bytes OK
+2025/05/25-19:12:19.175 cd3c Delete type=0 #493
+2025/05/25-19:15:55.844 cd3c Level-0 table #499: started
+2025/05/25-19:15:55.849 cd3c Level-0 table #499: 10482 bytes OK
+2025/05/25-19:15:55.851 cd3c Delete type=0 #496
+2025/05/25-19:17:06.469 cd3c Level-0 table #501: started
+2025/05/25-19:17:06.474 cd3c Level-0 table #501: 10451 bytes OK
+2025/05/25-19:17:06.476 cd3c Delete type=0 #498
+2025/05/25-19:18:11.885 cd3c Level-0 table #503: started
+2025/05/25-19:18:11.891 cd3c Level-0 table #503: 10457 bytes OK
+2025/05/25-19:18:11.892 cd3c Delete type=0 #500
+2025/05/25-19:18:11.893 cd3c Compacting 4@0 + 1@1 files
+2025/05/25-19:18:11.921 cd3c Generated table #504@0: 53589 keys, 1266450 bytes
+2025/05/25-19:18:11.921 cd3c Compacted 4@0 + 1@1 files => 1266450 bytes
+2025/05/25-19:18:11.922 cd3c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-19:18:11.922 cd3c Delete type=2 #495
+2025/05/25-19:18:11.922 cd3c Delete type=2 #497
+2025/05/25-19:18:11.923 cd3c Delete type=2 #499
+2025/05/25-19:18:11.923 cd3c Delete type=2 #501
+2025/05/25-19:18:11.923 cd3c Delete type=2 #503
+2025/05/25-19:21:45.347 cd3c Level-0 table #506: started
+2025/05/25-19:21:45.355 cd3c Level-0 table #506: 10465 bytes OK
+2025/05/25-19:21:45.356 cd3c Delete type=0 #502
+2025/05/25-19:25:25.538 cd3c Level-0 table #508: started
+2025/05/25-19:25:25.544 cd3c Level-0 table #508: 10568 bytes OK
+2025/05/25-19:25:25.545 cd3c Delete type=0 #505
+2025/05/25-19:26:35.924 cd3c Level-0 table #510: started
+2025/05/25-19:26:35.930 cd3c Level-0 table #510: 10551 bytes OK
+2025/05/25-19:26:35.931 cd3c Delete type=0 #507
+2025/05/25-19:27:41.461 cd3c Level-0 table #512: started
+2025/05/25-19:27:41.466 cd3c Level-0 table #512: 10588 bytes OK
+2025/05/25-19:27:41.468 cd3c Delete type=0 #509
+2025/05/25-19:27:41.468 cd3c Compacting 4@0 + 1@1 files
+2025/05/25-19:27:41.496 cd3c Generated table #513@0: 54567 keys, 1290262 bytes
+2025/05/25-19:27:41.496 cd3c Compacted 4@0 + 1@1 files => 1290262 bytes
+2025/05/25-19:27:41.497 cd3c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-19:27:41.498 cd3c Delete type=2 #504
+2025/05/25-19:27:41.498 cd3c Delete type=2 #506
+2025/05/25-19:27:41.498 cd3c Delete type=2 #508
+2025/05/25-19:27:41.498 cd3c Delete type=2 #510
+2025/05/25-19:27:41.498 cd3c Delete type=2 #512
+2025/05/25-19:31:14.956 cd3c Level-0 table #515: started
+2025/05/25-19:31:14.960 cd3c Level-0 table #515: 10583 bytes OK
+2025/05/25-19:31:14.962 cd3c Delete type=0 #511
+2025/05/25-19:35:45.955 cd3c Level-0 table #517: started
+2025/05/25-19:35:45.961 cd3c Level-0 table #517: 10741 bytes OK
+2025/05/25-19:35:45.962 cd3c Delete type=0 #514
+2025/05/25-19:36:56.336 cd3c Level-0 table #519: started
+2025/05/25-19:36:56.341 cd3c Level-0 table #519: 10691 bytes OK
+2025/05/25-19:36:56.343 cd3c Delete type=0 #516
+2025/05/25-19:38:02.093 cd3c Level-0 table #521: started
+2025/05/25-19:38:02.097 cd3c Level-0 table #521: 10770 bytes OK
+2025/05/25-19:38:02.099 cd3c Delete type=0 #518
+2025/05/25-19:38:02.099 cd3c Compacting 4@0 + 1@1 files
+2025/05/25-19:38:02.124 cd3c Generated table #522@0: 55561 keys, 1313489 bytes
+2025/05/25-19:38:02.124 cd3c Compacted 4@0 + 1@1 files => 1313489 bytes
+2025/05/25-19:38:02.125 cd3c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-19:38:02.126 cd3c Delete type=2 #513
+2025/05/25-19:38:02.126 cd3c Delete type=2 #515
+2025/05/25-19:38:02.126 cd3c Delete type=2 #517
+2025/05/25-19:38:02.126 cd3c Delete type=2 #519
+2025/05/25-19:38:02.126 cd3c Delete type=2 #521
+2025/05/25-19:41:35.997 cd3c Level-0 table #524: started
+2025/05/25-19:41:36.005 cd3c Level-0 table #524: 10917 bytes OK
+2025/05/25-19:41:36.007 cd3c Delete type=0 #520
+2025/05/25-19:47:25.796 cd3c Level-0 table #526: started
+2025/05/25-19:47:25.801 cd3c Level-0 table #526: 11101 bytes OK
+2025/05/25-19:47:25.803 cd3c Delete type=0 #523
+2025/05/25-19:47:31.043 cd3c Level-0 table #528: started
+2025/05/25-19:47:31.049 cd3c Level-0 table #528: 10917 bytes OK
+2025/05/25-19:47:31.051 cd3c Delete type=0 #525
+2025/05/25-19:49:44.972 cd3c Level-0 table #530: started
+2025/05/25-19:49:44.976 cd3c Level-0 table #530: 11106 bytes OK
+2025/05/25-19:49:44.977 cd3c Delete type=0 #527
+2025/05/25-19:49:44.978 cd3c Compacting 4@0 + 1@1 files
+2025/05/25-19:49:45.006 cd3c Generated table #531@0: 56571 keys, 1337391 bytes
+2025/05/25-19:49:45.006 cd3c Compacted 4@0 + 1@1 files => 1337391 bytes
+2025/05/25-19:49:45.007 cd3c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-19:49:45.008 cd3c Delete type=2 #522
+2025/05/25-19:49:45.008 cd3c Delete type=2 #524
+2025/05/25-19:49:45.008 cd3c Delete type=2 #526
+2025/05/25-19:49:45.008 cd3c Delete type=2 #528
+2025/05/25-19:49:45.008 cd3c Delete type=2 #530
+2025/05/25-19:53:17.932 cd3c Level-0 table #533: started
+2025/05/25-19:53:17.940 cd3c Level-0 table #533: 11075 bytes OK
+2025/05/25-19:53:17.941 cd3c Delete type=0 #529
+2025/05/25-19:58:12.287 cd3c Level-0 table #535: started
+2025/05/25-19:58:12.292 cd3c Level-0 table #535: 11250 bytes OK
+2025/05/25-19:58:12.294 cd3c Delete type=0 #532
+2025/05/25-19:59:22.676 cd3c Level-0 table #537: started
+2025/05/25-19:59:22.681 cd3c Level-0 table #537: 11114 bytes OK
+2025/05/25-19:59:22.683 cd3c Delete type=0 #534
+2025/05/25-20:00:28.024 cd3c Level-0 table #539: started
+2025/05/25-20:00:28.028 cd3c Level-0 table #539: 11145 bytes OK
+2025/05/25-20:00:28.030 cd3c Delete type=0 #536
+2025/05/25-20:00:28.031 cd3c Compacting 4@0 + 1@1 files
+2025/05/25-20:00:28.059 cd3c Generated table #540@0: 57597 keys, 1361616 bytes
+2025/05/25-20:00:28.059 cd3c Compacted 4@0 + 1@1 files => 1361616 bytes
+2025/05/25-20:00:28.060 cd3c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-20:00:28.061 cd3c Delete type=2 #531
+2025/05/25-20:00:28.061 cd3c Delete type=2 #533
+2025/05/25-20:00:28.061 cd3c Delete type=2 #535
+2025/05/25-20:00:28.061 cd3c Delete type=2 #537
+2025/05/25-20:00:28.061 cd3c Delete type=2 #539
+2025/05/25-20:04:01.296 cd3c Level-0 table #542: started
+2025/05/25-20:04:01.303 cd3c Level-0 table #542: 11214 bytes OK
+2025/05/25-20:04:01.305 cd3c Delete type=0 #538
+2025/05/25-20:09:03.813 cd3c Level-0 table #544: started
+2025/05/25-20:09:03.818 cd3c Level-0 table #544: 11387 bytes OK
+2025/05/25-20:09:03.820 cd3c Delete type=0 #541
+2025/05/25-20:10:14.190 cd3c Level-0 table #546: started
+2025/05/25-20:10:14.195 cd3c Level-0 table #546: 11312 bytes OK
+2025/05/25-20:10:14.196 cd3c Delete type=0 #543
+2025/05/25-20:11:19.884 cd3c Level-0 table #548: started
+2025/05/25-20:11:19.888 cd3c Level-0 table #548: 11322 bytes OK
+2025/05/25-20:11:19.890 cd3c Delete type=0 #545
+2025/05/25-20:11:19.890 cd3c Compacting 4@0 + 1@1 files
+2025/05/25-20:11:19.922 cd3c Generated table #549@0: 58639 keys, 1386213 bytes
+2025/05/25-20:11:19.922 cd3c Compacted 4@0 + 1@1 files => 1386213 bytes
+2025/05/25-20:11:19.923 cd3c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-20:11:19.924 cd3c Delete type=2 #540
+2025/05/25-20:11:19.924 cd3c Delete type=2 #542
+2025/05/25-20:11:19.924 cd3c Delete type=2 #544
+2025/05/25-20:11:19.924 cd3c Delete type=2 #546
+2025/05/25-20:11:19.924 cd3c Delete type=2 #548
+2025/05/25-20:14:53.408 cd3c Level-0 table #551: started
+2025/05/25-20:14:53.416 cd3c Level-0 table #551: 11346 bytes OK
+2025/05/25-20:14:53.418 cd3c Delete type=0 #547
+2025/05/25-20:18:30.085 cd3c Level-0 table #553: started
+2025/05/25-20:18:30.093 cd3c Level-0 table #553: 11456 bytes OK
+2025/05/25-20:18:30.095 cd3c Delete type=0 #550
+2025/05/25-20:20:48.377 cd3c Level-0 table #555: started
+2025/05/25-20:20:48.384 cd3c Level-0 table #555: 11501 bytes OK
+2025/05/25-20:20:48.385 cd3c Delete type=0 #552
+2025/05/25-20:21:53.749 cd3c Level-0 table #557: started
+2025/05/25-20:21:53.754 cd3c Level-0 table #557: 11465 bytes OK
+2025/05/25-20:21:53.756 cd3c Delete type=0 #554
+2025/05/25-20:21:53.756 cd3c Compacting 4@0 + 1@1 files
+2025/05/25-20:21:53.786 cd3c Generated table #558@0: 59697 keys, 1411604 bytes
+2025/05/25-20:21:53.786 cd3c Compacted 4@0 + 1@1 files => 1411604 bytes
+2025/05/25-20:21:53.787 cd3c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-20:21:53.787 cd3c Delete type=2 #549
+2025/05/25-20:21:53.787 cd3c Delete type=2 #551
+2025/05/25-20:21:53.788 cd3c Delete type=2 #553
+2025/05/25-20:21:53.788 cd3c Delete type=2 #555
+2025/05/25-20:21:53.788 cd3c Delete type=2 #557
+2025/05/25-20:25:27.183 cd3c Level-0 table #560: started
+2025/05/25-20:25:27.192 cd3c Level-0 table #560: 11509 bytes OK
+2025/05/25-20:25:27.194 cd3c Delete type=0 #556
+2025/05/25-20:31:00.174 cd3c Level-0 table #562: started
+2025/05/25-20:31:00.178 cd3c Level-0 table #562: 11648 bytes OK
+2025/05/25-20:31:00.179 cd3c Delete type=0 #559
+2025/05/25-20:32:10.734 cd3c Level-0 table #564: started
+2025/05/25-20:32:10.739 cd3c Level-0 table #564: 11558 bytes OK
+2025/05/25-20:32:10.741 cd3c Delete type=0 #561
+2025/05/25-20:33:16.084 cd3c Level-0 table #566: started
+2025/05/25-20:33:16.090 cd3c Level-0 table #566: 11636 bytes OK
+2025/05/25-20:33:16.091 cd3c Delete type=0 #563
+2025/05/25-20:33:16.092 cd3c Compacting 4@0 + 1@1 files
+2025/05/25-20:33:16.122 cd3c Generated table #567@0: 60771 keys, 1437223 bytes
+2025/05/25-20:33:16.122 cd3c Compacted 4@0 + 1@1 files => 1437223 bytes
+2025/05/25-20:33:16.123 cd3c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-20:33:16.124 cd3c Delete type=2 #558
+2025/05/25-20:33:16.124 cd3c Delete type=2 #560
+2025/05/25-20:33:16.124 cd3c Delete type=2 #562
+2025/05/25-20:33:16.124 cd3c Delete type=2 #564
+2025/05/25-20:33:16.124 cd3c Delete type=2 #566
+2025/05/25-20:36:49.303 cd3c Level-0 table #569: started
+2025/05/25-20:36:49.310 cd3c Level-0 table #569: 11617 bytes OK
+2025/05/25-20:36:49.312 cd3c Delete type=0 #565
+2025/05/25-20:42:11.442 cd3c Level-0 table #571: started
+2025/05/25-20:42:11.447 cd3c Level-0 table #571: 11820 bytes OK
+2025/05/25-20:42:11.449 cd3c Delete type=0 #568
+2025/05/25-20:43:21.818 cd3c Level-0 table #573: started
+2025/05/25-20:43:21.824 cd3c Level-0 table #573: 11746 bytes OK
+2025/05/25-20:43:21.826 cd3c Delete type=0 #570
+2025/05/25-20:44:27.168 cd3c Level-0 table #575: started
+2025/05/25-20:44:27.173 cd3c Level-0 table #575: 11754 bytes OK
+2025/05/25-20:44:27.175 cd3c Delete type=0 #572
+2025/05/25-20:44:27.176 cd3c Compacting 4@0 + 1@1 files
+2025/05/25-20:44:27.208 cd3c Generated table #576@0: 61861 keys, 1463580 bytes
+2025/05/25-20:44:27.208 cd3c Compacted 4@0 + 1@1 files => 1463580 bytes
+2025/05/25-20:44:27.209 cd3c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-20:44:27.210 cd3c Delete type=2 #567
+2025/05/25-20:44:27.210 cd3c Delete type=2 #569
+2025/05/25-20:44:27.210 cd3c Delete type=2 #571
+2025/05/25-20:44:27.210 cd3c Delete type=2 #573
+2025/05/25-20:44:27.210 cd3c Delete type=2 #575
+2025/05/25-20:48:00.287 cd3c Level-0 table #578: started
+2025/05/25-20:48:00.295 cd3c Level-0 table #578: 11769 bytes OK
+2025/05/25-20:48:00.296 cd3c Delete type=0 #574
+2025/05/25-20:51:53.214 cd3c Level-0 table #580: started
+2025/05/25-20:51:53.218 cd3c Level-0 table #580: 11955 bytes OK
+2025/05/25-20:51:53.220 cd3c Delete type=0 #577
+2025/05/25-20:53:03.739 cd3c Level-0 table #582: started
+2025/05/25-20:53:03.744 cd3c Level-0 table #582: 11899 bytes OK
+2025/05/25-20:53:03.746 cd3c Delete type=0 #579
+2025/05/25-20:54:09.129 cd3c Level-0 table #584: started
+2025/05/25-20:54:09.133 cd3c Level-0 table #584: 11908 bytes OK
+2025/05/25-20:54:09.135 cd3c Delete type=0 #581
+2025/05/25-20:54:09.136 cd3c Compacting 4@0 + 1@1 files
+2025/05/25-20:54:09.167 cd3c Generated table #585@0: 62967 keys, 1489108 bytes
+2025/05/25-20:54:09.167 cd3c Compacted 4@0 + 1@1 files => 1489108 bytes
+2025/05/25-20:54:09.168 cd3c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-20:54:09.168 cd3c Delete type=2 #576
+2025/05/25-20:54:09.168 cd3c Delete type=2 #578
+2025/05/25-20:54:09.168 cd3c Delete type=2 #580
+2025/05/25-20:54:09.169 cd3c Delete type=2 #582
+2025/05/25-20:54:09.169 cd3c Delete type=2 #584
+2025/05/25-20:57:42.516 cd3c Level-0 table #587: started
+2025/05/25-20:57:42.524 cd3c Level-0 table #587: 11980 bytes OK
+2025/05/25-20:57:42.525 cd3c Delete type=0 #583
+2025/05/25-21:03:30.469 cd3c Level-0 table #589: started
+2025/05/25-21:03:30.474 cd3c Level-0 table #589: 12161 bytes OK
+2025/05/25-21:03:30.476 cd3c Delete type=0 #586
+2025/05/25-21:04:40.833 cd3c Level-0 table #591: started
+2025/05/25-21:04:40.838 cd3c Level-0 table #591: 11973 bytes OK
+2025/05/25-21:04:40.840 cd3c Delete type=0 #588
+2025/05/25-21:05:46.664 cd3c Level-0 table #593: started
+2025/05/25-21:05:46.669 cd3c Level-0 table #593: 12034 bytes OK
+2025/05/25-21:05:46.671 cd3c Delete type=0 #590
+2025/05/25-21:05:46.672 cd3c Compacting 4@0 + 1@1 files
+2025/05/25-21:05:46.703 cd3c Generated table #594@0: 64089 keys, 1516773 bytes
+2025/05/25-21:05:46.703 cd3c Compacted 4@0 + 1@1 files => 1516773 bytes
+2025/05/25-21:05:46.704 cd3c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-21:05:46.705 cd3c Delete type=2 #585
+2025/05/25-21:05:46.705 cd3c Delete type=2 #587
+2025/05/25-21:05:46.705 cd3c Delete type=2 #589
+2025/05/25-21:05:46.705 cd3c Delete type=2 #591
+2025/05/25-21:05:46.705 cd3c Delete type=2 #593
+2025/05/25-21:09:19.853 cd3c Level-0 table #596: started
+2025/05/25-21:09:19.861 cd3c Level-0 table #596: 12066 bytes OK
+2025/05/25-21:09:19.862 cd3c Delete type=0 #592
+2025/05/25-21:13:36.944 cd3c Level-0 table #598: started
+2025/05/25-21:13:36.949 cd3c Level-0 table #598: 12216 bytes OK
+2025/05/25-21:13:36.950 cd3c Delete type=0 #595
+2025/05/25-21:14:47.422 cd3c Level-0 table #600: started
+2025/05/25-21:14:47.428 cd3c Level-0 table #600: 12184 bytes OK
+2025/05/25-21:14:47.429 cd3c Delete type=0 #597
+2025/05/25-21:15:52.901 cd3c Level-0 table #602: started
+2025/05/25-21:15:52.906 cd3c Level-0 table #602: 12220 bytes OK
+2025/05/25-21:15:52.908 cd3c Delete type=0 #599
+2025/05/25-21:15:52.908 cd3c Compacting 4@0 + 1@1 files
+2025/05/25-21:15:52.939 cd3c Generated table #603@0: 65227 keys, 1543656 bytes
+2025/05/25-21:15:52.939 cd3c Compacted 4@0 + 1@1 files => 1543656 bytes
+2025/05/25-21:15:52.940 cd3c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-21:15:52.941 cd3c Delete type=2 #594
+2025/05/25-21:15:52.941 cd3c Delete type=2 #596
+2025/05/25-21:15:52.941 cd3c Delete type=2 #598
+2025/05/25-21:15:52.941 cd3c Delete type=2 #600
+2025/05/25-21:15:52.941 cd3c Delete type=2 #602
+2025/05/25-21:19:26.137 cd3c Level-0 table #605: started
+2025/05/25-21:19:26.145 cd3c Level-0 table #605: 12280 bytes OK
+2025/05/25-21:19:26.147 cd3c Delete type=0 #601
+2025/05/25-21:23:15.832 cd3c Level-0 table #607: started
+2025/05/25-21:23:15.837 cd3c Level-0 table #607: 12307 bytes OK
+2025/05/25-21:23:15.839 cd3c Delete type=0 #604
+2025/05/25-21:24:26.600 cd3c Level-0 table #609: started
+2025/05/25-21:24:26.605 cd3c Level-0 table #609: 12283 bytes OK
+2025/05/25-21:24:26.606 cd3c Delete type=0 #606
+2025/05/25-21:25:32.124 cd3c Level-0 table #611: started
+2025/05/25-21:25:32.129 cd3c Level-0 table #611: 12297 bytes OK
+2025/05/25-21:25:32.131 cd3c Delete type=0 #608
+2025/05/25-21:25:32.132 cd3c Compacting 4@0 + 1@1 files
+2025/05/25-21:25:32.165 cd3c Generated table #612@0: 66381 keys, 1570497 bytes
+2025/05/25-21:25:32.165 cd3c Compacted 4@0 + 1@1 files => 1570497 bytes
+2025/05/25-21:25:32.166 cd3c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-21:25:32.167 cd3c Delete type=2 #603
+2025/05/25-21:25:32.167 cd3c Delete type=2 #605
+2025/05/25-21:25:32.167 cd3c Delete type=2 #607
+2025/05/25-21:25:32.167 cd3c Delete type=2 #609
+2025/05/25-21:25:32.167 cd3c Delete type=2 #611
+2025/05/25-21:29:05.021 cd3c Level-0 table #614: started
+2025/05/25-21:29:05.029 cd3c Level-0 table #614: 12300 bytes OK
+2025/05/25-21:29:05.031 cd3c Delete type=0 #610
+2025/05/25-21:33:23.298 cd3c Level-0 table #616: started
+2025/05/25-21:33:23.303 cd3c Level-0 table #616: 12455 bytes OK
+2025/05/25-21:33:23.304 cd3c Delete type=0 #613
+2025/05/25-21:34:33.667 cd3c Level-0 table #618: started
+2025/05/25-21:34:33.671 cd3c Level-0 table #618: 12440 bytes OK
+2025/05/25-21:34:33.673 cd3c Delete type=0 #615
+2025/05/25-21:35:39.324 cd3c Level-0 table #620: started
+2025/05/25-21:35:39.336 cd3c Level-0 table #620: 12479 bytes OK
+2025/05/25-21:35:39.338 cd3c Delete type=0 #617
+2025/05/25-21:35:39.339 cd3c Compacting 4@0 + 1@1 files
+2025/05/25-21:35:39.378 cd3c Generated table #621@0: 67551 keys, 1598444 bytes
+2025/05/25-21:35:39.378 cd3c Compacted 4@0 + 1@1 files => 1598444 bytes
+2025/05/25-21:35:39.379 cd3c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-21:35:39.379 cd3c Delete type=2 #612
+2025/05/25-21:35:39.380 cd3c Delete type=2 #614
+2025/05/25-21:35:39.380 cd3c Delete type=2 #616
+2025/05/25-21:35:39.380 cd3c Delete type=2 #618
+2025/05/25-21:35:39.380 cd3c Delete type=2 #620
+2025/05/25-21:39:12.792 cd3c Level-0 table #623: started
+2025/05/25-21:39:12.800 cd3c Level-0 table #623: 12505 bytes OK
+2025/05/25-21:39:12.801 cd3c Delete type=0 #619
+2025/05/25-21:41:46.432 cd3c Level-0 table #625: started
+2025/05/25-21:41:46.437 cd3c Level-0 table #625: 88975 bytes OK
+2025/05/25-21:41:46.439 cd3c Delete type=0 #622
+2025/05/25-22:45:41.161 cd3c Level-0 table #627: started
+2025/05/25-22:45:41.166 cd3c Level-0 table #627: 29881 bytes OK
+2025/05/25-22:45:41.168 cd3c Delete type=0 #624
+2025/05/25-23:46:15.968 cd3c Level-0 table #629: started
+2025/05/25-23:46:15.976 cd3c Level-0 table #629: 29573 bytes OK
+2025/05/25-23:46:15.978 cd3c Delete type=0 #626
+2025/05/25-23:46:15.979 cd3c Compacting 4@0 + 1@1 files
+2025/05/25-23:46:16.014 cd3c Generated table #630@0: 68233 keys, 1783425 bytes
+2025/05/25-23:46:16.014 cd3c Compacted 4@0 + 1@1 files => 1783425 bytes
+2025/05/25-23:46:16.015 cd3c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/25-23:46:16.016 cd3c Delete type=2 #621
+2025/05/25-23:46:16.016 cd3c Delete type=2 #623
+2025/05/25-23:46:16.016 cd3c Delete type=2 #625
+2025/05/25-23:46:16.017 cd3c Delete type=2 #627
+2025/05/25-23:46:16.017 cd3c Delete type=2 #629
+2025/05/26-00:45:29.150 cd3c Level-0 table #632: started
+2025/05/26-00:45:29.162 cd3c Level-0 table #632: 28713 bytes OK
+2025/05/26-00:45:29.163 cd3c Delete type=0 #628
+2025/05/26-01:46:00.482 cd3c Level-0 table #634: started
+2025/05/26-01:46:00.487 cd3c Level-0 table #634: 29943 bytes OK
+2025/05/26-01:46:00.488 cd3c Delete type=0 #631
+2025/05/26-02:48:30.394 cd3c Level-0 table #636: started
+2025/05/26-02:48:30.400 cd3c Level-0 table #636: 28652 bytes OK
+2025/05/26-02:48:30.402 cd3c Delete type=0 #633
+2025/05/26-03:50:33.554 cd3c Level-0 table #638: started
+2025/05/26-03:50:33.566 cd3c Level-0 table #638: 29423 bytes OK
+2025/05/26-03:50:33.567 cd3c Delete type=0 #635
+2025/05/26-03:50:33.568 cd3c Compacting 4@0 + 1@1 files
+2025/05/26-03:50:33.604 cd3c Generated table #639@0: 68421 keys, 1823287 bytes
+2025/05/26-03:50:33.604 cd3c Compacted 4@0 + 1@1 files => 1823287 bytes
+2025/05/26-03:50:33.605 cd3c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/26-03:50:33.606 cd3c Delete type=2 #630
+2025/05/26-03:50:33.606 cd3c Delete type=2 #632
+2025/05/26-03:50:33.606 cd3c Delete type=2 #634
+2025/05/26-03:50:33.606 cd3c Delete type=2 #636
+2025/05/26-03:50:33.606 cd3c Delete type=2 #638
+2025/05/26-04:53:05.467 cd3c Level-0 table #641: started
+2025/05/26-04:53:05.480 cd3c Level-0 table #641: 29291 bytes OK
+2025/05/26-04:53:05.482 cd3c Delete type=0 #637
+2025/05/26-05:56:06.312 cd3c Level-0 table #643: started
+2025/05/26-05:56:06.317 cd3c Level-0 table #643: 29019 bytes OK
+2025/05/26-05:56:06.319 cd3c Delete type=0 #640
+2025/05/26-07:01:58.276 cd3c Level-0 table #645: started
+2025/05/26-07:01:58.282 cd3c Level-0 table #645: 29390 bytes OK
+2025/05/26-07:01:58.284 cd3c Delete type=0 #642
+2025/05/26-08:05:40.132 cd3c Level-0 table #647: started
+2025/05/26-08:05:40.137 cd3c Level-0 table #647: 28768 bytes OK
+2025/05/26-08:05:40.139 cd3c Delete type=0 #644
+2025/05/26-08:05:40.139 cd3c Compacting 4@0 + 1@1 files
+2025/05/26-08:05:40.173 cd3c Generated table #648@0: 68611 keys, 1865162 bytes
+2025/05/26-08:05:40.173 cd3c Compacted 4@0 + 1@1 files => 1865162 bytes
+2025/05/26-08:05:40.174 cd3c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/26-08:05:40.175 cd3c Delete type=2 #639
+2025/05/26-08:05:40.175 cd3c Delete type=2 #641
+2025/05/26-08:05:40.175 cd3c Delete type=2 #643
+2025/05/26-08:05:40.175 cd3c Delete type=2 #645
+2025/05/26-08:05:40.175 cd3c Delete type=2 #647
+2025/05/26-09:06:50.208 cd3c Level-0 table #650: started
+2025/05/26-09:06:50.216 cd3c Level-0 table #650: 29324 bytes OK
+2025/05/26-09:06:50.218 cd3c Delete type=0 #646
+2025/05/26-10:06:42.438 cd3c Level-0 table #652: started
+2025/05/26-10:06:42.443 cd3c Level-0 table #652: 28758 bytes OK
+2025/05/26-10:06:42.445 cd3c Delete type=0 #649
+2025/05/26-11:09:05.954 cd3c Level-0 table #654: started
+2025/05/26-11:09:05.960 cd3c Level-0 table #654: 29564 bytes OK
+2025/05/26-11:09:05.961 cd3c Delete type=0 #651
+2025/05/26-12:10:29.605 cd3c Level-0 table #656: started
+2025/05/26-12:10:29.610 cd3c Level-0 table #656: 28499 bytes OK
+2025/05/26-12:10:29.612 cd3c Delete type=0 #653
+2025/05/26-12:10:29.613 cd3c Compacting 4@0 + 1@1 files
+2025/05/26-12:10:29.650 cd3c Generated table #657@0: 68797 keys, 1898887 bytes
+2025/05/26-12:10:29.650 cd3c Compacted 4@0 + 1@1 files => 1898887 bytes
+2025/05/26-12:10:29.651 cd3c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/26-12:10:29.651 cd3c Delete type=2 #648
+2025/05/26-12:10:29.652 cd3c Delete type=2 #650
+2025/05/26-12:10:29.652 cd3c Delete type=2 #652
+2025/05/26-12:10:29.652 cd3c Delete type=2 #654
+2025/05/26-12:10:29.652 cd3c Delete type=2 #656
+2025/05/26-13:16:02.335 cd3c Level-0 table #659: started
+2025/05/26-13:16:02.340 cd3c Level-0 table #659: 29622 bytes OK
+2025/05/26-13:16:02.342 cd3c Delete type=0 #655
+2025/05/26-14:19:51.393 cd3c Level-0 table #661: started
+2025/05/26-14:19:51.399 cd3c Level-0 table #661: 29004 bytes OK
+2025/05/26-14:19:51.401 cd3c Delete type=0 #658
+2025/05/26-14:25:41.046 cd3c Level-0 table #663: started
+2025/05/26-14:25:41.052 cd3c Level-0 table #663: 30084 bytes OK
+2025/05/26-14:25:41.053 cd3c Delete type=0 #660
+2025/05/26-14:29:53.023 cd3c Level-0 table #665: started
+2025/05/26-14:29:53.028 cd3c Level-0 table #665: 27629 bytes OK
+2025/05/26-14:29:53.029 cd3c Delete type=0 #662
+2025/05/26-14:29:53.030 cd3c Compacting 4@0 + 1@1 files
+2025/05/26-14:29:53.065 cd3c Generated table #666@0: 69955 keys, 1649805 bytes
+2025/05/26-14:29:53.065 cd3c Compacted 4@0 + 1@1 files => 1649805 bytes
+2025/05/26-14:29:53.066 cd3c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/26-14:29:53.067 cd3c Delete type=2 #657
+2025/05/26-14:29:53.067 cd3c Delete type=2 #659
+2025/05/26-14:29:53.067 cd3c Delete type=2 #661
+2025/05/26-14:29:53.067 cd3c Delete type=2 #663
+2025/05/26-14:29:53.067 cd3c Delete type=2 #665
+2025/05/26-14:31:04.196 cd3c Level-0 table #668: started
+2025/05/26-14:31:04.201 cd3c Level-0 table #668: 27657 bytes OK
+2025/05/26-14:31:04.202 cd3c Delete type=0 #664
+2025/05/26-14:32:10.228 cd3c Level-0 table #670: started
+2025/05/26-14:32:10.233 cd3c Level-0 table #670: 27661 bytes OK
+2025/05/26-14:32:10.234 cd3c Delete type=0 #667
+2025/05/26-14:35:43.698 cd3c Level-0 table #672: started
+2025/05/26-14:35:43.702 cd3c Level-0 table #672: 27855 bytes OK
+2025/05/26-14:35:43.704 cd3c Delete type=0 #669
+2025/05/26-14:40:39.870 cd3c Level-0 table #674: started
+2025/05/26-14:40:39.874 cd3c Level-0 table #674: 27920 bytes OK
+2025/05/26-14:40:39.876 cd3c Delete type=0 #671
+2025/05/26-14:40:39.876 cd3c Compacting 4@0 + 1@1 files
+2025/05/26-14:40:39.908 cd3c Generated table #675@0: 72669 keys, 1714330 bytes
+2025/05/26-14:40:39.908 cd3c Compacted 4@0 + 1@1 files => 1714330 bytes
+2025/05/26-14:40:39.908 cd3c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/26-14:40:39.909 cd3c Delete type=2 #666
+2025/05/26-14:40:39.909 cd3c Delete type=2 #668
+2025/05/26-14:40:39.909 cd3c Delete type=2 #670
+2025/05/26-14:40:39.909 cd3c Delete type=2 #672
+2025/05/26-14:40:39.909 cd3c Delete type=2 #674
+2025/05/26-14:41:50.265 cd3c Level-0 table #677: started
+2025/05/26-14:41:50.269 cd3c Level-0 table #677: 27722 bytes OK
+2025/05/26-14:41:50.271 cd3c Delete type=0 #673
+2025/05/26-14:42:55.677 cd3c Level-0 table #679: started
+2025/05/26-14:42:55.681 cd3c Level-0 table #679: 27784 bytes OK
+2025/05/26-14:42:55.683 cd3c Delete type=0 #676
+2025/05/26-14:46:29.102 cd3c Level-0 table #681: started
+2025/05/26-14:46:29.109 cd3c Level-0 table #681: 27969 bytes OK
+2025/05/26-14:46:29.110 cd3c Delete type=0 #678
+2025/05/26-14:50:53.019 cd3c Level-0 table #683: started
+2025/05/26-14:50:53.024 cd3c Level-0 table #683: 28017 bytes OK
+2025/05/26-14:50:53.026 cd3c Delete type=0 #680
+2025/05/26-14:50:53.026 cd3c Compacting 4@0 + 1@1 files
+2025/05/26-14:50:53.065 cd3c Generated table #684@0: 75399 keys, 1780178 bytes
+2025/05/26-14:50:53.065 cd3c Compacted 4@0 + 1@1 files => 1780178 bytes
+2025/05/26-14:50:53.066 cd3c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/26-14:50:53.067 cd3c Delete type=2 #675
+2025/05/26-14:50:53.067 cd3c Delete type=2 #677
+2025/05/26-14:50:53.067 cd3c Delete type=2 #679
+2025/05/26-14:50:53.067 cd3c Delete type=2 #681
+2025/05/26-14:50:53.067 cd3c Delete type=2 #683
+2025/05/26-14:52:03.556 cd3c Level-0 table #686: started
+2025/05/26-14:52:03.561 cd3c Level-0 table #686: 27936 bytes OK
+2025/05/26-14:52:03.563 cd3c Delete type=0 #682
+2025/05/26-14:53:08.988 cd3c Level-0 table #688: started
+2025/05/26-14:53:08.993 cd3c Level-0 table #688: 27916 bytes OK
+2025/05/26-14:53:08.994 cd3c Delete type=0 #685
+2025/05/26-14:56:41.986 cd3c Level-0 table #690: started
+2025/05/26-14:56:41.994 cd3c Level-0 table #690: 28212 bytes OK
+2025/05/26-14:56:41.996 cd3c Delete type=0 #687
+2025/05/26-15:01:38.168 cd3c Level-0 table #692: started
+2025/05/26-15:01:38.175 cd3c Level-0 table #692: 28192 bytes OK
+2025/05/26-15:01:38.176 cd3c Delete type=0 #689
+2025/05/26-15:01:38.177 cd3c Compacting 4@0 + 1@1 files
+2025/05/26-15:01:38.214 cd3c Generated table #693@0: 78145 keys, 1846478 bytes
+2025/05/26-15:01:38.214 cd3c Compacted 4@0 + 1@1 files => 1846478 bytes
+2025/05/26-15:01:38.215 cd3c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/26-15:01:38.216 cd3c Delete type=2 #684
+2025/05/26-15:01:38.216 cd3c Delete type=2 #686
+2025/05/26-15:01:38.216 cd3c Delete type=2 #688
+2025/05/26-15:01:38.216 cd3c Delete type=2 #690
+2025/05/26-15:01:38.216 cd3c Delete type=2 #692
+2025/05/26-15:02:48.571 cd3c Level-0 table #695: started
+2025/05/26-15:02:48.575 cd3c Level-0 table #695: 28133 bytes OK
+2025/05/26-15:02:48.577 cd3c Delete type=0 #691
+2025/05/26-15:03:53.924 cd3c Level-0 table #697: started
+2025/05/26-15:03:53.928 cd3c Level-0 table #697: 28148 bytes OK
+2025/05/26-15:03:53.930 cd3c Delete type=0 #694
+2025/05/26-15:07:27.164 cd3c Level-0 table #699: started
+2025/05/26-15:07:27.172 cd3c Level-0 table #699: 28184 bytes OK
+2025/05/26-15:07:27.173 cd3c Delete type=0 #696
+2025/05/26-15:12:33.250 cd3c Level-0 table #701: started
+2025/05/26-15:12:33.255 cd3c Level-0 table #701: 28412 bytes OK
+2025/05/26-15:12:33.256 cd3c Delete type=0 #698
+2025/05/26-15:12:33.257 cd3c Compacting 4@0 + 1@1 files
+2025/05/26-15:12:33.297 cd3c Generated table #702@0: 80907 keys, 1912744 bytes
+2025/05/26-15:12:33.297 cd3c Compacted 4@0 + 1@1 files => 1912744 bytes
+2025/05/26-15:12:33.298 cd3c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/26-15:12:33.299 cd3c Delete type=2 #693
+2025/05/26-15:12:33.299 cd3c Delete type=2 #695
+2025/05/26-15:12:33.299 cd3c Delete type=2 #697
+2025/05/26-15:12:33.299 cd3c Delete type=2 #699
+2025/05/26-15:12:33.299 cd3c Delete type=2 #701
+2025/05/26-15:13:43.820 cd3c Level-0 table #704: started
+2025/05/26-15:13:43.825 cd3c Level-0 table #704: 28329 bytes OK
+2025/05/26-15:13:43.827 cd3c Delete type=0 #700
+2025/05/26-15:14:49.315 cd3c Level-0 table #706: started
+2025/05/26-15:14:49.320 cd3c Level-0 table #706: 28267 bytes OK
+2025/05/26-15:14:49.322 cd3c Delete type=0 #703
+2025/05/26-15:18:22.675 cd3c Level-0 table #708: started
+2025/05/26-15:18:22.683 cd3c Level-0 table #708: 28273 bytes OK
+2025/05/26-15:18:22.685 cd3c Delete type=0 #705
+2025/05/26-15:22:29.675 cd3c Level-0 table #710: started
+2025/05/26-15:22:29.680 cd3c Level-0 table #710: 28375 bytes OK
+2025/05/26-15:22:29.682 cd3c Delete type=0 #707
+2025/05/26-15:22:29.682 cd2c Compacting 4@0 + 1@1 files
+2025/05/26-15:22:29.717 cd2c Generated table #711@0: 83685 keys, 1978243 bytes
+2025/05/26-15:22:29.717 cd2c Compacted 4@0 + 1@1 files => 1978243 bytes
+2025/05/26-15:22:29.718 cd2c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/26-15:22:29.718 cd2c Delete type=2 #702
+2025/05/26-15:22:29.718 cd2c Delete type=2 #704
+2025/05/26-15:22:29.718 cd2c Delete type=2 #706
+2025/05/26-15:22:29.718 cd2c Delete type=2 #708
+2025/05/26-15:22:29.718 cd2c Delete type=2 #710
+2025/05/26-15:23:40.248 cd3c Level-0 table #713: started
+2025/05/26-15:23:40.253 cd3c Level-0 table #713: 28370 bytes OK
+2025/05/26-15:23:40.255 cd3c Delete type=0 #709
+2025/05/26-15:24:45.658 cd3c Level-0 table #715: started
+2025/05/26-15:24:45.663 cd3c Level-0 table #715: 28404 bytes OK
+2025/05/26-15:24:45.665 cd3c Delete type=0 #712
+2025/05/26-15:28:18.793 cd3c Level-0 table #717: started
+2025/05/26-15:28:18.801 cd3c Level-0 table #717: 28445 bytes OK
+2025/05/26-15:28:18.803 cd3c Delete type=0 #714
+2025/05/26-15:32:35.864 cd3c Level-0 table #719: started
+2025/05/26-15:32:35.869 cd3c Level-0 table #719: 28542 bytes OK
+2025/05/26-15:32:35.871 cd3c Delete type=0 #716
+2025/05/26-15:32:35.871 cd2c Compacting 4@0 + 1@1 files
+2025/05/26-15:32:35.915 cd2c Generated table #720@0: 86479 keys, 2045580 bytes
+2025/05/26-15:32:35.915 cd2c Compacted 4@0 + 1@1 files => 2045580 bytes
+2025/05/26-15:32:35.916 cd2c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/26-15:32:35.916 cd2c Delete type=2 #711
+2025/05/26-15:32:35.917 cd2c Delete type=2 #713
+2025/05/26-15:32:35.917 cd2c Delete type=2 #715
+2025/05/26-15:32:35.917 cd2c Delete type=2 #717
+2025/05/26-15:32:35.917 cd2c Delete type=2 #719
+2025/05/26-15:33:46.372 cd3c Level-0 table #722: started
+2025/05/26-15:33:46.377 cd3c Level-0 table #722: 28491 bytes OK
+2025/05/26-15:33:46.379 cd3c Delete type=0 #718
+2025/05/26-15:34:51.755 cd3c Level-0 table #724: started
+2025/05/26-15:34:51.760 cd3c Level-0 table #724: 28555 bytes OK
+2025/05/26-15:34:51.762 cd3c Delete type=0 #721
+2025/05/26-15:38:25.466 cd3c Level-0 table #726: started
+2025/05/26-15:38:25.473 cd3c Level-0 table #726: 28563 bytes OK
+2025/05/26-15:38:25.475 cd3c Delete type=0 #723
+2025/05/26-15:43:05.165 cd3c Level-0 table #728: started
+2025/05/26-15:43:05.170 cd3c Level-0 table #728: 28749 bytes OK
+2025/05/26-15:43:05.172 cd3c Delete type=0 #725
+2025/05/26-15:43:05.172 cd2c Compacting 4@0 + 1@1 files
+2025/05/26-15:43:05.210 cd2c Generated table #729@0: 89289 keys, 2112644 bytes
+2025/05/26-15:43:05.210 cd2c Compacted 4@0 + 1@1 files => 2112644 bytes
+2025/05/26-15:43:05.211 cd2c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/26-15:43:05.212 cd2c Delete type=2 #720
+2025/05/26-15:43:05.212 cd2c Delete type=2 #722
+2025/05/26-15:43:05.212 cd2c Delete type=2 #724
+2025/05/26-15:43:05.212 cd2c Delete type=2 #726
+2025/05/26-15:43:05.212 cd2c Delete type=2 #728
+2025/05/26-15:44:15.639 cd3c Level-0 table #731: started
+2025/05/26-15:44:15.644 cd3c Level-0 table #731: 28643 bytes OK
+2025/05/26-15:44:15.646 cd3c Delete type=0 #727
+2025/05/26-15:45:21.067 cd3c Level-0 table #733: started
+2025/05/26-15:45:21.072 cd3c Level-0 table #733: 28617 bytes OK
+2025/05/26-15:45:21.074 cd3c Delete type=0 #730
+2025/05/26-15:48:54.069 cd3c Level-0 table #735: started
+2025/05/26-15:48:54.074 cd3c Level-0 table #735: 28718 bytes OK
+2025/05/26-15:48:54.075 cd3c Delete type=0 #732
+2025/05/26-15:54:18.694 cd3c Level-0 table #737: started
+2025/05/26-15:54:18.699 cd3c Level-0 table #737: 28814 bytes OK
+2025/05/26-15:54:18.700 cd3c Delete type=0 #734
+2025/05/26-15:54:18.701 cd3c Compacting 4@0 + 1@1 files
+2025/05/26-15:54:18.745 cd3c Generated table #738@0: 88713 keys, 2122575 bytes
+2025/05/26-15:54:18.751 cd3c Generated table #739@0: 3399 keys, 57041 bytes
+2025/05/26-15:54:18.751 cd3c Compacted 4@0 + 1@1 files => 2179616 bytes
+2025/05/26-15:54:18.752 cd3c compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-15:54:18.753 cd3c Delete type=2 #729
+2025/05/26-15:54:18.753 cd3c Delete type=2 #731
+2025/05/26-15:54:18.753 cd3c Delete type=2 #733
+2025/05/26-15:54:18.753 cd3c Delete type=2 #735
+2025/05/26-15:54:18.753 cd3c Delete type=2 #737
+2025/05/26-15:55:29.122 cd3c Level-0 table #741: started
+2025/05/26-15:55:29.127 cd3c Level-0 table #741: 28745 bytes OK
+2025/05/26-15:55:29.129 cd3c Delete type=0 #736
+2025/05/26-15:56:34.591 cd3c Level-0 table #743: started
+2025/05/26-15:56:34.596 cd3c Level-0 table #743: 28827 bytes OK
+2025/05/26-15:56:34.597 cd3c Delete type=0 #740
+2025/05/26-16:00:07.609 cd3c Level-0 table #745: started
+2025/05/26-16:00:07.617 cd3c Level-0 table #745: 28766 bytes OK
+2025/05/26-16:00:07.619 cd3c Delete type=0 #742
+2025/05/26-16:04:20.929 cd3c Level-0 table #747: started
+2025/05/26-16:04:20.934 cd3c Level-0 table #747: 28945 bytes OK
+2025/05/26-16:04:20.936 cd3c Delete type=0 #744
+2025/05/26-16:04:20.936 cd3c Compacting 4@0 + 2@1 files
+2025/05/26-16:04:20.977 cd3c Generated table #748@0: 88599 keys, 2121685 bytes
+2025/05/26-16:04:20.984 cd3c Generated table #749@0: 6355 keys, 127962 bytes
+2025/05/26-16:04:20.984 cd3c Compacted 4@0 + 2@1 files => 2249647 bytes
+2025/05/26-16:04:20.985 cd3c compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-16:04:20.985 cd3c Delete type=2 #738
+2025/05/26-16:04:20.986 cd3c Delete type=2 #739
+2025/05/26-16:04:20.986 cd3c Delete type=2 #741
+2025/05/26-16:04:20.986 cd3c Delete type=2 #743
+2025/05/26-16:04:20.986 cd3c Delete type=2 #745
+2025/05/26-16:04:20.986 cd3c Delete type=2 #747
+2025/05/26-16:05:31.597 cd3c Level-0 table #751: started
+2025/05/26-16:05:31.601 cd3c Level-0 table #751: 28904 bytes OK
+2025/05/26-16:05:31.602 cd3c Delete type=0 #746
+2025/05/26-16:06:36.967 cd3c Level-0 table #753: started
+2025/05/26-16:06:36.972 cd3c Level-0 table #753: 28964 bytes OK
+2025/05/26-16:06:36.973 cd3c Delete type=0 #750
+2025/05/26-16:10:10.101 cd3c Level-0 table #755: started
+2025/05/26-16:10:10.109 cd3c Level-0 table #755: 28982 bytes OK
+2025/05/26-16:10:10.111 cd3c Delete type=0 #752
+2025/05/26-16:15:55.970 cd3c Level-0 table #757: started
+2025/05/26-16:15:55.975 cd3c Level-0 table #757: 29142 bytes OK
+2025/05/26-16:15:55.977 cd3c Delete type=0 #754
+2025/05/26-16:15:55.978 cd3c Compacting 4@0 + 2@1 files
+2025/05/26-16:15:56.018 cd3c Generated table #758@0: 88607 keys, 2120861 bytes
+2025/05/26-16:15:56.028 cd3c Generated table #759@0: 9205 keys, 196410 bytes
+2025/05/26-16:15:56.028 cd3c Compacted 4@0 + 2@1 files => 2317271 bytes
+2025/05/26-16:15:56.029 cd3c compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-16:15:56.030 cd3c Delete type=2 #748
+2025/05/26-16:15:56.030 cd3c Delete type=2 #749
+2025/05/26-16:15:56.030 cd3c Delete type=2 #751
+2025/05/26-16:15:56.030 cd3c Delete type=2 #753
+2025/05/26-16:15:56.030 cd3c Delete type=2 #755
+2025/05/26-16:15:56.030 cd3c Delete type=2 #757
+2025/05/26-16:17:06.453 cd3c Level-0 table #761: started
+2025/05/26-16:17:06.458 cd3c Level-0 table #761: 29040 bytes OK
+2025/05/26-16:17:06.459 cd3c Delete type=0 #756
+2025/05/26-16:18:11.816 cd3c Level-0 table #763: started
+2025/05/26-16:18:11.821 cd3c Level-0 table #763: 28996 bytes OK
+2025/05/26-16:18:11.822 cd3c Delete type=0 #760
+2025/05/26-16:21:45.132 cd3c Level-0 table #765: started
+2025/05/26-16:21:45.140 cd3c Level-0 table #765: 29133 bytes OK
+2025/05/26-16:21:45.142 cd3c Delete type=0 #762
+2025/05/26-16:25:58.855 cd3c Level-0 table #767: started
+2025/05/26-16:25:58.860 cd3c Level-0 table #767: 29183 bytes OK
+2025/05/26-16:25:58.861 cd3c Delete type=0 #764
+2025/05/26-16:25:58.862 cd3c Compacting 4@0 + 2@1 files
+2025/05/26-16:25:58.902 cd3c Generated table #768@0: 88627 keys, 2121181 bytes
+2025/05/26-16:25:58.912 cd3c Generated table #769@0: 12059 keys, 264859 bytes
+2025/05/26-16:25:58.912 cd3c Compacted 4@0 + 2@1 files => 2386040 bytes
+2025/05/26-16:25:58.913 cd3c compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-16:25:58.913 cd3c Delete type=2 #758
+2025/05/26-16:25:58.914 cd3c Delete type=2 #759
+2025/05/26-16:25:58.914 cd3c Delete type=2 #761
+2025/05/26-16:25:58.914 cd3c Delete type=2 #763
+2025/05/26-16:25:58.914 cd3c Delete type=2 #765
+2025/05/26-16:25:58.914 cd3c Delete type=2 #767
+2025/05/26-16:27:09.266 cd3c Level-0 table #771: started
+2025/05/26-16:27:09.271 cd3c Level-0 table #771: 29226 bytes OK
+2025/05/26-16:27:09.273 cd3c Delete type=0 #766
+2025/05/26-16:28:14.723 cd3c Level-0 table #773: started
+2025/05/26-16:28:14.729 cd3c Level-0 table #773: 29242 bytes OK
+2025/05/26-16:28:14.730 cd3c Delete type=0 #770
+2025/05/26-16:31:47.770 cd3c Level-0 table #775: started
+2025/05/26-16:31:47.775 cd3c Level-0 table #775: 29252 bytes OK
+2025/05/26-16:31:47.777 cd3c Delete type=0 #772
+2025/05/26-16:36:19.626 cd3c Level-0 table #777: started
+2025/05/26-16:36:19.631 cd3c Level-0 table #777: 29511 bytes OK
+2025/05/26-16:36:19.633 cd3c Delete type=0 #774
+2025/05/26-16:36:19.634 cd3c Compacting 4@0 + 2@1 files
+2025/05/26-16:36:19.675 cd3c Generated table #778@0: 88651 keys, 2121125 bytes
+2025/05/26-16:36:19.686 cd3c Generated table #779@0: 14925 keys, 333226 bytes
+2025/05/26-16:36:19.686 cd3c Compacted 4@0 + 2@1 files => 2454351 bytes
+2025/05/26-16:36:19.687 cd3c compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-16:36:19.689 cd3c Delete type=2 #768
+2025/05/26-16:36:19.689 cd3c Delete type=2 #769
+2025/05/26-16:36:19.689 cd3c Delete type=2 #771
+2025/05/26-16:36:19.689 cd3c Delete type=2 #773
+2025/05/26-16:36:19.689 cd3c Delete type=2 #775
+2025/05/26-16:36:19.689 cd3c Delete type=2 #777
+2025/05/26-16:37:30.019 cd3c Level-0 table #781: started
+2025/05/26-16:37:30.024 cd3c Level-0 table #781: 29457 bytes OK
+2025/05/26-16:37:30.025 cd3c Delete type=0 #776
+2025/05/26-16:38:35.423 cd3c Level-0 table #783: started
+2025/05/26-16:38:35.429 cd3c Level-0 table #783: 29499 bytes OK
+2025/05/26-16:38:35.430 cd3c Delete type=0 #780
+2025/05/26-16:42:09.007 cd3c Level-0 table #785: started
+2025/05/26-16:42:09.012 cd3c Level-0 table #785: 29562 bytes OK
+2025/05/26-16:42:09.014 cd3c Delete type=0 #782
+2025/05/26-16:45:57.709 cd3c Level-0 table #787: started
+2025/05/26-16:45:57.714 cd3c Level-0 table #787: 29676 bytes OK
+2025/05/26-16:45:57.716 cd3c Delete type=0 #784
+2025/05/26-16:45:57.716 cd3c Compacting 4@0 + 2@1 files
+2025/05/26-16:45:57.757 cd3c Generated table #788@0: 88680 keys, 2121751 bytes
+2025/05/26-16:45:57.771 cd3c Generated table #789@0: 17802 keys, 402312 bytes
+2025/05/26-16:45:57.771 cd3c Compacted 4@0 + 2@1 files => 2524063 bytes
+2025/05/26-16:45:57.772 cd3c compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-16:45:57.773 cd3c Delete type=2 #778
+2025/05/26-16:45:57.773 cd3c Delete type=2 #779
+2025/05/26-16:45:57.773 cd3c Delete type=2 #781
+2025/05/26-16:45:57.773 cd3c Delete type=2 #783
+2025/05/26-16:45:57.773 cd3c Delete type=2 #785
+2025/05/26-16:45:57.773 cd3c Delete type=2 #787
+2025/05/26-16:47:08.217 cd3c Level-0 table #791: started
+2025/05/26-16:47:08.222 cd3c Level-0 table #791: 29601 bytes OK
+2025/05/26-16:47:08.224 cd3c Delete type=0 #786
+2025/05/26-16:48:13.711 cd3c Level-0 table #793: started
+2025/05/26-16:48:13.717 cd3c Level-0 table #793: 29717 bytes OK
+2025/05/26-16:48:13.718 cd3c Delete type=0 #790
+2025/05/26-16:51:46.930 cd3c Level-0 table #795: started
+2025/05/26-16:51:46.938 cd3c Level-0 table #795: 29667 bytes OK
+2025/05/26-16:51:46.940 cd3c Delete type=0 #792
+2025/05/26-16:57:37.515 cd3c Level-0 table #797: started
+2025/05/26-16:57:37.519 cd3c Level-0 table #797: 29901 bytes OK
+2025/05/26-16:57:37.521 cd3c Delete type=0 #794
+2025/05/26-16:57:37.521 cd3c Compacting 4@0 + 2@1 files
+2025/05/26-16:57:37.562 cd3c Generated table #798@0: 88576 keys, 2119179 bytes
+2025/05/26-16:57:37.575 cd3c Generated table #799@0: 20828 keys, 474750 bytes
+2025/05/26-16:57:37.575 cd3c Compacted 4@0 + 2@1 files => 2593929 bytes
+2025/05/26-16:57:37.576 cd3c compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-16:57:37.578 cd3c Delete type=2 #788
+2025/05/26-16:57:37.578 cd3c Delete type=2 #789
+2025/05/26-16:57:37.579 cd3c Delete type=2 #791
+2025/05/26-16:57:37.579 cd3c Delete type=2 #793
+2025/05/26-16:57:37.579 cd3c Delete type=2 #795
+2025/05/26-16:57:37.579 cd3c Delete type=2 #797
+2025/05/26-16:58:47.975 cd3c Level-0 table #801: started
+2025/05/26-16:58:47.980 cd3c Level-0 table #801: 29767 bytes OK
+2025/05/26-16:58:47.982 cd3c Delete type=0 #796
+2025/05/26-16:59:53.609 cd3c Level-0 table #803: started
+2025/05/26-16:59:53.614 cd3c Level-0 table #803: 29742 bytes OK
+2025/05/26-16:59:53.616 cd3c Delete type=0 #800
+2025/05/26-17:03:26.703 cd3c Level-0 table #805: started
+2025/05/26-17:03:26.708 cd3c Level-0 table #805: 29799 bytes OK
+2025/05/26-17:03:26.709 cd3c Delete type=0 #802
+2025/05/26-17:09:05.004 cd3c Level-0 table #807: started
+2025/05/26-17:09:05.010 cd3c Level-0 table #807: 30111 bytes OK
+2025/05/26-17:09:05.012 cd3c Delete type=0 #804
+2025/05/26-17:09:05.013 cd3c Compacting 4@0 + 2@1 files
+2025/05/26-17:09:05.054 cd3c Generated table #808@0: 88706 keys, 2122038 bytes
+2025/05/26-17:09:05.067 cd3c Generated table #809@0: 23636 keys, 541389 bytes
+2025/05/26-17:09:05.067 cd3c Compacted 4@0 + 2@1 files => 2663427 bytes
+2025/05/26-17:09:05.067 cd3c compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-17:09:05.068 cd3c Delete type=2 #798
+2025/05/26-17:09:05.068 cd3c Delete type=2 #799
+2025/05/26-17:09:05.068 cd3c Delete type=2 #801
+2025/05/26-17:09:05.068 cd3c Delete type=2 #803
+2025/05/26-17:09:05.068 cd3c Delete type=2 #805
+2025/05/26-17:09:05.068 cd3c Delete type=2 #807
+2025/05/26-17:10:15.430 cd3c Level-0 table #811: started
+2025/05/26-17:10:15.435 cd3c Level-0 table #811: 29997 bytes OK
+2025/05/26-17:10:15.437 cd3c Delete type=0 #806
+2025/05/26-17:11:20.976 cd3c Level-0 table #813: started
+2025/05/26-17:11:20.982 cd3c Level-0 table #813: 29958 bytes OK
+2025/05/26-17:11:20.983 cd3c Delete type=0 #810
+2025/05/26-17:14:54.321 cd3c Level-0 table #815: started
+2025/05/26-17:14:54.326 cd3c Level-0 table #815: 29956 bytes OK
+2025/05/26-17:14:54.327 cd3c Delete type=0 #812
+2025/05/26-17:18:51.875 cd3c Level-0 table #817: started
+2025/05/26-17:18:51.880 cd3c Level-0 table #817: 30257 bytes OK
+2025/05/26-17:18:51.881 cd3c Delete type=0 #814
+2025/05/26-17:18:51.882 cd3c Compacting 4@0 + 2@1 files
+2025/05/26-17:18:51.922 cd3c Generated table #818@0: 88591 keys, 2119758 bytes
+2025/05/26-17:18:51.938 cd3c Generated table #819@0: 26705 keys, 615605 bytes
+2025/05/26-17:18:51.938 cd3c Compacted 4@0 + 2@1 files => 2735363 bytes
+2025/05/26-17:18:51.938 cd3c compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-17:18:51.939 cd3c Delete type=2 #808
+2025/05/26-17:18:51.939 cd3c Delete type=2 #809
+2025/05/26-17:18:51.939 cd3c Delete type=2 #811
+2025/05/26-17:18:51.939 cd3c Delete type=2 #813
+2025/05/26-17:18:51.940 cd3c Delete type=2 #815
+2025/05/26-17:18:51.940 cd3c Delete type=2 #817
+2025/05/26-17:20:02.283 cd3c Level-0 table #821: started
+2025/05/26-17:20:02.289 cd3c Level-0 table #821: 30056 bytes OK
+2025/05/26-17:20:02.290 cd3c Delete type=0 #816
+2025/05/26-17:21:07.775 cd3c Level-0 table #823: started
+2025/05/26-17:21:07.780 cd3c Level-0 table #823: 30182 bytes OK
+2025/05/26-17:21:07.782 cd3c Delete type=0 #820
+2025/05/26-17:24:41.160 cd3c Level-0 table #825: started
+2025/05/26-17:24:41.164 cd3c Level-0 table #825: 30211 bytes OK
+2025/05/26-17:24:41.165 cd3c Delete type=0 #822
+2025/05/26-17:28:41.159 cd3c Level-0 table #827: started
+2025/05/26-17:28:41.163 cd3c Level-0 table #827: 30390 bytes OK
+2025/05/26-17:28:41.165 cd3c Delete type=0 #824
+2025/05/26-17:28:41.165 cd3c Compacting 4@0 + 2@1 files
+2025/05/26-17:28:41.207 cd3c Generated table #828@0: 88612 keys, 2119821 bytes
+2025/05/26-17:28:41.225 cd3c Generated table #829@0: 29654 keys, 686210 bytes
+2025/05/26-17:28:41.225 cd3c Compacted 4@0 + 2@1 files => 2806031 bytes
+2025/05/26-17:28:41.226 cd3c compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-17:28:41.227 cd3c Delete type=2 #818
+2025/05/26-17:28:41.227 cd3c Delete type=2 #819
+2025/05/26-17:28:41.227 cd3c Delete type=2 #821
+2025/05/26-17:28:41.227 cd3c Delete type=2 #823
+2025/05/26-17:28:41.227 cd3c Delete type=2 #825
+2025/05/26-17:28:41.227 cd3c Delete type=2 #827
+2025/05/26-17:29:51.545 cd3c Level-0 table #831: started
+2025/05/26-17:29:51.551 cd3c Level-0 table #831: 30349 bytes OK
+2025/05/26-17:29:51.552 cd3c Delete type=0 #826
+2025/05/26-17:30:56.935 cd3c Level-0 table #833: started
+2025/05/26-17:30:56.941 cd3c Level-0 table #833: 30263 bytes OK
+2025/05/26-17:30:56.943 cd3c Delete type=0 #830
+2025/05/26-17:34:30.609 cd3c Level-0 table #835: started
+2025/05/26-17:34:30.614 cd3c Level-0 table #835: 30393 bytes OK
+2025/05/26-17:34:30.618 cd3c Delete type=0 #832
+2025/05/26-17:39:10.347 cd3c Level-0 table #837: started
+2025/05/26-17:39:10.352 cd3c Level-0 table #837: 30535 bytes OK
+2025/05/26-17:39:10.353 cd3c Delete type=0 #834
+2025/05/26-17:39:10.354 cd3c Compacting 4@0 + 2@1 files
+2025/05/26-17:39:10.396 cd3c Generated table #838@0: 88624 keys, 2120881 bytes
+2025/05/26-17:39:10.415 cd3c Generated table #839@0: 32628 keys, 756976 bytes
+2025/05/26-17:39:10.415 cd3c Compacted 4@0 + 2@1 files => 2877857 bytes
+2025/05/26-17:39:10.416 cd3c compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-17:39:10.417 cd3c Delete type=2 #828
+2025/05/26-17:39:10.417 cd3c Delete type=2 #829
+2025/05/26-17:39:10.417 cd3c Delete type=2 #831
+2025/05/26-17:39:10.417 cd3c Delete type=2 #833
+2025/05/26-17:39:10.417 cd3c Delete type=2 #835
+2025/05/26-17:39:10.417 cd3c Delete type=2 #837
+2025/05/26-17:40:20.844 cd3c Level-0 table #841: started
+2025/05/26-17:40:20.849 cd3c Level-0 table #841: 30392 bytes OK
+2025/05/26-17:40:20.851 cd3c Delete type=0 #836
+2025/05/26-17:41:26.491 cd3c Level-0 table #843: started
+2025/05/26-17:41:26.496 cd3c Level-0 table #843: 30455 bytes OK
+2025/05/26-17:41:26.498 cd3c Delete type=0 #840
+2025/05/26-17:44:59.649 cd3c Level-0 table #845: started
+2025/05/26-17:44:59.654 cd3c Level-0 table #845: 30429 bytes OK
+2025/05/26-17:44:59.656 cd3c Delete type=0 #842
+2025/05/26-17:49:12.661 cd3c Level-0 table #847: started
+2025/05/26-17:49:12.666 cd3c Level-0 table #847: 30634 bytes OK
+2025/05/26-17:49:12.668 cd3c Delete type=0 #844
+2025/05/26-17:49:12.669 cd3c Compacting 4@0 + 2@1 files
+2025/05/26-17:49:12.711 cd3c Generated table #848@0: 88641 keys, 2119447 bytes
+2025/05/26-17:49:12.731 cd3c Generated table #849@0: 35613 keys, 828268 bytes
+2025/05/26-17:49:12.731 cd3c Compacted 4@0 + 2@1 files => 2947715 bytes
+2025/05/26-17:49:12.732 cd3c compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-17:49:12.732 cd3c Delete type=2 #838
+2025/05/26-17:49:12.733 cd3c Delete type=2 #839
+2025/05/26-17:49:12.733 cd3c Delete type=2 #841
+2025/05/26-17:49:12.733 cd3c Delete type=2 #843
+2025/05/26-17:49:12.733 cd3c Delete type=2 #845
+2025/05/26-17:49:12.733 cd3c Delete type=2 #847
+2025/05/26-17:50:23.023 cd3c Level-0 table #851: started
+2025/05/26-17:50:23.028 cd3c Level-0 table #851: 30568 bytes OK
+2025/05/26-17:50:23.029 cd3c Delete type=0 #846
+2025/05/26-17:51:28.620 cd3c Level-0 table #853: started
+2025/05/26-17:51:28.625 cd3c Level-0 table #853: 30657 bytes OK
+2025/05/26-17:51:28.627 cd3c Delete type=0 #850
+2025/05/26-17:55:01.925 cd3c Level-0 table #855: started
+2025/05/26-17:55:01.932 cd3c Level-0 table #855: 30601 bytes OK
+2025/05/26-17:55:01.934 cd3c Delete type=0 #852
+2025/05/26-18:00:25.983 cd3c Level-0 table #857: started
+2025/05/26-18:00:25.988 cd3c Level-0 table #857: 30875 bytes OK
+2025/05/26-18:00:25.989 cd3c Delete type=0 #854
+2025/05/26-18:00:25.990 cd3c Compacting 4@0 + 2@1 files
+2025/05/26-18:00:26.032 cd3c Generated table #858@0: 88667 keys, 2120292 bytes
+2025/05/26-18:00:26.052 cd3c Generated table #859@0: 38605 keys, 900547 bytes
+2025/05/26-18:00:26.052 cd3c Compacted 4@0 + 2@1 files => 3020839 bytes
+2025/05/26-18:00:26.053 cd3c compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-18:00:26.053 cd3c Delete type=2 #848
+2025/05/26-18:00:26.053 cd3c Delete type=2 #849
+2025/05/26-18:00:26.053 cd3c Delete type=2 #851
+2025/05/26-18:00:26.053 cd3c Delete type=2 #853
+2025/05/26-18:00:26.054 cd3c Delete type=2 #855
+2025/05/26-18:00:26.054 cd3c Delete type=2 #857
+2025/05/26-18:01:36.323 cd3c Level-0 table #861: started
+2025/05/26-18:01:36.330 cd3c Level-0 table #861: 30706 bytes OK
+2025/05/26-18:01:36.332 cd3c Delete type=0 #856
+2025/05/26-18:02:41.943 cd3c Level-0 table #863: started
+2025/05/26-18:02:41.949 cd3c Level-0 table #863: 30752 bytes OK
+2025/05/26-18:02:41.952 cd3c Delete type=0 #860
+2025/05/26-18:06:16.432 cd3c Level-0 table #865: started
+2025/05/26-18:06:16.437 cd3c Level-0 table #865: 30764 bytes OK
+2025/05/26-18:06:16.439 cd3c Delete type=0 #862
+2025/05/26-18:10:08.040 cd3c Level-0 table #867: started
+2025/05/26-18:10:08.046 cd3c Level-0 table #867: 30926 bytes OK
+2025/05/26-18:10:08.048 cd3c Delete type=0 #864
+2025/05/26-18:10:08.048 cd3c Compacting 4@0 + 2@1 files
+2025/05/26-18:10:08.109 cd3c Generated table #868@0: 88715 keys, 2121167 bytes
+2025/05/26-18:10:08.137 cd3c Generated table #869@0: 41591 keys, 971553 bytes
+2025/05/26-18:10:08.138 cd3c Compacted 4@0 + 2@1 files => 3092720 bytes
+2025/05/26-18:10:08.138 cd3c compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-18:10:08.139 cd3c Delete type=2 #858
+2025/05/26-18:10:08.140 cd3c Delete type=2 #859
+2025/05/26-18:10:08.140 cd3c Delete type=2 #861
+2025/05/26-18:10:08.140 cd3c Delete type=2 #863
+2025/05/26-18:10:08.140 cd3c Delete type=2 #865
+2025/05/26-18:10:08.140 cd3c Delete type=2 #867
+2025/05/26-18:11:18.549 cd3c Level-0 table #871: started
+2025/05/26-18:11:18.554 cd3c Level-0 table #871: 30975 bytes OK
+2025/05/26-18:11:18.556 cd3c Delete type=0 #866
+2025/05/26-18:12:24.046 cd3c Level-0 table #873: started
+2025/05/26-18:12:24.052 cd3c Level-0 table #873: 31021 bytes OK
+2025/05/26-18:12:24.053 cd3c Delete type=0 #870
+2025/05/26-18:15:57.539 cd3c Level-0 table #875: started
+2025/05/26-18:15:57.545 cd3c Level-0 table #875: 30988 bytes OK
+2025/05/26-18:15:57.547 cd3c Delete type=0 #872
+2025/05/26-18:20:02.232 cd3c Level-0 table #877: started
+2025/05/26-18:20:02.238 cd3c Level-0 table #877: 31098 bytes OK
+2025/05/26-18:20:02.239 cd3c Delete type=0 #874
+2025/05/26-18:20:02.240 cd3c Compacting 4@0 + 2@1 files
+2025/05/26-18:20:02.283 cd3c Generated table #878@0: 88714 keys, 2121133 bytes
+2025/05/26-18:20:02.306 cd3c Generated table #879@0: 44642 keys, 1044757 bytes
+2025/05/26-18:20:02.306 cd3c Compacted 4@0 + 2@1 files => 3165890 bytes
+2025/05/26-18:20:02.307 cd3c compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-18:20:02.308 cd3c Delete type=2 #868
+2025/05/26-18:20:02.308 cd3c Delete type=2 #869
+2025/05/26-18:20:02.308 cd3c Delete type=2 #871
+2025/05/26-18:20:02.308 cd3c Delete type=2 #873
+2025/05/26-18:20:02.308 cd3c Delete type=2 #875
+2025/05/26-18:20:02.308 cd3c Delete type=2 #877
+2025/05/26-18:21:12.804 cd3c Level-0 table #881: started
+2025/05/26-18:21:12.810 cd3c Level-0 table #881: 31098 bytes OK
+2025/05/26-18:21:12.811 cd3c Delete type=0 #876
+2025/05/26-18:22:18.161 cd3c Level-0 table #883: started
+2025/05/26-18:22:18.166 cd3c Level-0 table #883: 31057 bytes OK
+2025/05/26-18:22:18.168 cd3c Delete type=0 #880
+2025/05/26-18:25:51.766 cd3c Level-0 table #885: started
+2025/05/26-18:25:51.774 cd3c Level-0 table #885: 31146 bytes OK
+2025/05/26-18:25:51.775 cd3c Delete type=0 #882
+2025/05/26-18:29:42.690 cd3c Level-0 table #887: started
+2025/05/26-18:29:42.695 cd3c Level-0 table #887: 31246 bytes OK
+2025/05/26-18:29:42.697 cd3c Delete type=0 #884
+2025/05/26-18:29:42.697 cd3c Compacting 4@0 + 2@1 files
+2025/05/26-18:29:42.737 cd3c Generated table #888@0: 88741 keys, 2120948 bytes
+2025/05/26-18:29:42.758 cd3c Generated table #889@0: 47681 keys, 1116906 bytes
+2025/05/26-18:29:42.758 cd3c Compacted 4@0 + 2@1 files => 3237854 bytes
+2025/05/26-18:29:42.759 cd3c compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-18:29:42.760 cd3c Delete type=2 #878
+2025/05/26-18:29:42.760 cd3c Delete type=2 #879
+2025/05/26-18:29:42.760 cd3c Delete type=2 #881
+2025/05/26-18:29:42.760 cd3c Delete type=2 #883
+2025/05/26-18:29:42.760 cd3c Delete type=2 #885
+2025/05/26-18:29:42.760 cd3c Delete type=2 #887
+2025/05/26-18:30:53.087 cd3c Level-0 table #891: started
+2025/05/26-18:30:53.092 cd3c Level-0 table #891: 31152 bytes OK
+2025/05/26-18:30:53.094 cd3c Delete type=0 #886
+2025/05/26-18:31:58.532 cd3c Level-0 table #893: started
+2025/05/26-18:31:58.536 cd3c Level-0 table #893: 31183 bytes OK
+2025/05/26-18:31:58.538 cd3c Delete type=0 #890
+2025/05/26-18:35:32.342 cd3c Level-0 table #895: started
+2025/05/26-18:35:32.348 cd3c Level-0 table #895: 31261 bytes OK
+2025/05/26-18:35:32.349 cd3c Delete type=0 #892
+2025/05/26-18:40:19.037 cd3c Level-0 table #897: started
+2025/05/26-18:40:19.043 cd3c Level-0 table #897: 31431 bytes OK
+2025/05/26-18:40:19.044 cd3c Delete type=0 #894
+2025/05/26-18:40:19.044 cd3c Compacting 4@0 + 2@1 files
+2025/05/26-18:40:19.080 cd3c Generated table #898@0: 88748 keys, 2120142 bytes
+2025/05/26-18:40:19.102 cd3c Generated table #899@0: 50756 keys, 1191052 bytes
+2025/05/26-18:40:19.102 cd3c Compacted 4@0 + 2@1 files => 3311194 bytes
+2025/05/26-18:40:19.103 cd3c compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-18:40:19.103 cd3c Delete type=2 #888
+2025/05/26-18:40:19.103 cd3c Delete type=2 #889
+2025/05/26-18:40:19.104 cd3c Delete type=2 #891
+2025/05/26-18:40:19.104 cd3c Delete type=2 #893
+2025/05/26-18:40:19.104 cd3c Delete type=2 #895
+2025/05/26-18:40:19.104 cd3c Delete type=2 #897
+2025/05/26-18:41:29.553 cd3c Level-0 table #901: started
+2025/05/26-18:41:29.558 cd3c Level-0 table #901: 31338 bytes OK
+2025/05/26-18:41:29.559 cd3c Delete type=0 #896
+2025/05/26-18:42:35.115 cd3c Level-0 table #903: started
+2025/05/26-18:42:35.122 cd3c Level-0 table #903: 31369 bytes OK
+2025/05/26-18:42:35.124 cd3c Delete type=0 #900
+2025/05/26-18:46:08.087 cd3c Level-0 table #905: started
+2025/05/26-18:46:08.092 cd3c Level-0 table #905: 31414 bytes OK
+2025/05/26-18:46:08.093 cd3c Delete type=0 #902
+2025/05/26-18:51:51.402 cd3c Level-0 table #907: started
+2025/05/26-18:51:51.408 cd3c Level-0 table #907: 31560 bytes OK
+2025/05/26-18:51:51.409 cd3c Delete type=0 #904
+2025/05/26-18:51:51.410 cd3c Compacting 4@0 + 2@1 files
+2025/05/26-18:51:51.446 cd3c Generated table #908@0: 88750 keys, 2120884 bytes
+2025/05/26-18:51:51.471 cd3c Generated table #909@0: 53852 keys, 1264773 bytes
+2025/05/26-18:51:51.471 cd3c Compacted 4@0 + 2@1 files => 3385657 bytes
+2025/05/26-18:51:51.472 cd3c compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-18:51:51.472 cd3c Delete type=2 #898
+2025/05/26-18:51:51.472 cd3c Delete type=2 #899
+2025/05/26-18:51:51.472 cd3c Delete type=2 #901
+2025/05/26-18:51:51.473 cd3c Delete type=2 #903
+2025/05/26-18:51:51.473 cd3c Delete type=2 #905
+2025/05/26-18:51:51.473 cd3c Delete type=2 #907
+2025/05/26-18:53:01.822 cd3c Level-0 table #911: started
+2025/05/26-18:53:01.827 cd3c Level-0 table #911: 31502 bytes OK
+2025/05/26-18:53:01.829 cd3c Delete type=0 #906
+2025/05/26-18:54:07.163 cd3c Level-0 table #913: started
+2025/05/26-18:54:07.168 cd3c Level-0 table #913: 31522 bytes OK
+2025/05/26-18:54:07.170 cd3c Delete type=0 #910
+2025/05/26-18:57:40.338 cd3c Level-0 table #915: started
+2025/05/26-18:57:40.351 cd3c Level-0 table #915: 31539 bytes OK
+2025/05/26-18:57:40.352 cd3c Delete type=0 #912
+2025/05/26-19:02:50.997 cd3c Level-0 table #917: started
+2025/05/26-19:02:51.002 cd3c Level-0 table #917: 31677 bytes OK
+2025/05/26-19:02:51.005 cd3c Delete type=0 #914
+2025/05/26-19:02:51.005 cd3c Compacting 4@0 + 2@1 files
+2025/05/26-19:02:51.046 cd3c Generated table #918@0: 88778 keys, 2121628 bytes
+2025/05/26-19:02:51.075 cd3c Generated table #919@0: 56938 keys, 1338477 bytes
+2025/05/26-19:02:51.075 cd3c Compacted 4@0 + 2@1 files => 3460105 bytes
+2025/05/26-19:02:51.076 cd3c compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-19:02:51.077 cd3c Delete type=2 #908
+2025/05/26-19:02:51.077 cd3c Delete type=2 #909
+2025/05/26-19:02:51.077 cd3c Delete type=2 #911
+2025/05/26-19:02:51.077 cd3c Delete type=2 #913
+2025/05/26-19:02:51.077 cd3c Delete type=2 #915
+2025/05/26-19:02:51.077 cd3c Delete type=2 #917
+2025/05/26-19:04:01.411 cd3c Level-0 table #921: started
+2025/05/26-19:04:01.416 cd3c Level-0 table #921: 31590 bytes OK
+2025/05/26-19:04:01.417 cd3c Delete type=0 #916
+2025/05/26-19:05:06.871 cd3c Level-0 table #923: started
+2025/05/26-19:05:06.875 cd3c Level-0 table #923: 31646 bytes OK
+2025/05/26-19:05:06.876 cd3c Delete type=0 #920
+2025/05/26-19:08:40.366 cd3c Level-0 table #925: started
+2025/05/26-19:08:40.371 cd3c Level-0 table #925: 31697 bytes OK
+2025/05/26-19:08:40.373 cd3c Delete type=0 #922
+2025/05/26-19:12:16.260 cd3c Level-0 table #927: started
+2025/05/26-19:12:16.264 cd3c Level-0 table #927: 31719 bytes OK
+2025/05/26-19:12:16.266 cd3c Delete type=0 #924
+2025/05/26-19:12:16.266 cd3c Compacting 4@0 + 2@1 files
+2025/05/26-19:12:16.307 cd3c Generated table #928@0: 88786 keys, 2121138 bytes
+2025/05/26-19:12:16.370 cd3c Generated table #929@0: 60060 keys, 1411572 bytes
+2025/05/26-19:12:16.370 cd3c Compacted 4@0 + 2@1 files => 3532710 bytes
+2025/05/26-19:12:16.371 cd3c compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-19:12:16.371 cd3c Delete type=2 #918
+2025/05/26-19:12:16.372 cd3c Delete type=2 #919
+2025/05/26-19:12:16.372 cd3c Delete type=2 #921
+2025/05/26-19:12:16.372 cd3c Delete type=2 #923
+2025/05/26-19:12:16.372 cd3c Delete type=2 #925
+2025/05/26-19:12:16.372 cd3c Delete type=2 #927
+2025/05/26-19:13:26.639 cd3c Level-0 table #931: started
+2025/05/26-19:13:26.644 cd3c Level-0 table #931: 31776 bytes OK
+2025/05/26-19:13:26.646 cd3c Delete type=0 #926
+2025/05/26-19:14:32.349 cd3c Level-0 table #933: started
+2025/05/26-19:14:32.354 cd3c Level-0 table #933: 31735 bytes OK
+2025/05/26-19:14:32.356 cd3c Delete type=0 #930
+2025/05/26-19:18:05.538 cd3c Level-0 table #935: started
+2025/05/26-19:18:05.546 cd3c Level-0 table #935: 31811 bytes OK
+2025/05/26-19:18:05.548 cd3c Delete type=0 #932
+2025/05/26-19:23:17.612 cd3c Level-0 table #937: started
+2025/05/26-19:23:17.618 cd3c Level-0 table #937: 31991 bytes OK
+2025/05/26-19:23:17.619 cd3c Delete type=0 #934
+2025/05/26-19:23:17.620 cd3c Compacting 4@0 + 2@1 files
+2025/05/26-19:23:17.662 cd3c Generated table #938@0: 88795 keys, 2121417 bytes
+2025/05/26-19:23:17.696 cd3c Generated table #939@0: 63194 keys, 1486816 bytes
+2025/05/26-19:23:17.696 cd3c Compacted 4@0 + 2@1 files => 3608233 bytes
+2025/05/26-19:23:17.696 cd3c compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-19:23:17.697 cd3c Delete type=2 #928
+2025/05/26-19:23:17.697 cd3c Delete type=2 #929
+2025/05/26-19:23:17.697 cd3c Delete type=2 #931
+2025/05/26-19:23:17.697 cd3c Delete type=2 #933
+2025/05/26-19:23:17.697 cd3c Delete type=2 #935
+2025/05/26-19:23:17.697 cd3c Delete type=2 #937
+2025/05/26-19:24:28.235 cd3c Level-0 table #941: started
+2025/05/26-19:24:28.241 cd3c Level-0 table #941: 31878 bytes OK
+2025/05/26-19:24:28.242 cd3c Delete type=0 #936
+2025/05/26-19:25:33.806 cd3c Level-0 table #943: started
+2025/05/26-19:25:33.811 cd3c Level-0 table #943: 31863 bytes OK
+2025/05/26-19:25:33.813 cd3c Delete type=0 #940
+2025/05/26-19:29:06.897 cd3c Level-0 table #945: started
+2025/05/26-19:29:06.905 cd3c Level-0 table #945: 31965 bytes OK
+2025/05/26-19:29:06.907 cd3c Delete type=0 #942
+2025/05/26-19:34:45.586 cd3c Level-0 table #947: started
+2025/05/26-19:34:45.591 cd3c Level-0 table #947: 32217 bytes OK
+2025/05/26-19:34:45.593 cd3c Delete type=0 #944
+2025/05/26-19:34:45.593 cd3c Compacting 4@0 + 2@1 files
+2025/05/26-19:34:45.635 cd3c Generated table #948@0: 88809 keys, 2121641 bytes
+2025/05/26-19:34:45.669 cd3c Generated table #949@0: 66338 keys, 1561839 bytes
+2025/05/26-19:34:45.669 cd3c Compacted 4@0 + 2@1 files => 3683480 bytes
+2025/05/26-19:34:45.670 cd3c compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-19:34:45.671 cd3c Delete type=2 #938
+2025/05/26-19:34:45.671 cd3c Delete type=2 #939
+2025/05/26-19:34:45.671 cd3c Delete type=2 #941
+2025/05/26-19:34:45.671 cd3c Delete type=2 #943
+2025/05/26-19:34:45.671 cd3c Delete type=2 #945
+2025/05/26-19:34:45.671 cd3c Delete type=2 #947
+2025/05/26-19:35:56.020 cd3c Level-0 table #951: started
+2025/05/26-19:35:56.026 cd3c Level-0 table #951: 31942 bytes OK
+2025/05/26-19:35:56.027 cd3c Delete type=0 #946
+2025/05/26-19:37:01.493 cd3c Level-0 table #953: started
+2025/05/26-19:37:01.498 cd3c Level-0 table #953: 32175 bytes OK
+2025/05/26-19:37:01.500 cd3c Delete type=0 #950
+2025/05/26-19:40:35.200 cd3c Level-0 table #955: started
+2025/05/26-19:40:35.208 cd3c Level-0 table #955: 32254 bytes OK
+2025/05/26-19:40:35.210 cd3c Delete type=0 #952
+2025/05/26-19:46:08.746 cd3c Level-0 table #957: started
+2025/05/26-19:46:08.752 cd3c Level-0 table #957: 32396 bytes OK
+2025/05/26-19:46:08.753 cd3c Delete type=0 #954
+2025/05/26-19:46:08.754 cd3c Compacting 4@0 + 2@1 files
+2025/05/26-19:46:08.798 cd3c Generated table #958@0: 88819 keys, 2120968 bytes
+2025/05/26-19:46:08.833 cd3c Generated table #959@0: 69502 keys, 1637074 bytes
+2025/05/26-19:46:08.833 cd3c Compacted 4@0 + 2@1 files => 3758042 bytes
+2025/05/26-19:46:08.834 cd3c compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-19:46:08.835 cd3c Delete type=2 #948
+2025/05/26-19:46:08.835 cd3c Delete type=2 #949
+2025/05/26-19:46:08.835 cd3c Delete type=2 #951
+2025/05/26-19:46:08.835 cd3c Delete type=2 #953
+2025/05/26-19:46:08.835 cd3c Delete type=2 #955
+2025/05/26-19:46:08.835 cd3c Delete type=2 #957
+2025/05/26-19:47:19.096 cd3c Level-0 table #961: started
+2025/05/26-19:47:19.101 cd3c Level-0 table #961: 32313 bytes OK
+2025/05/26-19:47:19.103 cd3c Delete type=0 #956
+2025/05/26-19:48:24.686 cd3c Level-0 table #963: started
+2025/05/26-19:48:24.691 cd3c Level-0 table #963: 32344 bytes OK
+2025/05/26-19:48:24.692 cd3c Delete type=0 #960
+2025/05/26-19:51:58.269 cd3c Level-0 table #965: started
+2025/05/26-19:51:58.276 cd3c Level-0 table #965: 32391 bytes OK
+2025/05/26-19:51:58.278 cd3c Delete type=0 #962
+2025/05/26-19:57:39.746 cd3c Level-0 table #967: started
+2025/05/26-19:57:39.752 cd3c Level-0 table #967: 32478 bytes OK
+2025/05/26-19:57:39.754 cd3c Delete type=0 #964
+2025/05/26-19:57:39.754 cd3c Compacting 4@0 + 2@1 files
+2025/05/26-19:57:39.801 cd3c Generated table #968@0: 88832 keys, 2121257 bytes
+2025/05/26-19:57:39.838 cd3c Generated table #969@0: 72679 keys, 1713702 bytes
+2025/05/26-19:57:39.839 cd3c Compacted 4@0 + 2@1 files => 3834959 bytes
+2025/05/26-19:57:39.839 cd3c compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-19:57:39.840 cd3c Delete type=2 #958
+2025/05/26-19:57:39.840 cd3c Delete type=2 #959
+2025/05/26-19:57:39.840 cd3c Delete type=2 #961
+2025/05/26-19:57:39.840 cd3c Delete type=2 #963
+2025/05/26-19:57:39.840 cd3c Delete type=2 #965
+2025/05/26-19:57:39.841 cd3c Delete type=2 #967
+2025/05/26-19:58:50.455 cd3c Level-0 table #971: started
+2025/05/26-19:58:50.461 cd3c Level-0 table #971: 32402 bytes OK
+2025/05/26-19:58:50.463 cd3c Delete type=0 #966
+2025/05/26-19:59:55.852 cd3c Level-0 table #973: started
+2025/05/26-19:59:55.857 cd3c Level-0 table #973: 32488 bytes OK
+2025/05/26-19:59:55.859 cd3c Delete type=0 #970
+2025/05/26-20:03:28.978 cd3c Level-0 table #975: started
+2025/05/26-20:03:28.986 cd3c Level-0 table #975: 32501 bytes OK
+2025/05/26-20:03:28.988 cd3c Delete type=0 #972
+2025/05/26-20:08:39.866 cd3c Level-0 table #977: started
+2025/05/26-20:08:39.871 cd3c Level-0 table #977: 32691 bytes OK
+2025/05/26-20:08:39.873 cd3c Delete type=0 #974
+2025/05/26-20:08:39.874 cd3c Compacting 4@0 + 2@1 files
+2025/05/26-20:08:39.923 cd3c Generated table #978@0: 88868 keys, 2121846 bytes
+2025/05/26-20:08:39.964 cd3c Generated table #979@0: 75849 keys, 1790379 bytes
+2025/05/26-20:08:39.964 cd3c Compacted 4@0 + 2@1 files => 3912225 bytes
+2025/05/26-20:08:39.965 cd3c compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-20:08:39.966 cd3c Delete type=2 #968
+2025/05/26-20:08:39.966 cd3c Delete type=2 #969
+2025/05/26-20:08:39.966 cd3c Delete type=2 #971
+2025/05/26-20:08:39.966 cd3c Delete type=2 #973
+2025/05/26-20:08:39.966 cd3c Delete type=2 #975
+2025/05/26-20:08:39.966 cd3c Delete type=2 #977
+2025/05/26-20:09:50.233 cd3c Level-0 table #981: started
+2025/05/26-20:09:50.238 cd3c Level-0 table #981: 32545 bytes OK
+2025/05/26-20:09:50.240 cd3c Delete type=0 #976
+2025/05/26-20:10:55.630 cd3c Level-0 table #983: started
+2025/05/26-20:10:55.636 cd3c Level-0 table #983: 32503 bytes OK
+2025/05/26-20:10:55.637 cd3c Delete type=0 #980
+2025/05/26-20:14:28.744 cd3c Level-0 table #985: started
+2025/05/26-20:14:28.752 cd3c Level-0 table #985: 32546 bytes OK
+2025/05/26-20:14:28.753 cd3c Delete type=0 #982
+2025/05/26-20:18:24.803 cd3c Level-0 table #987: started
+2025/05/26-20:18:24.809 cd3c Level-0 table #987: 32781 bytes OK
+2025/05/26-20:18:24.810 cd3c Delete type=0 #984
+2025/05/26-20:18:24.811 cd3c Compacting 4@0 + 2@1 files
+2025/05/26-20:18:24.852 cd3c Generated table #988@0: 88871 keys, 2121871 bytes
+2025/05/26-20:18:24.890 cd3c Generated table #989@0: 79068 keys, 1865481 bytes
+2025/05/26-20:18:24.890 cd3c Compacted 4@0 + 2@1 files => 3987352 bytes
+2025/05/26-20:18:24.891 cd3c compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-20:18:24.892 cd3c Delete type=2 #978
+2025/05/26-20:18:24.892 cd3c Delete type=2 #979
+2025/05/26-20:18:24.892 cd3c Delete type=2 #981
+2025/05/26-20:18:24.892 cd3c Delete type=2 #983
+2025/05/26-20:18:24.892 cd3c Delete type=2 #985
+2025/05/26-20:18:24.892 cd3c Delete type=2 #987
+2025/05/26-20:19:35.493 cd3c Level-0 table #991: started
+2025/05/26-20:19:35.498 cd3c Level-0 table #991: 32747 bytes OK
+2025/05/26-20:19:35.500 cd3c Delete type=0 #986
+2025/05/26-20:20:41.072 cd3c Level-0 table #993: started
+2025/05/26-20:20:41.078 cd3c Level-0 table #993: 32700 bytes OK
+2025/05/26-20:20:41.080 cd3c Delete type=0 #990
+2025/05/26-20:24:14.646 cd3c Level-0 table #995: started
+2025/05/26-20:24:14.654 cd3c Level-0 table #995: 32795 bytes OK
+2025/05/26-20:24:14.656 cd3c Delete type=0 #992
+2025/05/26-20:29:47.589 cd3c Level-0 table #997: started
+2025/05/26-20:29:47.594 cd3c Level-0 table #997: 32886 bytes OK
+2025/05/26-20:29:47.595 cd3c Delete type=0 #994
+2025/05/26-20:29:47.596 cd3c Compacting 4@0 + 2@1 files
+2025/05/26-20:29:47.639 cd3c Generated table #998@0: 88929 keys, 2121382 bytes
+2025/05/26-20:29:47.680 cd3c Generated table #999@0: 82248 keys, 1941025 bytes
+2025/05/26-20:29:47.680 cd3c Compacted 4@0 + 2@1 files => 4062407 bytes
+2025/05/26-20:29:47.681 cd3c compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-20:29:47.681 cd3c Delete type=2 #988
+2025/05/26-20:29:47.681 cd3c Delete type=2 #989
+2025/05/26-20:29:47.682 cd3c Delete type=2 #991
+2025/05/26-20:29:47.682 cd3c Delete type=2 #993
+2025/05/26-20:29:47.682 cd3c Delete type=2 #995
+2025/05/26-20:29:47.682 cd3c Delete type=2 #997
+2025/05/26-20:30:58.207 cd3c Level-0 table #1001: started
+2025/05/26-20:30:58.212 cd3c Level-0 table #1001: 32819 bytes OK
+2025/05/26-20:30:58.213 cd3c Delete type=0 #996
+2025/05/26-20:32:03.716 cd3c Level-0 table #1003: started
+2025/05/26-20:32:03.721 cd3c Level-0 table #1003: 32848 bytes OK
+2025/05/26-20:32:03.723 cd3c Delete type=0 #1000
+2025/05/26-20:35:37.197 cd3c Level-0 table #1005: started
+2025/05/26-20:35:37.202 cd3c Level-0 table #1005: 32924 bytes OK
+2025/05/26-20:35:37.203 cd3c Delete type=0 #1002
+2025/05/26-20:40:53.425 cd3c Level-0 table #1007: started
+2025/05/26-20:40:53.430 cd3c Level-0 table #1007: 33126 bytes OK
+2025/05/26-20:40:53.432 cd3c Delete type=0 #1004
+2025/05/26-20:40:53.432 cd3c Compacting 4@0 + 2@1 files
+2025/05/26-20:40:53.475 cd3c Generated table #1008@0: 88813 keys, 2120115 bytes
+2025/05/26-20:40:53.512 cd3c Generated table #1009@0: 85618 keys, 2021772 bytes
+2025/05/26-20:40:53.512 cd3c Compacted 4@0 + 2@1 files => 4141887 bytes
+2025/05/26-20:40:53.513 cd3c compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-20:40:53.514 cd3c Delete type=2 #998
+2025/05/26-20:40:53.514 cd3c Delete type=2 #999
+2025/05/26-20:40:53.514 cd3c Delete type=2 #1001
+2025/05/26-20:40:53.514 cd3c Delete type=2 #1003
+2025/05/26-20:40:53.514 cd3c Delete type=2 #1005
+2025/05/26-20:40:53.514 cd3c Delete type=2 #1007
+2025/05/26-20:42:03.789 cd3c Level-0 table #1011: started
+2025/05/26-20:42:03.794 cd3c Level-0 table #1011: 32958 bytes OK
+2025/05/26-20:42:03.796 cd3c Delete type=0 #1006
+2025/05/26-20:43:09.167 cd3c Level-0 table #1013: started
+2025/05/26-20:43:09.172 cd3c Level-0 table #1013: 33002 bytes OK
+2025/05/26-20:43:09.174 cd3c Delete type=0 #1010
+2025/05/26-20:46:42.865 cd3c Level-0 table #1015: started
+2025/05/26-20:46:42.873 cd3c Level-0 table #1015: 32992 bytes OK
+2025/05/26-20:46:42.874 cd3c Delete type=0 #1012
+2025/05/26-20:51:02.881 cd3c Level-0 table #1017: started
+2025/05/26-20:51:02.886 cd3c Level-0 table #1017: 33320 bytes OK
+2025/05/26-20:51:02.887 cd3c Delete type=0 #1014
+2025/05/26-20:51:02.888 cd3c Compacting 4@0 + 2@1 files
+2025/05/26-20:51:02.930 cd3c Generated table #1018@0: 88848 keys, 2119801 bytes
+2025/05/26-20:51:02.971 cd3c Generated table #1019@0: 88853 keys, 2099469 bytes
+2025/05/26-20:51:02.971 cd3c Compacted 4@0 + 2@1 files => 4219270 bytes
+2025/05/26-20:51:02.972 cd3c compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/05/26-20:51:02.973 cd3c Delete type=2 #1008
+2025/05/26-20:51:02.973 cd3c Delete type=2 #1009
+2025/05/26-20:51:02.973 cd3c Delete type=2 #1011
+2025/05/26-20:51:02.973 cd3c Delete type=2 #1013
+2025/05/26-20:51:02.973 cd3c Delete type=2 #1015
+2025/05/26-20:51:02.973 cd3c Delete type=2 #1017
+2025/05/26-20:53:21.319 cd3c Level-0 table #1021: started
+2025/05/26-20:53:21.325 cd3c Level-0 table #1021: 33129 bytes OK
+2025/05/26-20:53:21.326 cd3c Delete type=0 #1016
+2025/05/26-20:54:27.156 cd3c Level-0 table #1023: started
+2025/05/26-20:54:27.161 cd3c Level-0 table #1023: 33159 bytes OK
+2025/05/26-20:54:27.163 cd3c Delete type=0 #1020
+2025/05/26-20:58:00.330 cd3c Level-0 table #1025: started
+2025/05/26-20:58:00.338 cd3c Level-0 table #1025: 33274 bytes OK
+2025/05/26-20:58:00.340 cd3c Delete type=0 #1022
+2025/05/26-21:03:11.455 cd3c Level-0 table #1027: started
+2025/05/26-21:03:11.460 cd3c Level-0 table #1027: 33517 bytes OK
+2025/05/26-21:03:11.462 cd3c Delete type=0 #1024
+2025/05/26-21:03:11.462 cd3c Compacting 4@0 + 2@1 files
+2025/05/26-21:03:11.505 cd3c Generated table #1028@0: 88978 keys, 2122358 bytes
+2025/05/26-21:03:11.547 cd3c Generated table #1029@0: 88665 keys, 2122107 bytes
+2025/05/26-21:03:11.553 cd3c Generated table #1030@0: 3344 keys, 51418 bytes
+2025/05/26-21:03:11.553 cd3c Compacted 4@0 + 2@1 files => 4295883 bytes
+2025/05/26-21:03:11.554 cd3c compacted to: files[ 0 3 1 0 0 0 0 ]
+2025/05/26-21:03:11.555 cd3c Delete type=2 #1018
+2025/05/26-21:03:11.555 cd3c Delete type=2 #1019
+2025/05/26-21:03:11.555 cd3c Delete type=2 #1021
+2025/05/26-21:03:11.555 cd3c Delete type=2 #1023
+2025/05/26-21:03:11.555 cd3c Delete type=2 #1025
+2025/05/26-21:03:11.555 cd3c Delete type=2 #1027
+2025/05/26-21:04:21.921 cd3c Level-0 table #1032: started
+2025/05/26-21:04:21.926 cd3c Level-0 table #1032: 33304 bytes OK
+2025/05/26-21:04:21.928 cd3c Delete type=0 #1026
+2025/05/26-21:05:27.331 cd3c Level-0 table #1034: started
+2025/05/26-21:05:27.336 cd3c Level-0 table #1034: 33288 bytes OK
+2025/05/26-21:05:27.338 cd3c Delete type=0 #1031
+2025/05/26-21:09:00.730 cd3c Level-0 table #1036: started
+2025/05/26-21:09:00.735 cd3c Level-0 table #1036: 33342 bytes OK
+2025/05/26-21:09:00.737 cd3c Delete type=0 #1033
+2025/05/26-21:12:54.768 cd3c Level-0 table #1038: started
+2025/05/26-21:12:54.774 cd3c Level-0 table #1038: 33615 bytes OK
+2025/05/26-21:12:54.776 cd3c Delete type=0 #1035
+2025/05/26-21:12:54.776 cd2c Compacting 4@0 + 3@1 files
+2025/05/26-21:12:54.822 cd2c Generated table #1039@0: 88887 keys, 2120002 bytes
+2025/05/26-21:12:54.862 cd2c Generated table #1040@0: 88665 keys, 2121971 bytes
+2025/05/26-21:12:54.870 cd2c Generated table #1041@0: 6737 keys, 132299 bytes
+2025/05/26-21:12:54.870 cd2c Compacted 4@0 + 3@1 files => 4374272 bytes
+2025/05/26-21:12:54.871 cd2c compacted to: files[ 0 3 1 0 0 0 0 ]
+2025/05/26-21:12:54.871 cd2c Delete type=2 #1028
+2025/05/26-21:12:54.871 cd2c Delete type=2 #1029
+2025/05/26-21:12:54.871 cd2c Delete type=2 #1030
+2025/05/26-21:12:54.871 cd2c Delete type=2 #1032
+2025/05/26-21:12:54.871 cd2c Delete type=2 #1034
+2025/05/26-21:12:54.871 cd2c Delete type=2 #1036
+2025/05/26-21:12:54.871 cd2c Delete type=2 #1038
+2025/05/26-21:14:05.253 cd3c Level-0 table #1043: started
+2025/05/26-21:14:05.258 cd3c Level-0 table #1043: 33467 bytes OK
+2025/05/26-21:14:05.260 cd3c Delete type=0 #1037
+2025/05/26-21:14:10.713 cd3c Level-0 table #1045: started
+2025/05/26-21:14:10.727 cd3c Level-0 table #1045: 33448 bytes OK
+2025/05/26-21:14:10.728 cd3c Delete type=0 #1042
+2025/05/26-21:18:47.670 cd3c Level-0 table #1047: started
+2025/05/26-21:18:47.679 cd3c Level-0 table #1047: 33685 bytes OK
+2025/05/26-21:18:47.680 cd3c Delete type=0 #1044
+2025/05/26-21:24:16.319 cd3c Level-0 table #1049: started
+2025/05/26-21:24:16.324 cd3c Level-0 table #1049: 33717 bytes OK
+2025/05/26-21:24:16.326 cd3c Delete type=0 #1046
+2025/05/26-21:24:16.327 cd3c Compacting 4@0 + 3@1 files
+2025/05/26-21:24:16.368 cd3c Generated table #1050@0: 88922 keys, 2120470 bytes
+2025/05/26-21:24:16.411 cd3c Generated table #1051@0: 88554 keys, 2120023 bytes
+2025/05/26-21:24:16.421 cd3c Generated table #1052@0: 10131 keys, 213252 bytes
+2025/05/26-21:24:16.421 cd3c Compacted 4@0 + 3@1 files => 4453745 bytes
+2025/05/26-21:24:16.422 cd3c compacted to: files[ 0 3 1 0 0 0 0 ]
+2025/05/26-21:24:16.422 cd3c Delete type=2 #1039
+2025/05/26-21:24:16.423 cd3c Delete type=2 #1040
+2025/05/26-21:24:16.423 cd3c Delete type=2 #1041
+2025/05/26-21:24:16.423 cd3c Delete type=2 #1043
+2025/05/26-21:24:16.423 cd3c Delete type=2 #1045
+2025/05/26-21:24:16.423 cd3c Delete type=2 #1047
+2025/05/26-21:24:16.423 cd3c Delete type=2 #1049
+2025/05/26-21:25:26.753 cd3c Level-0 table #1054: started
+2025/05/26-21:25:26.758 cd3c Level-0 table #1054: 33581 bytes OK
+2025/05/26-21:25:26.760 cd3c Delete type=0 #1048
+2025/05/26-21:26:32.188 cd3c Level-0 table #1056: started
+2025/05/26-21:26:32.194 cd3c Level-0 table #1056: 33749 bytes OK
+2025/05/26-21:26:32.195 cd3c Delete type=0 #1053
+2025/05/26-21:30:05.757 cd3c Level-0 table #1058: started
+2025/05/26-21:30:05.765 cd3c Level-0 table #1058: 33714 bytes OK
+2025/05/26-21:30:05.767 cd3c Delete type=0 #1055
+2025/05/26-21:35:45.966 cd3c Level-0 table #1060: started
+2025/05/26-21:35:45.971 cd3c Level-0 table #1060: 33844 bytes OK
+2025/05/26-21:35:45.973 cd3c Delete type=0 #1057
+2025/05/26-21:35:45.974 cd3c Compacting 4@0 + 3@1 files
+2025/05/26-21:35:46.016 cd3c Generated table #1061@0: 88931 keys, 2120093 bytes
+2025/05/26-21:35:46.057 cd3c Generated table #1062@0: 88568 keys, 2120363 bytes
+2025/05/26-21:35:46.065 cd3c Generated table #1063@0: 13442 keys, 292414 bytes
+2025/05/26-21:35:46.065 cd3c Compacted 4@0 + 3@1 files => 4532870 bytes
+2025/05/26-21:35:46.066 cd3c compacted to: files[ 0 3 1 0 0 0 0 ]
+2025/05/26-21:35:46.067 cd3c Delete type=2 #1050
+2025/05/26-21:35:46.067 cd3c Delete type=2 #1051
+2025/05/26-21:35:46.067 cd3c Delete type=2 #1052
+2025/05/26-21:35:46.067 cd3c Delete type=2 #1054
+2025/05/26-21:35:46.067 cd3c Delete type=2 #1056
+2025/05/26-21:35:46.067 cd3c Delete type=2 #1058
+2025/05/26-21:35:46.067 cd3c Delete type=2 #1060
+2025/05/26-21:36:56.683 cd3c Level-0 table #1065: started
+2025/05/26-21:36:56.688 cd3c Level-0 table #1065: 33818 bytes OK
+2025/05/26-21:36:56.690 cd3c Delete type=0 #1059
+2025/05/26-21:38:02.169 cd3c Level-0 table #1067: started
+2025/05/26-21:38:02.175 cd3c Level-0 table #1067: 33855 bytes OK
+2025/05/26-21:38:02.176 cd3c Delete type=0 #1064
+2025/05/26-21:41:35.319 cd3c Level-0 table #1069: started
+2025/05/26-21:41:35.326 cd3c Level-0 table #1069: 33872 bytes OK
+2025/05/26-21:41:35.328 cd3c Delete type=0 #1066
